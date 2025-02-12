@@ -394,9 +394,6 @@ optimized_card_layout = f"""
 if final_tests:
     st.markdown("### Compare Selected Tests")
 
-    # Insert CSS styles
-    st.markdown(optimized_card_layout, unsafe_allow_html=True)
-
     num_columns = min(len(final_tests), 3)  # Max 3 columns per row
     rows = [final_tests[i : i + num_columns] for i in range(0, len(final_tests), num_columns)]
 
@@ -405,17 +402,19 @@ if final_tests:
 
         for col, test in zip(cols, row):
             with col:
+                shopify_url = test.get("shopify_url", "#")  # Use '#' if missing to prevent errors
+
                 st.markdown(
                     f"""
                     <div class="test-card">
                         <h4>
-                            <a href="{test['shopify_url']}" target="_blank">{test['name']}</a>
+                            <a href="{shopify_url}" target="_blank">{test['name']}</a>
                         </h4>
-                        <details open>
+                        <details open>  <!-- Keep expanded on load -->
                             <summary>Description</summary>
                             <p>{test.get('description', 'N/A')}</p>
                         </details>
-                        <details open>
+                        <details open>  <!-- Keep expanded on load -->
                             <summary>Indication</summary>
                             <p>{test.get('indication', 'N/A')}</p>
                         </details>
@@ -423,6 +422,7 @@ if final_tests:
                     """,
                     unsafe_allow_html=True,
                 )
+
 # Debugging
 #st.write("DEBUG: Final Tests:", final_tests)
 #st.write("DEBUG: Final Medications:", final_medications)
