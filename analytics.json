@@ -6066,5 +6066,55 @@
             }
         ],
         "timestamp": "2025-02-13T20:45:22.861367"
+    },
+    {
+        "member_name": "Test Update",
+        "manager": "Buddy",
+        "membership": [
+            "Peptide, Sex and Hair Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            }
+        ],
+        "medications": [
+            {
+                "name": "1-MNA, NMN, Leucine Capsules",
+                "description": "1-MNA is a metabolite of nicotinamide with anti-inflammatory, vasoprotective, and potential longevity-enhancing properties. NMN is a direct precursor to NAD+ (nicotinamide adenine dinucleotide), a critical coenzyme involved in cellular energy metabolism, mitochondrial function, and aging-related processes. Leucine is a branched-chain amino acid (BCAA) that serves as a key regulator of muscle protein synthesis via the mTOR pathway. It is essential for muscle growth, repair, and recovery. Leucine also plays a role in glucose metabolism and insulin signaling.",
+                "indication": "Metabolic, Vascular, Anti-inflammatory and Anti-Aging Support"
+            },
+            {
+                "name": "Epitalon",
+                "description": "Epitalon (Epithalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from Epithalamin, a natural peptide produced in the pineal gland. It has a role in regulating telomerase activity, promoting cellular longevity, and modulating circadian rhythms. Epitalon is considered a potential anti-aging compound due to its effects on telomere maintenance, oxidative stress reduction, and endocrine system regulation.",
+                "indication": "Epitalon has been studied for its ability to activate telomerase, an enzyme that maintains telomere length, potentially slowing cellular aging and promoting longevity."
+            },
+            {
+                "name": "Macimorelin",
+                "description": "Macimorelin is an orally active ghrelin receptor agonist that stimulates the release of growth hormone (GH) from the pituitary gland. It mimics the natural hormone ghrelin, promoting GH secretion and is used in diagnostic testing for adult growth hormone deficiency (AGHD).",
+                "indication": "Macimorelin is primarily indicated for the diagnosis of adult growth hormone deficiency (AGHD) through a GH stimulation test. It may also have potential off-label applications in research related to GH modulation, metabolism, and aging."
+            },
+            {
+                "name": "Omberacetam",
+                "description": "Omberacetam is a synthetic nootropic known for its potent cognitive-enhancing and neuroprotective properties. It modulates glutamate and acetylcholine activity, improving memory, learning, and mental clarity while supporting brain health.",
+                "indication": "Enhances cognitive function, improves memory retention, and supports focus. It may also help with neuroprotection, anxiety reduction, and recovery from brain injuries or neurodegenerative conditions."
+            },
+            {
+                "name": "Oxymetholone",
+                "description": "Oxymetholone is a synthetic AAS derived from dihydrotestosterone (DHT). It has a high anabolic potency with relatively low androgenic activity. It is primarily used to stimulate erythropoiesis (red blood cell production) and promote muscle growth in conditions associated with muscle wasting.",
+                "indication": "While not a first-line therapy, oxymetholone has been used in cases of androgen deficiency in men who cannot tolerate standard testosterone replacement therapy."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature\u2019s powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            }
+        ],
+        "timestamp": "2025-02-13T20:49:37.254873"
     }
 ]
