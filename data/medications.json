@@ -1,110 +1,187 @@
 [
-     {"name": "1-MNA, NMN, Leucine Capsules",
-     "description": "1-MNA is a metabolite of nicotinamide with anti-inflammatory, vasoprotective, and potential longevity-enhancing properties. NMN is a direct precursor to NAD+ (nicotinamide adenine dinucleotide), a critical coenzyme involved in cellular energy metabolism, mitochondrial function, and aging-related processes. Leucine is a branched-chain amino acid (BCAA) that serves as a key regulator of muscle protein synthesis via the mTOR pathway. It is essential for muscle growth, repair, and recovery. Leucine also plays a role in glucose metabolism and insulin signaling.",
-     "indication": "Metabolic, Vascular, Anti-inflammatory and Anti-Aging Support"},
-    {"name": "Anastrozole",
-     "description": "A medication used to manage estrogen levels in men undergoing testosterone replacement therapy (TRT). It works as an aromatase inhibitor, blocking the conversion of testosterone to estrogen, thereby maintaining optimal hormonal balance.",
-     "indication": "Designed to maintain hormonal balance by managing estrogen levels. By reducing excess estrogen, Anastrozole helps improve energy, mood, and muscle definition while minimizing side effects like water retention or fatigue."},
-    {"name": "BPC-157",
-     "description": "1st Optimal’s BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
-     "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."},
-     {"name": "BPC-157 Oral",
-     "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
-     "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."},
-    {"name": "DHEA",
-     "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
-     "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhance stress resilience, immunity, and overall well-being, an essential for longevity and performance optimization."},
-    {"name": "Enanthate",
-     "description": "Enanthate is a long-acting ester of testosterone commonly used in hormone replacement therapy (HRT) for men with low testosterone levels. It supports the maintenance of normal male physiological functions, including muscle mass, energy levels, libido, and mood. By providing a steady release of testosterone, enanthate helps restore hormonal balance, improving overall vitality and well-being.",
-     "indication": "This treatment is typically administered via intramuscular injection and is tailored to individual needs under the supervision of a healthcare provider."},
-    {"name": "Enclomiphene",
-     "description": "A selective estrogen receptor modulator (SERM) used to increase testosterone production in men by stimulating the natural production of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",
-     "indication": "A powerful testosterone booster that enhances natural production while supporting fertility. Unlike traditional options, Enclomiphene helps maintain testicular function and sperm count, ensuring optimized hormone levels without compromising reproductive health."},
-    {"name": "Epitalon",
-     "description": "Epitalon (Epithalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from Epithalamin, a natural peptide produced in the pineal gland. It has a role in regulating telomerase activity, promoting cellular longevity, and modulating circadian rhythms. Epitalon is considered a potential anti-aging compound due to its effects on telomere maintenance, oxidative stress reduction, and endocrine system regulation.",
-     "indication": "Epitalon has been studied for its ability to activate telomerase, an enzyme that maintains telomere length, potentially slowing cellular aging and promoting longevity."},
-    {"name": "Estrogen Replacement",
-     "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
-     "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."},
-    {"name": "Ezetimibe",
-     "description": "Ezetimibe is a cholesterol-lowering medication that significantly reduces LDL-C while boosting HDL-C, offering additional protective benefits for heart health, non-alcoholic fatty liver disease, and stroke prevention. It also helps lower inflammation by reducing CRP levels, supporting overall cardiovascular wellness.",
-     "indication": "Lowers bad cholesterol (LDL-C), raises good cholesterol (HDL-C), and supports heart and liver health while reducing inflammation."},
-    {"name": "GHK-Cu Peptide Treatment",
-     "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
-     "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."},
-    {"name": "Glutathione",
-     "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
-     "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."},
-    {"name": "Hexarelin",
-     "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
-     "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."},
-    {"name": "Ketamine",
-     "description": "1st Optimal’s Ketamine Therapy provides innovative treatment designed to support mental health and enhance overall well-being.",
-     "indication": "Ketamine therapy offers a safe and effective way to address mood disorders, reduce stress, and promote emotional resilience."},
-    {"name": "Levothyroxin",
-     "description": "A synthetic form of thyroid hormone used to treat hypothyroidism. It helps restore proper metabolism, energy levels, and overall thyroid function.",
-     "indication": "Boost energy, metabolism, and overall wellness with Levothyroxine—the gold standard in thyroid hormone replacement therapy."},
-    {"name": "Macimorelin",
-     "description": "Macimorelin is an orally active ghrelin receptor agonist that stimulates the release of growth hormone (GH) from the pituitary gland. It mimics the natural hormone ghrelin, promoting GH secretion and is used in diagnostic testing for adult growth hormone deficiency (AGHD).",
-     "indication": "Macimorelin is primarily indicated for the diagnosis of adult growth hormone deficiency (AGHD) through a GH stimulation test. It may also have potential off-label applications in research related to GH modulation, metabolism, and aging."},
-    {"name": "Metformin",
-     "description": "Metformin is a widely used oral medication primarily prescribed for managing type 2 diabetes. It works by improving insulin sensitivity, reducing glucose production in the liver, and enhancing glucose uptake by the body’s cells, effectively lowering blood sugar levels.",
-     "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."},
-    {"name": "Nandrlone Decanoate",
-     "description": "Nandrolone Decanoate Therapy provides an advanced approach to joint recovery and enhanced well-being during your TRT phase.",
-     "indication": "Nandrolone Decanoate therapy helps promote joint healing, alleviate discomfort from chronic inflammation, and enhance recovery from physical strain or injury. It works synergistically with testosterone replacement therapy to improve mobility, reduce pain, and support long-term joint health."},
-    {"name": "Omberacetam",
-     "description": "Omberacetam is a synthetic nootropic known for its potent cognitive-enhancing and neuroprotective properties. It modulates glutamate and acetylcholine activity, improving memory, learning, and mental clarity while supporting brain health.",
-     "indication": "Enhances cognitive function, improves memory retention, and supports focus. It may also help with neuroprotection, anxiety reduction, and recovery from brain injuries or neurodegenerative conditions."},
-    {"name": "Omnitrope",
-     "description": "Omnitrope (somatropin) is a growth hormone therapy designed to support metabolism, muscle growth, skin and nail health, and weight management. It mimics the natural human growth hormone (HGH) to help maintain body structure and optimize metabolic function.",
-     "indication": "Omnitrope is for adults with growth hormone deficiency (GHD) to support muscle development, fat metabolism, and overall well-being. It works alongside IGF-1 to promote healthy tissue growth and recovery."},
-    {"name": "Oxandrolone",
-     "description": "Oxandrolone Therapy offers a powerful solution for enhancing recovery, strength, and lean muscle preservation during your TRT journey. Delivered with guided medical oversight, convenient telemedicine visits, and streamlined access through our patient portal app, this therapy is tailored for individuals seeking optimal performance and resilience.",
-     "indication": "Oxandrolone therapy is known for its ability to promote tissue repair, increase strength, and preserve lean muscle mass, even during caloric deficits or recovery phases. Its mild profile and targeted benefits make it an ideal addition to testosterone replacement therapy, helping you recover faster, maintain muscle integrity."},
-    {"name": "Oxymetholone",
-     "description": "Oxymetholone is a synthetic AAS derived from dihydrotestosterone (DHT). It has a high anabolic potency with relatively low androgenic activity. It is primarily used to stimulate erythropoiesis (red blood cell production) and promote muscle growth in conditions associated with muscle wasting.",
-     "indication": "While not a first-line therapy, oxymetholone has been used in cases of androgen deficiency in men who cannot tolerate standard testosterone replacement therapy."},
-    {"name": "Pregnenolone",
-     "description": "Pregnenolone Therapy offers a natural approach to supporting cognitive function, hormonal balance, and overall well-being.",
-     "indication": "Pregnenolone therapy helps improve memory, reduce stress, and promote hormonal harmony for optimal health."},
-    {"name": "Pregnyl",
-     "description": "Pregnyl Therapy provides a targeted solution to support hormonal balance, enhance reproductive health, and improve overall vitality.",
-     "indication": "Pregnyl therapy helps stimulate hormone production and optimize your health with ease and convenience."},
-    {"name": "Progesterone",
-     "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
-     "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."},
-    {"name": "Retatrutide",
-     "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
-     "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."},
-    {"name": "Semaglutide",
-     "description": "A GLP-1 receptor agonist used for weight loss and blood sugar management.",
-     "indication": "The proven GLP-1 receptor agonist. Backed by science, Semaglutide enhances appetite control, stabilizes blood sugar, and promotes sustainable fat loss."},
-    {"name": "Sermorelin",
-     "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
-     "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."},
-    {"name": "Tadalafil",
-     "description": "A long-acting PDE5 inhibitor used to treat erectile dysfunction and improve urinary symptoms associated with benign prostatic hyperplasia (BPH).",
-     "indication": "Long-lasting support for improved performance and blood flow, helping you feel and perform at your best."},
-    {"name": "TB-400",
-     "description": "1st Optimal’s TB-400 Therapy provides advanced treatment designed to enhance recovery, promote healing, and support overall physical performance.",
-     "indication": "TB-400 therapy helps reduce inflammation, accelerate tissue repair, and improve endurance, making it an ideal choice for those seeking optimal recovery and resilience."},
-    {"name": "Tesamorelin",
-     "description": "A peptide therapy that boosts natural growth hormone production.",
-     "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."},
-     {"name": "Testosterone Capsule",
-     "description": "An oral testosterone replacement therapy option that supports hormone balance and improves symptoms of low testosterone such as fatigue, low libido, and reduced muscle mass.",
-     "indication": "A convenient way to boost testosterone for improved energy, strength, and physical appearance."},
-    {"name": "Testosterone Cream",
-     "description": "A topical testosterone replacement therapy applied directly to the skin.",
-     "indication": "Easily applied, this therapy enhances testosterone levels for better performance, weight loss, and muscle tone."},
-    {"name": "Testosterone Injectable",
-     "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
-     "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."},
-    {"name": "Tirzepatide",
-     "description": "A novel dual-receptor agonist for weight management.",
-     "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."},
-    {"name": "Vasoactive Intestinal Peptide",
-     "description": "Vasoactive Intestinal Peptide (VIP) is a powerful neuropeptide that plays a key role in regulating inflammation, immune response, and vascular health. VIP therapy is commonly used to support optimal lung function, improve circulation, and enhance cognitive performance. It may also benefit individuals with chronic inflammatory conditions by helping to restore balance and improve overall well-being.",
-     "indication": "Whether you're seeking support for immune regulation or optimizing recovery, VIP therapy offers a targeted approach to help you feel your best."}
+    {
+        "name": "Modafinil",
+        "description": "Modafinil is a wakefulness-promoting agent that enhances dopamine, norepinephrine, histamine, and orexin activity in the brain. It is used to increase alertness, reduce fatigue, and improve cognitive function without the jitteriness of traditional stimulants.",
+        "indication": "Narcolepsy & Sleep Disorders: Approved for treating excessive daytime sleepiness in narcolepsy, obstructive sleep apnea (OSA), and shift work sleep disorder (SWSD), Cognitive Enhancement (Off-Label): Used off-label for focus, memory, productivity, and reducing mental fatigue in high-performing individuals."
+    },
+    {
+        "name": "1-MNA, NMN, Leucine Capsules",
+        "description": "1-MNA is a metabolite of nicotinamide with anti-inflammatory, vasoprotective, and potential longevity-enhancing properties. NMN is a direct precursor to NAD+ (nicotinamide adenine dinucleotide), a critical coenzyme involved in cellular energy metabolism, mitochondrial function, and aging-related processes. Leucine is a branched-chain amino acid (BCAA) that serves as a key regulator of muscle protein synthesis via the mTOR pathway. It is essential for muscle growth, repair, and recovery. Leucine also plays a role in glucose metabolism and insulin signaling.",
+        "indication": "Metabolic, Vascular, Anti-inflammatory and Anti-Aging Support"
+    },
+    {
+        "name": "Anastrozole",
+        "description": "A medication used to manage estrogen levels in men undergoing testosterone replacement therapy (TRT). It works as an aromatase inhibitor, blocking the conversion of testosterone to estrogen, thereby maintaining optimal hormonal balance.",
+        "indication": "Designed to maintain hormonal balance by managing estrogen levels. By reducing excess estrogen, Anastrozole helps improve energy, mood, and muscle definition while minimizing side effects like water retention or fatigue."
+    },
+    {
+        "name": "BPC-157",
+        "description": "1st Optimal\u2019s BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+        "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+    },
+    {
+        "name": "BPC-157 Oral",
+        "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+        "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+    },
+    {
+        "name": "DHEA",
+        "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+        "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhance stress resilience, immunity, and overall well-being, an essential for longevity and performance optimization."
+    },
+    {
+        "name": "Enanthate",
+        "description": "Enanthate is a long-acting ester of testosterone commonly used in hormone replacement therapy (HRT) for men with low testosterone levels. It supports the maintenance of normal male physiological functions, including muscle mass, energy levels, libido, and mood. By providing a steady release of testosterone, enanthate helps restore hormonal balance, improving overall vitality and well-being.",
+        "indication": "This treatment is typically administered via intramuscular injection and is tailored to individual needs under the supervision of a healthcare provider."
+    },
+    {
+        "name": "Enclomiphene",
+        "description": "A selective estrogen receptor modulator (SERM) used to increase testosterone production in men by stimulating the natural production of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",
+        "indication": "A powerful testosterone booster that enhances natural production while supporting fertility. Unlike traditional options, Enclomiphene helps maintain testicular function and sperm count, ensuring optimized hormone levels without compromising reproductive health."
+    },
+    {
+        "name": "Epitalon",
+        "description": "Epitalon (Epithalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from Epithalamin, a natural peptide produced in the pineal gland. It has a role in regulating telomerase activity, promoting cellular longevity, and modulating circadian rhythms. Epitalon is considered a potential anti-aging compound due to its effects on telomere maintenance, oxidative stress reduction, and endocrine system regulation.",
+        "indication": "Epitalon has been studied for its ability to activate telomerase, an enzyme that maintains telomere length, potentially slowing cellular aging and promoting longevity."
+    },
+    {
+        "name": "Estrogen Replacement",
+        "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+        "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+    },
+    {
+        "name": "Ezetimibe",
+        "description": "Ezetimibe is a cholesterol-lowering medication that significantly reduces LDL-C while boosting HDL-C, offering additional protective benefits for heart health, non-alcoholic fatty liver disease, and stroke prevention. It also helps lower inflammation by reducing CRP levels, supporting overall cardiovascular wellness.",
+        "indication": "Lowers bad cholesterol (LDL-C), raises good cholesterol (HDL-C), and supports heart and liver health while reducing inflammation."
+    },
+    {
+        "name": "GHK-Cu Peptide Treatment",
+        "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+        "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+    },
+    {
+        "name": "Glutathione",
+        "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+        "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+    },
+    {
+        "name": "Hexarelin",
+        "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+        "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+    },
+    {
+        "name": "Ketamine",
+        "description": "1st Optimal\u2019s Ketamine Therapy provides innovative treatment designed to support mental health and enhance overall well-being.",
+        "indication": "Ketamine therapy offers a safe and effective way to address mood disorders, reduce stress, and promote emotional resilience."
+    },
+    {
+        "name": "Levothyroxin",
+        "description": "A synthetic form of thyroid hormone used to treat hypothyroidism. It helps restore proper metabolism, energy levels, and overall thyroid function.",
+        "indication": "Boost energy, metabolism, and overall wellness with Levothyroxine\u2014the gold standard in thyroid hormone replacement therapy."
+    },
+    {
+        "name": "Macimorelin",
+        "description": "Macimorelin is an orally active ghrelin receptor agonist that stimulates the release of growth hormone (GH) from the pituitary gland. It mimics the natural hormone ghrelin, promoting GH secretion and is used in diagnostic testing for adult growth hormone deficiency (AGHD).",
+        "indication": "Macimorelin is primarily indicated for the diagnosis of adult growth hormone deficiency (AGHD) through a GH stimulation test. It may also have potential off-label applications in research related to GH modulation, metabolism, and aging."
+    },
+    {
+        "name": "Metformin",
+        "description": "Metformin is a widely used oral medication primarily prescribed for managing type 2 diabetes. It works by improving insulin sensitivity, reducing glucose production in the liver, and enhancing glucose uptake by the body\u2019s cells, effectively lowering blood sugar levels.",
+        "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."
+    },
+    {
+        "name": "Nandrlone Decanoate",
+        "description": "Nandrolone Decanoate Therapy provides an advanced approach to joint recovery and enhanced well-being during your TRT phase.",
+        "indication": "Nandrolone Decanoate therapy helps promote joint healing, alleviate discomfort from chronic inflammation, and enhance recovery from physical strain or injury. It works synergistically with testosterone replacement therapy to improve mobility, reduce pain, and support long-term joint health."
+    },
+    {
+        "name": "Omberacetam",
+        "description": "Omberacetam is a synthetic nootropic known for its potent cognitive-enhancing and neuroprotective properties. It modulates glutamate and acetylcholine activity, improving memory, learning, and mental clarity while supporting brain health.",
+        "indication": "Enhances cognitive function, improves memory retention, and supports focus. It may also help with neuroprotection, anxiety reduction, and recovery from brain injuries or neurodegenerative conditions."
+    },
+    {
+        "name": "Omnitrope",
+        "description": "Omnitrope (somatropin) is a growth hormone therapy designed to support metabolism, muscle growth, skin and nail health, and weight management. It mimics the natural human growth hormone (HGH) to help maintain body structure and optimize metabolic function.",
+        "indication": "Omnitrope is for adults with growth hormone deficiency (GHD) to support muscle development, fat metabolism, and overall well-being. It works alongside IGF-1 to promote healthy tissue growth and recovery."
+    },
+    {
+        "name": "Oxandrolone",
+        "description": "Oxandrolone Therapy offers a powerful solution for enhancing recovery, strength, and lean muscle preservation during your TRT journey. Delivered with guided medical oversight, convenient telemedicine visits, and streamlined access through our patient portal app, this therapy is tailored for individuals seeking optimal performance and resilience.",
+        "indication": "Oxandrolone therapy is known for its ability to promote tissue repair, increase strength, and preserve lean muscle mass, even during caloric deficits or recovery phases. Its mild profile and targeted benefits make it an ideal addition to testosterone replacement therapy, helping you recover faster, maintain muscle integrity."
+    },
+    {
+        "name": "Oxymetholone",
+        "description": "Oxymetholone is a synthetic AAS derived from dihydrotestosterone (DHT). It has a high anabolic potency with relatively low androgenic activity. It is primarily used to stimulate erythropoiesis (red blood cell production) and promote muscle growth in conditions associated with muscle wasting.",
+        "indication": "While not a first-line therapy, oxymetholone has been used in cases of androgen deficiency in men who cannot tolerate standard testosterone replacement therapy."
+    },
+    {
+        "name": "Pregnenolone",
+        "description": "Pregnenolone Therapy offers a natural approach to supporting cognitive function, hormonal balance, and overall well-being.",
+        "indication": "Pregnenolone therapy helps improve memory, reduce stress, and promote hormonal harmony for optimal health."
+    },
+    {
+        "name": "Pregnyl",
+        "description": "Pregnyl Therapy provides a targeted solution to support hormonal balance, enhance reproductive health, and improve overall vitality.",
+        "indication": "Pregnyl therapy helps stimulate hormone production and optimize your health with ease and convenience."
+    },
+    {
+        "name": "Progesterone",
+        "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+        "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+    },
+    {
+        "name": "Retatrutide",
+        "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+        "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+    },
+    {
+        "name": "Semaglutide",
+        "description": "A GLP-1 receptor agonist used for weight loss and blood sugar management.",
+        "indication": "The proven GLP-1 receptor agonist. Backed by science, Semaglutide enhances appetite control, stabilizes blood sugar, and promotes sustainable fat loss."
+    },
+    {
+        "name": "Sermorelin",
+        "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
+        "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."
+    },
+    {
+        "name": "Tadalafil",
+        "description": "A long-acting PDE5 inhibitor used to treat erectile dysfunction and improve urinary symptoms associated with benign prostatic hyperplasia (BPH).",
+        "indication": "Long-lasting support for improved performance and blood flow, helping you feel and perform at your best."
+    },
+    {
+        "name": "TB-400",
+        "description": "1st Optimal\u2019s TB-400 Therapy provides advanced treatment designed to enhance recovery, promote healing, and support overall physical performance.",
+        "indication": "TB-400 therapy helps reduce inflammation, accelerate tissue repair, and improve endurance, making it an ideal choice for those seeking optimal recovery and resilience."
+    },
+    {
+        "name": "Tesamorelin",
+        "description": "A peptide therapy that boosts natural growth hormone production.",
+        "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+    },
+    {
+        "name": "Testosterone Capsule",
+        "description": "An oral testosterone replacement therapy option that supports hormone balance and improves symptoms of low testosterone such as fatigue, low libido, and reduced muscle mass.",
+        "indication": "A convenient way to boost testosterone for improved energy, strength, and physical appearance."
+    },
+    {
+        "name": "Testosterone Cream",
+        "description": "A topical testosterone replacement therapy applied directly to the skin.",
+        "indication": "Easily applied, this therapy enhances testosterone levels for better performance, weight loss, and muscle tone."
+    },
+    {
+        "name": "Testosterone Injectable",
+        "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+        "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+    },
+    {
+        "name": "Tirzepatide",
+        "description": "A novel dual-receptor agonist for weight management.",
+        "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+    },
+    {
+        "name": "Vasoactive Intestinal Peptide",
+        "description": "Vasoactive Intestinal Peptide (VIP) is a powerful neuropeptide that plays a key role in regulating inflammation, immune response, and vascular health. VIP therapy is commonly used to support optimal lung function, improve circulation, and enhance cognitive performance. It may also benefit individuals with chronic inflammatory conditions by helping to restore balance and improve overall well-being.",
+        "indication": "Whether you're seeking support for immune regulation or optimizing recovery, VIP therapy offers a targeted approach to help you feel your best."
+    }
 ]
