@@ -6191,5 +6191,80 @@
             }
         ],
         "timestamp": "2025-02-13T21:50:43.939682"
+    },
+    {
+        "member_name": "George Mansour ",
+        "manager": "Joe",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Comprehensive Hormone Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-comprehensive-hormone-panel",
+                "description": "An advanced panel assessing a wide range of male hormones and biomarkers, ensuring peak performance, recovery, and metabolic balance.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol, SHBG, Prolactin, Cortisol, Progesterone, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "1-MNA, NMN, Leucine Capsules",
+                "description": "1-MNA is a metabolite of nicotinamide with anti-inflammatory, vasoprotective, and potential longevity-enhancing properties. NMN is a direct precursor to NAD+ (nicotinamide adenine dinucleotide), a critical coenzyme involved in cellular energy metabolism, mitochondrial function, and aging-related processes. Leucine is a branched-chain amino acid (BCAA) that serves as a key regulator of muscle protein synthesis via the mTOR pathway. It is essential for muscle growth, repair, and recovery. Leucine also plays a role in glucose metabolism and insulin signaling.",
+                "indication": "Metabolic, Vascular, Anti-inflammatory and Anti-Aging Support"
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhance stress resilience, immunity, and overall well-being, an essential for longevity and performance optimization."
+            },
+            {
+                "name": "Enclomiphene",
+                "description": "A selective estrogen receptor modulator (SERM) used to increase testosterone production in men by stimulating the natural production of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",
+                "indication": "A powerful testosterone booster that enhances natural production while supporting fertility. Unlike traditional options, Enclomiphene helps maintain testicular function and sperm count, ensuring optimized hormone levels without compromising reproductive health."
+            },
+            {
+                "name": "Epitalon",
+                "description": "Epitalon (Epithalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from Epithalamin, a natural peptide produced in the pineal gland. It has a role in regulating telomerase activity, promoting cellular longevity, and modulating circadian rhythms. Epitalon is considered a potential anti-aging compound due to its effects on telomere maintenance, oxidative stress reduction, and endocrine system regulation.",
+                "indication": "Epitalon has been studied for its ability to activate telomerase, an enzyme that maintains telomere length, potentially slowing cellular aging and promoting longevity."
+            },
+            {
+                "name": "Hexarelin",
+                "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+                "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+            },
+            {
+                "name": "Modafinil",
+                "description": "Modafinil is a wakefulness-promoting agent that enhances dopamine, norepinephrine, histamine, and orexin activity in the brain. It is used to increase alertness, reduce fatigue, and improve cognitive function without the jitteriness of traditional stimulants.",
+                "indication": "Narcolepsy & Sleep Disorders: Approved for treating excessive daytime sleepiness in narcolepsy, obstructive sleep apnea (OSA), and shift work sleep disorder (SWSD), Cognitive Enhancement (Off-Label): Used off-label for focus, memory, productivity, and reducing mental fatigue in high-performing individuals."
+            },
+            {
+                "name": "Omberacetam",
+                "description": "Omberacetam is a synthetic nootropic known for its potent cognitive-enhancing and neuroprotective properties. It modulates glutamate and acetylcholine activity, improving memory, learning, and mental clarity while supporting brain health.",
+                "indication": "Enhances cognitive function, improves memory retention, and supports focus. It may also help with neuroprotection, anxiety reduction, and recovery from brain injuries or neurodegenerative conditions."
+            },
+            {
+                "name": "Pregnenolone",
+                "description": "Pregnenolone Therapy offers a natural approach to supporting cognitive function, hormonal balance, and overall well-being.",
+                "indication": "Pregnenolone therapy helps improve memory, reduce stress, and promote hormonal harmony for optimal health."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Multi-Vitamin Premier",
+                "description": "A high-quality multivitamin providing essential vitamins, minerals, and antioxidants.",
+                "indication": "A high-quality multivitamin to fill nutritional gaps and support overall health and vitality."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2025-02-13T22:00:21.805822"
     }
 ]
