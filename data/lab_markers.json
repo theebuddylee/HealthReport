@@ -1,118 +1,118 @@
 {
     "Men": {
         "Total Testosterone": {
-            "description": "A key male hormone responsible for muscle growth, energy, and overall health.",
+            "description": "Total Testosterone is an important health marker for post menopausal women. It plays a crucial role in a key hormone responsible for muscle growth, energy, and overall health..",
             "clinical_range": "264 - 916",
             "optimal_range": "600 - 1400",
             "units": "ng/dL",
             "panel": "Hormonal Panel"
         },
         "Free Testosterone": {
-            "description": "The active form of testosterone that is available for use in the body.",
+            "description": "Free Testosterone is an important health marker for post menopausal women. It plays a crucial role in the active form of testosterone that is available for use in the body..",
             "clinical_range": "6.8 - 21.5",
             "optimal_range": "18.0 -27.0",
             "units": "ng/dL",
             "panel": "Hormonal Panel"
         },
         "Estradiol": {
-            "description": "A type of estrogen that plays a role in reproductive health and bone strength.",
+            "description": "Estradiol is an important health marker for post menopausal women. It plays a crucial role in a type of estrogen that plays a role in reproductive health and bone strength..",
             "clinical_range": "7.6 - 42.6",
             "optimal_range": "7.6 - 55.0",
             "units": "pg/mL",
             "panel": "Hormonal Panel"
         },
         "Sex Hormone Binding Globulin (SHBG)": {
-            "description": "A protein that controls how much testosterone and estrogen are available in the body.",
+            "description": "Sex Hormone Binding Globulin (SHBG) is an important health marker for women. It plays a crucial role in a protein that controls how much testosterone and estrogen are available in the body.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "16.5 - 55.9",
             "optimal_range": "16.5 - 55.9",
             "units": "nmol/L",
             "panel": "Hormonal Panel"
         },
         "Prolactin": {
-            "description": "A hormone involved in milk production and hormone balance.",
+            "description": "Prolactin is an important health marker for post menopausal women. It plays a crucial role in a hormone involved in milk production and hormone balance..",
             "clinical_range": "3.6 - 31.5",
             "optimal_range": "3.6 - 12.0",
             "units": "ng/mL",
             "panel": "Hormonal Panel"
         },
         "Luteinizing Hormone (LH)": {
-            "description": "A hormone that signals the testes or ovaries to produce testosterone or estrogen.",
+            "description": "Luteinizing Hormone (LH) is an important health marker for post menopausal women. It plays a crucial role in a hormone that signals the testes or ovaries to produce testosterone or estrogen..",
             "clinical_range": "1.7 - 8.6",
             "optimal_range": "1.7 - 6.0",
             "units": "mIU/mL",
             "panel": "Hormonal Panel"
         },
         "Follicle-Stimulating Hormone (FSH)": {
-            "description": "A hormone that helps with sperm production in men.",
+            "description": "Follicle-Stimulating Hormone (FSH) is an important health marker for post menopausal women. It plays a crucial role in fsh is a key reproductive hormone produced by the pituitary gland that regulates ovarian function and estrogen production in pre-menopausal women. after menopause, fsh levels increase significantly due to the loss of ovarian function and estrogen production..",
             "clinical_range": "1.5 - 12.4",
             "optimal_range": "1.5 - 12.4",
             "units": "mIU/mL",
             "panel": "Hormonal Panel"
         },
         "Dehydroepiandrosterone Sulfate (DHEA-S)": {
-            "description": "A hormone that helps make other hormones like testosterone and estrogen.",
+            "description": "Dehydroepiandrosterone Sulfate (DHEA-S) is an important health marker for women. It plays a crucial role in a hormone that helps make other hormones like testosterone and estrogen.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "102.6 - 416.3",
             "optimal_range": "300.0 - 500.0",
             "units": "ug/dl",
             "panel": "Hormonal Panel"
         },
         "Prostate Specific Antigen (PSA)": {
-            "description": "A protein made by the prostate gland, used to check prostate health. If PSA is elevated but not drastically high, consider these non-cancerous causes: Recent ejaculation (PSA can rise for up to 48 hours after), Vigorous exercise or cycling (can increase PSA for 24-48 hours), Prostate infections or inflammation (prostatitis), Benign Prostatic Hyperplasia (BPH) – common with aging, Urinary tract infections (UTIs), Recent digital rectal exam (DRE) or prostate biopsy. PSA naturally increases with age, so age-specific reference ranges can be useful: 40–49 years: 0–2.5 ng/mL, 50–59 years: 0–3.5 ng/mL, 60–69 years: 0–4.5 ng/mL, 70+ years: 0–6.5 ng/mL.",
+            "description": "Prostate Specific Antigen (PSA) is an important health marker for men. It plays a crucial role in a protein made by the prostate gland, used to check prostate health. if psa is elevated but not drastically high, consider these non-cancerous causes: recent ejaculation (psa can rise for up to 48 hours after), vigorous exercise or cycling (can increase psa for 24-48 hours), prostate infections or inflammation (prostatitis), benign prostatic hyperplasia (bph). Common with aging, urinary tract infections (utis), recent digital rectal exam (dre) or prostate biopsy. PSA naturally increases with age, so age-specific reference ranges can be useful: 40-49 years: 0-2.5 ng/ml, 50-59 years: 0-3.5 ng/ml, 60-69 years: 0-4.5 ng/ml, 70+ years: 0-6.5 ng/ml. For men, optimal levels support muscle growth, strength, energy, and sexual health. Low levels may lead to fatigue, weight gain, mood changes, and reduced libido. Lifestyle factors such as strength training, a high-protein diet, and sufficient sleep can help maintain optimal levels.",
             "clinical_range": "0.0 - 4.0",
             "optimal_range": "0.6 - 2.0",
             "units": "ng/ml",
             "panel": "Hormonal Panel"
         },
         "TSH": {
-            "description": "A hormone that controls how fast the thyroid works to regulate metabolism.",
+            "description": "TSH is an important health marker for men. It plays a crucial role in a hormone that controls how fast the thyroid works to regulate metabolism.. For men, optimal levels support muscle growth, strength, energy, and sexual health. Low levels may lead to fatigue, weight gain, mood changes, and reduced libido. Lifestyle factors such as strength training, a high-protein diet, and sufficient sleep can help maintain optimal levels.",
             "clinical_range": "0.45 - 4.5",
             "optimal_range": "1.0 - 2.0",
-            "units": "µIU/mL",
+            "units": "\u00b5IU/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Free T3": {
-            "description": "An active thyroid hormone that controls energy use in the body.",
+            "description": "Free T3 is an important health marker for post menopausal women. It plays a crucial role in an active thyroid hormone that controls energy use in the body..",
             "clinical_range": "2.0 - 4.4",
             "optimal_range": "3.5 - 4.8",
             "units": "pg/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Free T4": {
-            "description": "A thyroid hormone that helps control metabolism and energy levels.",
+            "description": "Free T4 is an important health marker for post menopausal women. It plays a crucial role in a thyroid hormone that helps control metabolism and energy levels..",
             "clinical_range": "0.82 - 1.77",
             "optimal_range": "0.82 - 1.77",
             "units": "ng/dL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Insulin-Like Growth Factor I (IGF-1)": {
-            "description": "A hormone that helps with growth, muscle building, and metabolism.",
+            "description": "Insulin-Like Growth Factor I (IGF-1) is an important health marker for women. It plays a crucial role in a hormone that helps with growth, muscle building, and metabolism.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "125 - 300",
             "optimal_range": "250 - 400",
             "units": "ng/ml",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "HbA1c": {
-            "description": "A measure of blood sugar levels over the past three months.",
+            "description": "HbA1c is an important health marker for post menopausal women. It plays a crucial role in a measure of blood sugar levels over the past three months..",
             "clinical_range": "4.8 - 5.6",
             "optimal_range": "4.8 - 5.2",
             "units": "%",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Fasting Insulin": {
-            "description": "A hormone that controls blood sugar levels, measured after fasting.",
+            "description": "Fasting Insulin is an important health marker for post menopausal women. It plays a crucial role in a hormone that controls blood sugar levels, measured after fasting..",
             "clinical_range": "2.6 - 24.9",
             "optimal_range": "2.6 - 10.0",
             "units": "uIU/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Vitamin D (25-OH)": {
-            "description": "A vitamin that helps with bone strength and immune health.",
+            "description": "Vitamin D (25-OH) is an important health marker for post menopausal women. It plays a crucial role in a vitamin that helps with bone strength and immune health..",
             "clinical_range": "30 - 100",
             "optimal_range": "60 - 80",
             "units": "ng/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
-        "γ-Glutamyl Transferase (GGT)": {
+        "\u03b3-Glutamyl Transferase (GGT)": {
             "description": "GGT is an enzyme primarily found in the liver that plays a crucial role in detoxification, oxidative stress regulation, and bile production. It helps break down and transport glutathione, a key antioxidant that protects cells from damage.",
             "clinical_range": "9 - 48",
             "optimal_range": "9 - 25",
@@ -120,41 +120,41 @@
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Glucose": {
-            "description": "A sugar in the blood that provides energy.",
+            "description": "Glucose is an important health marker for post menopausal women. It plays a crucial role in a sugar in the blood that provides energy..",
             "clinical_range": "70 - 99",
             "optimal_range": "70 - 85",
             "units": "mg/dL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Calcium": {
-            "description": "A mineral important for strong bones and nerve function.",
+            "description": "Calcium is an important health marker for post menopausal women. It plays a crucial role in a mineral important for strong bones and nerve function..",
             "clinical_range": "8.5 - 10.5",
             "optimal_range": "8.5 - 10.5",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "Sodium": {
-            "description": "A mineral that helps regulate water balance and nerve function.",
+            "description": "Sodium is an important health marker for post menopausal women. It plays a crucial role in a mineral that helps regulate water balance and nerve function..",
             "clinical_range": "135 - 145",
             "optimal_range": "135 - 145",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
         },
         "Potassium": {
-            "description": "A mineral that helps with muscle function and heart health.",
+            "description": "Potassium is an important health marker for post menopausal women. It plays a crucial role in a mineral that helps with muscle function and heart health..",
             "clinical_range": "3.5 - 5.0",
             "optimal_range": "3.5 - 5.0",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
         },
         "Chloride": {
-            "description": "A mineral that helps keep the body's acid-base balance.",
+            "description": "Chloride is an important health marker for post menopausal women. It plays a crucial role in a mineral that helps keep the body's acid-base balance..",
             "clinical_range": "98 - 107",
             "optimal_range": "98 - 107",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
         },
-        "Carbon Dioxide (CO₂), Total": {
+        "Carbon Dioxide (CO\u2082), Total": {
             "description": "A measure of the body's acid-base balance.",
             "clinical_range": "22 - 29",
             "optimal_range": "22 - 29",
@@ -162,238 +162,238 @@
             "panel": "Metabolic Panel"
         },
         "Blood Urea Nitrogen (BUN)": {
-            "description": "A waste product in the blood that checks kidney function.",
+            "description": "Blood Urea Nitrogen (BUN) is an important health marker for post menopausal women. It plays a crucial role in a waste product in the blood that checks kidney function..",
             "clinical_range": "7 - 20",
             "optimal_range": "7 - 20",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "Creatinine": {
-            "description": "A waste product from muscles that helps check kidney function.",
+            "description": "Creatinine is an important health marker for post menopausal women. It plays a crucial role in a waste product from muscles that helps check kidney function..",
             "clinical_range": "0.6 - 1.3",
             "optimal_range": "0.6 - 1.3",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "BUN/Creatinine Ratio": {
-            "description": "A comparison of kidney function markers.",
+            "description": "BUN/Creatinine Ratio is an important health marker for post menopausal women. It plays a crucial role in a comparison of kidney function markers..",
             "clinical_range": "10 - 20",
             "optimal_range": "10 - 20",
             "units": ":1 (Ratio)",
             "panel": "Metabolic Panel"
         },
         "Total Protein": {
-            "description": "A measure of the total proteins in the blood, important for body functions.",
+            "description": "Total Protein is an important health marker for post menopausal women. It plays a crucial role in a measure of the total proteins in the blood, important for body functions..",
             "clinical_range": "6.0 - 8.3",
             "optimal_range": "6.0 - 8.3",
             "units": "g/dL",
             "panel": "Metabolic Panel"
         },
         "Albumin": {
-            "description": "A protein that helps keep fluids balanced in the blood.",
+            "description": "Albumin is an important health marker for post menopausal women. It plays a crucial role in a protein that helps keep fluids balanced in the blood..",
             "clinical_range": "3.5 - 5.0",
             "optimal_range": "3.5 - 5.0",
             "units": "g/dL",
             "panel": "Metabolic Panel"
         },
         "Globulin, Total": {
-            "description": "A group of proteins that help with immune function.",
+            "description": "Globulin, Total is an important health marker for post menopausal women. It plays a crucial role in a group of proteins that help with immune function..",
             "clinical_range": "2.0 - 3.5",
             "optimal_range": "2.0 - 3.5",
             "units": "g/dL",
             "panel": "Metabolic Panel"
         },
         "Albumin/Globulin (A/G) Ratio": {
-            "description": "A balance of two important blood proteins.",
+            "description": "Albumin/Globulin (A/G) Ratio is an important health marker for post menopausal women. It plays a crucial role in a balance of two important blood proteins..",
             "clinical_range": "1.0 - 2.5",
             "optimal_range": "1.0 - 2.5",
             "units": "Ratio",
             "panel": "Metabolic Panel"
         },
         "Total Bilirubin": {
-            "description": "A substance made when red blood cells break down, used to check liver function.",
+            "description": "Total Bilirubin is an important health marker for post menopausal women. It plays a crucial role in a substance made when red blood cells break down, used to check liver function..",
             "clinical_range": "0.1 - 1.2",
             "optimal_range": "0.1 - 1.2",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "Alkaline Phosphatase": {
-            "description": "An enzyme that checks liver and bone health.",
+            "description": "Alkaline Phosphatase is an important health marker for post menopausal women. It plays a crucial role in an enzyme that checks liver and bone health..",
             "clinical_range": "44 - 147",
             "optimal_range": "44 - 147",
             "units": "IU/L",
             "panel": "Metabolic Panel"
         },
         "Aspartate Aminotransferase (AST)": {
-            "description": "A liver enzyme used to check liver health, elevated levels can come from liver or muscle damage.",
+            "description": "Aspartate Aminotransferase (AST) is an important health marker for post menopausal women. It plays a crucial role in a liver enzyme used to check liver health..",
             "clinical_range": "10 - 40",
             "optimal_range": "10 - 25",
             "units": "IU/L",
             "panel": "Metabolic Panel"
         },
         "Alanine Aminotransferase (ALT)": {
-            "description": "An enzyme that checks for liver damage.",
+            "description": "Alanine Aminotransferase (ALT) is an important health marker for post menopausal women. It plays a crucial role in an enzyme that checks for liver damage..",
             "clinical_range": "7 - 56",
             "optimal_range": "7 - 26",
             "units": "IU/L",
             "panel": "Metabolic Panel"
         },
         "Estimated Glomerular Filtration Rate (eGFR)": {
-            "description": "A measure of how well the kidneys are filtering waste from the blood.",
+            "description": "Estimated Glomerular Filtration Rate (eGFR) is an important health marker for post menopausal women. It plays a crucial role in a measure of kidney function..",
             "clinical_range": ">60",
             "optimal_range": ">80",
-            "units": "mL/min/1.73 m²",
+            "units": "mL/min/1.73 m\u00b2",
             "panel": "Metabolic Panel"
         },
         "White Blood Cell (WBC) Count": {
-            "description": "A count of immune cells that fight infections.",
+            "description": "White Blood Cell (WBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of immune cells that fight infections..",
             "clinical_range": "4,500 - 11,000",
             "optimal_range": "4,500 - 11,000",
-            "units": "cells/µL",
+            "units": "cells/\u00b5L",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Blood Cell (RBC) Count": {
-            "description": "A count of cells that carry oxygen.",
+            "description": "Red Blood Cell (RBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of cells that carry oxygen..",
             "clinical_range": "4.2 - 5.9",
             "optimal_range": "4.9 - 5.9",
-            "units": "million cells/µL",
+            "units": "million cells/\u00b5L",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Hemoglobin (Hgb)": {
-            "description": "A protein in red blood cells that carries oxygen.",
+            "description": "Hemoglobin (Hgb) is an important health marker for post menopausal women. It plays a crucial role in a protein in red blood cells that carries oxygen..",
             "clinical_range": "13.8 - 17.2",
             "optimal_range": "13.8 - 17.2",
             "units": "g/dL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Hematocrit (Hct)": {
-            "description": "A measure of how much of the blood is made up of red blood cells.",
+            "description": "Hematocrit (Hct) is an important health marker for post menopausal women. It plays a crucial role in a measure of how much of the blood is made up of red blood cells..",
             "clinical_range": "35.9 - 50.4",
             "optimal_range": "41.5 - 50.4",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Corpuscular Volume (MCV)": {
-            "description": "A measure of the average size of red blood cells.",
+            "description": "Mean Corpuscular Volume (MCV) is an important health marker for post menopausal women. It plays a crucial role in a measure of the average size of red blood cells..",
             "clinical_range": "80 - 100",
             "optimal_range": "80 - 100",
             "units": "fL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Corpuscular Hemoglobin (MCH)": {
-            "description": "The average amount of hemoglobin in red blood cells.",
+            "description": "Mean Corpuscular Hemoglobin (MCH) is an important health marker for post menopausal women. It plays a crucial role in the average amount of hemoglobin in red blood cells..",
             "clinical_range": "27.0 - 32.0",
             "optimal_range": "27.0 - 32.0",
             "units": "pg",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Corpuscular Hemoglobin Concentration (MCHC)": {
-            "description": "A measure of hemoglobin concentration in red blood cells.",
+            "description": "Mean Corpuscular Hemoglobin Concentration (MCHC) is an important health marker for post menopausal women. It plays a crucial role in a measure of hemoglobin concentration in red blood cells..",
             "clinical_range": "32 - 36",
             "optimal_range": "32 - 36",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Cell Distribution Width (RDW)": {
-            "description": "A measure of variation in red blood cell size.",
+            "description": "Red Cell Distribution Width (RDW) is an important health marker for post menopausal women. It plays a crucial role in a measure of variation in red blood cell size..",
             "clinical_range": "11 - 15",
             "optimal_range": "11 - 15",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Platelet Count": {
-            "description": "A measure of cells that help with blood clotting.",
+            "description": "Platelet Count is an important health marker for post menopausal women. It plays a crucial role in a measure of cells that help with blood clotting..",
             "clinical_range": "150,000 - 400,000",
             "optimal_range": "180,000 - 350,000",
-            "units": "cells/µL",
+            "units": "cells/\u00b5L",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Platelet Volume (MPV)": {
-            "description": "A measure of the average size of platelets.",
+            "description": "Mean Platelet Volume (MPV) is an important health marker for post menopausal women. It plays a crucial role in a measure of the average size of platelets..",
             "clinical_range": "7.0 - 9.0",
             "optimal_range": "7.0 - 9.0",
             "units": "fL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Neutrophils": {
-            "description": "A type of white blood cell that fights infections.",
+            "description": "Neutrophils is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell that fights infections..",
             "clinical_range": "50 - 70",
             "optimal_range": "50 - 70",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Lymphocytes": {
-            "description": "A type of white blood cell that helps with immune defense.",
+            "description": "Lymphocytes is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell that helps with immune defense..",
             "clinical_range": "18 - 42",
             "optimal_range": "18 - 42",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Monocytes": {
-            "description": "A type of white blood cell that helps fight infections.",
+            "description": "Monocytes is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell that helps fight infections..",
             "clinical_range": "3.5 - 9.0",
             "optimal_range": "3.5 - 9.0",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Eosinophils": {
-            "description": "A type of white blood cell involved in allergic reactions.",
+            "description": "Eosinophils is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell involved in allergic reactions..",
             "clinical_range": "1.0 - 3.0",
             "optimal_range": "1.0 - 2.6",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Basophils": {
-            "description": "A type of white blood cell involved in immune responses.",
+            "description": "Basophils is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell involved in immune responses..",
             "clinical_range": "0.0 - 2.0",
             "optimal_range": "0.0 - 2.0",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Total Cholesterol": {
-            "description": "A type of fat in the blood that affects heart health.",
+            "description": "Total Cholesterol is an important health marker for post menopausal women. It plays a crucial role in a type of fat in the blood that affects heart health..",
             "clinical_range": "100 - 199",
             "optimal_range": "100 - 170",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "HDL": {
-            "description": "The 'good' cholesterol that helps clear fats from the blood.",
+            "description": "HDL is an important health marker for post menopausal women. It plays a crucial role in the 'good' cholesterol that helps clear fats from the blood..",
             "clinical_range": ">39",
             "optimal_range": ">60",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "LDL (calculated)": {
-            "description": "The 'bad' cholesterol that can clog arteries.",
+            "description": "LDL (calculated) is an important health marker for post menopausal women. It plays a crucial role in the 'bad' cholesterol that can clog arteries..",
             "clinical_range": "0 - 129",
             "optimal_range": "0- 99",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "Triglycerides": {
-            "description": "A type of fat that stores energy in the blood.",
+            "description": "Triglycerides is an important health marker for post menopausal women. It plays a crucial role in a type of fat that stores energy in the blood..",
             "clinical_range": "0 - 149",
             "optimal_range": "0 - 100",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "VLDL (calculated)": {
-            "description": "A type of fat that carries triglycerides in the blood.",
+            "description": "VLDL (calculated) is an important health marker for post menopausal women. It plays a crucial role in a type of fat that carries triglycerides in the blood..",
             "clinical_range": "5 - 40",
             "optimal_range": "5 - 15",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "Total Cholesterol/HDL Ratio": {
-            "description": "A ratio used to assess heart disease risk.",
+            "description": "Total Cholesterol/HDL Ratio is an important health marker for post menopausal women. It plays a crucial role in a ratio used to assess heart disease risk..",
             "clinical_range": "<5.0",
             "optimal_range": "<3.5",
             "units": "ratio",
             "panel": "Lipid Panel"
         },
         "LDL/HDL Ratio": {
-            "description": "A ratio of bad to good cholesterol.",
+            "description": "LDL/HDL Ratio is an important health marker for post menopausal women. It plays a crucial role in a ratio of bad to good cholesterol..",
             "clinical_range": "<5.0",
             "optimal_range": "<2.0",
             "units": "ratio",
@@ -402,111 +402,111 @@
     },
     "Women": {
         "Total Testosterone": {
-            "description": "A key hormone responsible for muscle growth, energy, and overall health.",
+            "description": "Total Testosterone is an important health marker for post menopausal women. It plays a crucial role in a key hormone responsible for muscle growth, energy, and overall health..",
             "clinical_range": "4 - 50",
             "optimal_range": "25 - 75",
             "units": "ng/dL",
             "panel": "Hormonal Panel"
         },
         "Free Testosterone": {
-            "description": "The active form of testosterone that is available for use in the body.",
+            "description": "Free Testosterone is an important health marker for post menopausal women. It plays a crucial role in the active form of testosterone that is available for use in the body..",
             "clinical_range": "0.0 - 4.2",
             "optimal_range": "2.0 - 4.2",
             "units": "ng/dL",
             "panel": "Hormonal Panel"
         },
         "Estradiol": {
-            "description": "A type of estrogen that plays a role in reproductive health and bone strength.",
+            "description": "Estradiol is an important health marker for post menopausal women. It plays a crucial role in a type of estrogen that plays a role in reproductive health and bone strength..",
             "clinical_range": "43.8 - 211.0",
             "optimal_range": "43.8 - 211.0",
             "units": "pg/mL",
             "panel": "Hormonal Panel"
         },
         "Sex Hormone Binding Globulin (SHBG)": {
-            "description": "A protein that controls how much testosterone and estrogen are available in the body.",
+            "description": "Sex Hormone Binding Globulin (SHBG) is an important health marker for women. It plays a crucial role in a protein that controls how much testosterone and estrogen are available in the body.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "24.6 - 122.0",
             "optimal_range": "80 - 120",
             "units": "nmol/L",
             "panel": "Hormonal Panel"
         },
         "Prolactin": {
-            "description": "A hormone involved in milk production and hormone balance.",
+            "description": "Prolactin is an important health marker for post menopausal women. It plays a crucial role in a hormone involved in milk production and hormone balance..",
             "clinical_range": "3.6 - 25.2",
             "optimal_range": "3.6  - 10.0",
             "units": "ng/mL",
             "panel": "Hormonal Panel"
         },
         "Luteinizing Hormone (LH)": {
-            "description": "A hormone that signals the testes or ovaries to produce testosterone or estrogen (can vary by cycle phase).",
+            "description": "Luteinizing Hormone (LH) is an important health marker for post menopausal women. It plays a crucial role in a hormone that signals the testes or ovaries to produce testosterone or estrogen..",
             "clinical_range": "1.0 - 11.4",
             "optimal_range": "1.0 - 11.4",
             "units": "mIU/mL",
             "panel": "Hormonal Panel"
         },
         "Follicle-Stimulating Hormone (FSH)": {
-            "description": "A hormone that helps with sperm production in men.",
+            "description": "Follicle-Stimulating Hormone (FSH) is an important health marker for post menopausal women. It plays a crucial role in fsh is a key reproductive hormone produced by the pituitary gland that regulates ovarian function and estrogen production in pre-menopausal women. after menopause, fsh levels increase significantly due to the loss of ovarian function and estrogen production..",
             "clinical_range": "1.7 - 7.7",
             "optimal_range": "1.7 - 7.7",
             "units": "mIU/mL",
             "panel": "Hormonal Panel"
         },
         "Dehydroepiandrosterone Sulfate (DHEA-S)": {
-            "description": "A hormone that helps make other hormones like testosterone and estrogen.",
+            "description": "Dehydroepiandrosterone Sulfate (DHEA-S) is an important health marker for women. It plays a crucial role in a hormone that helps make other hormones like testosterone and estrogen.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "41.2  -243.0",
             "optimal_range": "175 - 241.0",
             "units": "ug/dl",
             "panel": "Hormonal Panel"
         },
         "Progesterone (Luteal Phase)": {
-            "description": "Progesterone is a steroid hormone primarily known for its role in female reproductive health, but it also plays a role in men’s hormone balance, brain function, and overall well-being. In both sexes, it influences mood, metabolism, and immune function.",
+            "description": "Progesterone (Luteal Phase) is an important health marker for women. It plays a crucial role in progesterone is a steroid hormone primarily known for its role in female reproductive health, but it also plays a role in men\u00e2\u20ac\u2122s hormone balance, brain function, and overall well-being. in both sexes, it influences mood, metabolism, and immune function.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "1.8 - 23.9",
             "optimal_range": "11.0 - 23.9",
             "units": "ng/mL",
             "panel": "Hormonal Panel"
         },
         "Free T3": {
-            "description": "An active thyroid hormone that controls energy use in the body.",
+            "description": "Free T3 is an important health marker for post menopausal women. It plays a crucial role in an active thyroid hormone that controls energy use in the body..",
             "clinical_range": "2.0 - 4.4",
             "optimal_range": "3.2  -4.2",
             "units": "pg/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Free T4": {
-            "description": "A thyroid hormone that helps control metabolism and energy levels.",
+            "description": "Free T4 is an important health marker for post menopausal women. It plays a crucial role in a thyroid hormone that helps control metabolism and energy levels..",
             "clinical_range": "0.82 - 1.77",
             "optimal_range": "1.0 - 1.5",
             "units": "ng/dL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Insulin-Like Growth Factor I (IGF-1)": {
-            "description": "A hormone that helps with growth, muscle building, and metabolism.",
+            "description": "Insulin-Like Growth Factor I (IGF-1) is an important health marker for women. It plays a crucial role in a hormone that helps with growth, muscle building, and metabolism.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "125 - 300",
             "optimal_range": "200 - 300",
             "units": "ng/ml",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "HbA1c": {
-            "description": "A measure of blood sugar levels over the past three months.",
+            "description": "HbA1c is an important health marker for post menopausal women. It plays a crucial role in a measure of blood sugar levels over the past three months..",
             "clinical_range": "4.8 - 5.6",
             "optimal_range": "4.8 - 5.2",
             "units": "%",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Fasting Insulin": {
-            "description": "A hormone that controls blood sugar levels, measured after fasting.",
+            "description": "Fasting Insulin is an important health marker for post menopausal women. It plays a crucial role in a hormone that controls blood sugar levels, measured after fasting..",
             "clinical_range": "2.6 - 24.9",
             "optimal_range": "2.6 - 10.0",
             "units": "uIU/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Vitamin D (25-OH)": {
-            "description": "A vitamin that helps with bone strength and immune health.",
+            "description": "Vitamin D (25-OH) is an important health marker for post menopausal women. It plays a crucial role in a vitamin that helps with bone strength and immune health..",
             "clinical_range": "30 - 100",
             "optimal_range": "60 - 80",
             "units": "ng/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
-         "γ-Glutamyl Transferase (GGT)": {
+        "\u03b3-Glutamyl Transferase (GGT)": {
             "description": "GGT is an enzyme primarily found in the liver that plays a crucial role in detoxification, oxidative stress regulation, and bile production. It helps break down and transport glutathione, a key antioxidant that protects cells from damage.",
             "clinical_range": "9 - 48",
             "optimal_range": "9 - 25",
@@ -514,41 +514,41 @@
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Glucose": {
-            "description": "A sugar in the blood that provides energy.",
+            "description": "Glucose is an important health marker for post menopausal women. It plays a crucial role in a sugar in the blood that provides energy..",
             "clinical_range": "70-99",
             "optimal_range": "70-85",
             "units": "mg/dL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Calcium": {
-            "description": "A mineral important for strong bones and nerve function.",
+            "description": "Calcium is an important health marker for post menopausal women. It plays a crucial role in a mineral important for strong bones and nerve function..",
             "clinical_range": "8.5 - 10.5",
             "optimal_range": "8.5 - 10.5",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "Sodium": {
-            "description": "A mineral that helps regulate water balance and nerve function.",
+            "description": "Sodium is an important health marker for post menopausal women. It plays a crucial role in a mineral that helps regulate water balance and nerve function..",
             "clinical_range": "135 - 145",
             "optimal_range": "135 - 145",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
         },
         "Potassium": {
-            "description": "A mineral that helps with muscle function and heart health.",
+            "description": "Potassium is an important health marker for post menopausal women. It plays a crucial role in a mineral that helps with muscle function and heart health..",
             "clinical_range": "3.5 - 5.0",
             "optimal_range": "3.5 - 5.0",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
         },
         "Chloride": {
-            "description": "A mineral that helps keep the body's acid-base balance.",
+            "description": "Chloride is an important health marker for post menopausal women. It plays a crucial role in a mineral that helps keep the body's acid-base balance..",
             "clinical_range": "98 - 107",
             "optimal_range": "98 - 107",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
         },
-        "Carbon Dioxide (CO₂), Total": {
+        "Carbon Dioxide (CO\u2082), Total": {
             "description": "A measure of the body's acid-base balance.",
             "clinical_range": "22 - 29",
             "optimal_range": "22 - 29",
@@ -556,238 +556,238 @@
             "panel": "Metabolic Panel"
         },
         "Blood Urea Nitrogen (BUN)": {
-            "description": "A waste product in the blood that checks kidney function.",
+            "description": "Blood Urea Nitrogen (BUN) is an important health marker for post menopausal women. It plays a crucial role in a waste product in the blood that checks kidney function..",
             "clinical_range": "7 - 20",
             "optimal_range": "7 - 20",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "Creatinine": {
-            "description": "A waste product from muscles that helps check kidney function.",
+            "description": "Creatinine is an important health marker for post menopausal women. It plays a crucial role in a waste product from muscles that helps check kidney function..",
             "clinical_range": "0.6 - 1.3",
             "optimal_range": "0.6 - 1.3",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "BUN/Creatinine Ratio": {
-            "description": "A comparison of kidney function markers.",
+            "description": "BUN/Creatinine Ratio is an important health marker for post menopausal women. It plays a crucial role in a comparison of kidney function markers..",
             "clinical_range": "10 - 20",
             "optimal_range": "10 - 20",
             "units": ":1 Ratio",
             "panel": "Metabolic Panel"
         },
         "Total Protein": {
-            "description": "A measure of the total proteins in the blood, important for body functions.",
+            "description": "Total Protein is an important health marker for post menopausal women. It plays a crucial role in a measure of the total proteins in the blood, important for body functions..",
             "clinical_range": "6.0 - 8.3",
             "optimal_range": "6.0 - 8.3",
             "units": "g/dL",
             "panel": "Metabolic Panel"
         },
         "Albumin": {
-            "description": "A protein that helps keep fluids balanced in the blood.",
+            "description": "Albumin is an important health marker for post menopausal women. It plays a crucial role in a protein that helps keep fluids balanced in the blood..",
             "clinical_range": "3.5 - 5.0",
             "optimal_range": "3.5  -5.0",
             "units": "g/dL",
             "panel": "Metabolic Panel"
         },
         "Globulin, Total": {
-            "description": "A group of proteins that help with immune function.",
+            "description": "Globulin, Total is an important health marker for post menopausal women. It plays a crucial role in a group of proteins that help with immune function..",
             "clinical_range": "2.0  -3.5",
             "optimal_range": "2.0 - 3.5",
             "units": "g/dL",
             "panel": "Metabolic Panel"
         },
         "Albumin/Globulin (A/G) Ratio": {
-            "description": "A balance of two important blood proteins.",
+            "description": "Albumin/Globulin (A/G) Ratio is an important health marker for post menopausal women. It plays a crucial role in a balance of two important blood proteins..",
             "clinical_range": "1.0 - 2.5",
             "optimal_range": "1.0 - 2.5",
             "units": "Ratio",
             "panel": "Metabolic Panel"
         },
         "Total Bilirubin": {
-            "description": "A substance made when red blood cells break down, used to check liver function.",
+            "description": "Total Bilirubin is an important health marker for post menopausal women. It plays a crucial role in a substance made when red blood cells break down, used to check liver function..",
             "clinical_range": "0.1 - 1.2",
             "optimal_range": "0.1 - 1.2",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "Alkaline Phosphatase": {
-            "description": "An enzyme that checks liver and bone health.",
+            "description": "Alkaline Phosphatase is an important health marker for post menopausal women. It plays a crucial role in an enzyme that checks liver and bone health..",
             "clinical_range": "44 - 147",
             "optimal_range": "44 - 147",
             "units": "IU/L",
             "panel": "Metabolic Panel"
         },
         "Aspartate Aminotransferase (AST)": {
-            "description": "A liver enzyme used to check liver health.",
+            "description": "Aspartate Aminotransferase (AST) is an important health marker for post menopausal women. It plays a crucial role in a liver enzyme used to check liver health..",
             "clinical_range": "10 - 40",
             "optimal_range": "10 - 25",
             "units": "IU/L",
             "panel": "Metabolic Panel"
         },
         "Alanine Aminotransferase (ALT)": {
-            "description": "An enzyme that checks for liver damage.",
+            "description": "Alanine Aminotransferase (ALT) is an important health marker for post menopausal women. It plays a crucial role in an enzyme that checks for liver damage..",
             "clinical_range": "7 - 56",
             "optimal_range": "7 - 26",
             "units": "IU/L",
             "panel": "Metabolic Panel"
         },
         "Estimated Glomerular Filtration Rate (eGFR)": {
-            "description": "A measure of kidney function.",
+            "description": "Estimated Glomerular Filtration Rate (eGFR) is an important health marker for post menopausal women. It plays a crucial role in a measure of kidney function..",
             "clinical_range": ">60",
             "optimal_range": ">80",
-            "units": "mL/min/1.73 m²",
+            "units": "mL/min/1.73 m\u00b2",
             "panel": "Metabolic Panel"
         },
         "White Blood Cell (WBC) Count": {
-            "description": "A count of immune cells that fight infections.",
+            "description": "White Blood Cell (WBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of immune cells that fight infections..",
             "clinical_range": "4,500 - 11,000",
             "optimal_range": "4,500 - 11,000",
-            "units": "cells/µL",
+            "units": "cells/\u00b5L",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Blood Cell (RBC) Count": {
-            "description": "A count of cells that carry oxygen.",
+            "description": "Red Blood Cell (RBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of cells that carry oxygen..",
             "clinical_range": "3.77 - 5.28",
             "optimal_range": "4.8 - 5.1",
-            "units": "million cells/µL",
+            "units": "million cells/\u00b5L",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Hemoglobin (Hgb)": {
-            "description": "A protein in red blood cells that carries oxygen.",
+            "description": "Hemoglobin (Hgb) is an important health marker for post menopausal women. It plays a crucial role in a protein in red blood cells that carries oxygen..",
             "clinical_range": "11.1 - 15.9",
             "optimal_range": "11.1 - 15.9",
             "units": "g/dL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Hematocrit (Hct)": {
-            "description": "A measure of how much of the blood is made up of red blood cells.",
+            "description": "Hematocrit (Hct) is an important health marker for post menopausal women. It plays a crucial role in a measure of how much of the blood is made up of red blood cells..",
             "clinical_range": "34.0 - 46.6",
             "optimal_range": "34.0 - 46.6",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Corpuscular Volume (MCV)": {
-            "description": "A measure of the average size of red blood cells.",
+            "description": "Mean Corpuscular Volume (MCV) is an important health marker for post menopausal women. It plays a crucial role in a measure of the average size of red blood cells..",
             "clinical_range": "79 - 97",
             "optimal_range": "79 - 97",
             "units": "fL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Corpuscular Hemoglobin (MCH)": {
-            "description": "The average amount of hemoglobin in red blood cells.",
+            "description": "Mean Corpuscular Hemoglobin (MCH) is an important health marker for post menopausal women. It plays a crucial role in the average amount of hemoglobin in red blood cells..",
             "clinical_range": "26.6 - 33.0",
             "optimal_range": "26.6 - 33.0",
             "units": "pg",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Corpuscular Hemoglobin Concentration (MCHC)": {
-            "description": "A measure of hemoglobin concentration in red blood cells.",
+            "description": "Mean Corpuscular Hemoglobin Concentration (MCHC) is an important health marker for post menopausal women. It plays a crucial role in a measure of hemoglobin concentration in red blood cells..",
             "clinical_range": "32 - 36",
             "optimal_range": "32 - 36",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Cell Distribution Width (RDW)": {
-            "description": "A measure of variation in red blood cell size.",
+            "description": "Red Cell Distribution Width (RDW) is an important health marker for post menopausal women. It plays a crucial role in a measure of variation in red blood cell size..",
             "clinical_range": "11 - 15%",
             "optimal_range": "11 - 15",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Platelet Count": {
-            "description": "A measure of cells that help with blood clotting.",
+            "description": "Platelet Count is an important health marker for post menopausal women. It plays a crucial role in a measure of cells that help with blood clotting..",
             "clinical_range": "150,000 - 400,000",
             "optimal_range": "150,000 - 375,000",
-            "units": "cells/µL",
+            "units": "cells/\u00b5L",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Platelet Volume (MPV)": {
-            "description": "A measure of the average size of platelets.",
+            "description": "Mean Platelet Volume (MPV) is an important health marker for post menopausal women. It plays a crucial role in a measure of the average size of platelets..",
             "clinical_range": "7.0 - 9.0",
             "optimal_range": "7.0 - 9.0",
             "units": "fL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Neutrophils": {
-            "description": "A type of white blood cell that fights infections.",
+            "description": "Neutrophils is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell that fights infections..",
             "clinical_range": "50 - 70",
             "optimal_range": "50 - 70",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Lymphocytes": {
-            "description": "A type of white blood cell that helps with immune defense.",
+            "description": "Lymphocytes is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell that helps with immune defense..",
             "clinical_range": "18 - 42",
             "optimal_range": "18 - 42",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Monocytes": {
-            "description": "A type of white blood cell that helps fight infections.",
+            "description": "Monocytes is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell that helps fight infections..",
             "clinical_range": "3.5 - 9.0",
             "optimal_range": "3.5 - 9.0",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Eosinophils": {
-            "description": "A type of white blood cell involved in allergic reactions.",
+            "description": "Eosinophils is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell involved in allergic reactions..",
             "clinical_range": "1.0 - 3.0",
             "optimal_range": "1.0 - 2.6",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Basophils": {
-            "description": "A type of white blood cell involved in immune responses.",
+            "description": "Basophils is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell involved in immune responses..",
             "clinical_range": "0.0 - 2.0",
             "optimal_range": "0.0 - 2.0",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Total Cholesterol": {
-            "description": "A type of fat in the blood that affects heart health.",
+            "description": "Total Cholesterol is an important health marker for post menopausal women. It plays a crucial role in a type of fat in the blood that affects heart health..",
             "clinical_range": "100 - 199",
             "optimal_range": "100 - 170",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "HDL": {
-            "description": "The 'good' cholesterol that helps clear fats from the blood.",
+            "description": "HDL is an important health marker for post menopausal women. It plays a crucial role in the 'good' cholesterol that helps clear fats from the blood..",
             "clinical_range": ">50",
             "optimal_range": ">60",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "LDL (calculated)": {
-            "description": "The 'bad' cholesterol that can clog arteries.",
+            "description": "LDL (calculated) is an important health marker for post menopausal women. It plays a crucial role in the 'bad' cholesterol that can clog arteries..",
             "clinical_range": "0 - 129",
             "optimal_range": "0 - 99",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "Triglycerides": {
-            "description": "A type of fat that stores energy in the blood.",
+            "description": "Triglycerides is an important health marker for post menopausal women. It plays a crucial role in a type of fat that stores energy in the blood..",
             "clinical_range": "0 - 149",
             "optimal_range": "0 - 100",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "VLDL (calculated)": {
-            "description": "A type of fat that carries triglycerides in the blood.",
+            "description": "VLDL (calculated) is an important health marker for post menopausal women. It plays a crucial role in a type of fat that carries triglycerides in the blood..",
             "clinical_range": "5 - 40",
             "optimal_range": "5 - 15",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "Total Cholesterol/HDL Ratio": {
-            "description": "A ratio used to assess heart disease risk.",
+            "description": "Total Cholesterol/HDL Ratio is an important health marker for post menopausal women. It plays a crucial role in a ratio used to assess heart disease risk..",
             "clinical_range": "<4.4",
             "optimal_range": "<3.0",
             "units": "ratio",
             "panel": "Lipid Panel"
         },
         "LDL/HDL Ratio": {
-            "description": "A ratio of bad to good cholesterol.",
+            "description": "LDL/HDL Ratio is an important health marker for post menopausal women. It plays a crucial role in a ratio of bad to good cholesterol..",
             "clinical_range": "<3.2",
             "optimal_range": "<1.8",
             "units": "ratio",
@@ -796,111 +796,111 @@
     },
     "Post Menopausal Women": {
         "Total Testosterone": {
-            "description": "A key hormone responsible for muscle growth, energy, and overall health.",
+            "description": "Total Testosterone is an important health marker for post menopausal women. It plays a crucial role in a key hormone responsible for muscle growth, energy, and overall health..",
             "clinical_range": "4 - 50",
             "optimal_range": "10 - 40",
             "units": "ng/dL",
             "panel": "Hormonal Panel"
         },
         "Free Testosterone": {
-            "description": "The active form of testosterone that is available for use in the body.",
+            "description": "Free Testosterone is an important health marker for post menopausal women. It plays a crucial role in the active form of testosterone that is available for use in the body..",
             "clinical_range": "0.0 - 4.2",
             "optimal_range": "1.0 - 3.0",
             "units": "ng/dL",
             "panel": "Hormonal Panel"
         },
         "Estradiol": {
-            "description": "A type of estrogen that plays a role in reproductive health and bone strength.",
+            "description": "Estradiol is an important health marker for post menopausal women. It plays a crucial role in a type of estrogen that plays a role in reproductive health and bone strength..",
             "clinical_range": "0 - 30",
             "optimal_range": "10 - 30",
             "units": "pg/mL",
             "panel": "Hormonal Panel"
         },
         "SHBG": {
-            "description": "A protein that controls how much testosterone and estrogen are available in the body.",
+            "description": "SHBG is an important health marker for post menopausal women. It plays a crucial role in a protein that controls how much testosterone and estrogen are available in the body..",
             "clinical_range": "24.6 - 122.0",
             "optimal_range": "70.0 - 110.0",
             "units": "nmol/L",
             "panel": "Hormonal Panel"
         },
         "Prolactin": {
-            "description": "A hormone involved in milk production and hormone balance.",
+            "description": "Prolactin is an important health marker for post menopausal women. It plays a crucial role in a hormone involved in milk production and hormone balance..",
             "clinical_range": "3.6 - 25.2",
             "optimal_range": "3.6 - 15",
             "units": "ng/mL",
             "panel": "Hormonal Panel"
         },
         "Luteinizing Hormone (LH)": {
-            "description": "A hormone that signals the testes or ovaries to produce testosterone or estrogen.",
+            "description": "Luteinizing Hormone (LH) is an important health marker for post menopausal women. It plays a crucial role in a hormone that signals the testes or ovaries to produce testosterone or estrogen..",
             "clinical_range": "15 - 65",
             "optimal_range": "15 - 65",
             "units": "mIU/mL",
             "panel": "Hormonal Panel"
         },
         "Follicle-Stimulating Hormone (FSH)": {
-            "description": "FSH is a key reproductive hormone produced by the pituitary gland that regulates ovarian function and estrogen production in pre-menopausal women. After menopause, FSH levels increase significantly due to the loss of ovarian function and estrogen production.",
+            "description": "Follicle-Stimulating Hormone (FSH) is an important health marker for post menopausal women. It plays a crucial role in fsh is a key reproductive hormone produced by the pituitary gland that regulates ovarian function and estrogen production in pre-menopausal women. after menopause, fsh levels increase significantly due to the loss of ovarian function and estrogen production..",
             "clinical_range": "25 - 135",
             "optimal_range": "25 - 135",
             "units": "mIU/mL",
             "panel": "Hormonal Panel"
         },
         "DHEA-S": {
-            "description": "DHEA-S is a hormone produced primarily by the adrenal glands and is a precursor to testosterone and estrogen. It plays a crucial role in energy levels, metabolism, immune function, and cognitive health. Unlike other hormones that fluctuate daily, DHEA-S remains relatively stable throughout the day, making it an excellent marker of adrenal function and overall hormone balance.",
+            "description": "DHEA-S is an important health marker for post menopausal women. It plays a crucial role in dhea-s is a hormone produced primarily by the adrenal glands and is a precursor to testosterone and estrogen. it plays a crucial role in energy levels, metabolism, immune function, and cognitive health. unlike other hormones that fluctuate daily, dhea-s remains relatively stable throughout the day, making it an excellent marker of adrenal function and overall hormone balance..",
             "clinical_range": "41.2 - 243.0",
             "optimal_range": "50.0 - 150.0",
             "units": "ug/dL",
             "panel": "Hormonal Panel"
         },
         "Progesterone": {
-            "description": "Progesterone is a steroid hormone primarily known for its role in female reproductive health, but it also plays a key role in men’s hormone balance, brain function, and metabolic health. In both sexes, it modulates the effects of estrogen and testosterone, supports brain function, and affects mood, sleep, and metabolism.",
+            "description": "Progesterone is an important health marker for post menopausal women. It plays a crucial role in progesterone is a steroid hormone primarily known for its role in female reproductive health, but it also plays a key role in men\u00e2\u20ac\u2122s hormone balance, brain function, and metabolic health. in both sexes, it modulates the effects of estrogen and testosterone, supports brain function, and affects mood, sleep, and metabolism..",
             "clinical_range": "0.1 - 1.0",
             "optimal_range": "0.1 - 1.0",
             "units": "ng/mL",
             "panel": "Hormonal Panel"
         },
         "Free T3": {
-            "description": "An active thyroid hormone that controls energy use in the body.",
+            "description": "Free T3 is an important health marker for post menopausal women. It plays a crucial role in an active thyroid hormone that controls energy use in the body..",
             "clinical_range": "2.0 - 4.4",
             "optimal_range": "3.2 - 4.2",
             "units": "pg/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Free T4": {
-            "description": "A thyroid hormone that helps control metabolism and energy levels.",
+            "description": "Free T4 is an important health marker for post menopausal women. It plays a crucial role in a thyroid hormone that helps control metabolism and energy levels..",
             "clinical_range": "0.82 - 1.77",
             "optimal_range": "0.82 - 1.77",
             "units": "ng/dL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "IGF-1": {
-            "description": "IGF-1 is a hormone primarily produced by the liver in response to growth hormone (GH) stimulation. It plays a critical role in growth, muscle development, metabolism, and cellular repair. IGF-1 is structurally similar to insulin and has powerful effects on cell growth, protein synthesis, and glucose metabolism",
+            "description": "IGF-1 is an important health marker for post menopausal women. It plays a crucial role in igf-1 is a hormone primarily produced by the liver in response to growth hormone (gh) stimulation. it plays a critical role in growth, muscle development, metabolism, and cellular repair. igf-1 is structurally similar to insulin and has powerful effects on cell growth, protein synthesis, and glucose metabolism.",
             "clinical_range": "125 - 300",
             "optimal_range": "100 - 200",
             "units": "ng/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "HbA1c": {
-            "description": "A measure of blood sugar levels over the past three months.",
-            "clinical_range": "4.8 - 5.6", 
+            "description": "HbA1c is an important health marker for post menopausal women. It plays a crucial role in a measure of blood sugar levels over the past three months..",
+            "clinical_range": "4.8 - 5.6",
             "optimal_range": "4.8 - 5.3",
             "units": "%",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Fasting Insulin": {
-            "description": "A hormone that controls blood sugar levels, measured after fasting.",
+            "description": "Fasting Insulin is an important health marker for post menopausal women. It plays a crucial role in a hormone that controls blood sugar levels, measured after fasting..",
             "clinical_range": "2.6 - 24.9",
             "optimal_range": "2.6 - 8.0",
             "units": "uIU/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Vitamin D (25-OH)": {
-            "description": "A vitamin that helps with bone strength and immune health.",
+            "description": "Vitamin D (25-OH) is an important health marker for post menopausal women. It plays a crucial role in a vitamin that helps with bone strength and immune health..",
             "clinical_range": "30 - 100",
             "optimal_range": "60 - 80",
             "units": "ng/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
-        "γ-Glutamyl Transferase (GGT)": {
+        "\u03b3-Glutamyl Transferase (GGT)": {
             "description": "GGT is an enzyme primarily found in the liver that plays a crucial role in detoxification, oxidative stress regulation, and bile production. It helps break down and transport glutathione, a key antioxidant that protects cells from damage.",
             "clinical_range": "9 - 48",
             "optimal_range": "9 - 20",
@@ -908,41 +908,41 @@
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Glucose": {
-            "description": "A sugar in the blood that provides energy.",
+            "description": "Glucose is an important health marker for post menopausal women. It plays a crucial role in a sugar in the blood that provides energy..",
             "clinical_range": "70 - 99",
             "optimal_range": "70 - 85",
             "units": "mg/dL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Calcium": {
-            "description": "A mineral important for strong bones and nerve function.",
+            "description": "Calcium is an important health marker for post menopausal women. It plays a crucial role in a mineral important for strong bones and nerve function..",
             "clinical_range": "8.5 - 10.5",
             "optimal_range": "8.5 - 10.5",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "Sodium": {
-            "description": "A mineral that helps regulate water balance and nerve function.",
+            "description": "Sodium is an important health marker for post menopausal women. It plays a crucial role in a mineral that helps regulate water balance and nerve function..",
             "clinical_range": "135.0 - 145.0",
             "optimal_range": "135.0 - 145.0",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
         },
         "Potassium": {
-            "description": "A mineral that helps with muscle function and heart health.",
+            "description": "Potassium is an important health marker for post menopausal women. It plays a crucial role in a mineral that helps with muscle function and heart health..",
             "clinical_range": "3.5 - 5.0",
             "optimal_range": "3.5 - 5.0",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
         },
         "Chloride": {
-            "description": "A mineral that helps keep the body's acid-base balance.",
+            "description": "Chloride is an important health marker for post menopausal women. It plays a crucial role in a mineral that helps keep the body's acid-base balance..",
             "clinical_range": "98.0 - 107.0",
             "optimal_range": "98.0 - 107.0",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
         },
-        "Carbon Dioxide (CO₂), Total": {
+        "Carbon Dioxide (CO\u2082), Total": {
             "description": "A measure of the body's acid-base balance.",
             "clinical_range": "22.0 - 29.0",
             "optimal_range": "22.0 - 29.0",
@@ -950,238 +950,238 @@
             "panel": "Metabolic Panel"
         },
         "Blood Urea Nitrogen (BUN)": {
-            "description": "A waste product in the blood that checks kidney function.",
+            "description": "Blood Urea Nitrogen (BUN) is an important health marker for post menopausal women. It plays a crucial role in a waste product in the blood that checks kidney function..",
             "clinical_range": "7.0 - 20.0",
             "optimal_range": "7.0 - 20.0",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "Creatinine": {
-            "description": "A waste product from muscles that helps check kidney function.",
+            "description": "Creatinine is an important health marker for post menopausal women. It plays a crucial role in a waste product from muscles that helps check kidney function..",
             "clinical_range": "0.6 - 1.3",
             "optimal_range": "0.6 - 1.3",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "BUN/Creatinine Ratio": {
-            "description": "A comparison of kidney function markers.",
+            "description": "BUN/Creatinine Ratio is an important health marker for post menopausal women. It plays a crucial role in a comparison of kidney function markers..",
             "clinical_range": "10 - 20",
             "optimal_range": "10 - 20",
             "units": ":1 Ratio",
             "panel": "Metabolic Panel"
         },
         "Total Protein": {
-            "description": "A measure of the total proteins in the blood, important for body functions.",
+            "description": "Total Protein is an important health marker for post menopausal women. It plays a crucial role in a measure of the total proteins in the blood, important for body functions..",
             "clinical_range": "6.0 - 8.3",
             "optimal_range": "6.0 - 8.3",
             "units": "g/dL",
             "panel": "Metabolic Panel"
         },
         "Albumin": {
-            "description": "A protein that helps keep fluids balanced in the blood.",
+            "description": "Albumin is an important health marker for post menopausal women. It plays a crucial role in a protein that helps keep fluids balanced in the blood..",
             "clinical_range": "3.5 - 5.0",
             "optimal_range": "3.5 - 5.0",
             "units": "g/dL",
             "panel": "Metabolic Panel"
         },
         "Globulin, Total": {
-            "description": "A group of proteins that help with immune function.",
+            "description": "Globulin, Total is an important health marker for post menopausal women. It plays a crucial role in a group of proteins that help with immune function..",
             "clinical_range": "2.0 - 3.5",
             "optimal_range": "2.0 - 3.5",
             "units": "g/dL",
             "panel": "Metabolic Panel"
         },
         "Albumin/Globulin (A/G) Ratio": {
-            "description": "A balance of two important blood proteins.",
+            "description": "Albumin/Globulin (A/G) Ratio is an important health marker for post menopausal women. It plays a crucial role in a balance of two important blood proteins..",
             "clinical_range": "1.0 - 2.5",
             "optimal_range": "1.0 - 2.5",
             "units": "ratio",
             "panel": "Metabolic Panel"
         },
         "Total Bilirubin": {
-            "description": "A substance made when red blood cells break down, used to check liver function.",
+            "description": "Total Bilirubin is an important health marker for post menopausal women. It plays a crucial role in a substance made when red blood cells break down, used to check liver function..",
             "clinical_range": "0.1 - 1.2",
             "optimal_range": "0.1 - 1.2",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
         "Alkaline Phosphatase": {
-            "description": "An enzyme that checks liver and bone health.",
+            "description": "Alkaline Phosphatase is an important health marker for post menopausal women. It plays a crucial role in an enzyme that checks liver and bone health..",
             "clinical_range": "44.0 - 147.0",
             "optimal_range": "44.0 - 147.0",
             "units": "IU/L",
             "panel": "Metabolic Panel"
         },
         "Aspartate Aminotransferase (AST)": {
-            "description": "A liver enzyme used to check liver health.",
+            "description": "Aspartate Aminotransferase (AST) is an important health marker for post menopausal women. It plays a crucial role in a liver enzyme used to check liver health..",
             "clinical_range": "10.0 - 40.0",
             "optimal_range": "10.0 -25.0",
             "units": "IU/L",
             "panel": "Metabolic Panel"
         },
         "Alanine Aminotransferase (ALT)": {
-            "description": "An enzyme that checks for liver damage.",
+            "description": "Alanine Aminotransferase (ALT) is an important health marker for post menopausal women. It plays a crucial role in an enzyme that checks for liver damage..",
             "clinical_range": "7.0 - 56.0",
             "optimal_range": "7.0 - 26.0",
             "units": "IU/L",
             "panel": "Metabolic Panel"
         },
         "Estimated Glomerular Filtration Rate (eGFR)": {
-            "description": "A measure of kidney function.",
+            "description": "Estimated Glomerular Filtration Rate (eGFR) is an important health marker for post menopausal women. It plays a crucial role in a measure of kidney function..",
             "clinical_range": ">60",
             "optimal_range": ">75",
-            "units": "mL/min/1.73 m²",
+            "units": "mL/min/1.73 m\u00b2",
             "panel": "Metabolic Panel"
         },
         "White Blood Cell (WBC) Count": {
-            "description": "A count of immune cells that fight infections.",
+            "description": "White Blood Cell (WBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of immune cells that fight infections..",
             "clinical_range": "4,500 - 11,000",
             "optimal_range": "4,500 - 11,000",
-            "units": "cells/µL",
+            "units": "cells/\u00b5L",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Blood Cell (RBC) Count": {
-            "description": "A count of cells that carry oxygen.",
+            "description": "Red Blood Cell (RBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of cells that carry oxygen..",
             "clinical_range": "3.77 - 5.28",
             "optimal_range": "4.80 - 5.10",
-            "units": "million cells/µL",
+            "units": "million cells/\u00b5L",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Hemoglobin (Hgb)": {
-            "description": "A protein in red blood cells that carries oxygen.",
+            "description": "Hemoglobin (Hgb) is an important health marker for post menopausal women. It plays a crucial role in a protein in red blood cells that carries oxygen..",
             "clinical_range": "11.1 - 15.9",
             "optimal_range": "11.1 - 15.9",
             "units": "g/dL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Hematocrit (Hct)": {
-            "description": "A measure of how much of the blood is made up of red blood cells.",
+            "description": "Hematocrit (Hct) is an important health marker for post menopausal women. It plays a crucial role in a measure of how much of the blood is made up of red blood cells..",
             "clinical_range": "34.0 - 46.6",
             "optimal_range": "34.0 - 46.6",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Corpuscular Volume (MCV)": {
-            "description": "A measure of the average size of red blood cells.",
+            "description": "Mean Corpuscular Volume (MCV) is an important health marker for post menopausal women. It plays a crucial role in a measure of the average size of red blood cells..",
             "clinical_range": "79 - 97",
             "optimal_range": "79 - 97",
             "units": "fL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Corpuscular Hemoglobin (MCH)": {
-            "description": "The average amount of hemoglobin in red blood cells.",
+            "description": "Mean Corpuscular Hemoglobin (MCH) is an important health marker for post menopausal women. It plays a crucial role in the average amount of hemoglobin in red blood cells..",
             "clinical_range": "26.6 - 33.0",
             "optimal_range": "26.6 - 33.0",
             "units": "pg",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Corpuscular Hemoglobin Concentration (MCHC)": {
-            "description": "A measure of hemoglobin concentration in red blood cells.",
+            "description": "Mean Corpuscular Hemoglobin Concentration (MCHC) is an important health marker for post menopausal women. It plays a crucial role in a measure of hemoglobin concentration in red blood cells..",
             "clinical_range": "32 - 36",
             "optimal_range": "32 - 36",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Cell Distribution Width (RDW)": {
-            "description": "A measure of variation in red blood cell size.",
+            "description": "Red Cell Distribution Width (RDW) is an important health marker for post menopausal women. It plays a crucial role in a measure of variation in red blood cell size..",
             "clinical_range": "11 - 15",
             "optimal_range": "11 - 15",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Platelet Count": {
-            "description": "A measure of cells that help with blood clotting.",
+            "description": "Platelet Count is an important health marker for post menopausal women. It plays a crucial role in a measure of cells that help with blood clotting..",
             "clinical_range": "150,000 - 400,000",
             "optimal_range": "180,000 - 350,000",
-            "units": "cells/µL",
+            "units": "cells/\u00b5L",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Platelet Volume (MPV)": {
-            "description": "A measure of the average size of platelets.",
+            "description": "Mean Platelet Volume (MPV) is an important health marker for post menopausal women. It plays a crucial role in a measure of the average size of platelets..",
             "clinical_range": "7.0 to 9.0",
             "optimal_range": "7.0 to 9.0",
             "units": "fL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Neutrophils": {
-            "description": "A type of white blood cell that fights infections.",
+            "description": "Neutrophils is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell that fights infections..",
             "clinical_range": "50 - 70",
             "optimal_range": "50 - 70",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Lymphocytes": {
-            "description": "A type of white blood cell that helps with immune defense.",
+            "description": "Lymphocytes is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell that helps with immune defense..",
             "clinical_range": "18 - 42",
             "optimal_range": "18 - 42",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Monocytes": {
-            "description": "A type of white blood cell that helps fight infections.",
+            "description": "Monocytes is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell that helps fight infections..",
             "clinical_range": "3.5 - 9.0",
             "optimal_range": "3.5 - 9.0",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Eosinophils": {
-            "description": "A type of white blood cell involved in allergic reactions.",
+            "description": "Eosinophils is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell involved in allergic reactions..",
             "clinical_range": "1.0 - 3.0",
             "optimal_range": "1.0 - 2.6",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Basophils": {
-            "description": "A type of white blood cell involved in immune responses.",
+            "description": "Basophils is an important health marker for post menopausal women. It plays a crucial role in a type of white blood cell involved in immune responses..",
             "clinical_range": "0.0 - 2.0",
             "optimal_range": "0.0 - 2.0",
             "units": "%",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Total Cholesterol": {
-            "description": "A type of fat in the blood that affects heart health.",
+            "description": "Total Cholesterol is an important health marker for post menopausal women. It plays a crucial role in a type of fat in the blood that affects heart health..",
             "clinical_range": "100 - 199",
             "optimal_range": "100 - 190",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "HDL": {
-            "description": "The 'good' cholesterol that helps clear fats from the blood.",
+            "description": "HDL is an important health marker for post menopausal women. It plays a crucial role in the 'good' cholesterol that helps clear fats from the blood..",
             "clinical_range": ">50",
             "optimal_range": ">60",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "LDL (calculated)": {
-            "description": "The 'bad' cholesterol that can clog arteries.",
+            "description": "LDL (calculated) is an important health marker for post menopausal women. It plays a crucial role in the 'bad' cholesterol that can clog arteries..",
             "clinical_range": "0 - 129",
             "optimal_range": "0 - 110",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "Triglycerides": {
-            "description": "A type of fat that stores energy in the blood.",
+            "description": "Triglycerides is an important health marker for post menopausal women. It plays a crucial role in a type of fat that stores energy in the blood..",
             "clinical_range": "0 - 149",
             "optimal_range": "0 - 120",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "VLDL (calculated)": {
-            "description": "A type of fat that carries triglycerides in the blood.",
+            "description": "VLDL (calculated) is an important health marker for post menopausal women. It plays a crucial role in a type of fat that carries triglycerides in the blood..",
             "clinical_range": "5 - 40",
             "optimal_range": "5 - 20",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
         "Total Cholesterol/HDL Ratio": {
-            "description": "A ratio used to assess heart disease risk.",
+            "description": "Total Cholesterol/HDL Ratio is an important health marker for post menopausal women. It plays a crucial role in a ratio used to assess heart disease risk..",
             "clinical_range": "<4.4",
             "optimal_range": "<3.5",
             "units": "ratio",
             "panel": "Lipid Panel"
         },
         "LDL/HDL Ratio": {
-            "description": "A ratio of bad to good cholesterol.",
+            "description": "LDL/HDL Ratio is an important health marker for post menopausal women. It plays a crucial role in a ratio of bad to good cholesterol..",
             "clinical_range": "<3.2",
             "optimal_range": "<2.0",
             "units": "ratio",
