@@ -6307,5 +6307,43 @@
             }
         ],
         "timestamp": "2025-02-14T17:53:33.944923"
+    },
+    {
+        "member_name": "Danni West",
+        "manager": "Justin",
+        "membership": [
+            "Peptide, Sex and Hair Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Selank",
+                "description": "Selank is a synthetic heptapeptide derived from the naturally occurring immunomodulatory peptide Tuftsin. It is designed to enhance cognitive function, reduce anxiety, and promote overall mental well-being without sedative effects. Clinically studied for its nootropic and anxiolytic properties, Selank supports neurotransmitter balance, enhances focus, and helps regulate stress responses.",
+                "indication": "Cognitive Impairment and Brain Fog \u2013 Supports mental clarity and focus in individuals experiencing cognitive decline or workload-related mental fatigue.\nAnxiety and Stress Management \u2013 Effective for generalized anxiety disorder (GAD) and social anxiety without the sedative effects of traditional medications.\nNeurodegenerative Conditions \u2013 Potential adjunct in supporting brain function in Alzheimer\u2019s and age-related cognitive decline.\nFatigue and Burnout \u2013 Aids in stress adaptation and mental resilience."
+            },
+            {
+                "name": "Selank",
+                "description": "Selank is a synthetic heptapeptide derived from the naturally occurring immunomodulatory peptide Tuftsin. It is designed to enhance cognitive function, reduce anxiety, and promote overall mental well-being without sedative effects. Clinically studied for its nootropic and anxiolytic properties, Selank supports neurotransmitter balance, enhances focus, and helps regulate stress responses.",
+                "indication": "Cognitive Impairment and Brain Fog \u2013 Supports mental clarity and focus in individuals experiencing cognitive decline or workload-related mental fatigue.\nAnxiety and Stress Management \u2013 Effective for generalized anxiety disorder (GAD) and social anxiety without the sedative effects of traditional medications.\nNeurodegenerative Conditions \u2013 Potential adjunct in supporting brain function in Alzheimer\u2019s and age-related cognitive decline.\nFatigue and Burnout \u2013 Aids in stress adaptation and mental resilience."
+            },
+            {
+                "name": "Oxytocin",
+                "description": "Oxytocin is a naturally occurring peptide hormone and neurotransmitter primarily known for its role in social bonding, emotional regulation, and stress reduction. Often referred to as the \u201clove hormone,\u201d it plays a key role in trust, intimacy, and human connection. Research suggests oxytocin may also aid in reducing anxiety, improving emotional resilience, and even enhancing metabolic and cardiovascular health.",
+                "indication": "Social Anxiety and Emotional Dysregulation \u2013 Supports individuals with social anxiety or difficulty forming emotional connections.\nDepression and Mood Disorders \u2013 May be beneficial in adjunctive treatment for mood imbalances.\nPostpartum Recovery \u2013 Supports maternal bonding and postpartum emotional well-being.\nSexual Health and Libido Enhancement \u2013 Used for arousal dysfunction and enhancing intimacy"
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            }
+        ],
+        "timestamp": "2025-02-18T00:45:58.299854"
     }
 ]
