@@ -112,7 +112,7 @@
             "units": "ng/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
-        "\u03b3-Glutamyl Transferase (GGT)": {
+        "Glutamyl Transferase (GGT)": {
             "description": "GGT is an enzyme primarily found in the liver that plays a crucial role in detoxification, oxidative stress regulation, and bile production. It helps break down and transport glutathione, a key antioxidant that protects cells from damage.",
             "clinical_range": "9 - 48",
             "optimal_range": "9 - 25",
@@ -506,7 +506,7 @@
             "units": "ng/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
-        "\u03b3-Glutamyl Transferase (GGT)": {
+        "Glutamyl Transferase (GGT)": {
             "description": "GGT is an enzyme primarily found in the liver that plays a crucial role in detoxification, oxidative stress regulation, and bile production. It helps break down and transport glutathione, a key antioxidant that protects cells from damage.",
             "clinical_range": "9 - 48",
             "optimal_range": "9 - 25",
@@ -900,7 +900,7 @@
             "units": "ng/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
-        "\u03b3-Glutamyl Transferase (GGT)": {
+        "Glutamyl Transferase (GGT)": {
             "description": "GGT is an enzyme primarily found in the liver that plays a crucial role in detoxification, oxidative stress regulation, and bile production. It helps break down and transport glutathione, a key antioxidant that protects cells from damage.",
             "clinical_range": "9 - 48",
             "optimal_range": "9 - 20",
