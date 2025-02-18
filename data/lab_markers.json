@@ -5,69 +5,69 @@
             "clinical_range": "264 - 916",
             "optimal_range": "600 - 1400",
             "units": "ng/dL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Free Testosterone": {
             "description": "Free Testosterone is an important health marker for post menopausal women. It plays a crucial role in the active form of testosterone that is available for use in the body..",
             "clinical_range": "6.8 - 21.5",
             "optimal_range": "18.0 -27.0",
             "units": "ng/dL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Estradiol": {
             "description": "Estradiol is an important health marker for post menopausal women. It plays a crucial role in a type of estrogen that plays a role in reproductive health and bone strength..",
             "clinical_range": "7.6 - 42.6",
             "optimal_range": "7.6 - 55.0",
             "units": "pg/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Sex Hormone Binding Globulin (SHBG)": {
             "description": "Sex Hormone Binding Globulin (SHBG) is an important health marker for women. It plays a crucial role in a protein that controls how much testosterone and estrogen are available in the body.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "16.5 - 55.9",
             "optimal_range": "16.5 - 55.9",
             "units": "nmol/L",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Prolactin": {
             "description": "Prolactin is an important health marker for post menopausal women. It plays a crucial role in a hormone involved in milk production and hormone balance..",
             "clinical_range": "3.6 - 31.5",
             "optimal_range": "3.6 - 12.0",
             "units": "ng/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Luteinizing Hormone (LH)": {
             "description": "Luteinizing Hormone (LH) is an important health marker for post menopausal women. It plays a crucial role in a hormone that signals the testes or ovaries to produce testosterone or estrogen..",
             "clinical_range": "1.7 - 8.6",
             "optimal_range": "1.7 - 6.0",
             "units": "mIU/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Follicle-Stimulating Hormone (FSH)": {
             "description": "Follicle-Stimulating Hormone (FSH) is an important health marker for post menopausal women. It plays a crucial role in fsh is a key reproductive hormone produced by the pituitary gland that regulates ovarian function and estrogen production in pre-menopausal women. after menopause, fsh levels increase significantly due to the loss of ovarian function and estrogen production..",
             "clinical_range": "1.5 - 12.4",
             "optimal_range": "1.5 - 12.4",
             "units": "mIU/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Dehydroepiandrosterone Sulfate (DHEA-S)": {
             "description": "Dehydroepiandrosterone Sulfate (DHEA-S) is an important health marker for women. It plays a crucial role in a hormone that helps make other hormones like testosterone and estrogen.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "102.6 - 416.3",
             "optimal_range": "300.0 - 500.0",
             "units": "ug/dl",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Prostate Specific Antigen (PSA)": {
             "description": "Prostate Specific Antigen (PSA) is an important health marker for men. It plays a crucial role in a protein made by the prostate gland, used to check prostate health. if psa is elevated but not drastically high, consider these non-cancerous causes: recent ejaculation (psa can rise for up to 48 hours after), vigorous exercise or cycling (can increase psa for 24-48 hours), prostate infections or inflammation (prostatitis), benign prostatic hyperplasia (bph). Common with aging, urinary tract infections (utis), recent digital rectal exam (dre) or prostate biopsy. PSA naturally increases with age, so age-specific reference ranges can be useful: 40-49 years: 0-2.5 ng/ml, 50-59 years: 0-3.5 ng/ml, 60-69 years: 0-4.5 ng/ml, 70+ years: 0-6.5 ng/ml. For men, optimal levels support muscle growth, strength, energy, and sexual health. Low levels may lead to fatigue, weight gain, mood changes, and reduced libido. Lifestyle factors such as strength training, a high-protein diet, and sufficient sleep can help maintain optimal levels.",
             "clinical_range": "0.0 - 4.0",
             "optimal_range": "0.6 - 2.0",
             "units": "ng/ml",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "TSH": {
             "description": "TSH is an important health marker for men. It plays a crucial role in a hormone that controls how fast the thyroid works to regulate metabolism.. For men, optimal levels support muscle growth, strength, energy, and sexual health. Low levels may lead to fatigue, weight gain, mood changes, and reduced libido. Lifestyle factors such as strength training, a high-protein diet, and sufficient sleep can help maintain optimal levels.",
             "clinical_range": "0.45 - 4.5",
             "optimal_range": "1.0 - 2.0",
-            "units": "\u00b5IU/mL",
+            "units": "µIU/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Free T3": {
@@ -102,7 +102,7 @@
             "description": "Fasting Insulin is an important health marker for post menopausal women. It plays a crucial role in a hormone that controls blood sugar levels, measured after fasting..",
             "clinical_range": "2.6 - 24.9",
             "optimal_range": "2.6 - 10.0",
-            "units": "uIU/mL",
+            "units": "µIU/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Vitamin D (25-OH)": {
@@ -242,21 +242,21 @@
             "description": "Estimated Glomerular Filtration Rate (eGFR) is an important health marker for post menopausal women. It plays a crucial role in a measure of kidney function..",
             "clinical_range": ">60",
             "optimal_range": ">80",
-            "units": "mL/min/1.73 m\u00b2",
+            "units": "mL/min/1.73 m²",
             "panel": "Metabolic Panel"
         },
         "White Blood Cell (WBC) Count": {
             "description": "White Blood Cell (WBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of immune cells that fight infections..",
             "clinical_range": "4,500 - 11,000",
             "optimal_range": "4,500 - 11,000",
-            "units": "cells/\u00b5L",
+            "units": "cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Blood Cell (RBC) Count": {
             "description": "Red Blood Cell (RBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of cells that carry oxygen..",
             "clinical_range": "4.2 - 5.9",
             "optimal_range": "4.9 - 5.9",
-            "units": "million cells/\u00b5L",
+            "units": "million cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Hemoglobin (Hgb)": {
@@ -305,7 +305,7 @@
             "description": "Platelet Count is an important health marker for post menopausal women. It plays a crucial role in a measure of cells that help with blood clotting..",
             "clinical_range": "150,000 - 400,000",
             "optimal_range": "180,000 - 350,000",
-            "units": "cells/\u00b5L",
+            "units": "cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Platelet Volume (MPV)": {
@@ -406,63 +406,63 @@
             "clinical_range": "4 - 50",
             "optimal_range": "25 - 75",
             "units": "ng/dL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Free Testosterone": {
             "description": "Free Testosterone is an important health marker for post menopausal women. It plays a crucial role in the active form of testosterone that is available for use in the body..",
             "clinical_range": "0.0 - 4.2",
             "optimal_range": "2.0 - 4.2",
             "units": "ng/dL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Estradiol": {
             "description": "Estradiol is an important health marker for post menopausal women. It plays a crucial role in a type of estrogen that plays a role in reproductive health and bone strength..",
             "clinical_range": "43.8 - 211.0",
             "optimal_range": "43.8 - 211.0",
             "units": "pg/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Sex Hormone Binding Globulin (SHBG)": {
             "description": "Sex Hormone Binding Globulin (SHBG) is an important health marker for women. It plays a crucial role in a protein that controls how much testosterone and estrogen are available in the body.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "24.6 - 122.0",
             "optimal_range": "80 - 120",
             "units": "nmol/L",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Prolactin": {
             "description": "Prolactin is an important health marker for post menopausal women. It plays a crucial role in a hormone involved in milk production and hormone balance..",
             "clinical_range": "3.6 - 25.2",
             "optimal_range": "3.6  - 10.0",
             "units": "ng/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Luteinizing Hormone (LH)": {
             "description": "Luteinizing Hormone (LH) is an important health marker for post menopausal women. It plays a crucial role in a hormone that signals the testes or ovaries to produce testosterone or estrogen..",
             "clinical_range": "1.0 - 11.4",
             "optimal_range": "1.0 - 11.4",
             "units": "mIU/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Follicle-Stimulating Hormone (FSH)": {
             "description": "Follicle-Stimulating Hormone (FSH) is an important health marker for post menopausal women. It plays a crucial role in fsh is a key reproductive hormone produced by the pituitary gland that regulates ovarian function and estrogen production in pre-menopausal women. after menopause, fsh levels increase significantly due to the loss of ovarian function and estrogen production..",
             "clinical_range": "1.7 - 7.7",
             "optimal_range": "1.7 - 7.7",
             "units": "mIU/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Dehydroepiandrosterone Sulfate (DHEA-S)": {
             "description": "Dehydroepiandrosterone Sulfate (DHEA-S) is an important health marker for women. It plays a crucial role in a hormone that helps make other hormones like testosterone and estrogen.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "41.2  -243.0",
             "optimal_range": "175 - 241.0",
             "units": "ug/dl",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Progesterone (Luteal Phase)": {
             "description": "Progesterone (Luteal Phase) is an important health marker for women. It plays a crucial role in progesterone is a steroid hormone primarily known for its role in female reproductive health, but it also plays a role in men\u00e2\u20ac\u2122s hormone balance, brain function, and overall well-being. in both sexes, it influences mood, metabolism, and immune function.. For women, this marker is essential for hormone balance, mood stability, and metabolic function. Imbalances can result in irregular cycles, fatigue, and difficulty maintaining a healthy weight. Maintaining a balanced diet, stress management, and regular exercise can help regulate this marker.",
             "clinical_range": "1.8 - 23.9",
             "optimal_range": "11.0 - 23.9",
             "units": "ng/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Free T3": {
             "description": "Free T3 is an important health marker for post menopausal women. It plays a crucial role in an active thyroid hormone that controls energy use in the body..",
@@ -636,21 +636,21 @@
             "description": "Estimated Glomerular Filtration Rate (eGFR) is an important health marker for post menopausal women. It plays a crucial role in a measure of kidney function..",
             "clinical_range": ">60",
             "optimal_range": ">80",
-            "units": "mL/min/1.73 m\u00b2",
+            "units": "mL/min/1.73 m²",
             "panel": "Metabolic Panel"
         },
         "White Blood Cell (WBC) Count": {
             "description": "White Blood Cell (WBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of immune cells that fight infections..",
             "clinical_range": "4,500 - 11,000",
             "optimal_range": "4,500 - 11,000",
-            "units": "cells/\u00b5L",
+            "units": "cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Blood Cell (RBC) Count": {
             "description": "Red Blood Cell (RBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of cells that carry oxygen..",
             "clinical_range": "3.77 - 5.28",
             "optimal_range": "4.8 - 5.1",
-            "units": "million cells/\u00b5L",
+            "units": "million cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Hemoglobin (Hgb)": {
@@ -699,7 +699,7 @@
             "description": "Platelet Count is an important health marker for post menopausal women. It plays a crucial role in a measure of cells that help with blood clotting..",
             "clinical_range": "150,000 - 400,000",
             "optimal_range": "150,000 - 375,000",
-            "units": "cells/\u00b5L",
+            "units": "cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Platelet Volume (MPV)": {
@@ -800,63 +800,63 @@
             "clinical_range": "4 - 50",
             "optimal_range": "10 - 40",
             "units": "ng/dL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Free Testosterone": {
             "description": "Free Testosterone is an important health marker for post menopausal women. It plays a crucial role in the active form of testosterone that is available for use in the body..",
             "clinical_range": "0.0 - 4.2",
             "optimal_range": "1.0 - 3.0",
             "units": "ng/dL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Estradiol": {
             "description": "Estradiol is an important health marker for post menopausal women. It plays a crucial role in a type of estrogen that plays a role in reproductive health and bone strength..",
             "clinical_range": "0 - 30",
             "optimal_range": "10 - 30",
             "units": "pg/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "SHBG": {
             "description": "SHBG is an important health marker for post menopausal women. It plays a crucial role in a protein that controls how much testosterone and estrogen are available in the body..",
             "clinical_range": "24.6 - 122.0",
             "optimal_range": "70.0 - 110.0",
             "units": "nmol/L",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Prolactin": {
             "description": "Prolactin is an important health marker for post menopausal women. It plays a crucial role in a hormone involved in milk production and hormone balance..",
             "clinical_range": "3.6 - 25.2",
             "optimal_range": "3.6 - 15",
             "units": "ng/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Luteinizing Hormone (LH)": {
             "description": "Luteinizing Hormone (LH) is an important health marker for post menopausal women. It plays a crucial role in a hormone that signals the testes or ovaries to produce testosterone or estrogen..",
             "clinical_range": "15 - 65",
             "optimal_range": "15 - 65",
             "units": "mIU/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Follicle-Stimulating Hormone (FSH)": {
             "description": "Follicle-Stimulating Hormone (FSH) is an important health marker for post menopausal women. It plays a crucial role in fsh is a key reproductive hormone produced by the pituitary gland that regulates ovarian function and estrogen production in pre-menopausal women. after menopause, fsh levels increase significantly due to the loss of ovarian function and estrogen production..",
             "clinical_range": "25 - 135",
             "optimal_range": "25 - 135",
             "units": "mIU/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "DHEA-S": {
             "description": "DHEA-S is an important health marker for post menopausal women. It plays a crucial role in dhea-s is a hormone produced primarily by the adrenal glands and is a precursor to testosterone and estrogen. it plays a crucial role in energy levels, metabolism, immune function, and cognitive health. unlike other hormones that fluctuate daily, dhea-s remains relatively stable throughout the day, making it an excellent marker of adrenal function and overall hormone balance..",
             "clinical_range": "41.2 - 243.0",
             "optimal_range": "50.0 - 150.0",
             "units": "ug/dL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Progesterone": {
             "description": "Progesterone is an important health marker for post menopausal women. It plays a crucial role in progesterone is a steroid hormone primarily known for its role in female reproductive health, but it also plays a key role in men\u00e2\u20ac\u2122s hormone balance, brain function, and metabolic health. in both sexes, it modulates the effects of estrogen and testosterone, supports brain function, and affects mood, sleep, and metabolism..",
             "clinical_range": "0.1 - 1.0",
             "optimal_range": "0.1 - 1.0",
             "units": "ng/mL",
-            "panel": "Hormonal Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Free T3": {
             "description": "Free T3 is an important health marker for post menopausal women. It plays a crucial role in an active thyroid hormone that controls energy use in the body..",
@@ -1030,21 +1030,21 @@
             "description": "Estimated Glomerular Filtration Rate (eGFR) is an important health marker for post menopausal women. It plays a crucial role in a measure of kidney function..",
             "clinical_range": ">60",
             "optimal_range": ">75",
-            "units": "mL/min/1.73 m\u00b2",
+            "units": "mL/min/1.73 m²",
             "panel": "Metabolic Panel"
         },
         "White Blood Cell (WBC) Count": {
             "description": "White Blood Cell (WBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of immune cells that fight infections..",
             "clinical_range": "4,500 - 11,000",
             "optimal_range": "4,500 - 11,000",
-            "units": "cells/\u00b5L",
+            "units": "cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Blood Cell (RBC) Count": {
             "description": "Red Blood Cell (RBC) Count is an important health marker for post menopausal women. It plays a crucial role in a count of cells that carry oxygen..",
             "clinical_range": "3.77 - 5.28",
             "optimal_range": "4.80 - 5.10",
-            "units": "million cells/\u00b5L",
+            "units": "million cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Hemoglobin (Hgb)": {
@@ -1093,7 +1093,7 @@
             "description": "Platelet Count is an important health marker for post menopausal women. It plays a crucial role in a measure of cells that help with blood clotting..",
             "clinical_range": "150,000 - 400,000",
             "optimal_range": "180,000 - 350,000",
-            "units": "cells/\u00b5L",
+            "units": "cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Platelet Volume (MPV)": {
