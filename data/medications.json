@@ -75,6 +75,11 @@
         "indication": "Boost energy, metabolism, and overall wellness with Levothyroxine\u2014the gold standard in thyroid hormone replacement therapy."
     },
     {
+        "name": "Liothyronine",
+        "description": "A synthetic form of the thyroid hormone triiodothyronine (T₃), which plays a crucial role in regulating metabolism, growth, and development. It is commonly prescribed to address various thyroid-related conditions.",
+        "indication": "Liothyronine is used as replacement therapy in cases where the thyroid gland does not produce sufficient hormones, including primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism."
+    },
+    {
         "name": "Macimorelin",
         "description": "Macimorelin is an orally active ghrelin receptor agonist that stimulates the release of growth hormone (GH) from the pituitary gland. It mimics the natural hormone ghrelin, promoting GH secretion and is used in diagnostic testing for adult growth hormone deficiency (AGHD).",
         "indication": "Macimorelin is primarily indicated for the diagnosis of adult growth hormone deficiency (AGHD) through a GH stimulation test. It may also have potential off-label applications in research related to GH modulation, metabolism, and aging."
@@ -133,6 +138,11 @@
         "name": "Retatrutide",
         "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
         "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+    },
+    {
+        "name": "Selank",
+        "description": "A synthetic peptide developed as an analog of the naturally occurring immunomodulatory peptide tuftsin. Selank exhibits pronounced anxiolytic (anti-anxiety) effects without the sedative and dependency side effects commonly associated with traditional tranquilizers. Additionally, it has demonstrated nootropic properties, enhancing cognitive functions such as memory and learning.",
+        "indication": "Selank is used to support anxiety relief, cognitive enhancement, and stress management. This synthetic peptide promotes a calming effect without sedation, improves memory and focus, and helps regulate the body's stress response for overall mental well-being."
     },
     {
         "name": "Semaglutide",
