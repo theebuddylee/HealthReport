@@ -149,7 +149,7 @@
         },
         "Chloride": {
             "description": "Chloride balances pH for stamina. Optimizing it keeps recovery tight. Too low or high, you’re weak. Steady it with training, broth, and rest.",
-            "clinical_range": "10.0 - 20.0",
+            "clinical_range": "98.0 - 107.0",
             "optimal_range": "98 - 107",
             "units": "mmol/L",
             "panel": "Metabolic Panel"
@@ -516,7 +516,7 @@
             "clinical_range": "0.0 - 3.0",
             "optimal_range": "0.0 - 1.0",
             "units": "mg/L",
-            "panel": "Inflammatory Marker"
+            "panel": "Inflammatory Markers"
         },
         "Ferritin": {
             "description": "Ferritin stores iron for energy. Optimizing it fuels lifts without rust. Too low, you’re winded; too high, inflammation creeps. Balance it with lifts, beef, and sleep.",
@@ -987,7 +987,7 @@
             "clinical_range": "0.0 - 3.0",
             "optimal_range": "0.0 - 1.0",
             "units": "mg/L",
-            "panel": "Inflammatory Marker"
+            "panel": "Inflammatory Markers"
         }
     },
     "Post Menopausal Women": {
@@ -1458,7 +1458,7 @@
             "clinical_range": "0.0 - 3.0",
             "optimal_range": "0.0 - 1.0",
             "units": "mg/dL",
-            "panel": "Inflammatory Marker"
+            "panel": "Inflammatory Markers"
         }
     }
 }
