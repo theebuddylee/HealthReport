@@ -6771,5 +6771,35 @@
             }
         ],
         "timestamp": "2025-02-26T00:33:50.393144"
+    },
+    {
+        "member_name": "Aaron Barnett",
+        "manager": "Joe",
+        "membership": [
+            "Peptide, Sex and Hair Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-hormone-health-panel",
+                "description": "A mid-level hormone panel for men seeking deeper insights into testosterone function, recovery, weight management, and overall vitality.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, and Vitamin D."
+            }
+        ],
+        "medications": [
+            {
+                "name": "BPC-157 Oral",
+                "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+                "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "JuJitsu Joint Health Bundle",
+                "description": "The 1st Optimal Jiu-Jitsu Joint Health Bundle combines Glucosamine Chondroitin, Curcumin Phytosome, and Boswellia Extract to support joint strength, flexibility, and recovery. This powerful trio helps protect cartilage, reduce inflammation, and improve mobility\u2014perfect for BJJ athletes looking to stay resilient during intense training sessions and recover faster.",
+                "indication": "Recommended for BJJ and martial arts athletes experiencing joint discomfort, stiffness, or inflammation, as well as active individuals recovering from joint injuries or seeking to maintain long-term joint health during high-impact training."
+            }
+        ],
+        "timestamp": "2025-02-27T17:30:01.748496"
     }
 ]
