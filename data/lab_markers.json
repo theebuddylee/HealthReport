@@ -247,9 +247,9 @@
         },
         "White Blood Cell (WBC) Count": {
             "description": "WBCs fight infections. Optimizing them keeps you tough. Too low, bugs win; too high, inflammation flares. Boost it with lifts, zinc seeds, and rest.",
-            "clinical_range": "4500 - 11000",
-            "optimal_range": "4500 - 11000",
-            "units": "cells/µL",
+            "clinical_range": "3.4 - 10.8",
+            "optimal_range": "3.4 - 11.0",
+            "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Blood Cell (RBC) Count": {
@@ -266,7 +266,7 @@
             "units": "g/dL",
             "panel": "CBC w/ Differential and Platelet"
         },
-        "Hematocrit (Hct)": {
+        "Hematocrit": {
             "description": "Hematocrit measures blood thickness. Optimal levels mean pump perfection. Low saps stamina; high feels heavy. Balance it with training, hydration, and sleep.",
             "clinical_range": "35.9 - 50.4",
             "optimal_range": "41.5 - 50.4",
@@ -303,9 +303,9 @@
         },
         "Platelet Count": {
             "description": "Platelets aid clotting and recovery. Optimizing them speeds healing. Too low, you bruise; too high, clotting risks rise. Support it with lifts, kale, and rest.",
-            "clinical_range": "150000 - 400000",
-            "optimal_range": "180000 - 350000",
-            "units": "cells/µL",
+            "clinical_range": "150 - 450",
+            "optimal_range": "180 - 400",
+            "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Platelet Volume (MPV)": {
@@ -317,37 +317,37 @@
         },
         "Neutrophils": {
             "description": "Neutrophils battle germs. Optimizing them keeps you tough. Too low, infections strike; too high, stress flares. Boost it with lifts, zinc (pumpkin seeds), and rest.",
-            "clinical_range": "50 - 70",
-            "optimal_range": "50 - 70",
-            "units": "%",
+            "clinical_range": "1.4 - 7.0",
+            "optimal_range": "1.4 - 7.0",
+            "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Lymphocytes": {
             "description": "Lymphocytes defend immunity. Optimal levels mean resilience. Low leaves you sick; high signals strain. Support it with training, vitamin C (peppers), and sleep.",
-            "clinical_range": "18 - 42",
-            "optimal_range": "18 - 42",
-            "units": "%",
+            "clinical_range": "0.7  - 3.1",
+            "optimal_range": "0.7  - 3.1",
+            "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Monocytes": {
             "description": "Monocytes clean infections. Optimizing them keeps you strong. Too low, bugs linger; too high, inflammation spikes. Keep it steady with lifts, blueberries, and rest.",
-            "clinical_range": "3.5 - 9.0",
-            "optimal_range": "3.5 - 9.0",
-            "units": "%",
+            "clinical_range": "0.1 - 0.9",
+            "optimal_range": "0.1 - 0.9",
+            "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Eosinophils": {
             "description": "Eosinophils tackle allergies. Optimal levels mean calm vibes. High brings sniffles; low’s fine. Maintain it with training, clean eats, and sleep.",
-            "clinical_range": "1.0 - 3.0",
-            "optimal_range": "1.0 - 2.6",
-            "units": "%",
+            "clinical_range": "0.0 - 0.4",
+            "optimal_range": "0.0 - 0.4",
+            "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Basophils": {
             "description": "Basophils handle rare immune tasks. Optimizing them keeps balance. High signals inflammation; low’s fine. Steady it with lifts, lean protein, and rest.",
-            "clinical_range": "0.0 - 2.0",
-            "optimal_range": "0.0 - 2.0",
-            "units": "%",
+            "clinical_range": "0.0 - 0.2",
+            "optimal_range": "0.0 - 0.2",
+            "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Total Cholesterol": {
