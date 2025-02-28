@@ -956,7 +956,7 @@
         },
         "Iron": {
             "description": "Iron powers oxygen flow. Optimal levels lift stamina. Low leaves you breathless; high might oxidize. Keep it steady with lifts, spinach, and rest.",
-            "clinical_range": "27.0 - 159.0",
+            "clinical_range": "38.0 - 169.0",
             "optimal_range": "60.0 - 100.0",
             "units": "µg/dL",
             "panel": "Iron Markers"
