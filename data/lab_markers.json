@@ -114,7 +114,7 @@
         },
         "Glutamyl Transferase (GGT)": {
             "description": "GGT detoxes the liver for a clean machine. Optimal levels enhance recovery and vitality. High signals stress; low’s subtle. Protect it with cardio, antioxidants (berries), and minimal booze.",
-            "clinical_range": "9.0 - 48.0",
+            "clinical_range": "0.0 - 65.0",
             "optimal_range": "9.0 - 25.0",
             "units": "ng/mL",
             "panel": "Thyroid, Growth Factors & Glucose"
