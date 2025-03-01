@@ -6883,5 +6883,42 @@
             }
         ],
         "timestamp": "2025-02-27T19:32:16.965852"
+    },
+    {
+        "member_name": "Steven Demoff",
+        "manager": "Joe",
+        "membership": [],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [],
+        "supplements": [
+            {
+                "name": "Perfect Protein\u00ae Whey, Vanilla (810g) \u2013 High-Quality Grass-Fed Whey Protein",
+                "description": "Perfect Protein\u00ae Whey is a premium-quality whey protein powder designed to support muscle recovery, lean muscle maintenance, and overall wellness. Sourced from grass-fed, pasture-raised cows, this protein delivers a clean, bioavailable source of essential amino acids to fuel your body\u2019s performance and recovery.\n\nEach serving provides 20g of high-quality whey protein isolate with a rich, natural vanilla flavor, making it an excellent choice for those looking to optimize protein intake without artificial sweeteners, flavors, or unnecessary additives. Formulated for superior mixability, this whey protein blends smoothly into shakes, smoothies, and recipes, offering a delicious and convenient way to meet daily protein needs.",
+                "indication": "Key Features & Benefits:\n\u2714 20g of Grass-Fed Whey Protein Isolate per serving\n\u2714 Naturally flavored with a delicious vanilla taste\n\u2714 No artificial sweeteners, colors, or preservatives\n\u2714 Mixes easily in water, milk, or smoothies\n\u2714 Free from gluten and non-GMO\n\nSuggested Use:\nMix one scoop (27g) with 8-10 oz of water, milk, or your favorite beverage. Consume post-workout, between meals, or as recommended by your healthcare provider.\n\nBoost your protein intake with Perfect Protein\u00ae Whey, Vanilla and experience the clean, high-quality nutrition your body deserves. "
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature\u2019s powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Creatine",
+                "description": "A naturally occurring compound stored in muscles and used to produce energy during high-intensity activities.",
+                "indication": "Fuel your body and mind with Creatine. By enhancing energy production, Creatine helps maintain muscle mass during aging or recovery while also improving memory, focus, and mental clarity."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-03-01T02:35:36.673895"
     }
 ]
