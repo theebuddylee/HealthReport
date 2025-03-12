@@ -7249,5 +7249,27 @@
             }
         ],
         "timestamp": "2025-03-11T13:30:30.132293"
+    },
+    {
+        "member_name": "Annie Fleckser",
+        "manager": "Justin",
+        "membership": [
+            "Coaching Partnership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Levothyroxin",
+                "description": "A synthetic form of thyroid hormone used to treat hypothyroidism. It helps restore proper metabolism, energy levels, and overall thyroid function.",
+                "indication": "Boost energy, metabolism, and overall wellness with Levothyroxine\u2014the gold standard in thyroid hormone replacement therapy."
+            },
+            {
+                "name": "Liothyronine",
+                "description": "A synthetic form of the thyroid hormone triiodothyronine (T\u2083), which plays a crucial role in regulating metabolism, growth, and development. It is commonly prescribed to address various thyroid-related conditions.",
+                "indication": "Liothyronine is used as replacement therapy in cases where the thyroid gland does not produce sufficient hormones, including primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-03-12T14:59:44.690340"
     }
 ]
