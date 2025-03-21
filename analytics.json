@@ -7700,5 +7700,20 @@
             }
         ],
         "timestamp": "2025-03-21T20:33:16.096292"
+    },
+    {
+        "member_name": "Dillon",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [],
+        "supplements": [
+            {
+                "name": "Methylene Blue",
+                "description": "Methylene Blue is a synthetic compound with a rich history in medical applications, recently gaining attention for its potential anti-aging benefits.",
+                "indication": "Cognitive Function: Research indicates that methylene blue may support brain health by improving mitochondrial function, leading to enhanced energy production in brain cells. This improvement could aid in preserving cognitive abilities and potentially offer neuroprotective effects against age-related decline."
+            }
+        ],
+        "timestamp": "2025-03-21T20:36:28.030303"
     }
 ]
