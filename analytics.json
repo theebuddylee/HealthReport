@@ -7672,5 +7672,33 @@
             }
         ],
         "timestamp": "2025-03-21T20:32:59.754487"
+    },
+    {
+        "member_name": "Griffin Miller",
+        "manager": "Dillon",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Levothyroxin",
+                "description": "A synthetic form of thyroid hormone used to treat hypothyroidism. It helps restore proper metabolism, energy levels, and overall thyroid function.",
+                "indication": "Boost energy, metabolism, and overall wellness with Levothyroxine\u2014the gold standard in thyroid hormone replacement therapy."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            }
+        ],
+        "timestamp": "2025-03-21T20:33:16.096292"
     }
 ]
