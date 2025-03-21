@@ -7715,5 +7715,22 @@
             }
         ],
         "timestamp": "2025-03-21T20:36:28.030303"
+    },
+    {
+        "member_name": "James Harper",
+        "manager": "Dillon",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [],
+        "supplements": [
+            {
+                "name": "Tudca",
+                "description": "A bile acid supplement that supports liver health and detoxification processes.",
+                "indication": "A breakthrough bile acid supplement. TUDCA supports optimal liver function by promoting bile flow, reducing liver inflammation, and protecting against oxidative stress."
+            }
+        ],
+        "timestamp": "2025-03-21T20:38:11.986165"
     }
 ]
