@@ -406,10 +406,10 @@
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
-        "Apolipoprotein A": {
-            "description": "ApoA powers HDL’s cleanup. Optimizing it sharpens heart health and energy. Low weakens you; high’s a bonus. Boost it with lifts, fatty fish, and sleep.",
-            "clinical_range": "0.0 - 30.0",
-            "optimal_range": "0.0 - 30.0",
+        "Apolipoprotein A-1": {
+            "description": "ApoA powers HDL’s cleanup. Optimizing it sharpens heart health and energy. Low weakens you; high’s a bonus. ApoA-I levels in the upper quartile (e.g., >140 mg/dL) correlate with better reverse cholesterol transport and lower incidence of coronary artery disease. Boost it with lifts, fatty fish, and sleep.",
+            "clinical_range": "101.0 - 178.0",
+            "optimal_range": "150.0 - 180.0",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
@@ -940,10 +940,10 @@
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
-        "Lipoprotein (a)": {
+        "Apolipoprotein A-1": {
             "description": "The sneaky heart risk factor. Optimizing it protects arteries and power. High tires you long-term; low’s rare. Fight it with training, niacin-rich foods, and sleep.",
-            "clinical_range": "0.0 - 75.0",
-            "optimal_range": "0.0 - 30.0",
+            "clinical_range": "130.0 - 180.0",
+            "optimal_range": "140.0 - 200.0",
             "units": "nmol/L",
             "panel": "Lipid Panel"
         },
