@@ -1411,10 +1411,10 @@
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
-        "Lipoprotein (a)": {
+        "Apolipoprotein A-1": {
             "description": "This genetic heart risk climbs post-menopause. Optimizing it protects arteries. High tires you long-term; low’s rare. Fight it with training, niacin-rich foods, and sleep.",
-            "clinical_range": "0.0 - 75.0",
-            "optimal_range": "0.0 - 30.0",
+            "clinical_range": "140.0 - 180.0",
+            "optimal_range": "150.0 - 200.0",
             "units": "nmol/L",
             "panel": "Lipid Panel"
         },
