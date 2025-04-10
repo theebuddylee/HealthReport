@@ -10,8 +10,13 @@
         "indication": "Designed to maintain hormonal balance by managing estrogen levels. By reducing excess estrogen, Anastrozole helps improve energy, mood, and muscle definition while minimizing side effects like water retention or fatigue."
     },
     {
+        "name": "Armour Thyroid",
+        "description": "A prescription medication derived from desiccated porcine thyroid glands, used to treat hypothyroidism. It contains both T3 (liothyronine) and T4 (levothyroxine) hormones, providing a natural combination to supplement deficient thyroid hormone levels and restore balance in the body.",
+        "indication": "Designed to treat hypothyroidism by replacing insufficient thyroid hormones. Armour Thyroid helps regulate metabolism, boost energy levels, and support overall bodily functions, alleviating symptoms such as fatigue, weight gain, and cold intolerance. Requires careful dosage monitoring under medical supervision."
+    },
+    {
         "name": "BPC-157",
-        "description": "1st Optimal\u2019s BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+        "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
         "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
     },
     {
