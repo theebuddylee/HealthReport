@@ -8418,5 +8418,43 @@
             }
         ],
         "timestamp": "2025-04-10T14:31:28.263502"
+    },
+    {
+        "member_name": "Robert Rhinehart",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Thyroid Armour",
+                "description": "Armour Thyroid is a prescription medication used to treat hypothyroidism, a condition where the thyroid gland doesn't produce enough hormones. It is made from desiccated (dried) porcine thyroid glands and contains both T3 (liothyronine) and T4 (levothyroxine) hormones. This combination aims to mimic the natural hormone balance produced by the human thyroid. Armour Thyroid helps regulate metabolism, energy levels, and overall bodily functions affected by low thyroid hormone. It is typically taken once daily and requires careful dosage monitoring. While effective for many, it may not be suitable for everyone and should only be used under medical supervision.",
+                "indication": "...\n"
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature\u2019s powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            }
+        ],
+        "timestamp": "2025-04-10T14:32:28.555765"
     }
 ]
