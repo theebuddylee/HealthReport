@@ -27,12 +27,26 @@
         "email": "Buddy@1stOptimal.com",
         "phone": "815.601.3406"
     },
+     "Casey": {
+        "first_name": "Casey",
+        "last_name": "Brown",
+        "alias_title": "Membership Manager 5",
+        "email": "Casey@1stoptimal.com",
+        "phone": "(816) 744-6814 xTBD"
+    },
     "Dillon": {
         "first_name": "Dillon",
         "last_name": "Hunter",
         "alias_title": "Production Team Member",
         "email": "dillon.hunter@1stoptimal.com",
         "phone": "(816) 744-6814 x301"
+    },
+     "Jamie": {
+        "first_name": "Jamie",
+        "last_name": "LastName",
+        "alias_title": "Membership Manager 4",
+        "email": "Jamie@1stoptimal.com",
+        "phone": "(816) 744-6814 xTBD"
     },
     "Justin": {
         "first_name": "Justin",
