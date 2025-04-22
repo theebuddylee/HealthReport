@@ -8896,5 +8896,45 @@
         ],
         "supplements": [],
         "timestamp": "2025-04-22T21:10:11.433212"
+    },
+    {
+        "member_name": "Johanna Lizardi",
+        "manager": "Allison",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Low Dose Naltrexone (LDN)",
+                "description": "Low Dose Naltrexone (LDN) is a compounded formulation of naltrexone, an opioid receptor antagonist, typically dosed between 0.5 mg and 4.5 mg. Unlike standard naltrexone dosing used for addiction treatment, LDN works by transiently blocking opioid receptors, which leads to a rebound increase in endogenous endorphin and enkephalin production. This modulation of the immune system and inflammation pathways has shown therapeutic benefits in a range of chronic conditions.",
+                "indication": "LDN is indicated for the management of autoimmune disorders, chronic pain syndromes, and inflammatory conditions. It may be particularly beneficial in patients with diagnoses such as multiple sclerosis, rheumatoid arthritis, Hashimoto\u2019s thyroiditis, fibromyalgia, or irritable bowel syndrome. Through its effects on the immune system, LDN helps to reduce systemic inflammation, modulate immune responses, and improve overall symptom control. It is also being studied for its potential neuroprotective properties and ability to enhance mood and cognitive clarity in patients with chronic illness."
+            },
+            {
+                "name": "BPC-157 Oral",
+                "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+                "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+            },
+            {
+                "name": "Levothyroxin",
+                "description": "A synthetic form of thyroid hormone used to treat hypothyroidism. It helps restore proper metabolism, energy levels, and overall thyroid function.",
+                "indication": "Boost energy, metabolism, and overall wellness with Levothyroxine\u2014the gold standard in thyroid hormone replacement therapy."
+            },
+            {
+                "name": "Liothyronine",
+                "description": "A synthetic form of the thyroid hormone triiodothyronine (T\u2083), which plays a crucial role in regulating metabolism, growth, and development. It is commonly prescribed to address various thyroid-related conditions.",
+                "indication": "Liothyronine is used as replacement therapy in cases where the thyroid gland does not produce sufficient hormones, including primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Vasoactive Intestinal Peptide",
+                "description": "Vasoactive Intestinal Peptide (VIP) is a powerful neuropeptide that plays a key role in regulating inflammation, immune response, and vascular health. VIP therapy is commonly used to support optimal lung function, improve circulation, and enhance cognitive performance. It may also benefit individuals with chronic inflammatory conditions by helping to restore balance and improve overall well-being.",
+                "indication": "Whether you're seeking support for immune regulation or optimizing recovery, VIP therapy offers a targeted approach to help you feel your best."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-04-22T21:27:30.549141"
     }
 ]
