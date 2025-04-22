@@ -8814,5 +8814,50 @@
         ],
         "supplements": [],
         "timestamp": "2025-04-22T18:02:20.954796"
+    },
+    {
+        "member_name": "Kendra Redmer",
+        "manager": "Allison",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            }
+        ],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT). NNMT plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ may enhance NAD\u207a biosynthesis and improve mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "5-Amino-1MQ is primarily used to support weight loss and improve metabolic function. It works by inhibiting the enzyme NNMT (nicotinamide N-methyltransferase), which plays a role in energy metabolism. By blocking this enzyme, 5-Amino-1MQ may enhance fat burning, preserve lean muscle, and improve insulin sensitivity\u2014making it useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "Liothyronine",
+                "description": "A synthetic form of the thyroid hormone triiodothyronine (T\u2083), which plays a crucial role in regulating metabolism, growth, and development. It is commonly prescribed to address various thyroid-related conditions.",
+                "indication": "Liothyronine is used as replacement therapy in cases where the thyroid gland does not produce sufficient hormones, including primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Methylene Blue",
+                "description": "Methylene Blue is a synthetic compound with a rich history in medical applications, recently gaining attention for its potential anti-aging benefits.",
+                "indication": "Cognitive Function: Research indicates that methylene blue may support brain health by improving mitochondrial function, leading to enhanced energy production in brain cells. This improvement could aid in preserving cognitive abilities and potentially offer neuroprotective effects against age-related decline."
+            }
+        ],
+        "timestamp": "2025-04-22T19:07:22.436293"
     }
 ]
