@@ -8767,5 +8767,52 @@
             }
         ],
         "timestamp": "2025-04-21T20:15:52.660570"
+    },
+    {
+        "member_name": "Ashley Miller",
+        "manager": "Allison",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT). NNMT plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ may enhance NAD\u207a biosynthesis and improve mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "5-Amino-1MQ is primarily used to support weight loss and improve metabolic function. It works by inhibiting the enzyme NNMT (nicotinamide N-methyltransferase), which plays a role in energy metabolism. By blocking this enzyme, 5-Amino-1MQ may enhance fat burning, preserve lean muscle, and improve insulin sensitivity\u2014making it useful in protocols for weight management, metabolic optimization, and cellular energy support.\n"
+            },
+            {
+                "name": "BPC-157 Oral",
+                "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+                "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+            },
+            {
+                "name": "Levothyroxin",
+                "description": "A synthetic form of thyroid hormone used to treat hypothyroidism. It helps restore proper metabolism, energy levels, and overall thyroid function.",
+                "indication": "Boost energy, metabolism, and overall wellness with Levothyroxine\u2014the gold standard in thyroid hormone replacement therapy."
+            },
+            {
+                "name": "Liothyronine",
+                "description": "A synthetic form of the thyroid hormone triiodothyronine (T\u2083), which plays a crucial role in regulating metabolism, growth, and development. It is commonly prescribed to address various thyroid-related conditions.",
+                "indication": "Liothyronine is used as replacement therapy in cases where the thyroid gland does not produce sufficient hormones, including primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-04-22T18:02:20.954796"
     }
 ]
