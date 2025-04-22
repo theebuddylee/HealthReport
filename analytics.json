@@ -8859,5 +8859,42 @@
             }
         ],
         "timestamp": "2025-04-22T19:07:22.436293"
+    },
+    {
+        "member_name": "Brittney Fullmer",
+        "manager": "Allison",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Mots-C",
+                "description": "MOTS-c is a mitochondrial-derived peptide composed of 16 amino acids. Unlike traditional peptides synthesized in the nucleus, MOTS-c is encoded within the mitochondrial genome. It plays a key role in regulating metabolic homeostasis, cellular energy production, and mitochondrial function.\n\nMOTS-c works primarily by activating AMPK (AMP-activated protein kinase), a critical energy-sensing enzyme involved in cellular metabolism, insulin sensitivity, fat oxidation, and glucose uptake. It has also shown the ability to enhance endurance, reduce inflammation, and improve metabolic flexibility.",
+                "indication": "MOTS-c is used to support metabolic health, enhance mitochondrial function, and improve overall energy production. It is particularly indicated for patients experiencing metabolic dysfunction, including insulin resistance, weight loss resistance, or chronic fatigue. By activating AMPK pathways, MOTS-c helps to improve glucose utilization, increase fat oxidation, and support cellular energy balance. This peptide may also provide additional benefits such as reduced inflammation, improved exercise recovery, and support for healthy aging, making it a well-rounded adjunct in addressing both metabolic and performance-related goals."
+            },
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "BPC-157 Oral",
+                "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+                "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            },
+            {
+                "name": "Vasoactive Intestinal Peptide",
+                "description": "Vasoactive Intestinal Peptide (VIP) is a powerful neuropeptide that plays a key role in regulating inflammation, immune response, and vascular health. VIP therapy is commonly used to support optimal lung function, improve circulation, and enhance cognitive performance. It may also benefit individuals with chronic inflammatory conditions by helping to restore balance and improve overall well-being.",
+                "indication": "Whether you're seeking support for immune regulation or optimizing recovery, VIP therapy offers a targeted approach to help you feel your best."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-04-22T21:10:11.433212"
     }
 ]
