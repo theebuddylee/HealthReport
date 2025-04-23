@@ -105,6 +105,11 @@
         "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."
     },
     {
+        "name": "Methylene Blue",
+        "description": "Methylene Blue is a synthetic compound with a rich history in medical applications, recently gaining attention for its potential anti-aging benefits.",
+        "indication": "Cognitive Function: Research indicates that methylene blue may support brain health by improving mitochondrial function, leading to enhanced energy production in brain cells. This improvement could aid in preserving cognitive abilities and potentially offer neuroprotective effects against age-related decline."
+    },
+    {
         "name": "Modafinil",
         "description": "Modafinil is a wakefulness-promoting agent that enhances dopamine, norepinephrine, histamine, and orexin activity in the brain. It is used to increase alertness, reduce fatigue, and improve cognitive function without the jitteriness of traditional stimulants.",
         "indication": "Narcolepsy & Sleep Disorders: Approved for treating excessive daytime sleepiness in narcolepsy, obstructive sleep apnea (OSA), and shift work sleep disorder (SWSD), Cognitive Enhancement (Off-Label): Used off-label for focus, memory, productivity, and reducing mental fatigue in high-performing individuals."
