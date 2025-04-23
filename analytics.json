@@ -8978,5 +8978,47 @@
         ],
         "supplements": [],
         "timestamp": "2025-04-23T17:51:33.230344"
+    },
+    {
+        "member_name": "Sharon Humphrey",
+        "manager": "Allison",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "NP Thyroid",
+                "description": "NP Thyroid is a natural desiccated thyroid (NDT) medication used to treat hypothyroidism (underactive thyroid). It contains both T4 (thyroxine) and T3 (triiodothyronine) hormones, derived from porcine thyroid glands, and is designed to help restore normal thyroid hormone levels in the body.",
+                "indication": "NP Thyroid is indicated for the treatment of hypothyroidism, a condition in which the thyroid gland does not produce sufficient thyroid hormones. It is used to restore normal hormone levels, support metabolic function, and alleviate symptoms such as fatigue, weight gain, cold intolerance, and depression."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhance stress resilience, immunity, and overall well-being, an essential for longevity and performance optimization."
+            },
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Retatrutide",
+                "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+                "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-04-23T17:51:57.475253"
     }
 ]
