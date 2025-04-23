@@ -9020,5 +9020,43 @@
         ],
         "supplements": [],
         "timestamp": "2025-04-23T17:51:57.475253"
+    },
+    {
+        "member_name": "Amanda Canuto",
+        "manager": "Joe",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Liothyronine",
+                "description": "A synthetic form of the thyroid hormone triiodothyronine (T\u2083), which plays a crucial role in regulating metabolism, growth, and development. It is commonly prescribed to address various thyroid-related conditions.",
+                "indication": "Liothyronine is used as replacement therapy in cases where the thyroid gland does not produce sufficient hormones, including primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Capsule",
+                "description": "An oral testosterone replacement therapy option that supports hormone balance and improves symptoms of low testosterone such as fatigue, low libido, and reduced muscle mass.",
+                "indication": "A convenient way to boost testosterone for improved energy, strength, and physical appearance."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "timestamp": "2025-04-23T23:02:20.307567"
     }
 ]
