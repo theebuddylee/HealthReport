@@ -9335,5 +9335,43 @@
         ],
         "supplements": [],
         "timestamp": "2025-04-24T19:40:19.619664"
+    },
+    {
+        "member_name": "Leidy Sanchez",
+        "manager": "Allison",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Low Dose Naltrexone (LDN)",
+                "description": "Low  Dose  Naltrexone  (LDN)  is  a  compounded  formulation  of  naltrexone,  an  opioid  receptor\nantagonist,  typically  dosed  between  0.5  mg  and  4.5  mg.  Unlike  standard  naltrexone  dosing  used for  addiction  treatment,  LDN  works  by  transiently  blocking  opioid  receptors,  which  leads  to  a rebound  increase  in  endogenous  endorphin  and  enkephalin  production.  This  modulation  of the immune system and inflammation pathways has shown therapeutic benefits in a range of chronic\nconditions.",
+                "indication": "LDN  is  indicated  for  the  management  of  autoimmune  disorders,  chronic  pain  syndromes,  and\ninflammatory  conditions.  It  may  be  particularly  beneficial  in  patients  with  diagnoses  such  as\nmultiple  sclerosis,  rheumatoid  arthritis,  Hashimoto\u2019s  thyroiditis,  fibromyalgia,  or  irritable  bowel\nsyndrome.  Through  its  effects  on  the  immune  system,  LDN  helps  to  reduce  systemic\ninflammation, modulate immune responses, and improve overall symptom control. It is also being\nstudied  for  its  potential  neuroprotective  properties  and  ability  to  enhance  mood  and  cognitive\nclarity in patients with chronic illness."
+            },
+            {
+                "name": "T3/T4 Compounded Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication that contains a specific ratio of liothyronine (T3) and levothyroxine (T4), the two main hormones produced by the thyroid gland. It is formulated by a compounding pharmacy to meet individual patient needs when commercially available options (like Synthroid or Armour) are not ideal.",
+                "indication": "Compounded T3/T4 is indicated for the treatment of hypothyroidism in patients who require a personalized ratio of liothyronine (T3) and levothyroxine (T4) to restore optimal thyroid function. It is particularly beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens, fillers, or specific excipients. This customized approach allows for improved symptom management and hormone balance tailored to the patient's unique metabolic needs."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            }
+        ],
+        "timestamp": "2025-04-24T19:44:34.605700"
     }
 ]
