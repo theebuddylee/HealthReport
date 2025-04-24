@@ -9220,5 +9220,49 @@
         ],
         "supplements": [],
         "timestamp": "2025-04-24T18:51:24.722125"
+    },
+    {
+        "member_name": "",
+        "manager": "Jamie",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-hormone-health-panel",
+                "description": "A mid-level hormone panel for men seeking deeper insights into testosterone function, recovery, weight management, and overall vitality.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, and Vitamin D."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Anastrozole",
+                "description": "Aromatization Inhibitor",
+                "indication": "Discussed adding this if necessary for estrogen reduction."
+            },
+            {
+                "name": "Anastrozole",
+                "description": "Aromatization Inhibitor",
+                "indication": "Discussed adding this if necessary for estrogen reduction."
+            },
+            {
+                "name": "1. Anastrozole; 2. Peptides",
+                "description": "1. Aromatization Inhibitor\n2. Muscle building, sleep and energy support, overall health optimization",
+                "indication": "1. Discussed adding this if necessary for estrogen reduction.\n2. May want to look into Peptide Therapies in the future for further optimization of overall health, muscle building, sleep support, and energy support. Growth Hormone Releasing Peptides could be a great addition once TRT is optimized."
+            },
+            {
+                "name": "Enclomiphene",
+                "description": "A selective estrogen receptor modulator (SERM) used to increase testosterone production in men by stimulating the natural production of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",
+                "indication": "A powerful testosterone booster that enhances natural production while supporting fertility. Unlike traditional options, Enclomiphene helps maintain testicular function and sperm count, ensuring optimized hormone levels without compromising reproductive health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-04-24T19:25:24.876143"
     }
 ]
