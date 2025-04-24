@@ -9091,5 +9091,42 @@
             }
         ],
         "timestamp": "2025-04-23T23:09:16.909830"
+    },
+    {
+        "member_name": "Alicia",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [
+            {
+                "name": "Women's Weight Loss Follow-up Lab Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/womens-weight-loss-follow-up-panel",
+                "description": "A tailored follow-up lab panel for women on a structured weight loss program, monitoring metabolic, hormone, and cardiovascular health.",
+                "indication": "Measures CBC, Metabolic Panel, Hemoglobin A1c, Insulin, Lipid Panel, DHEA-S, and Thyroid Panel with TSH."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-04-24T17:32:19.505450"
     }
 ]
