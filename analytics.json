@@ -9203,5 +9203,22 @@
         ],
         "supplements": [],
         "timestamp": "2025-04-24T18:45:47.688460"
+    },
+    {
+        "member_name": "Jennifer Jones",
+        "manager": "Jamie",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Semaglutide",
+                "description": "A GLP-1 receptor agonist used for weight loss and blood sugar management.",
+                "indication": "The proven GLP-1 receptor agonist. Backed by science, Semaglutide enhances appetite control, stabilizes blood sugar, and promotes sustainable fat loss."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-04-24T18:51:24.722125"
     }
 ]
