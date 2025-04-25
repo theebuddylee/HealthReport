@@ -9403,5 +9403,32 @@
             }
         ],
         "timestamp": "2025-04-24T21:38:44.960487"
+    },
+    {
+        "member_name": "Kendra Redmer",
+        "manager": "Allison",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "Armour Thyroid",
+                "description": "A prescription medication derived from desiccated porcine thyroid glands, used to treat hypothyroidism. It contains both T3 (liothyronine) and T4 (levothyroxine) hormones, providing a natural combination to supplement deficient thyroid hormone levels and restore balance in the body.",
+                "indication": "Designed to treat hypothyroidism by replacing insufficient thyroid hormones. Armour Thyroid helps regulate metabolism, boost energy levels, and support overall bodily functions, alleviating symptoms such as fatigue, weight gain, and cold intolerance. Requires careful dosage monitoring under medical supervision."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-04-25T21:57:47.277819"
     }
 ]
