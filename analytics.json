@@ -9793,5 +9793,40 @@
             }
         ],
         "timestamp": "2025-04-29T20:30:23.205214"
+    },
+    {
+        "member_name": "Angela Kegler",
+        "manager": "Allison",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Oxytocin ODT",
+                "description": "Oxytocin ODT (oral disintegrating tablet) is a compounded form of the hormone oxytocin, designed to dissolve quickly in the mouth for rapid absorption through the oral mucosa. Oxytocin is a naturally occurring hormone involved in social bonding, mood regulation, trust, and emotional connection. In clinical use, oxytocin ODT is prescribed to support emotional well-being and stress resilience.",
+                "indication": "Oxytocin ODT is indicated for the support of emotional regulation, stress management, and social bonding. It may be used in patients experiencing symptoms related to anxiety, mood instability, social withdrawal, or difficulty with emotional connection, often as part of a broader functional or integrative treatment plan."
+            },
+            {
+                "name": "Compounded T3/T4 Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication containing a specific ratio of liothyronine (T3) and levothyroxine (T4), formulated by a compounding pharmacy to meet individual patient needs when commercially available options are not ideal.",
+                "indication": "Indicated for the treatment of hypothyroidism in patients requiring a personalized ratio of T3 and T4 to restore optimal thyroid function. It is beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens or specific excipients."
+            },
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-04-29T22:29:04.494060"
     }
 ]
