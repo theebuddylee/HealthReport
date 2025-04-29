@@ -22,7 +22,7 @@
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Sex Hormone Binding Globulin (SHBG)": {
-            "description": "SHBG regulates T and E availability. Optimal levels sharpen muscle and energy gains. Too high, T’s locked up; too low, chaos reigns. Keep it in check with weights, magnesium (nuts), and avoiding sugar spikes.",
+            "description": "SHBG regulates Testosterone and Estrogen availability. Optimal levels sharpen muscle and energy gains. Too high, T’s locked up; too low, chaos reigns. Keep it in check with weights, magnesium (nuts), and avoiding sugar spikes.",
             "clinical_range": "16.5 - 55.9",
             "optimal_range": "16.5 - 55.9",
             "units": "nmol/L",
@@ -36,7 +36,7 @@
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Luteinizing Hormone (LH)": {
-            "description": "LH signals testes to pump T. Optimal levels fuel gains and vigor. Too low, lifts falter; too high might strain you. Boost it with squats, hearty meals, and sleep.",
+            "description": "LH signals testes to pump Testosterone. Optimal levels fuel gains and vigor. Too low, lifts falter; too high might strain you. Boost it with squats, hearty meals, and sleep.",
             "clinical_range": "1.7 - 8.6",
             "optimal_range": "1.7 - 6.0",
             "units": "mIU/mL",
@@ -577,7 +577,7 @@
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Dehydroepiandrosterone Sulfate (DHEA-S)": {
-            "description": "This precursor feeds T and E production. Optimal levels lift stamina and recovery. Too low, you’re wiped; too high, restlessness hits. Boost it with deadlifts, coconut oil, and sleep.",
+            "description": "This precursor feeds Testosterone and Estrogen production. Optimal levels lift stamina and recovery. Too low, you’re wiped; too high, restlessness hits. Boost it with deadlifts, coconut oil, and sleep.",
             "clinical_range": "41.2 -243.0",
             "optimal_range": "175 - 241.0",
             "units": "ug/dl",
@@ -1041,7 +1041,7 @@
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "DHEA-S": {
-            "description": "This adrenal hormone feeds T and E, key for energy post-menopause. Optimal levels boost stamina and focus. Too low, you’re wiped; too high, restlessness hits. Boost it with deadlifts, coconut oil, and sleep.",
+            "description": "This adrenal hormone feeds Testosterone and Estrogen, key for energy post-menopause. Optimal levels boost stamina and focus. Too low, you’re wiped; too high, restlessness hits. Boost it with deadlifts, coconut oil, and sleep.",
             "clinical_range": "41.2 - 243.0",
             "optimal_range": "50.0 - 150.0",
             "units": "ug/dL",
