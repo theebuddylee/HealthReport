@@ -9553,5 +9553,51 @@
             }
         ],
         "timestamp": "2025-04-29T00:47:58.096052"
+    },
+    {
+        "member_name": "Tom Turco",
+        "manager": "Jamie",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Comprehensive Hormone Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-comprehensive-hormone-panel",
+                "description": "An advanced panel assessing a wide range of male hormones and biomarkers, ensuring peak performance, recovery, and metabolic balance.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol, SHBG, Prolactin, Cortisol, Progesterone, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            },
+            {
+                "name": "Men's Enhanced Hormone Panel",
+                "shopify_url": "",
+                "description": "A specialized panel designed for men seeking an advanced hormone assessment, including additional markers for enhanced optimization of health and performance.",
+                "indication": "Measures Total & Free Testosterone, Estradiol, SHBG, Prolactin, DHEA-S, Cortisol, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, CBC, Metabolic Panel, HbA1c, Fasting Insulin, and Vitamin D and more."
+            }
+        ],
+        "medications": [
+            {
+                "name": "GHRP",
+                "description": "Growth Hormone Releasing Peptide",
+                "indication": "May add peptides and/or GLP's in future to boost weight/fat loss, muscle gain, and sleep quality. "
+            },
+            {
+                "name": "Enclomiphene",
+                "description": "A selective estrogen receptor modulator (SERM) used to increase testosterone production in men by stimulating the natural production of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",
+                "indication": "A powerful testosterone booster that enhances natural production while supporting fertility. Unlike traditional options, Enclomiphene helps maintain testicular function and sperm count, ensuring optimized hormone levels without compromising reproductive health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-04-29T00:55:25.326773"
     }
 ]
