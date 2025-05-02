@@ -9887,5 +9887,45 @@
         ],
         "supplements": [],
         "timestamp": "2025-05-02T15:41:36.393612"
+    },
+    {
+        "member_name": "Robin Holder",
+        "manager": "Allison",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "NAD+ (Nicotinamide Adenine Dinucleotide)",
+                "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a vital coenzyme found in every cell of the body that plays a central role in energy production, cellular repair, and mitochondrial function. It is essential for converting nutrients into ATP (cellular energy) and supports critical processes like DNA repair, oxidative stress regulation, and aging-related resilience.\n\nNAD+ levels naturally decline with age, stress, illness, and environmental exposure, which may contribute to fatigue, cognitive decline, metabolic issues, and neurodegeneration. Supplementation or restoration of NAD+ is used in functional medicine to support energy, brain function, detoxification, and overall cellular health.",
+                "indication": "NAD+ is indicated to support cellular energy production, mitochondrial health, and neuroprotection. It may be used in the management of fatigue, cognitive decline, detoxification, metabolic dysfunction, and neuropathy, particularly when related to diabetes, toxin exposure, or mitochondrial impairment. By enhancing mitochondrial function and reducing oxidative stress, NAD+ supports nerve regeneration, axonal repair, and may help reduce symptoms associated with peripheral neuropathy, including numbness, tingling, and burning pain."
+            },
+            {
+                "name": "BPC-157 Oral",
+                "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+                "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+            },
+            {
+                "name": "Compounded T3/T4 Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication containing a specific ratio of liothyronine (T3) and levothyroxine (T4), formulated by a compounding pharmacy to meet individual patient needs when commercially available options are not ideal.",
+                "indication": "Indicated for the treatment of hypothyroidism in patients requiring a personalized ratio of T3 and T4 to restore optimal thyroid function. It is beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens or specific excipients."
+            },
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-05-02T15:44:14.462748"
     }
 ]
