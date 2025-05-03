@@ -10008,5 +10008,38 @@
         ],
         "supplements": [],
         "timestamp": "2025-05-03T16:52:42.272341"
+    },
+    {
+        "member_name": "Natalie Vankirk",
+        "manager": "Jamie",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Armour Thyroid",
+                "description": "A prescription medication derived from desiccated porcine thyroid glands, used to treat hypothyroidism. It contains both T3 (liothyronine) and T4 (levothyroxine) hormones, providing a natural combination to supplement deficient thyroid hormone levels and restore balance in the body.",
+                "indication": "Designed to treat hypothyroidism by replacing insufficient thyroid hormones. Armour Thyroid helps regulate metabolism, boost energy levels, and support overall bodily functions, alleviating symptoms such as fatigue, weight gain, and cold intolerance. Requires careful dosage monitoring under medical supervision."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2025-05-03T18:36:41.329467"
     }
 ]
