@@ -10119,5 +10119,54 @@
             }
         ],
         "timestamp": "2025-05-06T14:09:36.702370"
+    },
+    {
+        "member_name": "Joe Smith",
+        "manager": "Justin",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "DUTCH Complete\u2122 Test",
+                "description": "The DUTCH Complete\u2122 Test (Dried Urine Test for Comprehensive Hormones) is an advanced hormone panel that provides a detailed analysis of sex hormones, adrenal function, and their metabolites. Using dried urine samples collected over a 24-hour period, this test offers a comprehensive assessment of hormonal balance, metabolism, and overall endocrine health. It measures cortisol patterns, sex hormones, melatonin, and organic acid markers to provide insights into stress response, hormone detoxification, and overall well-being.",
+                "indication": "The DUTCH Complete\u2122 Test is indicated for individuals experiencing symptoms related to hormone imbalance, adrenal dysfunction, and metabolic concerns, including fatigue, mood swings, weight fluctuations, irregular menstrual cycles, low libido, and sleep disturbances. It is particularly beneficial for assessing adrenal health, evaluating estrogen metabolism, and monitoring hormone therapy. This test provides actionable insights for optimizing hormonal balance, improving stress resilience, and enhancing overall wellness."
+            }
+        ],
+        "medications": [
+            {
+                "name": "1-MNA, NMN, Leucine Capsules",
+                "description": "1-MNA is a metabolite of nicotinamide with anti-inflammatory, vasoprotective, and potential longevity-enhancing properties. NMN is a direct precursor to NAD+ (nicotinamide adenine dinucleotide), a critical coenzyme involved in cellular energy metabolism, mitochondrial function, and aging-related processes. Leucine is a branched-chain amino acid (BCAA) that serves as a key regulator of muscle protein synthesis via the mTOR pathway. It is essential for muscle growth, repair, and recovery. Leucine also plays a role in glucose metabolism and insulin signaling.",
+                "indication": "Metabolic, Vascular, Anti-inflammatory and Anti-Aging Support"
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "GLP-1 Agonist Side Effect Support Bundle",
+                "description": "A combination of supplements designed to alleviate common side effects of GLP-1 receptor agonist therapies.",
+                "indication": "GLP-1 therapy side effects with our GLP-1 Agonist Side Effect Support Bundle."
+            },
+            {
+                "name": "Joint Health Bundle",
+                "description": "A supplement pack that supports joint health and mobility, featuring ingredients like glucosamine, chondroitin, and MSM.",
+                "indication": "Relieve joint pain and support musculoskeletal health with our comprehensive Joint Support Bundle."
+            }
+        ],
+        "timestamp": "2025-05-06T15:11:11.131436"
     }
 ]
