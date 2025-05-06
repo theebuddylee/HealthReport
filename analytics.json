@@ -10230,5 +10230,52 @@
             }
         ],
         "timestamp": "2025-05-06T15:44:45.149748"
+    },
+    {
+        "member_name": "Kristen Hessenauer",
+        "manager": "Allison",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "Compounded T3/T4 Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication containing a specific ratio of liothyronine (T3) and levothyroxine (T4), formulated by a compounding pharmacy to meet individual patient needs when commercially available options are not ideal.",
+                "indication": "Indicated for the treatment of hypothyroidism in patients requiring a personalized ratio of T3 and T4 to restore optimal thyroid function. It is beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens or specific excipients."
+            },
+            {
+                "name": "Oral BPC-KPV",
+                "description": "Oral BPC-KPV is a peptide-based therapy that combines BPC-157, known for its regenerative and anti-inflammatory properties, with KPV, a potent tripeptide derived from alpha-melanocyte-stimulating hormone (\u03b1-MSH) that helps modulate immune response and reduce inflammation. This combination is designed to support gut health, tissue repair, and immune regulation, making it a promising option for individuals with gastrointestinal disorders, inflammatory conditions, and musculoskeletal injuries.",
+                "indication": "Oral BPC-KPV is indicated for individuals seeking support for gut health, immune modulation, and tissue repair. It is commonly used for conditions such as inflammatory bowel diseases (IBD), leaky gut syndrome, gastritis, and other gastrointestinal disorders, as well as chronic inflammation and musculoskeletal injuries. By reducing inflammation, promoting cellular repair, and enhancing gut barrier integrity, BPC-KPV may aid in recovery from injury, optimize gut function, and support overall systemic healing."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Sermorelin",
+                "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
+                "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-05-06T16:43:05.128308"
     }
 ]
