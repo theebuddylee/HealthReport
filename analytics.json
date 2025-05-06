@@ -10344,5 +10344,28 @@
         ],
         "supplements": [],
         "timestamp": "2025-05-06T19:12:12.982609"
+    },
+    {
+        "member_name": "",
+        "manager": "Casey",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Retatrutide",
+                "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+                "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "GLP-1 Agonist Side Effect Support Bundle",
+                "description": "A combination of supplements designed to alleviate common side effects of GLP-1 receptor agonist therapies.",
+                "indication": "GLP-1 therapy side effects with our GLP-1 Agonist Side Effect Support Bundle."
+            }
+        ],
+        "timestamp": "2025-05-06T20:35:04.412758"
     }
 ]
