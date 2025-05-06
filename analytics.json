@@ -10168,5 +10168,67 @@
             }
         ],
         "timestamp": "2025-05-06T15:11:11.131436"
+    },
+    {
+        "member_name": "Joe Smith",
+        "manager": "Justin",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Douglas Labs D3 Liquid",
+                "description": "A high-potency liquid vitamin D3 supplement that supports bone health, immune function, and optimal calcium absorption.",
+                "indication": "Boost your immune system and improve overall health with this easily absorbed vitamin D3."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            },
+            {
+                "name": "Multi-Vitamin Premier",
+                "description": "A high-quality multivitamin providing essential vitamins, minerals, and antioxidants.",
+                "indication": "A high-quality multivitamin to fill nutritional gaps and support overall health and vitality."
+            },
+            {
+                "name": "Nattovena 4,000 FU/cap",
+                "description": "Nattovena is a potent dietary supplement containing 4,000 fibrinolytic units (FU) of nattokinase per capsule, designed to support cardiovascular health by promoting normal blood viscosity and aiding in the breakdown of excess fibrin. Derived from the traditional Japanese fermented soybean dish natto, nattokinase is a fibrin-dissolving enzyme that helps maintain healthy circulation.",
+                "indication": "Used as a natural aid for managing 'thick blood,' or conditions associated with increased blood viscosity."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            },
+            {
+                "name": "Selenium",
+                "description": "Selenium is essential for thyroid function as it helps convert inactive thyroid hormone (T4) into its active form (T3) and protects the thyroid gland from oxidative damage through its role in antioxidant enzymes like glutathione peroxidase. A deficiency in selenium can impair thyroid hormone metabolism and increase the risk of thyroid disorders, including hypothyroidism and Hashimoto\u2019s thyroiditis.",
+                "indication": "Selenium is indicated for individuals seeking to support healthy immune function, protect normal cell activity from oxidative stress, and promote overall cardiovascular and cellular health."
+            },
+            {
+                "name": "Tudca",
+                "description": "A bile acid supplement that supports liver health and detoxification processes.",
+                "indication": "A breakthrough bile acid supplement. TUDCA supports optimal liver function by promoting bile flow, reducing liver inflammation, and protecting against oxidative stress."
+            }
+        ],
+        "timestamp": "2025-05-06T15:44:45.149748"
     }
 ]
