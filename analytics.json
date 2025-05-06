@@ -10329,5 +10329,20 @@
         ],
         "supplements": [],
         "timestamp": "2025-05-06T16:47:22.732160"
+    },
+    {
+        "member_name": "Bob Gauthier",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ezetimibe",
+                "description": "Ezetimibe is a cholesterol-lowering medication that significantly reduces LDL-C while boosting HDL-C, offering additional protective benefits for heart health, non-alcoholic fatty liver disease, and stroke prevention. It also helps lower inflammation by reducing CRP levels, supporting overall cardiovascular wellness.",
+                "indication": "Lowers bad cholesterol (LDL-C), raises good cholesterol (HDL-C), and supports heart and liver health while reducing inflammation."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-05-06T19:12:12.982609"
     }
 ]
