@@ -458,7 +458,7 @@ if st.button("Generate PDF"):
     if pdf_path:
         st.success("PDF generated successfully!")
         with open(pdf_path, "rb") as pdf_file:
-            st.download_button("Download Treatment Plan", data=pdf_file, file_name="1stOptimal_treatment_plan.pdf", mime="application/pdf")
+            st.download_button("Download Treatment Plan", data=pdf_file, file_name="1stOptimal_Treatment_Builder_Template.pdf", mime="application/pdf")
     else:
         st.error("PDF generation failed.")
 
