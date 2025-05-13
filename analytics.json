@@ -10986,5 +10986,35 @@
             }
         ],
         "timestamp": "2025-05-13T15:59:56.442932"
+    },
+    {
+        "member_name": "Test Update",
+        "manager": "Buddy",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            }
+        ],
+        "timestamp": "2025-05-13T16:06:29.717707"
     }
 ]
