@@ -16,6 +16,7 @@ import base64
 PRIMARY_COLOR = "#06B6D4"  # Main accent color
 SECONDARY_COLOR = "#737373"  # Subheading / body text color
 BACKGROUND_COLOR = "#EBEBEB"  # Light background
+st.set_page_config(page_title="1st Optimal Health Report Generator", page_icon="⚕️" initial_sidebar_state="expanded")
 
 # Function to load external CSS file
 def load_css_from_github(raw_css_url):
