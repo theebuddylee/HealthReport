@@ -10931,5 +10931,30 @@
             }
         ],
         "timestamp": "2025-05-13T14:55:01.934673"
+    },
+    {
+        "member_name": "George Mansour ",
+        "manager": "Allison",
+        "membership": [],
+        "tests": [],
+        "medications": [],
+        "supplements": [
+            {
+                "name": "GLP-1 Probiotic Pro",
+                "description": "A specialized probiotic blend formulated to enhance gut health and improve gastrointestinal tolerance in individuals using GLP-1 agonists.",
+                "indication": "Enhance your GLP-1 journey with our Probiotic Support."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "JuJitsu Joint Health Bundle",
+                "description": "The 1st Optimal Jiu-Jitsu Joint Health Bundle combines Glucosamine Chondroitin, Curcumin Phytosome, and Boswellia Extract to support joint strength, flexibility, and recovery. This powerful trio helps protect cartilage, reduce inflammation, and improve mobility\u2014perfect for BJJ athletes looking to stay resilient during intense training sessions and recover faster.",
+                "indication": "Recommended for BJJ and martial arts athletes experiencing joint discomfort, stiffness, or inflammation, as well as active individuals recovering from joint injuries or seeking to maintain long-term joint health during high-impact training."
+            }
+        ],
+        "timestamp": "2025-05-13T15:26:17.413191"
     }
 ]
