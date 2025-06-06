@@ -12201,5 +12201,85 @@
             }
         ],
         "timestamp": "2025-06-05T19:55:05.339129"
+    },
+    {
+        "member_name": "Luis Martinez",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's TRT Treatment Follow-Up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-follow-up-panel",
+                "description": "A targeted follow-up panel designed for men undergoing hormone therapy, tracking key changes in testosterone and overall health.",
+                "indication": "Measures Free & Total Testosterone, Estradiol, PSA, CBC, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Enclomiphene",
+                "description": "A selective estrogen receptor modulator (SERM) used to increase testosterone production in men by stimulating the natural production of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",
+                "indication": "A powerful testosterone booster that enhances natural production while supporting fertility. Unlike traditional options, Enclomiphene helps maintain testicular function and sperm count, ensuring optimized hormone levels without compromising reproductive health."
+            },
+            {
+                "name": "Hexarelin",
+                "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+                "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+            },
+            {
+                "name": "Sermorelin",
+                "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
+                "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Cholesterol Complete",
+                "description": "Cholesterol Complete by Biospec Nutritionals features a blend of red yeast rice, guggulipid, hawthorn, and policosanol to support healthy cholesterol levels. This comprehensive formula leverages traditional heart-healthy ingredients to promote favorable blood lipid profiles.",
+                "indication": "Ideal for individuals looking to manage cholesterol levels and maintain cardiovascular health through a natural, evidence-based approach."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2025-06-06T14:07:07.944919"
     }
 ]
