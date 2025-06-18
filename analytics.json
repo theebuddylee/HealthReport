@@ -13065,5 +13065,68 @@
             }
         ],
         "timestamp": "2025-06-16T16:40:48.259656"
+    },
+    {
+        "member_name": "Bryant Zamensky",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Anastrozole",
+                "description": "A medication used to manage estrogen levels in men undergoing testosterone replacement therapy (TRT). It works as an aromatase inhibitor, blocking the conversion of testosterone to estrogen, thereby maintaining optimal hormonal balance.",
+                "indication": "Designed to maintain hormonal balance by managing estrogen levels. By reducing excess estrogen, Anastrozole helps improve energy, mood, and muscle definition while minimizing side effects like water retention or fatigue."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Hexarelin",
+                "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+                "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+            },
+            {
+                "name": "Oxandrolone",
+                "description": "Oxandrolone Therapy offers a powerful solution for enhancing recovery, strength, and lean muscle preservation during your TRT journey. Delivered with guided medical oversight, convenient telemedicine visits, and streamlined access through our patient portal app, this therapy is tailored for individuals seeking optimal performance and resilience.",
+                "indication": "Oxandrolone therapy is known for its ability to promote tissue repair, increase strength, and preserve lean muscle mass, even during caloric deficits or recovery phases. Its mild profile and targeted benefits make it an ideal addition to testosterone replacement therapy, helping you recover faster, maintain muscle integrity."
+            },
+            {
+                "name": "Tadalafil",
+                "description": "A long-acting PDE5 inhibitor used to treat erectile dysfunction and improve urinary symptoms associated with benign prostatic hyperplasia (BPH).",
+                "indication": "Long-lasting support for improved performance and blood flow, helping you feel and perform at your best."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Tudca",
+                "description": "A bile acid supplement that supports liver health and detoxification processes.",
+                "indication": "A breakthrough bile acid supplement. TUDCA supports optimal liver function by promoting bile flow, reducing liver inflammation, and protecting against oxidative stress."
+            }
+        ],
+        "timestamp": "2025-06-18T17:15:20.171266"
     }
 ]
