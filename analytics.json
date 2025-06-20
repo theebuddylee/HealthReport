@@ -13128,5 +13128,66 @@
             }
         ],
         "timestamp": "2025-06-18T17:15:20.171266"
+    },
+    {
+        "member_name": "Amanda Canuto",
+        "manager": "Allison",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            },
+            {
+                "name": "Women's Hormone Treatment Follow-up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-follow-up-panel",
+                "description": "A follow-up hormone panel for women monitoring treatment progress and adjusting therapy as needed.",
+                "indication": "Measures FSH, LH, CBC, Progesterone, Testosterone, Estradiol, TSH, Metabolic Panel, and Lipid Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Liothyronine",
+                "description": "A synthetic form of the thyroid hormone triiodothyronine (T\u2083), which plays a crucial role in regulating metabolism, growth, and development. It is commonly prescribed to address various thyroid-related conditions.",
+                "indication": "Liothyronine is used as replacement therapy in cases where the thyroid gland does not produce sufficient hormones, including primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism."
+            },
+            {
+                "name": "Omberacetam",
+                "description": "Omberacetam is a synthetic nootropic known for its potent cognitive-enhancing and neuroprotective properties. It modulates glutamate and acetylcholine activity, improving memory, learning, and mental clarity while supporting brain health.",
+                "indication": "Enhances cognitive function, improves memory retention, and supports focus. It may also help with neuroprotection, anxiety reduction, and recovery from brain injuries or neurodegenerative conditions."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Selank",
+                "description": "A synthetic peptide developed as an analog of the naturally occurring immunomodulatory peptide tuftsin. Selank exhibits pronounced anxiolytic (anti-anxiety) effects without the sedative and dependency side effects commonly associated with traditional tranquilizers. Additionally, it has demonstrated nootropic properties, enhancing cognitive functions such as memory and learning.",
+                "indication": "Selank is used to support anxiety relief, cognitive enhancement, and stress management. This synthetic peptide promotes a calming effect without sedation, improves memory and focus, and helps regulate the body's stress response for overall mental well-being."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            }
+        ],
+        "timestamp": "2025-06-20T19:59:59.231939"
     }
 ]
