@@ -13189,5 +13189,55 @@
             }
         ],
         "timestamp": "2025-06-20T19:59:59.231939"
+    },
+    {
+        "member_name": "Lynn Conway",
+        "manager": "Allison",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Treatment Follow-up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-follow-up-panel",
+                "description": "A follow-up hormone panel for women monitoring treatment progress and adjusting therapy as needed.",
+                "indication": "Measures FSH, LH, CBC, Progesterone, Testosterone, Estradiol, TSH, Metabolic Panel, and Lipid Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Homocysteine Supreme",
+                "description": "Formulated to support the efficient metabolism of homocysteine, an amino acid linked to cardiovascular and neurological health. It combines bioactive forms of folate (5-methyltetrahydrofolate), vitamin B6 (pyridoxal-5\u2019-phosphate), vitamin B12 (methylcobalamin), and other synergistic nutrients to promote optimal homocysteine pathways.",
+                "indication": "By maintaining healthy homocysteine levels, this supplement aids in the production of essential compounds like taurine, cysteine, norepinephrine, and dopamine, which are vital for detoxification, immune function, joint and cartilage health, and overall brain and cardiovascular wellness."
+            },
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2025-06-23T19:13:57.117921"
     }
 ]
