@@ -23,14 +23,14 @@
         },
         "Sex Hormone Binding Globulin (SHBG)": {
             "description": "SHBG regulates Testosterone and Estrogen availability. Optimal levels sharpen muscle and energy gains. Too high, T’s locked up; too low, chaos reigns. Keep it in check with weights, magnesium (nuts), and avoiding sugar spikes.",
-            "clinical_range": "16.5 - 55.9",
-            "optimal_range": "16.5 - 55.9",
+            "clinical_range": "19.3 - 76.4",
+            "optimal_range": "19.3 - 55.9",
             "units": "nmol/L",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Prolactin": {
             "description": "This hormone balances mood and vitality. Optimizing it lifts focus and stamina. High kills drive; low drags you down. Manage it with stress relief, vitamin B6 (chicken), and rest.",
-            "clinical_range": "3.6 - 31.5",
+            "clinical_range": "3.6 - 25.2",
             "optimal_range": "3.6 - 12.0",
             "units": "ng/mL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
