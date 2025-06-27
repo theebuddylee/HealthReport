@@ -524,6 +524,20 @@
             "optimal_range": "50 - 150",
             "units": "ng/mL",
             "panel": "Iron Markers"
+        },
+         "Immature Granulocytes": {
+            "description": "Immature granulocytes indicate early white blood cell activity. Optimal levels suggest calm bone marrow. High signals infection or inflammation; low is normal. Support with training, zinc (seeds), and rest.",
+            "clinical_range": "0.0 - 0.6",
+            "optimal_range": "0.0 - 0.3",
+            "units": "%",
+            "panel": "CBC w/ Differential and Platelet"
+        },
+        "Immature Granulocytes (Absolute)": {
+            "description": "Absolute count of immature granulocytes tracks bone marrow response. Optimal levels mean steady immunity. High flags infection or stress; low is typical. Maintain with lifts, vitamin C (peppers), and sleep.",
+            "clinical_range": "0.0 - 0.1",
+            "optimal_range": "0.0 - 0.05",
+            "units": "x10E3 cells/µL",
+            "panel": "CBC w/ Differential and Platelet"
         }
     },
     "Women": {
