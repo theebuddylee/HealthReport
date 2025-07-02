@@ -163,8 +163,8 @@
         },
         "Blood Urea Nitrogen (BUN)": {
             "description": "BUN gauges kidney cleanup. Optimizing it ensures a lean system. High wears you out; low might mean underfueling. Stay optimal with lifts, water, and rest.",
-            "clinical_range": "7.0 - 20.0",
-            "optimal_range": "7.0 - 20.0",
+            "clinical_range": "8.0 - 27.0",
+            "optimal_range": "7.0 - 27.0",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
         },
@@ -177,8 +177,8 @@
         },
         "BUN/Creatinine Ratio": {
             "description": "This ratio fine-tunes kidney function. Optimizing it keeps waste clearance sharp. Off-balance, you’re sluggish. Balance it with lifts, balanced protein, and rest.",
-            "clinical_range": "10.0 - 20.0",
-            "optimal_range": "10.0 - 20.0",
+            "clinical_range": "10 - 20",
+            "optimal_range": "10 - 20",
             "units": ":1 (Ratio)",
             "panel": "Metabolic Panel"
         },
@@ -291,7 +291,7 @@
             "description": "MCHC measures hemoglobin density. Optimizing it keeps blood strong. Off-kilter, you’re dragging. Keep it steady with lifts, vitamin C (oranges), and rest.",
             "clinical_range": "32 - 36",
             "optimal_range": "32 - 36",
-            "units": "%",
+            "units": "g/dL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Cell Distribution Width (RDW)": {
@@ -697,7 +697,7 @@
         },
         "Blood Urea Nitrogen (BUN)": {
             "description": "BUN gauges kidney cleanup. Optimizing it ensures a lean system. High wears you out; low might mean underfueling. Stay optimal with lifts, water, and rest.",
-            "clinical_range": "7.0 - 20.0",
+            "clinical_range": "8.0 - 27.0",
             "optimal_range": "7.0 - 20.0",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
@@ -711,8 +711,8 @@
         },
         "BUN/Creatinine Ratio": {
             "description": "This ratio fine-tunes kidney function. Optimizing it keeps waste clearance sharp. Off-balance, you’re sluggish. Balance it with lifts, balanced protein, and rest.",
-            "clinical_range": "10.0 - 20.0",
-            "optimal_range": "10.0 - 20.0",
+            "clinical_range": "10 - 20",
+            "optimal_range": "10 - 20",
             "units": ":1 Ratio",
             "panel": "Metabolic Panel"
         },
@@ -825,7 +825,7 @@
             "description": "MCHC measures hemoglobin density. Optimizing it keeps blood strong. Off-kilter, you’re dragging. Keep it steady with lifts, vitamin C (oranges), and rest.",
             "clinical_range": "32 - 36",
             "optimal_range": "32 - 36",
-            "units": "%",
+            "units": "g/dL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Cell Distribution Width (RDW)": {
@@ -1161,7 +1161,7 @@
         },
         "Blood Urea Nitrogen (BUN)": {
             "description": "BUN gauges kidney cleanup. Optimizing it ensures a lean system. High wears you out; low might mean underfueling. Stay optimal with lifts, water, and rest.",
-            "clinical_range": "7.0 - 20.0",
+            "clinical_range": "8.0 - 27.0",
             "optimal_range": "7.0 - 20.0",
             "units": "mg/dL",
             "panel": "Metabolic Panel"
@@ -1175,8 +1175,8 @@
         },
         "BUN/Creatinine Ratio": {
             "description": "This ratio fine-tunes kidney function. Optimizing it keeps waste clearance sharp. Off-balance, you’re sluggish. Balance it with lifts, balanced protein, and rest.",
-            "clinical_range": "10.0 - 20.0",
-            "optimal_range": "10.0 - 20.0",
+            "clinical_range": "10 - 20",
+            "optimal_range": "10 - 20",
             "units": ":1 Ratio",
             "panel": "Metabolic Panel"
         },
@@ -1289,7 +1289,7 @@
             "description": "MCHC measures hemoglobin density. Optimizing it keeps blood strong. Off-kilter, you’re dragging. Keep it steady with lifts, vitamin C (oranges), and rest.",
             "clinical_range": "32 - 36",
             "optimal_range": "32 - 36",
-            "units": "%",
+            "units": "g/dL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Cell Distribution Width (RDW)": {
