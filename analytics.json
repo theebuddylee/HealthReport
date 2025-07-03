@@ -13713,5 +13713,61 @@
             }
         ],
         "timestamp": "2025-07-03T20:33:47.999443"
+    },
+    {
+        "member_name": "Richard Wilfong",
+        "manager": "Allison",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-hormone-health-panel",
+                "description": "A mid-level hormone panel for men seeking deeper insights into testosterone function, recovery, weight management, and overall vitality.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, and Vitamin D."
+            },
+            {
+                "name": "Men's TRT Treatment Follow-Up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-follow-up-panel",
+                "description": "A targeted follow-up panel designed for men undergoing hormone therapy, tracking key changes in testosterone and overall health.",
+                "indication": "Measures Free & Total Testosterone, Estradiol, PSA, CBC, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Hexarelin",
+                "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+                "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+            },
+            {
+                "name": "Nandrolone Decanoate",
+                "description": "Nandrolone Decanoate Therapy provides an advanced approach to joint recovery and enhanced well-being during your BHRT phase.",
+                "indication": "Nandrolone Decanoate therapy helps promote joint healing, alleviate discomfort from chronic inflammation, and enhance recovery from physical strain or injury. It works synergistically with testosterone replacement therapy to improve mobility, reduce pain, and support long-term joint health."
+            },
+            {
+                "name": "Oxandrolone",
+                "description": "Oxandrolone Therapy offers a powerful solution for enhancing recovery, strength, and lean muscle preservation during your TRT journey. Delivered with guided medical oversight, convenient telemedicine visits, and streamlined access through our patient portal app, this therapy is tailored for individuals seeking optimal performance and resilience.",
+                "indication": "Oxandrolone therapy is known for its ability to promote tissue repair, increase strength, and preserve lean muscle mass, even during caloric deficits or recovery phases. Its mild profile and targeted benefits make it an ideal addition to testosterone replacement therapy, helping you recover faster, maintain muscle integrity."
+            },
+            {
+                "name": "TB-400 / TB-500",
+                "description": "TB-400/500 is a synthetic fragment of thymosin beta-4 (specifically the 17-23 segment), designed to replicate its active region. Both are involved in actin regulation and tissue repair. TB-500 Therapy provides advanced treatment designed to enhance recovery, promote healing, and support overall physical performance.",
+                "indication": "TB-400/500 therapy helps reduce inflammation, accelerate tissue repair, and improve endurance, making it an ideal choice for those seeking optimal recovery and resilience."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-07-03T22:15:41.118478"
     }
 ]
