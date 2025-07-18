@@ -14108,5 +14108,48 @@
         ],
         "supplements": [],
         "timestamp": "2025-07-17T18:32:17.386527"
+    },
+    {
+        "member_name": "Mark Mieczkowski",
+        "manager": "Casey",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Hexarelin",
+                "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+                "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+            },
+            {
+                "name": "Sermorelin",
+                "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
+                "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2025-07-18T16:23:49.009863"
     }
 ]
