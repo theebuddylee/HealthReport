@@ -1009,6 +1009,76 @@
             "optimal_range": "0.0 - 1.0",
             "units": "mg/L",
             "panel": "Inflammatory Markers"
+        },
+        "Total Testosterone (LC/MS) [uncapped]": {
+            "description": "The precise T-test tracks levels accurately for women's vitality. Optimizing it fuels muscle tone, energy, and cycle balance. Low saps stamina; high might disrupt mood. Keep it steady with squats, healthy fats (avocado), and rest.",
+            "clinical_range": "2 - 45",
+            "optimal_range": "25 - 55",
+            "units": "ng/dL",
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
+        },
+        "Free Testosterone (Equilibrium Ultrafiltration) [uncapped]": {
+            "description": "Free T's accurate measure unleashes energy and drive. Optimal levels amp recovery and confidence. Low drags you; high sparks breakouts. Boost it with rows, zinc-rich foods, and sleep.",
+            "clinical_range": "0.2 - 5.0",
+            "optimal_range": "1.0 - 4.0",
+            "units": "pg/mL",
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
+        },
+        "Prostate Specific Antigen (PSA)": {
+            "description": "Though typically for men, PSA in women can flag certain health markers like breast issues. Optimizing it (keeping low) ensures smooth function. Slightly high? Could be inflammation. Keep it chill with lifts, clean eats, and 7-9 hours of sleep.",
+            "clinical_range": "0.0 - 0.1",
+            "optimal_range": "0.0 - 0.05",
+            "units": "ng/mL",
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
+        },
+        "Pregnenolone": {
+            "description": "The hormone precursor fuels brain and hormone balance. Optimal levels lift focus, stamina, and cycle harmony. Low fogs you; high’s rare but wired. Boost it with rows, healthy fats, and sleep.",
+            "clinical_range": "10 - 230",
+            "optimal_range": "125 - 175",
+            "units": "ng/dL",
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
+        },
+        "Thyroglobulin Antibody (tgAb)": {
+            "description": "This thyroid flag spots autoimmunity. Optimizing it (keeping low) ensures smooth energy and metabolism. High slows you; low’s a win. Calm it with lifts, selenium (nuts), and rest.",
+            "clinical_range": "0.0 - 0.9",
+            "optimal_range": "0.0 - 0.9",
+            "units": "IU/mL",
+            "panel": "Thyroid, Growth Factors & Glucose"
+        },
+        "Thyroid Peroxidase Antibody (TPOab)": {
+            "description": "TPOab signals thyroid stress. Optimizing it (keeping low) maintains vigor and hormone balance. High drags you; low’s steady. Chill it with training, zinc, and sleep.",
+            "clinical_range": "0.0 - 34.0",
+            "optimal_range": "0.0 - 9.0",
+            "units": "IU/mL",
+            "panel": "Thyroid, Growth Factors & Glucose"
+        },
+        "Reverse T3": {
+            "description": "This thyroid regulator can block energy if high. Optimizing it keeps metabolism sharp and recovery strong. High stalls gains; low’s smooth. Free it with lifts, clean eats, and rest.",
+            "clinical_range": "9.2 - 24.1",
+            "optimal_range": "10.0 - 18.5",
+            "units": "ng/dL",
+            "panel": "Thyroid, Growth Factors & Glucose"
+        },
+        "Lipoprotein (a)": {
+            "description": "The heart risk factor to watch. Optimizing it (keeping low) protects arteries and boosts endurance. High tires you long-term; low’s a win. Fight it with cardio, niacin-rich foods, and sleep.",
+            "clinical_range": "0.0 - 75.0",
+            "optimal_range": "0.0 - 50.0",
+            "units": "nmol/L",
+            "panel": "Lipid Panel"
+        },
+        "Immature Granulocytes": {
+            "description": "Immature granulocytes indicate early immune activity. Optimal levels suggest calm immunity. High signals infection or stress; low is normal. Support with training, zinc (seeds), and rest.",
+            "clinical_range": "0.0 - 0.6",
+            "optimal_range": "0.0 - 0.3",
+            "units": "%",
+            "panel": "CBC w/ Differential and Platelet"
+        },
+        "Immature Granulocytes (Absolute)": {
+            "description": "Absolute count of immature granulocytes tracks immune response. Optimal levels mean steady defense. High flags infection or inflammation; low is typical. Maintain with lifts, vitamin C (peppers), and sleep.",
+            "clinical_range": "0.0 - 0.1",
+            "optimal_range": "0.0 - 0.05",
+            "units": "x10E3 cells/µL",
+            "panel": "CBC w/ Differential and Platelet"
         }
     },
     "Post Menopausal Women": {
