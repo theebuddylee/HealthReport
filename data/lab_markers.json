@@ -569,6 +569,13 @@
             "units": "nmol/L",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
+        "TSH": {
+            "description": "TSH steers thyroid metabolism, crucial for women’s energy and cycle harmony. Optimizing it fuels stamina, fat-burning, and mood stability. Too low, you’re wired or sluggish; too high, fatigue and jitters hit. Pregnancy may lower it (first trimester <2.5 mIU/L), so check with your doc. Keep it sharp with cardio, iodine-rich seaweed, and 7-9 hours of sleep.",
+            "clinical_range": "0.45 - 4.5",
+            "optimal_range": "0.5 - 2.5",
+            "units": "mIU/L",
+            "panel": "Thyroid, Growth Factors & Glucose"
+        },
         "Prolactin": {
             "description": "This hormone ties to vitality, peaking post-ovulation. Optimizing it lifts mood and cycle rhythm. High saps stamina; low drags subtly. Keep it in check with yoga, vitamin B6 (chicken), and rest.",
             "clinical_range": "3.6 - 25.2",
