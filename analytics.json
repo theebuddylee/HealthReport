@@ -174,5 +174,68 @@
             }
         ],
         "timestamp": "2025-07-30T15:11:16.309888"
+    },
+    {
+        "member_name": "Jasmine Ramathi",
+        "manager": "Allison",
+        "membership": [
+            "Peptide, Sex and Hair Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "SS-31 (Elamipretide)",
+                "description": "SS-31 (Elamipretide) is a cutting-edge mitochondrial peptide with wide-ranging benefits in cellular energy, aging, inflammation, and neuroprotection. By targeting and stabilizing mitochondrial membranes, it holds unique promise for individuals dealing with chronic fatigue, inflammation, autoimmune conditions, or degenerative diseases.",
+                "indication": "SS-31 is indicated for any condition driven by mitochondrial dysfunction, especially where oxidative stress, energy failure, or age-related decline are involved. While still investigational, it is gaining popularity in integrative medicine, anti-aging, neurodegenerative care, and fatigue recovery protocols due to its direct mitochondrial repair mechanism."
+            },
+            {
+                "name": "Oxytocin",
+                "description": "Oxytocin is a naturally occurring hormone and neuropeptide produced in the hypothalamus and released by the pituitary gland. Often called the \"bonding\" or \"love hormone,\" it plays a key role in social connection, emotional regulation, trust, and sexual intimacy.",
+                "indication": "In functional medicine, oxytocin is used off-label as a therapeutic tool to support emotional, cognitive, and relational well-being, especially when dysregulation of the stress-response system, social engagement, or mood balance is present."
+            },
+            {
+                "name": "PT-141 (Bremelanotide)",
+                "description": "PT-141 (Bremelanotide) is a synthetic peptide used to enhance sexual arousal and libido in both men and women. Unlike other sexual function medications that target blood flow (like Viagra), PT-141 acts directly on the central nervous system, specifically the hypothalamus, to stimulate desire.",
+                "indication": "PT-141 (Bremelanotide) is indicated for the treatment of hypoactive sexual desire disorder (HSDD) in premenopausal women and is used off-label in both men and women to enhance libido, arousal, and sexual satisfaction. In functional medicine, it is commonly prescribed for individuals experiencing low sexual desire, erectile dysfunction, or arousal difficulties, including those related to SSRI use or hormonal imbalance. Unlike PDE5 inhibitors, PT-141 works by activating melanocortin receptors in the brain, stimulating sexual desire at the central nervous system level."
+            },
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "Epitalon",
+                "description": "Epitalon (Epithalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from Epithalamin, a natural peptide produced in the pineal gland. It has a role in regulating telomerase activity, promoting cellular longevity, and modulating circadian rhythms. Epitalon is considered a potential anti-aging compound due to its effects on telomere maintenance, oxidative stress reduction, and endocrine system regulation.",
+                "indication": "Epitalon has been studied for its ability to activate telomerase, an enzyme that maintains telomere length, potentially slowing cellular aging and promoting longevity."
+            },
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "TB-400 / TB-500",
+                "description": "TB-400/500 is a synthetic fragment of thymosin beta-4 (specifically the 17-23 segment), designed to replicate its active region. Both are involved in actin regulation and tissue repair. TB-500 Therapy provides advanced treatment designed to enhance recovery, promote healing, and support overall physical performance.",
+                "indication": "TB-400/500 therapy helps reduce inflammation, accelerate tissue repair, and improve endurance, making it an ideal choice for those seeking optimal recovery and resilience."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-07-30T16:04:11.814845"
     }
 ]
