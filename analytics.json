@@ -441,5 +441,70 @@
             }
         ],
         "timestamp": "2025-07-31T00:02:13.952276"
+    },
+    {
+        "member_name": "Ed Roberts",
+        "manager": "Allison",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's TRT Treatment Follow-Up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-follow-up-panel",
+                "description": "A targeted follow-up panel designed for men undergoing hormone therapy, tracking key changes in testosterone and overall health.",
+                "indication": "Measures Free & Total Testosterone, Estradiol, PSA, CBC, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Nandrolone Decanoate",
+                "description": "Nandrolone Decanoate Therapy provides an advanced approach to joint recovery and enhanced well-being during your BHRT phase.",
+                "indication": "Nandrolone Decanoate therapy helps promote joint healing, alleviate discomfort from chronic inflammation, and enhance recovery from physical strain or injury. It works synergistically with testosterone replacement therapy to improve mobility, reduce pain, and support long-term joint health."
+            },
+            {
+                "name": "Pregnenolone",
+                "description": "Pregnenolone Therapy offers a natural approach to supporting cognitive function, hormonal balance, and overall well-being.",
+                "indication": "Pregnenolone therapy helps improve memory, reduce stress, and promote hormonal harmony for optimal health."
+            },
+            {
+                "name": "Tadalafil",
+                "description": "A long-acting PDE5 inhibitor used to treat erectile dysfunction and improve urinary symptoms associated with benign prostatic hyperplasia (BPH).",
+                "indication": "Long-lasting support for improved performance and blood flow, helping you feel and perform at your best."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Creatine",
+                "description": "A naturally occurring compound stored in muscles and used to produce energy during high-intensity activities.",
+                "indication": "Fuel your body and mind with Creatine. By enhancing energy production, Creatine helps maintain muscle mass during aging or recovery while also improving memory, focus, and mental clarity."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-07-31T15:48:58.497686"
     }
 ]
