@@ -561,5 +561,58 @@
             }
         ],
         "timestamp": "2025-08-04T15:47:34.967955"
+    },
+    {
+        "member_name": "Jennifer Maddux",
+        "manager": "Casey",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Compounded T3/T4 Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication containing a specific ratio of liothyronine (T3) and levothyroxine (T4), formulated by a compounding pharmacy to meet individual patient needs when commercially available options are not ideal.",
+                "indication": "Indicated for the treatment of hypothyroidism in patients requiring a personalized ratio of T3 and T4 to restore optimal thyroid function. It is beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens or specific excipients."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Semaglutide",
+                "description": "A GLP-1 receptor agonist used for weight loss and blood sugar management.",
+                "indication": "The proven GLP-1 receptor agonist. Backed by science, Semaglutide enhances appetite control, stabilizes blood sugar, and promotes sustainable fat loss."
+            },
+            {
+                "name": "Sermorelin",
+                "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
+                "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2025-08-04T21:15:04.193364"
     }
 ]
