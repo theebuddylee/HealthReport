@@ -614,5 +614,64 @@
             }
         ],
         "timestamp": "2025-08-04T21:15:04.193364"
+    },
+    {
+        "member_name": "Lyn Krisiak",
+        "manager": "Allison",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Treatment Follow-up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-follow-up-panel",
+                "description": "A follow-up hormone panel for women monitoring treatment progress and adjusting therapy as needed.",
+                "indication": "Measures FSH, LH, CBC, Progesterone, Testosterone, Estradiol, TSH, Metabolic Panel, and Lipid Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Semax",
+                "description": "Semax is a synthetic peptide administered primarily as a nasal spray for rapid absorption into the central nervous system. It is known for its nootropic and neuroprotective effects, helping to improve focus, memory, and mental clarity. Semax works by enhancing brain-derived neurotrophic factor (BDNF), supporting dopamine and serotonin balance, and reducing oxidative stress. In functional medicine, Semax may also support cortisol regulation indirectly by modulating the HPA axis, helping the body adapt to chronic stress and reducing mental fatigue often associated with elevated or dysregulated cortisol levels.",
+                "indication": "Semax is primarily indicated for cognitive enhancement, neuroprotection, and stress adaptation. It is used to support memory, focus, and mental performance, particularly in situations of chronic stress, fatigue, or cognitive decline. In functional and longevity medicine, it may also be used to modulate the stress response and support cortisol regulation by promoting optimal HPA axis function, making it beneficial for individuals experiencing mental fatigue, burnout, or dysregulated stress hormone patterns."
+            },
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "Epitalon",
+                "description": "Epitalon (Epithalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from Epithalamin, a natural peptide produced in the pineal gland. It has a role in regulating telomerase activity, promoting cellular longevity, and modulating circadian rhythms. Epitalon is considered a potential anti-aging compound due to its effects on telomere maintenance, oxidative stress reduction, and endocrine system regulation.",
+                "indication": "Epitalon has been studied for its ability to activate telomerase, an enzyme that maintains telomere length, potentially slowing cellular aging and promoting longevity."
+            },
+            {
+                "name": "Methylene Blue",
+                "description": "Methylene Blue is a synthetic compound with a rich history in medical applications, recently gaining attention for its potential anti-aging benefits.",
+                "indication": "Cognitive Function: Research indicates that methylene blue may support brain health by improving mitochondrial function, leading to enhanced energy production in brain cells. This improvement could aid in preserving cognitive abilities and potentially offer neuroprotective effects against age-related decline."
+            },
+            {
+                "name": "Selank",
+                "description": "A synthetic peptide developed as an analog of the naturally occurring immunomodulatory peptide tuftsin. Selank exhibits pronounced anxiolytic (anti-anxiety) effects without the sedative and dependency side effects commonly associated with traditional tranquilizers. Additionally, it has demonstrated nootropic properties, enhancing cognitive functions such as memory and learning.",
+                "indication": "Selank is used to support anxiety relief, cognitive enhancement, and stress management. This synthetic peptide promotes a calming effect without sedation, improves memory and focus, and helps regulate the body's stress response for overall mental well-being."
+            },
+            {
+                "name": "TB-400 / TB-500",
+                "description": "TB-400/500 is a synthetic fragment of thymosin beta-4 (specifically the 17-23 segment), designed to replicate its active region. Both are involved in actin regulation and tissue repair. TB-500 Therapy provides advanced treatment designed to enhance recovery, promote healing, and support overall physical performance.",
+                "indication": "TB-400/500 therapy helps reduce inflammation, accelerate tissue repair, and improve endurance, making it an ideal choice for those seeking optimal recovery and resilience."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-08-05T15:46:01.289776"
     }
 ]
