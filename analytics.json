@@ -972,5 +972,47 @@
         ],
         "supplements": [],
         "timestamp": "2025-08-07T20:48:12.154541"
+    },
+    {
+        "member_name": "Jason Graeb",
+        "manager": "Jamie",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "hCG",
+                "description": "hCG (human chorionic gonadotropin) is a natural hormone that helps support your body's own testosterone and fertility. Often used in hormone replacement therapy (HRT) to boost Testosterone levels and/or gonadal support.\n\n\n\n",
+                "indication": "Testosterone therapy alone can sometimes lower your body\u2019s natural hormone production and reduce fertility. hCG helps keep everything working as naturally as possible while you get the benefits of HRT.\n\nKeep your testicles active while on testosterone therapy; support sperm production and fertility; prevent testicle shrinkage; boost natural testosterone in some cases; improve energy, mood, and libido\n\nIn women, it can help with fertility and ovulation support during treatment."
+            },
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "TB-400 / TB-500",
+                "description": "TB-400/500 is a synthetic fragment of thymosin beta-4 (specifically the 17-23 segment), designed to replicate its active region. Both are involved in actin regulation and tissue repair. TB-500 Therapy provides advanced treatment designed to enhance recovery, promote healing, and support overall physical performance.",
+                "indication": "TB-400/500 therapy helps reduce inflammation, accelerate tissue repair, and improve endurance, making it an ideal choice for those seeking optimal recovery and resilience."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-08-07T22:37:47.494796"
     }
 ]
