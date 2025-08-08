@@ -1072,5 +1072,56 @@
             }
         ],
         "timestamp": "2025-08-08T15:55:11.926796"
+    },
+    {
+        "member_name": "Ana Capozzoli",
+        "manager": "Allison",
+        "membership": [
+            "Peptide, Sex and Hair Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            },
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Larazotide (AT-1001)",
+                "description": "Larazotide (AT-1001) is an oral peptide that helps regulate intestinal permeability by modulating tight junctions in the gut lining. It is primarily researched for its role in managing leaky gut syndrome, celiac disease, and other inflammatory gut disorders. By preventing the breakdown of tight junctions, Larazotide supports gut barrier integrity, reduces inflammation, and may help mitigate symptoms related to increased intestinal permeability.",
+                "indication": "Larazotide (AT-1001) 500mcg is indicated for individuals with conditions linked to increased intestinal permeability, such as celiac disease, leaky gut syndrome, inflammatory bowel diseases (IBD), and autoimmune disorders. By modulating tight junctions in the gut lining, it helps reduce inflammation, support barrier integrity, and mitigate symptoms like bloating, brain fog, and digestive discomfort. It may also benefit metabolic and neurological conditions related to gut health, making it a promising adjunct therapy for those with chronic inflammation and immune dysregulation."
+            },
+            {
+                "name": "Oral BPC-KPV",
+                "description": "Oral BPC-KPV is a peptide-based therapy that combines BPC-157, known for its regenerative and anti-inflammatory properties, with KPV, a potent tripeptide derived from alpha-melanocyte-stimulating hormone (\u03b1-MSH) that helps modulate immune response and reduce inflammation. This combination is designed to support gut health, tissue repair, and immune regulation, making it a promising option for individuals with gastrointestinal disorders, inflammatory conditions, and musculoskeletal injuries.",
+                "indication": "Oral BPC-KPV is indicated for individuals seeking support for gut health, immune modulation, and tissue repair. It is commonly used for conditions such as inflammatory bowel diseases (IBD), leaky gut syndrome, gastritis, and other gastrointestinal disorders, as well as chronic inflammation and musculoskeletal injuries. By reducing inflammation, promoting cellular repair, and enhancing gut barrier integrity, BPC-KPV may aid in recovery from injury, optimize gut function, and support overall systemic healing."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Sunfiber",
+                "description": "Sunfiber is a soluble, partially hydrolyzed guar gum (PHGG) that functions as a gentle prebiotic fiber. It dissolves easily in liquids, is tasteless, and ferments slowly in the gut, minimizing gas and bloating.",
+                "indication": "Sunfiber is indicated to promote healthy gut microbiota balance, improve stool regularity, and support digestive comfort. It is especially beneficial for individuals with dysbiosis, IBS, or sensitive digestion, as it gently feeds beneficial bacteria without causing excess gas or bloating."
+            },
+            {
+                "name": "Oil of Oregano",
+                "description": "Oil of oregano is a potent herbal extract derived from the oregano plant, rich in compounds like carvacrol and thymol, which have strong antibacterial, antifungal, and antioxidant properties. It is commonly used in integrative medicine to help combat microbial overgrowth and support immune function.",
+                "indication": "Oil of oregano is indicated for its natural antimicrobial properties, helping to reduce harmful bacteria, yeast, and parasites in the gut. It is often used in cases of bacterial overgrowth, fungal infections, or digestive imbalance, and can support overall immune and gut health when used short term as part of a targeted protocol."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            }
+        ],
+        "timestamp": "2025-08-08T19:27:15.268657"
     }
 ]
