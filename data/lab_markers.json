@@ -538,7 +538,15 @@
             "optimal_range": "0.0 - 0.05",
             "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
+        },
+        "Transferrin": {
+            "description": "Transferrin transports iron in blood, fueling energy and stamina. Optimal levels ensure efficient oxygen delivery. Too low, you’re fatigued; too high, overload risks rise. Support it with lifts, iron-rich foods (beef), and rest.",
+            "clinical_range": "200 - 360",
+            "optimal_range": "215 - 365",
+            "units": "mg/dL",
+            "panel": "Iron Markers"
         }
+        
     },
     "Women": {
         "Total Testosterone": {
@@ -1079,6 +1087,13 @@
             "optimal_range": "0.0 - 0.05",
             "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
+        },
+         "Transferrin": {
+            "description": "Transferrin transports iron in blood, fueling energy and stamina. Optimal levels ensure efficient oxygen delivery. Too low, you’re fatigued; too high, overload risks rise. Support it with lifts, iron-rich foods (beef), and rest.",
+            "clinical_range": "200 - 360",
+            "optimal_range": "215 - 365",
+            "units": "mg/dL",
+            "panel": "Iron Markers"
         }
     },
     "Post Menopausal Women": {
