@@ -1279,5 +1279,26 @@
             }
         ],
         "timestamp": "2025-08-12T22:23:31.630911"
+    },
+    {
+        "member_name": "Michelle Klesper",
+        "manager": "Jamie",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "BPC-157 Oral",
+                "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+                "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Joint Health Bundle",
+                "description": "A supplement pack that supports joint health and mobility, featuring ingredients like glucosamine, chondroitin, and MSM.",
+                "indication": "Relieve joint pain and support musculoskeletal health with our comprehensive Joint Support Bundle."
+            }
+        ],
+        "timestamp": "2025-08-13T20:32:38.475375"
     }
 ]
