@@ -962,10 +962,10 @@
             "units": "µg/dL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
-        "ApoB": {
+        "Apolipoprotein B": {
             "description": "ApoB counts risky particles. Optimizing it cuts heart risk and boosts endurance. High drags stamina; low’s a win. Stay optimal with cardio, avocado, and rest.",
-            "clinical_range": "40.0 - 125.0",
-            "optimal_range": "50.0 - 70.0",
+            "clinical_range": "54 - 133",
+            "optimal_range": "40.0 - 00.0",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
