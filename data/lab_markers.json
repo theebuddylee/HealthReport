@@ -1510,10 +1510,10 @@
             "units": "mIU/L",
             "panel": "Thyroid, Growth Factors & Glucose"
         },
-        "ApoB": {
-            "description": "ApoB tracks risky particles, rising post-menopause. Optimizing it cuts cardio risk. High drags stamina; low’s a win. Stay optimal with cardio, avocado, and rest.",
-            "clinical_range": "40.0 - 125.0",
-            "optimal_range": "60.0 - 80.0",
+        "Apolipoprotein B": {
+            "description": "ApoB tracks risky particles, rising post-menopause. Optimizing it cuts cardiovascular risk. High drags stamina; low’s a win. Stay optimal with cardio, avocado, and rest.",
+            "clinical_range": "54.0 - 133.0",
+            "optimal_range": "20.0 - 80.0",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
