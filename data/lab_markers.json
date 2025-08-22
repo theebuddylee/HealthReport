@@ -1635,6 +1635,34 @@
             "optimal_range": "0.0 - 0.05",
             "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
+        },
+        "Insulin-Like Growth Factor I (IGF-1)": {
+            "description": "IGF-1 fuels repair, muscle, and bone. Too low? Weakness, bone loss, slow recovery. Too high? Cancer risk. Aim steady mid-range with protein, strength training, and sleep.",
+            "clinical_range": "71 - 290",
+            "optimal_range": "90 - 140",
+            "units": "ng/mL",
+            "panel": "Endocrine Panel"
+        },
+        "Transferrin": {
+            "description": "Transferrin carries iron. High flags iron deficiency; low may mean overload. Keep balanced for energy and heart health. Support with leafy greens, red meat in moderation, and check iron intake.",
+            "clinical_range": "192 - 364",
+            "optimal_range": "220 - 300",
+            "units": "mg/dL",
+            "panel": "Iron Panel"
+        },
+        "Dehydroepiandrosterone Sulfate (DHEA-S)": {
+            "description": "DHEA-S backs mood, drive, and bone. Low leaves fatigue, low libido, fog; high can bring acne or hair growth. Balance with stress control, resistance exercise, and healthy fats.",
+            "clinical_range": "15 - 170",
+            "optimal_range": "20 - 80",
+            "units": "µg/dL",
+            "panel": "Adrenal Hormone Panel"
+        },
+        "Sex Hormone Binding Globulin (SHBG)": {
+            "description": "SHBG locks up sex hormones. High lowers free estrogen/testosterone (fatigue, low libido); low raises free hormones (weight gain, hot flashes). Balance with protein, fiber, and insulin control.",
+            "clinical_range": "17.3 - 125.0",
+            "optimal_range": "30 - 70",
+            "units": "nmol/L",
+            "panel": "Sex Hormone Panel"
         }
     }
 }
