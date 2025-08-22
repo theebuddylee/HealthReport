@@ -1641,28 +1641,28 @@
             "clinical_range": "71 - 290",
             "optimal_range": "90 - 140",
             "units": "ng/mL",
-            "panel": "Endocrine Panel"
+            "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Transferrin": {
             "description": "Transferrin carries iron. High flags iron deficiency; low may mean overload. Keep balanced for energy and heart health. Support with leafy greens, red meat in moderation, and check iron intake.",
             "clinical_range": "192 - 364",
             "optimal_range": "220 - 300",
             "units": "mg/dL",
-            "panel": "Iron Panel"
+            "panel": "Iron Markers"
         },
         "Dehydroepiandrosterone Sulfate (DHEA-S)": {
             "description": "DHEA-S backs mood, drive, and bone. Low leaves fatigue, low libido, fog; high can bring acne or hair growth. Balance with stress control, resistance exercise, and healthy fats.",
             "clinical_range": "15 - 170",
             "optimal_range": "20 - 80",
             "units": "µg/dL",
-            "panel": "Adrenal Hormone Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Sex Hormone Binding Globulin (SHBG)": {
             "description": "SHBG locks up sex hormones. High lowers free estrogen/testosterone (fatigue, low libido); low raises free hormones (weight gain, hot flashes). Balance with protein, fiber, and insulin control.",
             "clinical_range": "17.3 - 125.0",
             "optimal_range": "30 - 70",
             "units": "nmol/L",
-            "panel": "Sex Hormone Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         }
     }
 }
