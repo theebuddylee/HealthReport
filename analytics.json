@@ -2282,5 +2282,38 @@
             }
         ],
         "timestamp": "2025-08-26T16:31:46.102672"
+    },
+    {
+        "member_name": "",
+        "manager": "Allison",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Enclomiphene",
+                "description": "A selective estrogen receptor modulator (SERM) used to increase testosterone production in men by stimulating the natural production of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",
+                "indication": "A powerful testosterone booster that enhances natural production while supporting fertility. Unlike traditional options, Enclomiphene helps maintain testicular function and sperm count, ensuring optimized hormone levels without compromising reproductive health."
+            },
+            {
+                "name": "LR3 IGF-1",
+                "description": "LR3 IGF-1 (Long R3 Insulin-like Growth Factor 1) is a synthetic analog of IGF-1 with a modified amino acid sequence that significantly increases its stability and bioavailability. Unlike native IGF-1, LR3 IGF-1 resists binding to IGF-binding proteins, allowing for a prolonged half-life and more potent biological activity. It activates IGF-1 receptors to stimulate muscle growth, tissue repair, and cellular regeneration, while also enhancing nutrient uptake and improving insulin sensitivity. Due to its powerful anabolic properties, LR3 IGF-1 is commonly researched in the contexts of performance enhancement, anti-aging, and recovery optimization.",
+                "indication": "Promotes muscle hypertrophy, accelerates recovery, and supports tissue regeneration by activating IGF-1 receptors and increasing protein synthesis. Its resistance to IGF-binding proteins makes it ideal for protocols involving muscle growth, injury recovery, metabolic enhancement, and cellular repair."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "timestamp": "2025-08-26T16:54:05.189584"
     }
 ]
