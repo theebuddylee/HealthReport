@@ -2469,5 +2469,43 @@
             }
         ],
         "timestamp": "2025-08-27T20:28:51.955477"
+    },
+    {
+        "member_name": "Jourdin",
+        "manager": "Dillon",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            },
+            {
+                "name": "LR3 IGF-1",
+                "description": "LR3 IGF-1 (Long R3 Insulin-like Growth Factor 1) is a synthetic analog of IGF-1 with a modified amino acid sequence that significantly increases its stability and bioavailability. Unlike native IGF-1, LR3 IGF-1 resists binding to IGF-binding proteins, allowing for a prolonged half-life and more potent biological activity. It activates IGF-1 receptors to stimulate muscle growth, tissue repair, and cellular regeneration, while also enhancing nutrient uptake and improving insulin sensitivity. Due to its powerful anabolic properties, LR3 IGF-1 is commonly researched in the contexts of performance enhancement, anti-aging, and recovery optimization.",
+                "indication": "Promotes muscle hypertrophy, accelerates recovery, and supports tissue regeneration by activating IGF-1 receptors and increasing protein synthesis. Its resistance to IGF-binding proteins makes it ideal for protocols involving muscle growth, injury recovery, metabolic enhancement, and cellular repair."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-08-28T16:19:12.832594"
     }
 ]
