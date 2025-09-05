@@ -130,6 +130,11 @@
         "indication": "Supports metabolic health, enhances mitochondrial function, and improves energy production. Indicated for patients with metabolic dysfunction, insulin resistance, weight loss resistance, or chronic fatigue. MOTS-c improves glucose utilization, increases fat oxidation, reduces inflammation, and supports healthy aging and exercise recovery."
     },
     {
+        "name": "NAD+",
+        "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a vital coenzyme found in every cell of the body that plays a central role in energy production, cellular repair, and mitochondrial function. It is essential for converting nutrients into ATP (cellular energy) and supports critical processes like DNA repair, oxidative stress regulation, and aging-related resilience. NAD+ levels naturally decline with age, stress, illness, and environmental exposure, which may contribute to fatigue, cognitive decline, metabolic issues, and neurodegeneration.",
+        "indication": "Supports cellular energy production, mitochondrial function, and healthy aging. It may be used to assist in the management of fatigue, cognitive decline, neurodegenerative conditions, detoxification, and metabolic dysfunction, particularly in individuals experiencing stress-related depletion, chronic illness, or age-related decline in NAD+ levels."
+    },
+    {
         "name": "Nandrolone Decanoate",
         "description": "Nandrolone Decanoate Therapy provides an advanced approach to joint recovery and enhanced well-being during your BHRT phase.",
         "indication": "Nandrolone Decanoate therapy helps promote joint healing, alleviate discomfort from chronic inflammation, and enhance recovery from physical strain or injury. It works synergistically with testosterone replacement therapy to improve mobility, reduce pain, and support long-term joint health."
@@ -198,6 +203,11 @@
         "name": "Sermorelin",
         "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
         "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."
+    },
+    {
+        "name": "SS-31 (Elamipretide)",
+        "description": "SS-31 (Elamipretide) is a cutting-edge mitochondrial peptide with wide-ranging benefits in cellular energy, aging, inflammation, and neuroprotection. By targeting and stabilizing mitochondrial membranes, it holds unique promise for individuals dealing with chronic fatigue, inflammation, autoimmune conditions, or degenerative diseases.",
+        "indication": "Indicated for any condition driven by mitochondrial dysfunction, especially where oxidative stress, energy failure, or age-related decline are involved. While still investigational, it is gaining popularity in integrative medicine, anti-aging, neurodegenerative care, and fatigue recovery protocols due to its direct mitochondrial repair mechanism."
     },
     {
         "name": "Tadalafil",
