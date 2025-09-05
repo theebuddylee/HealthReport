@@ -170,6 +170,11 @@
         "indication": "While not a first-line therapy, oxymetholone has been used in cases of androgen deficiency in men who cannot tolerate standard testosterone replacement therapy."
     },
     {
+        "name": "Oxytocin",
+        "description": "Oxytocin is a naturally occurring hormone and neuropeptide produced in the hypothalamus and released by the pituitary gland. Often called the 'bonding' or 'love hormone,' it plays a key role in social connection, emotional regulation, trust, and sexual intimacy.",
+        "indication": "In functional medicine, oxytocin is used off-label as a therapeutic tool to support emotional, cognitive, and relational well-being, especially when dysregulation of the stress-response system, social engagement, or mood balance is present."
+    },
+    {
         "name": "Pregnenolone",
         "description": "Pregnenolone Therapy offers a natural approach to supporting cognitive function, hormonal balance, and overall well-being.",
         "indication": "Pregnenolone therapy helps improve memory, reduce stress, and promote hormonal harmony for optimal health."
@@ -183,6 +188,11 @@
         "name": "Progesterone",
         "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
         "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+    },
+    {
+        "name": "PT-141 (Bremelanotide)",
+        "description": "PT-141 (Bremelanotide) is a synthetic peptide used to enhance sexual arousal and libido in both men and women. Unlike other sexual function medications that target blood flow (like Viagra), PT-141 acts directly on the central nervous system, specifically the hypothalamus, to stimulate desire.",
+        "indication": "Treatment of hypoactive sexual desire disorder (HSDD) in premenopausal women and is used off-label in both men and women to enhance libido, arousal, and sexual satisfaction. In functional medicine, it is commonly prescribed for individuals experiencing low sexual desire, erectile dysfunction, or arousal difficulties, including those related to SSRI use or hormonal imbalance."
     },
     {
         "name": "Retatrutide",
