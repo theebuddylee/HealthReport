@@ -80,6 +80,11 @@
         "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
     },
     {
+        "name": "Human Chorionic Gonadotropin (HCG)",
+        "description": "Human chorionic gonadotropin (HCG) mimics luteinizing hormone to stimulate the testes to produce more testosterone, and by helping maintain natural testosterone production, sperm quality, and testicular size during TRT. It supports fertility, preserves downstream hormone pathways (like pregnenolone and DHEA), and reduces the side effects of gonadal suppression.",
+        "indication": "Used as a stand-alone therapy to boost testosterone production or alongside testosterone replacement therapy to preserve fertility, support gonadal function, and optimize overall hormone balance."
+    },
+    {
         "name": "Ketamine",
         "description": "1st Optimal’s Ketamine Therapy provides innovative treatment designed to support mental health and enhance overall well-being.",
         "indication": "Ketamine therapy offers a safe and effective way to address mood disorders, reduce stress, and promote emotional resilience."
@@ -208,6 +213,11 @@
         "name": "Semaglutide",
         "description": "A GLP-1 receptor agonist used for weight loss and blood sugar management.",
         "indication": "The proven GLP-1 receptor agonist. Backed by science, Semaglutide enhances appetite control, stabilizes blood sugar, and promotes sustainable fat loss."
+    },
+    {
+        "name": "Semax",
+        "description": "Semax is a synthetic peptide administered primarily as a nasal spray for rapid absorption into the central nervous system. It is known for its nootropic and neuroprotective effects, helping to improve focus, memory, and mental clarity. Semax works by enhancing brain-derived neurotrophic factor (BDNF), supporting dopamine and serotonin balance, and reducing oxidative stress.",
+        "indication": "For cognitive enhancement, neuroprotection, and stress adaptation. It is used to support memory, focus, and mental performance, particularly in situations of chronic stress, fatigue, or cognitive decline. In functional and longevity medicine, it may also be used to modulate the stress response and support cortisol regulation by promoting optimal HPA axis function."
     },
     {
         "name": "Sermorelin",
