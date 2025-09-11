@@ -2944,5 +2944,76 @@
         ],
         "supplements": [],
         "timestamp": "2025-09-11T03:03:50.519142"
+    },
+    {
+        "member_name": "Tom Turco",
+        "manager": "Jamie",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Metformin",
+                "description": "Metformin is a widely used oral medication primarily prescribed for managing type 2 diabetes. It works by improving insulin sensitivity, reducing glucose production in the liver, and enhancing glucose uptake by the body\u2019s cells, effectively lowering blood sugar levels.",
+                "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."
+            },
+            {
+                "name": "TB-400 / TB-500",
+                "description": "TB-400/500 is a synthetic fragment of thymosin beta-4 (specifically the 17-23 segment), designed to replicate its active region. Both are involved in actin regulation and tissue repair. TB-500 Therapy provides advanced treatment designed to enhance recovery, promote healing, and support overall physical performance.",
+                "indication": "TB-400/500 therapy helps reduce inflammation, accelerate tissue repair, and improve endurance, making it an ideal choice for those seeking optimal recovery and resilience."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Chromium Picolinate/Polynicotinate",
+                "description": "Chromium supplement used to aid in blood sugar support and weight\n loss\n\n",
+                "indication": "Enhances insulin receptor activity"
+            },
+            {
+                "name": "Chromium Picolinate/Polynicotinate",
+                "description": "Chromium supplement used to aid in blood sugar support and weight\n loss\n\n",
+                "indication": "Enhances insulin receptor activity"
+            },
+            {
+                "name": "Milk Thistle",
+                "description": "Provides antioxidant, antiviral, and anti-inflammatory support.\n\n",
+                "indication": "Often used to help lower liver enzyme levels, and manage conditions like diabetes and metabolic syndrome."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Tudca",
+                "description": "A bile acid supplement that supports liver health and detoxification processes.",
+                "indication": "A breakthrough bile acid supplement. TUDCA supports optimal liver function by promoting bile flow, reducing liver inflammation, and protecting against oxidative stress."
+            }
+        ],
+        "timestamp": "2025-09-11T05:02:38.433578"
     }
 ]
