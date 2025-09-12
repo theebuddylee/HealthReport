@@ -3368,5 +3368,35 @@
         ],
         "supplements": [],
         "timestamp": "2025-09-12T15:25:04.286203"
+    },
+    {
+        "member_name": "Jonathan",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "Larazotide (AT-1001)",
+                "description": "Larazotide (AT-1001) is an oral peptide that helps regulate intestinal permeability by modulating tight junctions in the gut lining. It is primarily researched for its role in managing leaky gut syndrome, celiac disease, and other inflammatory gut disorders. By preventing the breakdown of tight junctions, Larazotide supports gut barrier integrity, reduces inflammation, and may help mitigate symptoms related to increased intestinal permeability.",
+                "indication": "Larazotide (AT-1001) 500mcg is indicated for individuals with conditions linked to increased intestinal permeability, such as celiac disease, leaky gut syndrome, inflammatory bowel diseases (IBD), and autoimmune disorders. By modulating tight junctions in the gut lining, it helps reduce inflammation, support barrier integrity, and mitigate symptoms like bloating, brain fog, and digestive discomfort. It may also benefit metabolic and neurological conditions related to gut health, making it a promising adjunct therapy for those with chronic inflammation and immune dysregulation."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            },
+            {
+                "name": "Vasoactive Intestinal Peptide",
+                "description": "Vasoactive Intestinal VIP) is a powerful neuropeptide that plays a key role in regulating inflammation, immune response, and vascular health. VIP therapy is commonly used to support optimal lung function, improve circulation, and enhance cognitive performance. It may also benefit individuals with chronic inflammatory conditions by helping to restore balance and improve overall well-being.",
+                "indication": "Whether you're seeking support for immune regulation or optimizing recovery, VIP therapy offers a targeted approach to help you feel your best."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-09-12T15:25:16.743933"
     }
 ]
