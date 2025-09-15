@@ -3460,5 +3460,35 @@
         ],
         "supplements": [],
         "timestamp": "2025-09-15T21:45:49.265719"
+    },
+    {
+        "member_name": "Phil Rea",
+        "manager": "Jamie",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "Hexarelin",
+                "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+                "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+            },
+            {
+                "name": "Methylene Blue",
+                "description": "Methylene Blue is a synthetic compound with a rich history in medical applications, recently gaining attention for its potential anti-aging benefits.",
+                "indication": "Cognitive Function: Research indicates that methylene blue may support brain health by improving mitochondrial function, leading to enhanced energy production in brain cells. This improvement could aid in preserving cognitive abilities and potentially offer neuroprotective effects against age-related decline."
+            },
+            {
+                "name": "Omberacetam",
+                "description": "Omberacetam is a synthetic nootropic known for its potent cognitive-enhancing and neuroprotective properties. It modulates glutamate and acetylcholine activity, improving memory, learning, and mental clarity while supporting brain health.",
+                "indication": "Enhances cognitive function, improves memory retention, and supports focus. It may also help with neuroprotection, anxiety reduction, and recovery from brain injuries or neurodegenerative conditions."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-09-15T22:01:30.647355"
     }
 ]
