@@ -3987,5 +3987,28 @@
             }
         ],
         "timestamp": "2025-09-23T21:13:45.366670"
+    },
+    {
+        "member_name": "Brian Guest",
+        "manager": "Casey",
+        "membership": [
+            "Men's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "PT-141 (Bremelanotide)",
+                "description": "PT-141 (Bremelanotide) is a synthetic peptide used to enhance sexual arousal and libido in both men and women. Unlike other sexual function medications that target blood flow (like Viagra), PT-141 acts directly on the central nervous system, specifically the hypothalamus, to stimulate desire.",
+                "indication": "Treatment of hypoactive sexual desire disorder (HSDD) in premenopausal women and is used off-label in both men and women to enhance libido, arousal, and sexual satisfaction. In functional medicine, it is commonly prescribed for individuals experiencing low sexual desire, erectile dysfunction, or arousal difficulties, including those related to SSRI use or hormonal imbalance."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            }
+        ],
+        "timestamp": "2025-09-23T21:38:51.498011"
     }
 ]
