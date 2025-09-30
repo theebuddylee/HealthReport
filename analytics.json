@@ -4401,5 +4401,41 @@
             }
         ],
         "timestamp": "2025-09-30T14:27:04.394398"
+    },
+    {
+        "member_name": "Phase 3",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "BPC-157 Oral",
+                "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+                "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+            },
+            {
+                "name": "Larazotide (AT-1001)",
+                "description": "Larazotide (AT-1001) is an oral peptide that helps regulate intestinal permeability by modulating tight junctions in the gut lining. It is primarily researched for its role in managing leaky gut syndrome, celiac disease, and other inflammatory gut disorders. By preventing the breakdown of tight junctions, Larazotide supports gut barrier integrity, reduces inflammation, and may help mitigate symptoms related to increased intestinal permeability.",
+                "indication": "Larazotide (AT-1001) 500mcg is indicated for individuals with conditions linked to increased intestinal permeability, such as celiac disease, leaky gut syndrome, inflammatory bowel diseases (IBD), and autoimmune disorders. By modulating tight junctions in the gut lining, it helps reduce inflammation, support barrier integrity, and mitigate symptoms like bloating, brain fog, and digestive discomfort. It may also benefit metabolic and neurological conditions related to gut health, making it a promising adjunct therapy for those with chronic inflammation and immune dysregulation."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Pancreatic Enzymes",
+                "description": "Pancreatic enzyme supplements help your body break down food when your pancreas isn\u2019t making enough enzymes. They support digestion by improving the breakdown of fats, proteins, and carbohydrates. This can reduce bloating, gas, and nutrient deficiencies, making it easier for your body to absorb vitamins, minerals, and energy from the food you eat.",
+                "indication": "Pancreatic enzyme supplements are indicated for people with pancreatic insufficiency, such as those with chronic pancreatitis, cystic fibrosis, pancreatic cancer, or after pancreatic surgery. They\u2019re used when the pancreas cannot produce enough digestive enzymes, leading to malabsorption, weight loss, diarrhea, and nutrient deficiencies. Supplementation helps restore normal digestion and nutrient absorption."
+            },
+            {
+                "name": "GLP-1 Probiotic Pro",
+                "description": "A specialized probiotic blend formulated to enhance gut health and improve gastrointestinal tolerance in individuals using GLP-1 agonists.",
+                "indication": "Enhance your GLP-1 journey with our Probiotic Support."
+            },
+            {
+                "name": "Sunfiber",
+                "description": "Sunfiber is a soluble, partially hydrolyzed guar gum (PHGG) that functions as a gentle prebiotic fiber. It dissolves easily in liquids, is tasteless, and ferments slowly in the gut, minimizing gas and bloating.",
+                "indication": "Promotes healthy gut microbiota balance, improve stool regularity, and support digestive comfort. It is especially beneficial for individuals with dysbiosis, IBS, or sensitive digestion, as it gently feeds beneficial bacteria without causing excess gas or bloating."
+            }
+        ],
+        "timestamp": "2025-09-30T14:27:26.153446"
     }
 ]
