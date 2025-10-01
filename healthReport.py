@@ -129,7 +129,7 @@ def overwrite_more_information(template_path, output_path, member_name, selected
 
         # Define the text to insert on the last page
         last_page_content = [
-            (f"Health Coach: {manager_name}", 73, 600)]
+            (f"Health Coach: {manager_name}", 71, 599)]
 
         # Write the text on the last page
         for content, x, y in last_page_content:
@@ -521,6 +521,7 @@ if show_editor:
                 st.error(f"Unable to load {selected_file}.")
     else:
         st.sidebar.error("Incorrect password. Access denied.")
+
 
 
 
