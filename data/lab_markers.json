@@ -965,7 +965,7 @@
         "Apolipoprotein B": {
             "description": "ApoB counts risky particles. Optimizing it cuts heart risk and boosts endurance. High drags stamina; low’s a win. Stay optimal with cardio, avocado, and rest.",
             "clinical_range": "54 - 133",
-            "optimal_range": "40.0 - 00.0",
+            "optimal_range": "00.0 - 60.0",
             "units": "mg/dL",
             "panel": "Lipid Panel"
         },
