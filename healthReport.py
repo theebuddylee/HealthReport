@@ -112,9 +112,9 @@ def overwrite_more_information(template_path, output_path, member_name, selected
 
         # Define the text to insert on the first page
         first_page_content = [
-            (f"{member_name or 'Not Provided'}", 1.1 * 72, 8.8 * 72),
-            (f"{current_date}", 1.1 * 72, 9.31 * 72),
-            (f" {selected_manager or 'Not Selected'}", 1.1 * 72, 9.85 * 72),
+            (f"{member_name or 'Not Provided'}", 70, 538),
+            (f"{current_date}", 70, 577),
+            (f" {selected_manager or 'Not Selected'}", 70, 615),
         ]
 
         # Write the text on the first page
@@ -123,7 +123,7 @@ def overwrite_more_information(template_path, output_path, member_name, selected
                 (x, y),
                 content,
                 fontsize=18,
-                color=(1, 1, 1),  # Secondary Grey text color
+                color=(0.451, 0.451, 0.451),  # Secondary Grey text color
                 fontname="helv",
             )
 
@@ -137,7 +137,7 @@ def overwrite_more_information(template_path, output_path, member_name, selected
                 (x, y),
                 content,
                 fontsize=18,
-                 color=(1, 1, 1),  # Secondary Grey text color
+                color=(0.451, 0.451, 0.451),  # Secondary Grey text color
                 fontname="helv",
             )
 
@@ -521,5 +521,6 @@ if show_editor:
                 st.error(f"Unable to load {selected_file}.")
     else:
         st.sidebar.error("Incorrect password. Access denied.")
+
 
 
