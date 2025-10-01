@@ -123,7 +123,7 @@ def overwrite_more_information(template_path, output_path, member_name, selected
                 (x, y),
                 content,
                 fontsize=18,
-                color=(72, 72, 72),  # Secondary Grey text color
+                color=(1, 1, 1),  # Secondary Grey text color
                 fontname="helv",
             )
 
@@ -137,7 +137,7 @@ def overwrite_more_information(template_path, output_path, member_name, selected
                 (x, y),
                 content,
                 fontsize=18,
-                 color=(72, 72, 72),  # Secondary Grey text color
+                 color=(1, 1, 1),  # Secondary Grey text color
                 fontname="helv",
             )
 
@@ -521,4 +521,5 @@ if show_editor:
                 st.error(f"Unable to load {selected_file}.")
     else:
         st.sidebar.error("Incorrect password. Access denied.")
+
 
