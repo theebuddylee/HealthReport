@@ -45,7 +45,7 @@ if "current_plan_supplements" not in st.session_state:
 
 # Membership Manager Dropdown and Member's Name input
 st.sidebar.title("Member Details")
-membership_managers = ["Allison", "Amber", "Buddy", "Brian", "Casey", "Dillon", "Jamie", "Joe", "Justin"]
+membership_managers = ["Allison", "Amber", "Buddy", "Brian", "Casey", "Dillon", "Jamie", "Joe"]
 selected_manager = st.sidebar.selectbox("Select Membership Manager", membership_managers)
 member_name = st.sidebar.text_input("Enter Member/Patient Name")
 
@@ -70,7 +70,7 @@ medications = load_json_from_github("medications.json")
 supplements = load_json_from_github("supplements.json")
 
 # Path to the PDF template
-template_pdf_path = "1st Optimal Treatment Plan.pdf"
+template_pdf_path = "1st Optimal Treatment PlanV2.pdf"
 
 # Function to merge PDFs
 def merge_pdfs(template_path, generated_path, output_path):
@@ -85,9 +85,9 @@ def merge_pdfs(template_path, generated_path, output_path):
         with fitz.open(generated_path) as generated_pdf:
             output_pdf.insert_pdf(generated_pdf)
 
-        # Append the last 6 pages from the template
+        # Append the last 7 pages from the template
         total_pages = len(template_pdf)
-        for page_num in range(total_pages - 5, total_pages):
+        for page_num in range(total_pages - 6, total_pages):
             output_pdf.insert_pdf(template_pdf, from_page=page_num, to_page=page_num)
 
         output_pdf.save(output_path)
@@ -112,9 +112,9 @@ def overwrite_more_information(template_path, output_path, member_name, selected
 
         # Define the text to insert on the first page
         first_page_content = [
-            (f"Prepared for {member_name or 'Not Provided'}", 1.1 * 72, 8.8 * 72),
+            (f"{member_name or 'Not Provided'}", 1.1 * 72, 8.8 * 72),
             (f"{current_date}", 1.1 * 72, 9.31 * 72),
-            (f"Prepared by {selected_manager or 'Not Selected'}", 1.1 * 72, 9.85 * 72),
+            (f" {selected_manager or 'Not Selected'}", 1.1 * 72, 9.85 * 72),
         ]
 
         # Write the text on the first page
@@ -122,46 +122,24 @@ def overwrite_more_information(template_path, output_path, member_name, selected
             first_page.insert_text(
                 (x, y),
                 content,
-                fontsize=21,
-                color=(1, 1, 1),  # White text color
+                fontsize=18,
+                color=(72, 72, 72),  # Secondary Grey text color
                 fontname="helv",
             )
 
         # Define the text to insert on the last page
         last_page_content = [
-            (f"Member Manager: {manager_name}", 73, 8.36 * 72),
-            (f"{manager_phone}", 73, 8.84 * 72),
-        ]
+            (f"Health Coach: {manager_name}", 73, 8.36 * 72)]
 
         # Write the text on the last page
         for content, x, y in last_page_content:
             last_page.insert_text(
                 (x, y),
                 content,
-                fontsize=21,
-                color=(1, 1, 1),  # White text color
+                fontsize=18,
+                 color=(72, 72, 72),  # Secondary Grey text color
                 fontname="helv",
             )
-
-        # Add clickable email hyperlink
-        email_text = f"{manager_email}"
-        email_x = 73  # X coordinate
-        email_y = 9.36 * 72  # Y coordinate
-        last_page.insert_text(
-            (email_x, email_y),
-            email_text,
-            fontsize=21,
-            color=(0.0235, 0.7137, 0.8314),  # Corresponds to #06B6D4
-            fontname="helv",
-        )
-        if manager_email != "N/A":
-            # Add a clickable hyperlink
-            email_rect = fitz.Rect(email_x, email_y, email_x + 300, email_y + 21)  # Adjust width and height as needed
-            last_page.insert_link({
-                "kind": fitz.LINK_URI,
-                "from": email_rect,
-                "uri": f"mailto:{manager_email}",
-            })
 
         # Save the updated PDF
         doc.save(output_path)
@@ -543,3 +521,4 @@ if show_editor:
                 st.error(f"Unable to load {selected_file}.")
     else:
         st.sidebar.error("Incorrect password. Access denied.")
+
