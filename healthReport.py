@@ -87,7 +87,7 @@ def merge_pdfs(template_path, generated_path, output_path):
 
         # Append the last 7 pages from the template
         total_pages = len(template_pdf)
-        for page_num in range(total_pages - 6, total_pages):
+        for page_num in range(total_pages - 7, total_pages):
             output_pdf.insert_pdf(template_pdf, from_page=page_num, to_page=page_num)
 
         output_pdf.save(output_path)
@@ -122,14 +122,14 @@ def overwrite_more_information(template_path, output_path, member_name, selected
             first_page.insert_text(
                 (x, y),
                 content,
-                fontsize=18,
+                fontsize=19,
                 color=(0.451, 0.451, 0.451),  # Secondary Grey text color
                 fontname="helv",
             )
 
         # Define the text to insert on the last page
         last_page_content = [
-            (f"Health Coach: {manager_name}", 73, 8.36 * 72)]
+            (f"Health Coach: {manager_name}", 73, 600)]
 
         # Write the text on the last page
         for content, x, y in last_page_content:
@@ -521,6 +521,7 @@ if show_editor:
                 st.error(f"Unable to load {selected_file}.")
     else:
         st.sidebar.error("Incorrect password. Access denied.")
+
 
 
 
