@@ -796,9 +796,9 @@
         },
         "White Blood Cell (WBC) Count": {
             "description": "WBCs fight infections. Optimizing them keeps you tough. Too low, bugs win; too high, inflammation flares. Boost it with lifts, zinc seeds, and rest.",
-            "clinical_range": "4500 - 11000",
-            "optimal_range": "4500 - 11000",
-            "units": "cells/µL",
+            "clinical_range": "4.5 - 11",
+            "optimal_range": "4.5 - 11",
+            "units": "1000 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Red Blood Cell (RBC) Count": {
@@ -852,9 +852,9 @@
         },
         "Platelet Count": {
             "description": "Platelets aid clotting and recovery. Optimizing them speeds healing. Too low, you bruise; too high, clotting risks rise. Support it with lifts, kale, and rest.",
-            "clinical_range": "150000 - 400000",
-            "optimal_range": "150000 - 375000",
-            "units": "cells/µL",
+            "clinical_range": "150 - 400",
+            "optimal_range": "150 - 375",
+            "units": "x1000 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
         "Mean Platelet Volume (MPV)": {
