@@ -59,7 +59,7 @@
         "Prostate Specific Antigen (PSA)": {
             "description": "The prostate’s gym log tracks health down there. Optimizing it ensures smooth function and peace of mind; levels naturally rise with age due to prostate growth. Age-specific reference ranges can be useful: 40-49 years: 0-2.5 ng/ml, 50-59 years: 0-3.5 ng/ml, 60-69 years: 0-4.5 ng/ml, 70+ years: 0-6.5 ng/ml. Slightly high? Could be from epic sex, biking, or inflammation—not always trouble. High spikes might feel off; too low’s rare but subtle. Keep it chill with regular lifts, clean eats, and 7-9 hours of sleep.",
             "clinical_range": "0.0 - 4.0",
-            "optimal_range": "0.6 - 2.0",
+            "optimal_range": "0.0 - 2.0",
             "units": "ng/ml",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
