@@ -613,9 +613,9 @@
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Progesterone (Luteal Phase)": {
-            "description": "Progesterone peaks luteally to calm cycles and mind. Optimizing it smooths periods and boosts sleep. Too low, anxiety and irregularity hit; too high, you’re drowsy. Balance it with light cardio, magnesium (spinach), and meditation. Values are for luteal phase, mid-to-high luteal range ensures ovulatory health.",
+            "description": "Progesterone peaks luteally to calm cycles and mind. Follicular: 0.1-1.0, Ovulation: 0.1-12.0, Luteal: 1.8-23.9 Optimizing it (Follicular: <1.0, Ovulation: 5-12, Luteal: 10-30) smooths periods and boosts sleep. Too low, anxiety and irregularity hit; too high, you’re drowsy. Balance it with light cardio, magnesium (spinach), and meditation. Values are for luteal phase, mid-to-high luteal range ensures ovulatory health.",
             "clinical_range": "1.8 - 23.9",
-            "optimal_range": "11.0 - 23.9",
+            "optimal_range": "11.0 - 29.9",
             "units": "ng/mL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
