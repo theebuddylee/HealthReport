@@ -5854,5 +5854,50 @@
             }
         ],
         "timestamp": "2025-10-07T21:58:39.989594"
+    },
+    {
+        "member_name": "Kacy Vaccarezza",
+        "manager": "Jamie",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            }
+        ],
+        "medications": [
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Iron Bisglycinate ",
+                "description": "\nThorne's Iron Bisgylcinate is NSF Certified for Sport\u00ae. It is essential for the formation of red blood cells.* The U.S. Centers for Disease Control has determined that the prevalence of iron deficiency is greatest among toddlers (7% of those ages 1-2 years) and menstruating adolescent and adult females (9-16 % of individuals ages 12-49, whether they are athletes or not. Conventional iron supplementation, including forms such as ferrous sulfate, can cause gastrointestinal side effects \u2013 including nausea, vomiting, constipation, diarrhea, and dark-colored stools \u2013 because these conventional forms of iron are poorly absorbed. Thorne's Iron Bisglycinate provides 25 mg of elemental iron per capsule that has been reacted with glycine for optimal absorption in the gastrointestinal tract, thus helping to decrease the typical gastrointestinal side effects.*",
+                "indication": "Low iron can lead to a reduction in the body's normal uptake of oxygen to cells. A reduction of oxygen to cells can lead to a reduction in work capacity and aerobic performance. Untreated chronic low levels of iron can lead to iron deficient anemia."
+            },
+            {
+                "name": "Multi-Vitamin Premier",
+                "description": "A high-quality multivitamin providing essential vitamins, minerals, and antioxidants.",
+                "indication": "A high-quality multivitamin to fill nutritional gaps and support overall health and vitality."
+            }
+        ],
+        "timestamp": "2025-10-07T22:07:42.104215"
     }
 ]
