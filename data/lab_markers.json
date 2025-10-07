@@ -564,9 +564,9 @@
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Estradiol": {
-            "description": "The key estrogen shifts across cycle phases (follicular, ovulatory, luteal). Optimizing it enhances energy, mood, and bone health. Too low, fatigue and brittleness hit; too high, bloat weighs you down. Support it with training, phytoestrogens (soy), and sleep.",
+            "description": "The key estrogen shifts across cycle phases (follicular [12.5 - 166.0], ovulatory [85.8-498.0], luteal [43.8-211]). Optimizing it,(follicular [50 - 100], ovulatory [200-400], luteal [100-200]) enhances energy, mood, and bone health. Too low, fatigue and brittleness hit; too high, bloat weighs you down. Support it with training, phytoestrogens (soy), and sleep.",
             "clinical_range": "43.8 - 211.0",
-            "optimal_range": "43.8 - 211.0",
+            "optimal_range": "50.0 - 211.0",
             "units": "pg/mL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
@@ -607,8 +607,8 @@
         },
         "Dehydroepiandrosterone Sulfate (DHEA-S)": {
             "description": "This precursor feeds Testosterone and Estrogen production. Optimal levels lift stamina and recovery. Too low, you’re wiped; too high, restlessness hits. Boost it with deadlifts, coconut oil, and sleep.",
-            "clinical_range": "41.2 -243.0",
-            "optimal_range": "175 - 241.0",
+            "clinical_range": "41.2 - 378.0",
+            "optimal_range": "150 - 300.0",
             "units": "ug/dl",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
