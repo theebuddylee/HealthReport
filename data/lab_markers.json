@@ -1154,9 +1154,9 @@
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Progesterone": {
-            "description": "This calming hormone aids nerves post-menopause. Optimizing it boosts sleep and repair. Too low, anxiety hits; too high, you’re drowsy. Balance it with light cardio, magnesium (spinach), and meditation.",
+            "description": "This calming hormone aids nerves post-menopause. Natural levels are low; for HRT [1.0 -5.0] (e.g., micronized progesterone 100-200 mg/day), aim to protect against hyperplasia while improving sleep/hot flashes. Higher levels linked to metabolic risks; no age limit for HRT. Optimizing it boosts sleep and repair. Too low, anxiety hits; too high, you’re drowsy. Balance it with light cardio, magnesium (spinach), and meditation.",
             "clinical_range": "0.1 - 1.0",
-            "optimal_range": "0.1 - 1.0",
+            "optimal_range": "0.1 - 5.0",
             "units": "ng/mL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
