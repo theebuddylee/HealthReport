@@ -539,6 +539,20 @@
             "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
+        "Vitamin D2": {
+            "description": "This plant-powered vitamin fuels bone strength and immunity. Optimal levels amp up recovery and resilience. Too low, bones weaken and fatigue hits; too high, rare but overloads. Boost it with supplements, fortified foods (mushrooms), and solid rest.",
+            "clinical_range": "4 - 20",
+            "optimal_range": "10 - 20",
+            "units": "ng/mL",
+            "panel": "Thyroid, Growth Factors & Glucose"
+        },
+        "Vitamin D3": {
+            "description": "The sun-derived beast that drives muscle power and mood. Optimal levels supercharge stamina and torch inflammation. Low saps your grind; high uncommon but watch it. Stack it with outdoor lifts, fatty fish (salmon), and deep sleep.",
+            "clinical_range": "20 - 50",
+            "optimal_range": "30 - 50",
+            "units": "ng/mL",
+            "panel": "Thyroid, Growth Factors & Glucose"
+        },
         "Transferrin": {
             "description": "Transferrin transports iron in blood, fueling energy and stamina. Optimal levels ensure efficient oxygen delivery. Too low, you’re fatigued; too high, overload risks rise. Support it with lifts, iron-rich foods (beef), and rest.",
             "clinical_range": "200 - 360",
@@ -1088,7 +1102,21 @@
             "units": "x10E3 cells/µL",
             "panel": "CBC w/ Differential and Platelet"
         },
-         "Transferrin": {
+        "Vitamin D2": {
+            "description": "This veggie-sourced vitamin bolsters bones and defenses. Optimal levels lift energy and guard against dips. Low weakens structure; high seldom but taxing. Fuel it with supplements, plant eats (fortified cereals), and restful nights.",
+            "clinical_range": "4 - 20",
+            "optimal_range": "10 - 20",
+            "units": "ng/mL",
+            "panel": "Thyroid, Growth Factors & Glucose"
+        },
+        "Vitamin D3": {
+            "description": "Sunshine's gift for muscle tone and steady vibes. Optimal levels enhance endurance and calm inflammation. Low drains your spark; high rare. Amp it with sun sessions, oily fish (sardines), and quality sleep.",
+            "clinical_range": "20 - 50",
+            "optimal_range": "30 - 50",
+            "units": "ng/mL",
+            "panel": "Thyroid, Growth Factors & Glucose"
+        },
+        "Transferrin": {
             "description": "Transferrin transports iron in blood, fueling energy and stamina. Optimal levels ensure efficient oxygen delivery. Too low, you’re fatigued; too high, overload risks rise. Support it with lifts, iron-rich foods (beef), and rest.",
             "clinical_range": "200 - 360",
             "optimal_range": "215 - 365",
@@ -1649,6 +1677,20 @@
             "optimal_range": "220 - 300",
             "units": "mg/dL",
             "panel": "Iron Markers"
+        },
+        "Vitamin D2": {
+            "description": "This plant-based ally strengthens bones post-menopause, warding off brittleness. Optimal levels sustain vitality and recovery. Low risks fractures; high unusual but burdensome. Support it with supplements, enriched greens (kale), and restorative sleep.",
+            "clinical_range": "4 - 20",
+            "optimal_range": "12 - 20",
+            "units": "ng/mL",
+            "panel": "Thyroid, Growth Factors & Glucose"
+        },
+        "Vitamin D3": {
+            "description": "The solar powerhouse guarding bone density and mood after menopause. Optimal levels boost resilience and fight fatigue. Low heightens bone loss; high infrequent. Elevate it with sunlight, rich seafood (tuna), and deep rest.",
+            "clinical_range": "20 - 50",
+            "optimal_range": "35 - 50",
+            "units": "ng/mL",
+            "panel": "Thyroid, Growth Factors & Glucose"
         },
         "Sex Hormone Binding Globulin (SHBG)": {
             "description": "SHBG locks up sex hormones. High lowers free estrogen/testosterone (fatigue, low libido); low raises free hormones (weight gain, hot flashes). Balance with protein, fiber, and insulin control.",
