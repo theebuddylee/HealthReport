@@ -6378,5 +6378,61 @@
             }
         ],
         "timestamp": "2025-10-09T14:52:59.364477"
+    },
+    {
+        "member_name": "E. Brooks",
+        "manager": "Jamie",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            },
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Oral BPC-KPV",
+                "description": "Oral BPC-KPV is a peptide-based therapy that combines BPC-157, known for its regenerative and anti-inflammatory properties, with KPV, a potent tripeptide derived from alpha-melanocyte-stimulating hormone (\u03b1-MSH) that helps modulate immune response and reduce inflammation. This combination is designed to support gut health, tissue repair, and immune regulation, making it a promising option for individuals with gastrointestinal disorders, inflammatory conditions, and musculoskeletal injuries.",
+                "indication": "Oral BPC-KPV is indicated for individuals seeking support for gut health, immune modulation, and tissue repair. It is commonly used for conditions such as inflammatory bowel diseases (IBD), leaky gut syndrome, gastritis, and other gastrointestinal disorders, as well as chronic inflammation and musculoskeletal injuries. By reducing inflammation, promoting cellular repair, and enhancing gut barrier integrity, BPC-KPV may aid in recovery from injury, optimize gut function, and support overall systemic healing."
+            },
+            {
+                "name": "Vasoactive Intestinal Peptide",
+                "description": "Vasoactive Intestinal VIP) is a powerful neuropeptide that plays a key role in regulating inflammation, immune response, and vascular health. VIP therapy is commonly used to support optimal lung function, improve circulation, and enhance cognitive performance. It may also benefit individuals with chronic inflammatory conditions by helping to restore balance and improve overall well-being.",
+                "indication": "Whether you're seeking support for immune regulation or optimizing recovery, VIP therapy offers a targeted approach to help you feel your best."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "L-Glutamine",
+                "description": "L-Glutamine is a cornerstone in functional medicine, primarily valued for its critical role in supporting gut health, immune function, and recovery from stress or injury. It is particularly recognized for its ability to repair and maintain the integrity of the intestinal lining, making it a key supplement for conditions like leaky gut syndrome, irritable bowel syndrome (IBS), and inflammatory bowel disease (IBD).",
+                "indication": "L-Glutamine supports gut health by serving as a primary fuel for enterocytes and colonocytes, aiding in the repair of the intestinal barrier and reducing intestinal permeability."
+            },
+            {
+                "name": "L-Glutamine",
+                "description": "L-Glutamine is a cornerstone in functional medicine, primarily valued for its critical role in supporting gut health, immune function, and recovery from stress or injury. It is particularly recognized for its ability to repair and maintain the integrity of the intestinal lining, making it a key supplement for conditions like leaky gut syndrome, irritable bowel syndrome (IBS), and inflammatory bowel disease (IBD).",
+                "indication": "L-Glutamine supports gut health by serving as a primary fuel for enterocytes and colonocytes, aiding in the repair of the intestinal barrier and reducing intestinal permeability."
+            },
+            {
+                "name": "Zinc-Carnosine",
+                "description": "Zinc Carnosine Complex provides effective relief for minor stomach discomfort. Promotes a healthy stomach lining.",
+                "indication": "Aids in supporting healthy gut lining and reducing gastrointestinal discomfort."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            }
+        ],
+        "timestamp": "2025-10-09T18:08:49.843708"
     }
 ]
