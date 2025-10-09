@@ -414,10 +414,8 @@ if st.button("Generate PDF"):
     #st.write("DEBUG: Final Tests:", final_tests)
     #st.write("DEBUG: Final Medications:", final_medications)
     #st.write("DEBUG: Final Supplements:", final_supplements)
-
     # Attempt to generate the PDF
     pdf_path = generate_pdf(selected_membership, final_tests, final_medications, final_supplements)
-
     # Log analytics data to GitHub
     analytics_data = {
         "member_name": member_name,
@@ -432,12 +430,22 @@ if st.button("Generate PDF"):
         #st.success("Selections logged to GitHub Analytics successfully!")
     except Exception as e:
         st.error(f"Failed to log selections to Analytics: {e}")
-
     # Handle PDF generation result
     if pdf_path:
         st.success("PDF generated successfully!")
+        # Generate dynamic filename
+        if member_name:
+            name_parts = member_name.strip().split()
+            if len(name_parts) >= 2:
+                first_initial = name_parts[0][0].upper()
+                last_name = name_parts[-1]
+                dynamic_filename = f"{first_initial}_{last_name}_1st_Optimal_Lab_Report.pdf"
+            else:
+                dynamic_filename = "1st_Optimal_Lab_Report.pdf"
+        else:
+            dynamic_filename = "1st_Optimal_Lab_Report.pdf"
         with open(pdf_path, "rb") as pdf_file:
-            st.download_button("Download Treatment Plan", data=pdf_file, file_name="1stOptimal_Treatment_Builder_Template.pdf", mime="application/pdf")
+            st.download_button("Download Treatment Plan", data=pdf_file, file_name=dynamic_filename, mime="application/pdf")
     else:
         st.error("PDF generation failed.")
 
@@ -521,6 +529,7 @@ if show_editor:
                 st.error(f"Unable to load {selected_file}.")
     else:
         st.sidebar.error("Incorrect password. Access denied.")
+
 
 
 
