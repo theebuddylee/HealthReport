@@ -6614,5 +6614,53 @@
         ],
         "supplements": [],
         "timestamp": "2025-10-09T19:54:27.543816"
+    },
+    {
+        "member_name": "Amanda Strong",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            },
+            {
+                "name": "GI-MAP (GI Microbial Assay Plus)",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "A detailed stool analysis assessing gut bacteria, viruses, parasites, fungi, and key inflammatory markers.",
+                "indication": "Provides actionable insights into gut health for individuals experiencing digestive discomfort, immune challenges, or systemic inflammation."
+            }
+        ],
+        "medications": [],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Homocysteine Supreme",
+                "description": "Formulated to support the efficient metabolism of homocysteine, an amino acid linked to cardiovascular and neurological health. It combines bioactive forms of folate (5-methyltetrahydrofolate), vitamin B6 (pyridoxal-5\u2019-phosphate), vitamin B12 (methylcobalamin), and other synergistic nutrients to promote optimal homocysteine pathways.",
+                "indication": "By maintaining healthy homocysteine levels, this supplement aids in the production of essential compounds like taurine, cysteine, norepinephrine, and dopamine, which are vital for detoxification, immune function, joint and cartilage health, and overall brain and cardiovascular wellness."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            }
+        ],
+        "timestamp": "2025-10-09T21:11:32.381093"
     }
 ]
