@@ -439,11 +439,11 @@ if st.button("Generate PDF"):
             if len(name_parts) >= 2:
                 first_initial = name_parts[0][0].upper()
                 last_name = name_parts[-1]
-                dynamic_filename = f"{first_initial}_{last_name}_1st_Optimal_Lab_Report.pdf"
+                dynamic_filename = f"{first_initial}_{last_name}_1st_Optimal_Treatment_Plan.pdf"
             else:
-                dynamic_filename = "1st_Optimal_Lab_Report.pdf"
+                dynamic_filename = "1st_Optimal_Treatment_Plan.pdf"
         else:
-            dynamic_filename = "1st_Optimal_Lab_Report.pdf"
+            dynamic_filename = "1st_Optimal_Treatment_Plan.pdf"
         with open(pdf_path, "rb") as pdf_file:
             st.download_button("Download Treatment Plan", data=pdf_file, file_name=dynamic_filename, mime="application/pdf")
     else:
@@ -529,6 +529,7 @@ if show_editor:
                 st.error(f"Unable to load {selected_file}.")
     else:
         st.sidebar.error("Incorrect password. Access denied.")
+
 
 
 
