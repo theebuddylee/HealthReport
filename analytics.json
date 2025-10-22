@@ -8065,5 +8065,48 @@
             }
         ],
         "timestamp": "2025-10-21T20:50:29.164855"
+    },
+    {
+        "member_name": "Wole Adu",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ezetimibe",
+                "description": "Ezetimibe is a cholesterol-lowering medication that significantly reduces LDL-C while boosting HDL-C, offering additional protective benefits for heart health, non-alcoholic fatty liver disease, and stroke prevention. It also helps lower inflammation by reducing CRP levels, supporting overall cardiovascular wellness.",
+                "indication": "Lowers bad cholesterol (LDL-C), raises good cholesterol (HDL-C), and supports heart and liver health while reducing inflammation."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Cholesterol Complete",
+                "description": "Cholesterol Complete by Biospec Nutritionals features a blend of red yeast rice, guggulipid, hawthorn, and policosanol to support healthy cholesterol levels. This comprehensive formula leverages traditional heart-healthy ingredients to promote favorable blood lipid profiles.",
+                "indication": "Ideal for individuals looking to manage cholesterol levels and maintain cardiovascular health through a natural, evidence-based approach."
+            },
+            {
+                "name": "Cholesterol Support",
+                "description": "Cholesterol Support by AnazaoHealth combines a phytosterol complex with policosanol and artichoke leaf extract to help maintain healthy cholesterol levels. Phytosterols reduce cholesterol absorption in the intestines, while policosanol and artichoke extract support cholesterol metabolism and synthesis regulation.",
+                "indication": "Designed for individuals aiming to manage cholesterol levels and support cardiovascular health naturally. Recommended for those seeking to maintain healthy blood lipid profiles."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            }
+        ],
+        "timestamp": "2025-10-22T17:29:47.730387"
     }
 ]
