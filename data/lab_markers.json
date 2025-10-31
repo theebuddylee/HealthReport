@@ -1176,7 +1176,7 @@
         },
         "DHEA-S": {
             "description": "This adrenal hormone feeds Testosterone and Estrogen, key for energy post-menopause. Optimal levels boost stamina and focus. Too low, you’re wiped; too high, restlessness hits. Boost it with deadlifts, coconut oil, and sleep.",
-            "clinical_range": "13.9.2 - 221.0",
+            "clinical_range": "13.9 - 221.0",
             "optimal_range": "80.0 - 200.0",
             "units": "µg/dL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
