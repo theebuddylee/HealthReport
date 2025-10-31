@@ -1142,7 +1142,7 @@
         "Estradiol": {
             "description": "This estrogen supports brain and bone strength post-menopause. Optimizing it enhances memory and joints. Too low, fog and brittleness hit; too high, bloat creeps in. Maintain it with weights, phytoestrogens (soy), and sleep.",
             "clinical_range": "0.0 - 54.7",
-            "optimal_range": "40.0 - 100.0",
+            "optimal_range": "40.0 - 240.0",
             "units": "pg/mL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
@@ -1163,14 +1163,14 @@
         "Luteinizing Hormone (LH)": {
             "description": "LH signals hormone production, elevated post-menopause. Optimal levels lift energy harmony. Too low, you’re off; too high, tension spikes. Tune it with lifts, protein meals, and sleep.",
             "clinical_range": "15 - 65",
-            "optimal_range": "15 - 65",
+            "optimal_range": "10 - 35",
             "units": "mIU/mL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Follicle-Stimulating Hormone (FSH)": {
             "description": "FSH rises post-menopause as ovaries retire. Optimizing it supports vigor despite the shift. Too low, energy dips; too high feels wired. Enhance it with HIIT, omega-3s (salmon), and rest.",
             "clinical_range": "25 - 135",
-            "optimal_range": "25 - 135",
+            "optimal_range": "20 - 70",
             "units": "mIU/mL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
