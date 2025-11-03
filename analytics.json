@@ -8967,5 +8967,42 @@
             }
         ],
         "timestamp": "2025-10-31T19:04:45.788225"
+    },
+    {
+        "member_name": "Stacy Simms",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "Hexarelin",
+                "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+                "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+            },
+            {
+                "name": "Sermorelin",
+                "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
+                "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."
+            },
+            {
+                "name": "SS-31 (Elamipretide)",
+                "description": "SS-31 (Elamipretide) is a cutting-edge mitochondrial peptide with wide-ranging benefits in cellular energy, aging, inflammation, and neuroprotection. By targeting and stabilizing mitochondrial membranes, it holds unique promise for individuals dealing with chronic fatigue, inflammation, autoimmune conditions, or degenerative diseases.",
+                "indication": "Indicated for any condition driven by mitochondrial dysfunction, especially where oxidative stress, energy failure, or age-related decline are involved. While still investigational, it is gaining popularity in integrative medicine, anti-aging, neurodegenerative care, and fatigue recovery protocols due to its direct mitochondrial repair mechanism."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-11-03T23:01:28.409292"
     }
 ]
