@@ -9646,5 +9646,69 @@
             }
         ],
         "timestamp": "2025-11-10T15:17:33.969253"
+    },
+    {
+        "member_name": "Angelina Beas",
+        "manager": "Dillon",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "DUTCH Complete\u2122 Test",
+                "description": "The DUTCH Complete\u2122 Test (Dried Urine Test for Comprehensive Hormones) is an advanced hormone panel that provides a detailed analysis of sex hormones, adrenal function, and their metabolites. Using dried urine samples collected over a 24-hour period, this test offers a comprehensive assessment of hormonal balance, metabolism, and overall endocrine health. It measures cortisol patterns, sex hormones, melatonin, and organic acid markers to provide insights into stress response, hormone detoxification, and overall well-being.",
+                "indication": "The DUTCH Complete\u2122 Test is indicated for individuals experiencing symptoms related to hormone imbalance, adrenal dysfunction, and metabolic concerns, including fatigue, mood swings, weight fluctuations, irregular menstrual cycles, low libido, and sleep disturbances. It is particularly beneficial for assessing adrenal health, evaluating estrogen metabolism, and monitoring hormone therapy. This test provides actionable insights for optimizing hormonal balance, improving stress resilience, and enhancing overall wellness."
+            }
+        ],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Hexarelin",
+                "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+                "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+            },
+            {
+                "name": "Sermorelin",
+                "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
+                "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            },
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            }
+        ],
+        "timestamp": "2025-11-10T15:17:45.031321"
     }
 ]
