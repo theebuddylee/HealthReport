@@ -10127,5 +10127,43 @@
             }
         ],
         "timestamp": "2025-11-11T16:04:13.254843"
+    },
+    {
+        "member_name": "Jennifer Rosiak",
+        "manager": "Allison",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "NAD+",
+                "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a vital coenzyme found in every cell of the body that plays a central role in energy production, cellular repair, and mitochondrial function. It is essential for converting nutrients into ATP (cellular energy) and supports critical processes like DNA repair, oxidative stress regulation, and aging-related resilience. NAD+ levels naturally decline with age, stress, illness, and environmental exposure, which may contribute to fatigue, cognitive decline, metabolic issues, and neurodegeneration.",
+                "indication": "Supports cellular energy production, mitochondrial function, and healthy aging. It may be used to assist in the management of fatigue, cognitive decline, neurodegenerative conditions, detoxification, and metabolic dysfunction, particularly in individuals experiencing stress-related depletion, chronic illness, or age-related decline in NAD+ levels."
+            },
+            {
+                "name": "Selank",
+                "description": "A synthetic peptide developed as an analog of the naturally occurring immunomodulatory peptide tuftsin. Selank exhibits pronounced anxiolytic (anti-anxiety) effects without the sedative and dependency side effects commonly associated with traditional tranquilizers. Additionally, it has demonstrated nootropic properties, enhancing cognitive functions such as memory and learning.",
+                "indication": "Selank is used to support anxiety relief, cognitive enhancement, and stress management. This synthetic peptide promotes a calming effect without sedation, improves memory and focus, and helps regulate the body's stress response for overall mental well-being."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-11-11T17:48:56.561628"
     }
 ]
