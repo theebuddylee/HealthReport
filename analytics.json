@@ -10298,5 +10298,100 @@
             }
         ],
         "timestamp": "2025-11-12T23:17:35.842700"
+    },
+    {
+        "member_name": "Jenna Phillips",
+        "manager": "Jamie",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "MOTS-c",
+                "description": "MOTS-c is a mitochondrial-derived peptide composed of 16 amino acids, encoded within the mitochondrial genome. It regulates metabolic homeostasis, cellular energy production, and mitochondrial function by activating AMPK (AMP-activated protein kinase), a critical energy-sensing enzyme involved in cellular metabolism, insulin sensitivity, fat oxidation, and glucose uptake.",
+                "indication": "Supports metabolic health, enhances mitochondrial function, and improves energy production. Indicated for patients with metabolic dysfunction, insulin resistance, weight loss resistance, or chronic fatigue. MOTS-c improves glucose utilization, increases fat oxidation, reduces inflammation, and supports healthy aging and exercise recovery."
+            },
+            {
+                "name": "NAD+",
+                "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a vital coenzyme found in every cell of the body that plays a central role in energy production, cellular repair, and mitochondrial function. It is essential for converting nutrients into ATP (cellular energy) and supports critical processes like DNA repair, oxidative stress regulation, and aging-related resilience. NAD+ levels naturally decline with age, stress, illness, and environmental exposure, which may contribute to fatigue, cognitive decline, metabolic issues, and neurodegeneration.",
+                "indication": "Supports cellular energy production, mitochondrial function, and healthy aging. It may be used to assist in the management of fatigue, cognitive decline, neurodegenerative conditions, detoxification, and metabolic dysfunction, particularly in individuals experiencing stress-related depletion, chronic illness, or age-related decline in NAD+ levels."
+            },
+            {
+                "name": "PT-141 (Bremelanotide)",
+                "description": "PT-141 (Bremelanotide) is a synthetic peptide used to enhance sexual arousal and libido in both men and women. Unlike other sexual function medications that target blood flow (like Viagra), PT-141 acts directly on the central nervous system, specifically the hypothalamus, to stimulate desire.",
+                "indication": "Treatment of hypoactive sexual desire disorder (HSDD) in premenopausal women and is used off-label in both men and women to enhance libido, arousal, and sexual satisfaction. In functional medicine, it is commonly prescribed for individuals experiencing low sexual desire, erectile dysfunction, or arousal difficulties, including those related to SSRI use or hormonal imbalance."
+            },
+            {
+                "name": "TB-400 / TB-500",
+                "description": "TB-400/500 is a synthetic fragment of thymosin beta-4 (specifically the 17-23 segment), designed to replicate its active region. Both are involved in actin regulation and tissue repair. TB-500 Therapy provides advanced treatment designed to enhance recovery, promote healing, and support overall physical performance.",
+                "indication": "TB-400/500 therapy helps reduce inflammation, accelerate tissue repair, and improve endurance, making it an ideal choice for those seeking optimal recovery and resilience."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Creatine",
+                "description": "A naturally occurring compound stored in muscles and used to produce energy during high-intensity activities.",
+                "indication": "Fuel your body and mind with Creatine. By enhancing energy production, Creatine helps maintain muscle mass during aging or recovery while also improving memory, focus, and mental clarity."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            },
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2025-11-12T23:20:34.253293"
     }
 ]
