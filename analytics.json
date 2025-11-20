@@ -11274,5 +11274,38 @@
             }
         ],
         "timestamp": "2025-11-20T19:22:56.247681"
+    },
+    {
+        "member_name": "Ursula Hart",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "BPC-157 Oral",
+                "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+                "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+            },
+            {
+                "name": "Hexarelin",
+                "description": "Hexarelin is a peptide designed to stimulate the release of growth hormone, promoting muscle growth, fat reduction, and faster recovery. With its potent regenerative effects, Hexarelin is a versatile peptide for those seeking improved physical performance and resilience.",
+                "indication": "Hexarelin strengthens connective tissues, supports joint health, and may improve cardiovascular function by promoting cardiac repair and protection. Known for its ability to enhance strength and energy, Hexarelin is commonly used for anti-aging, athletic performance, and injury recovery."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Green Tea",
+                "description": "Green tea extract is a concentrated source of antioxidants, particularly catechins like EGCG, derived from the leaves of the Camellia sinensis plant. These compounds help reduce oxidative stress, support metabolic health, and promote overall cellular function. In addition to its antioxidant benefits, green tea extract contains a natural combination of caffeine and L-theanine, which work synergistically to improve alertness and mental clarity without the typical jitters or crashes associated with stimulants.",
+                "indication": "Recommended for individuals looking to support healthy weight management, improve focus and energy, and promote cardiovascular and metabolic health. Its anti-inflammatory and antioxidant properties also make it beneficial for those seeking additional protection against the effects of chronic stress and aging."
+            }
+        ],
+        "timestamp": "2025-11-20T20:58:26.859214"
     }
 ]
