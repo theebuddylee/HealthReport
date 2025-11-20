@@ -10883,5 +10883,48 @@
         ],
         "supplements": [],
         "timestamp": "2025-11-19T21:38:24.981338"
+    },
+    {
+        "member_name": "Stefanie Montoya ",
+        "manager": "Casey",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Hair Growth Capsule - Biotin/Minoxidil",
+                "description": "Biotin and minoxidil are commonly paired in hair restoration treatments. Biotin, a B-vitamin, supports healthy hair growth by strengthening keratin structure. Minoxidil, a topical vasodilator, enhances blood flow to hair follicles, stimulating growth and slowing hair loss. Together, they promote thicker, healthier hair. This combination is ideal for individuals experiencing thinning or shedding, offering a science-backed, non-invasive approach to hair rejuvenation.",
+                "indication": "For individuals experiencing hair thinning, hair loss, or weakened hair structure due to nutritional deficiencies, androgenetic alopecia, or stress-related shedding. Minoxidil increases scalp blood flow and follicle activity to stimulate regrowth, while biotin strengthens hair shafts and supports keratin production. This combination helps restore hair density, reduce shedding, and promote fuller, healthier hair with continued use."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-11-20T17:29:20.976137"
     }
 ]
