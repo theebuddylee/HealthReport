@@ -11599,5 +11599,32 @@
             }
         ],
         "timestamp": "2025-11-25T20:36:22.700723"
+    },
+    {
+        "member_name": "Karen Perez",
+        "manager": "Dillon",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Levothyroxin",
+                "description": "A synthetic form of thyroid hormone used to treat hypothyroidism. It helps restore proper metabolism, energy levels, and overall thyroid function.",
+                "indication": "Boost energy, metabolism, and overall wellness with Levothyroxine\u2014the gold standard in thyroid hormone replacement therapy."
+            },
+            {
+                "name": "Liothyronine",
+                "description": "A synthetic form of the thyroid hormone triiodothyronine (T\u2083), which plays a crucial role in regulating metabolism, growth, and development. It is commonly prescribed to address various thyroid-related conditions.",
+                "indication": "Liothyronine is used as replacement therapy in cases where the thyroid gland does not produce sufficient hormones, including primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-11-26T19:13:36.971367"
     }
 ]
