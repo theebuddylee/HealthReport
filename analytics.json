@@ -11784,5 +11784,35 @@
             }
         ],
         "timestamp": "2025-12-01T14:51:55.696725"
+    },
+    {
+        "member_name": "Phase2",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [],
+        "supplements": [
+            {
+                "name": "Oil of Oregano",
+                "description": "    ",
+                "indication": "    "
+            },
+            {
+                "name": "GLP-1 Probiotic Pro",
+                "description": "A specialized probiotic blend formulated to enhance gut health and improve gastrointestinal tolerance in individuals using GLP-1 agonists.",
+                "indication": "Enhance your GLP-1 journey with our Probiotic Support."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            }
+        ],
+        "timestamp": "2025-12-01T14:52:11.740942"
     }
 ]
