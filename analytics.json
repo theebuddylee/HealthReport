@@ -12346,5 +12346,53 @@
             }
         ],
         "timestamp": "2025-12-05T17:00:01.628078"
+    },
+    {
+        "member_name": "Natalie Morgan",
+        "manager": "Jamie",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Sermorelin",
+                "description": "A synthetic peptide that stimulates the natural release of growth hormone from the pituitary gland.",
+                "indication": "Boost your growth hormone levels naturally with Sermorelin, a peptide therapy designed to enhance fat loss, improve muscle tone, and support recovery."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-12-05T18:44:29.910422"
     }
 ]
