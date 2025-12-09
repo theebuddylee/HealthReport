@@ -84,5 +84,43 @@
         "medications": [],
         "supplements": [],
         "timestamp": "2025-12-09T15:59:06.169995"
+    },
+    {
+        "member_name": "Serge Kazandjian",
+        "manager": "Jamie",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Low Dose Naltrexone (LDN)",
+                "description": "Low Dose Naltrexone (LDN) is a compounded formulation of naltrexone, an opioid receptor antagonist, typically dosed between 0.5 mg and 4.5 mg. Unlike standard naltrexone dosing used for addiction treatment, LDN works by transiently blocking opioid receptors, leading to a rebound increase in endogenous endorphin and enkephalin production. This modulation of the immune system and inflammation pathways has shown therapeutic benefits in a range of chronic conditions.",
+                "indication": "Indicated for the management of autoimmune disorders, chronic pain syndromes, and inflammatory conditions. It is particularly beneficial for conditions such as multiple sclerosis, rheumatoid arthritis, Hashimoto\u2019s thyroiditis, fibromyalgia, or irritable bowel syndrome. LDN helps reduce systemic inflammation, modulate immune responses, and improve symptom control, with potential neuroprotective and mood-enhancing effects."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-12-09T16:47:33.500197"
     }
 ]
