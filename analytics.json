@@ -12871,5 +12871,53 @@
             }
         ],
         "timestamp": "2025-12-09T00:36:17.966669"
+    },
+    {
+        "member_name": "Adrianne Beeman",
+        "manager": "Jamie",
+        "membership": [],
+        "tests": [
+            {
+                "name": "Iron, Ferritin, Free T4, Free T3, Reverse T3, Vitamin D, B12 + Folate, SHBG",
+                "description": "Lab Marker Values to add to Follow up panel ",
+                "indication": "Experiencing hair loss and breakage, check these markers to ensure adequate levels for best results"
+            },
+            {
+                "name": "Women's Hormone Treatment Follow-up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-follow-up-panel",
+                "description": "A follow-up hormone panel for women monitoring treatment progress and adjusting therapy as needed.",
+                "indication": "Measures FSH, LH, CBC, Progesterone, Testosterone, Estradiol, TSH, Metabolic Panel, and Lipid Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "Hair Growth Capsule - Biotin/Minoxidil",
+                "description": "Biotin and minoxidil are commonly paired in hair restoration treatments. Biotin, a B-vitamin, supports healthy hair growth by strengthening keratin structure. Minoxidil, a topical vasodilator, enhances blood flow to hair follicles, stimulating growth and slowing hair loss. Together, they promote thicker, healthier hair. This combination is ideal for individuals experiencing thinning or shedding, offering a science-backed, non-invasive approach to hair rejuvenation.",
+                "indication": "For individuals experiencing hair thinning, hair loss, or weakened hair structure due to nutritional deficiencies, androgenetic alopecia, or stress-related shedding. Minoxidil increases scalp blood flow and follicle activity to stimulate regrowth, while biotin strengthens hair shafts and supports keratin production. This combination helps restore hair density, reduce shedding, and promote fuller, healthier hair with continued use."
+            },
+            {
+                "name": "Semaglutide",
+                "description": "A GLP-1 receptor agonist used for weight loss and blood sugar management.",
+                "indication": "The proven GLP-1 receptor agonist. Backed by science, Semaglutide enhances appetite control, stabilizes blood sugar, and promotes sustainable fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Iron Bisglycinate",
+                "description": "A highly bioavailable, gentle form of iron used to restore optimal iron levels and support energy, oxygen delivery, cognitive function, and healthy hair, skin, and nails.",
+                "indication": "Low ferritin, iron deficiency, fatigue, hair thinning, frequent exercise, history of heavy bleeding, or chronic inflammation impairing iron absorption."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-12-09T00:37:52.728575"
     }
 ]
