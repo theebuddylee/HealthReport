@@ -12962,5 +12962,27 @@
             }
         ],
         "timestamp": "2025-12-09T01:05:14.547632"
+    },
+    {
+        "member_name": "Matt Robins",
+        "manager": "Dillon",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-12-09T15:54:51.115477"
     }
 ]
