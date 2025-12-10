@@ -269,5 +269,48 @@
             }
         ],
         "timestamp": "2025-12-10T15:35:54.882967"
+    },
+    {
+        "member_name": "Angelina Beas",
+        "manager": "Dillon",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Epitalon",
+                "description": "Epitalon (Epithalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from Epithalamin, a natural peptide produced in the pineal gland. It has a role in regulating telomerase activity, promoting cellular longevity, and modulating circadian rhythms. Epitalon is considered a potential anti-aging compound due to its effects on telomere maintenance, oxidative stress reduction, and endocrine system regulation.",
+                "indication": "Epitalon has been studied for its ability to activate telomerase, an enzyme that maintains telomere length, potentially slowing cellular aging and promoting longevity."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Homocysteine Nutrients",
+                "description": "Homocysteine Nutrients is a dietary supplement designed to support healthy homocysteine metabolism and optimal methylation. It combines bioactive B vitamins, such as L-methylfolate and methylcobalamin, with trimethylglycine (TMG) to promote cardiovascular and neurological health. This formula helps convert homocysteine to methionine, maintaining normal levels for improved function.",
+                "indication": "High Homocysteine blood plasma levels, also supports cardiovascular and cognitive health by promoting the efficient metabolism of homocysteine, a key factor in reducing health risks."
+            },
+            {
+                "name": "Homocysteine Supreme",
+                "description": "Formulated to support the efficient metabolism of homocysteine, an amino acid linked to cardiovascular and neurological health. It combines bioactive forms of folate (5-methyltetrahydrofolate), vitamin B6 (pyridoxal-5\u2019-phosphate), vitamin B12 (methylcobalamin), and other synergistic nutrients to promote optimal homocysteine pathways.",
+                "indication": "By maintaining healthy homocysteine levels, this supplement aids in the production of essential compounds like taurine, cysteine, norepinephrine, and dopamine, which are vital for detoxification, immune function, joint and cartilage health, and overall brain and cardiovascular wellness."
+            }
+        ],
+        "timestamp": "2025-12-10T15:41:46.092833"
     }
 ]
