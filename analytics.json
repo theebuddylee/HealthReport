@@ -984,5 +984,45 @@
             }
         ],
         "timestamp": "2025-12-12T23:08:54.652492"
+    },
+    {
+        "member_name": "Dary Esther Del Orbe Rosa",
+        "manager": "Jamie",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "AOD-9604",
+                "description": "AOD-9604 is a synthetic peptide derived from a specific fragment of human growth hormone that selectively targets fat metabolism. It promotes lipolysis (fat breakdown) and inhibits lipogenesis (fat storage) without affecting growth hormone levels, insulin, cortisol, or muscle mass.",
+                "indication": "Used as an adjunct therapy for reduction of body fat and improvement of body composition, particularly in individuals with insulin resistance, stubborn adiposity, or cortisol sensitivity where traditional fat-loss agents may be poorly tolerated."
+            },
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "MOTS-c",
+                "description": "MOTS-c is a mitochondrial-derived peptide composed of 16 amino acids, encoded within the mitochondrial genome. It regulates metabolic homeostasis, cellular energy production, and mitochondrial function by activating AMPK (AMP-activated protein kinase), a critical energy-sensing enzyme involved in cellular metabolism, insulin sensitivity, fat oxidation, and glucose uptake.",
+                "indication": "Supports metabolic health, enhances mitochondrial function, and improves energy production. Indicated for patients with metabolic dysfunction, insulin resistance, weight loss resistance, or chronic fatigue. MOTS-c improves glucose utilization, increases fat oxidation, reduces inflammation, and supports healthy aging and exercise recovery."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2025-12-14T03:13:05.045372"
     }
 ]
