@@ -1229,5 +1229,111 @@
             }
         ],
         "timestamp": "2025-12-16T23:04:32.425737"
+    },
+    {
+        "member_name": "Orlando Rogers",
+        "manager": "Allison",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Comprehensive Hormone Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-comprehensive-hormone-panel",
+                "description": "An advanced panel assessing a wide range of male hormones and biomarkers, ensuring peak performance, recovery, and metabolic balance.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol, SHBG, Prolactin, Cortisol, Progesterone, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            },
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Kisspeptin-10",
+                "description": "Kisspeptin-10 is a peptide that stimulates the release of gonadotropin-releasing hormone (GnRH) from the hypothalamus. This activation increases Luteinizing Hormone (LH) and Follicle Stimulating Hormone (FSH), which then support natural sex hormone production.",
+                "indication": "Kisspeptin-10 is commonly used to: Support fertility by enhancing natural reproductive hormone signaling, Improve libido and sexual function, Aid individuals with hypogonadotropic hypogonadism or suppressed LH/FSH, Restore hormone production after previous suppression (e.g., coming off hormone therapy).\n"
+            },
+            {
+                "name": "Tesamorelin/Ipamorelin",
+                "description": "This is a peptide combination that stimulates your body\u2019s natural growth hormone (GH) release. Tesamorelin works at the hypothalamus to increase GH signaling, while Ipamorelin supports steady GH pulses without significantly raising cortisol or prolactin.",
+                "indication": "Used to help reduce visceral (deep abdominal) fat, improve body composition, support muscle recovery, enhance sleep quality, and promote metabolic health. Commonly used for patients with stubborn abdominal fat, slowed metabolism, or reduced recovery associated with aging or hormonal decline."
+            },
+            {
+                "name": "Ezetimibe",
+                "description": "Ezetimibe is a cholesterol-lowering medication that significantly reduces LDL-C while boosting HDL-C, offering additional protective benefits for heart health, non-alcoholic fatty liver disease, and stroke prevention. It also helps lower inflammation by reducing CRP levels, supporting overall cardiovascular wellness.",
+                "indication": "Lowers bad cholesterol (LDL-C), raises good cholesterol (HDL-C), and supports heart and liver health while reducing inflammation."
+            },
+            {
+                "name": "Larazotide (AT-1001)",
+                "description": "Larazotide (AT-1001) is an oral peptide that helps regulate intestinal permeability by modulating tight junctions in the gut lining. It is primarily researched for its role in managing leaky gut syndrome, celiac disease, and other inflammatory gut disorders. By preventing the breakdown of tight junctions, Larazotide supports gut barrier integrity, reduces inflammation, and may help mitigate symptoms related to increased intestinal permeability.",
+                "indication": "Larazotide (AT-1001) 500mcg is indicated for individuals with conditions linked to increased intestinal permeability, such as celiac disease, leaky gut syndrome, inflammatory bowel diseases (IBD), and autoimmune disorders. By modulating tight junctions in the gut lining, it helps reduce inflammation, support barrier integrity, and mitigate symptoms like bloating, brain fog, and digestive discomfort. It may also benefit metabolic and neurological conditions related to gut health, making it a promising adjunct therapy for those with chronic inflammation and immune dysregulation."
+            },
+            {
+                "name": "Oral BPC-KPV",
+                "description": "Oral BPC-KPV is a peptide-based therapy that combines BPC-157, known for its regenerative and anti-inflammatory properties, with KPV, a potent tripeptide derived from alpha-melanocyte-stimulating hormone (\u03b1-MSH) that helps modulate immune response and reduce inflammation. This combination is designed to support gut health, tissue repair, and immune regulation, making it a promising option for individuals with gastrointestinal disorders, inflammatory conditions, and musculoskeletal injuries.",
+                "indication": "Oral BPC-KPV is indicated for individuals seeking support for gut health, immune modulation, and tissue repair. It is commonly used for conditions such as inflammatory bowel diseases (IBD), leaky gut syndrome, gastritis, and other gastrointestinal disorders, as well as chronic inflammation and musculoskeletal injuries. By reducing inflammation, promoting cellular repair, and enhancing gut barrier integrity, BPC-KPV may aid in recovery from injury, optimize gut function, and support overall systemic healing."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Mastic Gum",
+                "description": "Mastic gum is a natural resin traditionally used to support gastrointestinal health. It has antimicrobial and soothing properties that help protect the stomach lining, support healthy digestion, and promote balance in the gut microbiome.",
+                "indication": "Used to help support the stomach and upper GI tract, particularly in cases of gastritis, reflux symptoms, or H. pylori overgrowth. It may help reduce gut irritation, support mucosal healing, and improve overall digestive comfort."
+            },
+            {
+                "name": "L-Glutamine",
+                "description": "L-Glutamine is a conditionally essential amino acid that plays a key role in maintaining the health of the gastrointestinal tract, supporting immune function, and promoting recovery and tissue repair. It serves as a primary fuel source for intestinal cells, helps maintain mucosal integrity, and supports overall gut resilience.",
+                "indication": "L-Glutamine is indicated to support gut lining repair, improve digestive comfort, and enhance intestinal barrier function. It may be used for individuals experiencing GI irritation, increased intestinal permeability, or those needing additional support for immune health, recovery, or muscle maintenance."
+            },
+            {
+                "name": "Zinc Carnosine",
+                "description": "Zinc Carnosine is a chelated compound that combines zinc with the dipeptide L-carnosine, allowing for targeted delivery to the stomach and intestines. This form is highly stable and adheres to mucosal surfaces, where it supports tissue repair, reduces oxidative stress, and helps maintain the integrity of the gastrointestinal lining.",
+                "indication": "Zinc Carnosine is indicated to support healing of the stomach and intestinal mucosa, reduce GI irritation, and promote a healthy gut barrier. It is commonly used for individuals experiencing gastritis, reflux-related irritation, or increased intestinal permeability, as well as those needing enhanced GI repair and mucosal protection"
+            },
+            {
+                "name": "Caprylic Acid",
+                "description": "Caprylic acid is a medium-chain fatty acid naturally found in coconut oil that supports gut and immune health. It has antifungal and antimicrobial properties and is well known for helping maintain a healthy balance of microorganisms in the gastrointestinal tract.",
+                "indication": "Used to help reduce yeast and fungal overgrowth (such as Candida), support microbial balance, and promote improved digestion and gut integrity."
+            },
+            {
+                "name": "Biocidin Broad Spectrum Liquid Formula",
+                "description": "Biocidin is a professional-grade botanical blend designed to support gut microbial balance. It contains a combination of herbal extracts and essential oils with broad-spectrum antimicrobial properties that help target unwanted bacteria, yeast, and parasites while supporting overall digestive and immune health.",
+                "indication": "Used to help reduce dysbiosis, bacterial or yeast overgrowth (including SIBO or Candida), support gut detoxification, and promote restoration of a healthy gut microbiome."
+            },
+            {
+                "name": "Multi-Probiotic Spore + SBC",
+                "description": "Multi-Probiotic\u00ae Spore + SBC is a unique combination of spore-based bacillus strains plus Saccharomyces boulardii (SBC). Both types of probiotics provide a clinically studied approach to supporting bowel comfort and regularity, gastrointestinal function, and immune health. Spore probiotics are more stable and behave differently than traditional probiotic species by germinating and proliferating in the small intestine.",
+                "indication": "Multi-Probiotic Spore + SBC is recommended to support healthy gastrointestinal function, promote balanced gut microbiota, and enhance gut barrier and immune health. The combination of spore-forming probiotics and Saccharomyces boulardii helps improve digestive comfort, resilience of the microbiome, and overall GI stability."
+            },
+            {
+                "name": "Saccharomyces boulardii",
+                "description": "Saccharomyces boulardii is a beneficial probiotic yeast that supports gut and immune health. Unlike bacterial probiotics, it is not affected by antibiotics and helps protect the intestinal lining, support healthy digestion, and promote balance in the gut microbiome.",
+                "indication": "Used to help prevent or reduce diarrhea, support gut integrity, and protect against pathogenic bacteria and yeast, including C. difficile and Candida. It is especially helpful during or after antimicrobial or antibiotic use to maintain microbial balance."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Oil of Oregano",
+                "description": "Oil of oregano is a potent herbal extract derived from the oregano plant, rich in compounds like carvacrol and thymol, which have strong antibacterial, antifungal, and antioxidant properties. It is commonly used in integrative medicine to help combat microbial overgrowth and support immune function.",
+                "indication": "A natural antimicrobial, helping to reduce harmful bacteria, yeast, and parasites in the gut. It is often used in cases of bacterial overgrowth, fungal infections, or digestive imbalance, and can support overall immune and gut health when used short term as part of a targeted protocol."
+            }
+        ],
+        "timestamp": "2025-12-17T16:01:43.725197"
     }
 ]
