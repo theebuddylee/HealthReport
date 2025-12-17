@@ -1739,5 +1739,43 @@
             }
         ],
         "timestamp": "2025-12-17T23:45:06.606139"
+    },
+    {
+        "member_name": "Rada Kuperschmidt",
+        "manager": "Casey",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "CJC 1295/Ipamorelin",
+                "description": "CJC-1295 and Ipamorelin are peptides that help your body naturally increase growth hormone production. Growth hormone plays an important role in energy, recovery, metabolism, sleep, and healthy aging. This combination works by signaling your body to release growth hormone in a natural, steady way. Together, they are more effective than using either one alone and are designed to work with your body\u2019s normal hormone rhythms.",
+                "indication": "CJC-1295/Ipamorelin is indicated for individuals experiencing symptoms associated with reduced growth hormone production, including low energy, poor sleep quality, slowed recovery, loss of muscle tone, increased body fat, and general signs of aging. By stimulating the body\u2019s natural growth hormone release, it supports metabolic health, enhances recovery and repair, promotes the development and maintenance of lean muscle mass, and helps improve overall vitality and body composition."
+            },
+            {
+                "name": " T3 (Liothyronine)",
+                "description": " T3, also known as liothyronine, is the active form of thyroid hormone that directly regulates the body\u2019s metabolism. Unlike T4, which must be converted into T3 in the body, T3 is immediately available for use by cells. It plays a key role in energy production, temperature regulation, brain function, heart rate, and the metabolism of fats, carbohydrates, and proteins.\n\n",
+                "indication": "T3 is indicated for patients with symptoms of hypothyroidism who have low or suboptimal T3 levels, particularly when symptoms persist despite adequate T4 therapy. It is commonly used in individuals with poor T4-to-T3 conversion, autoimmune thyroid conditions such as Hashimoto\u2019s, or ongoing symptoms including fatigue, brain fog, cold intolerance, hair thinning, dry skin, and difficulty with weight management. T3 may be used alone or in combination with T4 to optimize thyroid function, energy levels, and metabolic balance.\n\n\n"
+            },
+            {
+                "name": "Semaglutide",
+                "description": "A GLP-1 receptor agonist used for weight loss and blood sugar management.",
+                "indication": "The proven GLP-1 receptor agonist. Backed by science, Semaglutide enhances appetite control, stabilizes blood sugar, and promotes sustainable fat loss."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-12-17T23:47:59.815124"
     }
 ]
