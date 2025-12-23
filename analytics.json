@@ -2023,5 +2023,54 @@
             }
         ],
         "timestamp": "2025-12-22T17:42:54.351427"
+    },
+    {
+        "member_name": "Melinda Dinsmore",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [
+            {
+                "name": "DUTCH Complete\u2122 Test",
+                "description": "The DUTCH Complete\u2122 Test (Dried Urine Test for Comprehensive Hormones) is an advanced hormone panel that provides a detailed analysis of sex hormones, adrenal function, and their metabolites. Using dried urine samples collected over a 24-hour period, this test offers a comprehensive assessment of hormonal balance, metabolism, and overall endocrine health. It measures cortisol patterns, sex hormones, melatonin, and organic acid markers to provide insights into stress response, hormone detoxification, and overall well-being.",
+                "indication": "The DUTCH Complete\u2122 Test is indicated for individuals experiencing symptoms related to hormone imbalance, adrenal dysfunction, and metabolic concerns, including fatigue, mood swings, weight fluctuations, irregular menstrual cycles, low libido, and sleep disturbances. It is particularly beneficial for assessing adrenal health, evaluating estrogen metabolism, and monitoring hormone therapy. This test provides actionable insights for optimizing hormonal balance, improving stress resilience, and enhancing overall wellness."
+            }
+        ],
+        "medications": [
+            {
+                "name": "5-Amino 1MQ",
+                "description": "5-Amino-1MQ is a small molecule peptide that acts as an inhibitor of the enzyme nicotinamide N-methyltransferase (NNMT), which plays a role in cellular metabolism and energy regulation. By inhibiting NNMT, 5-Amino-1MQ enhances NAD\u207a biosynthesis and improves mitochondrial function, contributing to increased energy expenditure and improved metabolic health.",
+                "indication": "Supports weight loss and improves metabolic function by inhibiting NNMT, enhancing fat burning, preserving lean muscle, and improving insulin sensitivity. It is useful in protocols for weight management, metabolic optimization, and cellular energy support."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Calcium D-Glucarate",
+                "description": "Calcium D-Glucarate is a natural compound that supports healthy detoxification and estrogen metabolism by inhibiting beta-glucuronidase activity in the gut and liver. This helps prevent the reabsorption of excess or metabolized hormones, promoting more efficient elimination of estrogen and other toxins and supporting hormonal balance.",
+                "indication": "Calcium D-Glucarate is a naturally occurring compound that supports the body\u2019s phase II detoxification pathways, particularly in the liver and gut. It works by inhibiting the enzyme beta-glucuronidase, which helps prevent the reabsorption of metabolized hormones and toxins back into circulation. By promoting efficient elimination, calcium D-glucarate supports hormonal balance, liver health, and overall detoxification processes."
+            },
+            {
+                "name": "DIM (Diindolylmethane)",
+                "description": "DIM (Diindolylmethane) is a bioactive compound derived from cruciferous vegetables that helps optimize estrogen metabolism by promoting the conversion of estrogen toward more favorable pathways. It supports a healthier estrogen balance, particularly in individuals with estrogen dominance, and may help reduce symptoms related to hormonal imbalance by improving the estrogen metabolite ratio.",
+                "indication": "DIM (Diindolylmethane) is a bioactive phytonutrient derived from the digestion of indole-3-carbinol found in cruciferous vegetables such as broccoli, cauliflower, and kale. It helps regulate estrogen metabolism by encouraging the production of more favorable estrogen metabolites while reducing less desirable pathways. DIM supports hormonal balance, particularly in individuals sensitive to estrogen fluctuations, and contributes to overall endocrine health."
+            },
+            {
+                "name": "Cortisol Calm",
+                "description": "A supplement designed to support adrenal health and stress management by balancing cortisol levels.",
+                "indication": "A premium adaptogen blend designed to regulate cortisol levels and support a balanced stress response."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2025-12-23T16:02:21.595541"
     }
 ]
