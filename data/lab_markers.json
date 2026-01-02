@@ -1,5 +1,21 @@
 {
     "Men": {
+        "Free Testosterone (LabCorp EIA)": {
+            "description": "The unbound T fueling muscle and energy. Optimal levels supercharge recovery and drive. Low leaves you dragging; high might spark aggression. Stay steady with compound lifts, zinc (oysters), and deep rest.",
+            "clinical_range": "6.8 - 21.5",
+            "optimal_range": "18.0 -27.0",
+            "units": "ng/dL",
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel",
+            "lab_source": "LabCorp"
+        },
+        "Free Testosterone (Quest LC/MS-MS or Calculated)": {
+            "description": "Quest's gold-standard method using equilibrium dialysis or LC/MS-MS calculation. MThe unbound T fueling muscle and energy. Optimal levels supercharge recovery and drive. Low leaves you dragging; high might spark aggression. Stay steady with compound lifts, zinc (oysters), and deep rest.",
+            "clinical_range": "50 - 210",
+            "optimal_range": "100 - 200",
+            "units": "pg/mL",
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel",
+            "lab_source": "Quest"
+        }
         "Total Testosterone": {
             "description": "This powerhouse hormone drives muscle growth, energy, and vitality. Optimizing it boosts strength, stamina, and focus. Too low, you’re sluggish and moody; too high, irritability spikes. Keep it dialed with heavy lifts, protein-rich steak, and 7-9 hours of sleep.",
             "clinical_range": "264 - 916",
