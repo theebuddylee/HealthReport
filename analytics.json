@@ -2500,5 +2500,85 @@
             }
         ],
         "timestamp": "2026-01-05T17:14:02.817177"
+    },
+    {
+        "member_name": "Christopher Slater",
+        "manager": "Jamie",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's TRT Treatment Follow-Up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-follow-up-panel",
+                "description": "A targeted follow-up panel designed for men undergoing hormone therapy, tracking key changes in testosterone and overall health.",
+                "indication": "Measures Free & Total Testosterone, Estradiol, PSA, CBC, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "CJC-1295 + Ipamorelin",
+                "description": "A synergistic peptide combination that stimulates the body\u2019s natural pulsatile growth hormone (GH) release without suppressing endogenous hormone production. CJC-1295 increases GH signaling, while Ipamorelin selectively triggers GH pulses without raising cortisol or prolactin.",
+                "indication": "For individuals experiencing low energy, poor recovery, and persistent fatigue, especially when accompanied by difficulty losing fat or building lean muscle. It supports improved exercise performance and tissue repair by enhancing the body\u2019s natural, pulsatile growth hormone release, which commonly declines with age, chronic stress, and metabolic dysfunction. This combination is particularly beneficial in metabolically compromised individuals because it promotes fat loss, recovery, and lean mass support without significantly impacting insulin levels, making it a safe and effective adjunct to comprehensive metabolic and hormone optimization programs."
+            },
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "Enclomiphene",
+                "description": "A selective estrogen receptor modulator (SERM) used to increase testosterone production in men by stimulating the natural production of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",
+                "indication": "A powerful testosterone booster that enhances natural production while supporting fertility. Unlike traditional options, Enclomiphene helps maintain testicular function and sperm count, ensuring optimized hormone levels without compromising reproductive health."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Low Dose Naltrexone (LDN)",
+                "description": "Low Dose Naltrexone (LDN) is a compounded formulation of naltrexone, an opioid receptor antagonist, typically dosed between 0.5 mg and 4.5 mg. Unlike standard naltrexone dosing used for addiction treatment, LDN works by transiently blocking opioid receptors, leading to a rebound increase in endogenous endorphin and enkephalin production. This modulation of the immune system and inflammation pathways has shown therapeutic benefits in a range of chronic conditions.",
+                "indication": "Indicated for the management of autoimmune disorders, chronic pain syndromes, and inflammatory conditions. It is particularly beneficial for conditions such as multiple sclerosis, rheumatoid arthritis, Hashimoto\u2019s thyroiditis, fibromyalgia, or irritable bowel syndrome. LDN helps reduce systemic inflammation, modulate immune responses, and improve symptom control, with potential neuroprotective and mood-enhancing effects."
+            },
+            {
+                "name": "Metformin",
+                "description": "Metformin is a widely used oral medication primarily prescribed for managing type 2 diabetes. It works by improving insulin sensitivity, reducing glucose production in the liver, and enhancing glucose uptake by the body\u2019s cells, effectively lowering blood sugar levels.",
+                "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Additional Supplements",
+                "description": "CoQ10; Alpha-lipoic acid; Acetyl-L-Carnitine",
+                "indication": "To improve insulin sensitivity and mitochondrial support"
+            },
+            {
+                "name": "Additional Supplements",
+                "description": "CoQ10; Alpha-lipoic acid; Acetyl-L-Carnitine",
+                "indication": "To improve insulin sensitivity and mitochondrial support"
+            },
+            {
+                "name": "Green Tea",
+                "description": "Green tea extract is a concentrated source of antioxidants, particularly catechins like EGCG, derived from the leaves of the Camellia sinensis plant. These compounds help reduce oxidative stress, support metabolic health, and promote overall cellular function. In addition to its antioxidant benefits, green tea extract contains a natural combination of caffeine and L-theanine, which work synergistically to improve alertness and mental clarity without the typical jitters or crashes associated with stimulants.",
+                "indication": "Recommended for individuals looking to support healthy weight management, improve focus and energy, and promote cardiovascular and metabolic health. Its anti-inflammatory and antioxidant properties also make it beneficial for those seeking additional protection against the effects of chronic stress and aging."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-01-05T19:27:39.687751"
     }
 ]
