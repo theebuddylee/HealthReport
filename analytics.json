@@ -3171,5 +3171,68 @@
             }
         ],
         "timestamp": "2026-01-07T01:42:52.420448"
+    },
+    {
+        "member_name": "Bronze",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Metformin",
+                "description": "Metformin is a widely used oral medication primarily prescribed for managing type 2 diabetes. It works by improving insulin sensitivity, reducing glucose production in the liver, and enhancing glucose uptake by the body\u2019s cells, effectively lowering blood sugar levels.",
+                "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."
+            },
+            {
+                "name": "Methylene Blue",
+                "description": "Methylene Blue is a synthetic compound with a rich history in medical applications, recently gaining attention for its potential anti-aging benefits.",
+                "indication": "Cognitive Function: Research indicates that methylene blue may support brain health by improving mitochondrial function, leading to enhanced energy production in brain cells. This improvement could aid in preserving cognitive abilities and potentially offer neuroprotective effects against age-related decline."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "DIM ",
+                "description": "xxx",
+                "indication": "xxx"
+            },
+            {
+                "name": "DIM and MethylB12",
+                "description": "xxx",
+                "indication": "xxx"
+            },
+            {
+                "name": "DIM and MethylB12",
+                "description": "xxx",
+                "indication": "1 month: 640\n2 month: 994"
+            },
+            {
+                "name": "DIM and MethylB12",
+                "description": "xxx",
+                "indication": "1 month: 459\n2 month: 634"
+            },
+            {
+                "name": "DIM and MethylB12",
+                "description": "xxx",
+                "indication": "1 month: 639\n2 month: 1045"
+            },
+            {
+                "name": "DIM and MethylB12",
+                "description": "xxx",
+                "indication": "bbvb"
+            },
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-01-07T01:43:29.847388"
     }
 ]
