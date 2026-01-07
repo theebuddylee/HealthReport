@@ -3113,5 +3113,63 @@
             }
         ],
         "timestamp": "2026-01-07T01:41:27.544612"
+    },
+    {
+        "member_name": "Gold",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Metformin",
+                "description": "Metformin is a widely used oral medication primarily prescribed for managing type 2 diabetes. It works by improving insulin sensitivity, reducing glucose production in the liver, and enhancing glucose uptake by the body\u2019s cells, effectively lowering blood sugar levels.",
+                "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."
+            },
+            {
+                "name": "MOTS-c",
+                "description": "MOTS-c is a mitochondrial-derived peptide composed of 16 amino acids, encoded within the mitochondrial genome. It regulates metabolic homeostasis, cellular energy production, and mitochondrial function by activating AMPK (AMP-activated protein kinase), a critical energy-sensing enzyme involved in cellular metabolism, insulin sensitivity, fat oxidation, and glucose uptake.",
+                "indication": "Supports metabolic health, enhances mitochondrial function, and improves energy production. Indicated for patients with metabolic dysfunction, insulin resistance, weight loss resistance, or chronic fatigue. MOTS-c improves glucose utilization, increases fat oxidation, reduces inflammation, and supports healthy aging and exercise recovery."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "DIM ",
+                "description": "xxx",
+                "indication": "xxx"
+            },
+            {
+                "name": "DIM and MethylB12",
+                "description": "xxx",
+                "indication": "xxx"
+            },
+            {
+                "name": "DIM and MethylB12",
+                "description": "xxx",
+                "indication": "1 month: 640\n2 month: 994"
+            },
+            {
+                "name": "DIM and MethylB12",
+                "description": "xxx",
+                "indication": "1 month: 459\n2 month: 634"
+            },
+            {
+                "name": "DIM and MethylB12",
+                "description": "xxx",
+                "indication": "1 month: 639\n2 month: 1045"
+            },
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-01-07T01:42:52.420448"
     }
 ]
