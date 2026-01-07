@@ -2862,5 +2862,56 @@
             }
         ],
         "timestamp": "2026-01-06T22:56:34.887674"
+    },
+    {
+        "member_name": "",
+        "manager": "Allison",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "CJC 1295/Ipamorelin",
+                "description": "CJC-1295 and ipamorelin are peptides that work together to stimulate the body\u2019s natural release of growth hormone. This combination supports healthy metabolism, recovery, sleep quality, fat loss, and the maintenance of lean muscle mass without significantly increasing cortisol or prolactin.",
+                "indication": "Used to support age-related decline in growth hormone, improve body composition, enhance muscle recovery and strength, promote fat loss, support sleep and energy levels, and aid overall metabolic and cellular repair."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Metformin",
+                "description": "Metformin is a widely used oral medication primarily prescribed for managing type 2 diabetes. It works by improving insulin sensitivity, reducing glucose production in the liver, and enhancing glucose uptake by the body\u2019s cells, effectively lowering blood sugar levels.",
+                "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Cream",
+                "description": "A topical testosterone replacement therapy applied directly to the skin.",
+                "indication": "Easily applied, this therapy enhances testosterone levels for better performance, weight loss, and muscle tone."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            }
+        ],
+        "timestamp": "2026-01-07T00:01:04.991820"
     }
 ]
