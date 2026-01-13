@@ -3479,5 +3479,51 @@
             }
         ],
         "timestamp": "2026-01-09T21:34:33.538399"
+    },
+    {
+        "member_name": "Joanie Griffin",
+        "manager": "Casey",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "CJC 1295/Ipamorelin",
+                "description": "CJC-1295 with ipamorelin is a peptide combination that stimulates the body\u2019s natural release of growth hormone by supporting normal pituitary signaling. Together, they promote physiologic growth hormone pulsatility without directly supplying synthetic hormones.",
+                "indication": "Used to support fat loss, lean muscle development, recovery, sleep quality, and healthy aging, particularly in individuals with low growth hormone output, impaired recovery, or metabolic slowdown."
+            },
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "NAD+",
+                "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a vital coenzyme found in every cell of the body that plays a central role in energy production, cellular repair, and mitochondrial function. It is essential for converting nutrients into ATP (cellular energy) and supports critical processes like DNA repair, oxidative stress regulation, and aging-related resilience. NAD+ levels naturally decline with age, stress, illness, and environmental exposure, which may contribute to fatigue, cognitive decline, metabolic issues, and neurodegeneration.",
+                "indication": "Supports cellular energy production, mitochondrial function, and healthy aging. It may be used to assist in the management of fatigue, cognitive decline, neurodegenerative conditions, detoxification, and metabolic dysfunction, particularly in individuals experiencing stress-related depletion, chronic illness, or age-related decline in NAD+ levels."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-01-13T00:38:26.084810"
     }
 ]
