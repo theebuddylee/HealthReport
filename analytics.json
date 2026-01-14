@@ -3919,5 +3919,35 @@
             }
         ],
         "timestamp": "2026-01-14T20:45:43.961137"
+    },
+    {
+        "member_name": "Perez Phase3",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [
+            {
+                "name": "GI-MAP (GI Microbial Assay Plus)",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "A detailed stool analysis assessing gut bacteria, viruses, parasites, fungi, and key inflammatory markers.",
+                "indication": "Provides actionable insights into gut health for individuals experiencing digestive discomfort, immune challenges, or systemic inflammation."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Larazotide (AT-1001)",
+                "description": "Larazotide (AT-1001) is an oral peptide that helps regulate intestinal permeability by modulating tight junctions in the gut lining. It is primarily researched for its role in managing leaky gut syndrome, celiac disease, and other inflammatory gut disorders. By preventing the breakdown of tight junctions, Larazotide supports gut barrier integrity, reduces inflammation, and may help mitigate symptoms related to increased intestinal permeability.",
+                "indication": "Larazotide (AT-1001) 500mcg is indicated for individuals with conditions linked to increased intestinal permeability, such as celiac disease, leaky gut syndrome, inflammatory bowel diseases (IBD), and autoimmune disorders. By modulating tight junctions in the gut lining, it helps reduce inflammation, support barrier integrity, and mitigate symptoms like bloating, brain fog, and digestive discomfort. It may also benefit metabolic and neurological conditions related to gut health, making it a promising adjunct therapy for those with chronic inflammation and immune dysregulation."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "GLP-1 Probiotic Pro",
+                "description": "A specialized probiotic blend formulated to enhance gut health and improve gastrointestinal tolerance in individuals using GLP-1 agonists.",
+                "indication": "Enhance your GLP-1 journey with our Probiotic Support."
+            }
+        ],
+        "timestamp": "2026-01-14T20:46:00.009516"
     }
 ]
