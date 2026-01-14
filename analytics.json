@@ -3833,5 +3833,22 @@
         ],
         "supplements": [],
         "timestamp": "2026-01-14T16:39:10.198803"
+    },
+    {
+        "member_name": "Kyle Gosik",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Retatrutide",
+                "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+                "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-01-14T16:39:22.103153"
     }
 ]
