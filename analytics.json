@@ -3850,5 +3850,34 @@
         ],
         "supplements": [],
         "timestamp": "2026-01-14T16:39:22.103153"
+    },
+    {
+        "member_name": "Perez Phase1",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [
+            {
+                "name": "GI-MAP (GI Microbial Assay Plus)",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "A detailed stool analysis assessing gut bacteria, viruses, parasites, fungi, and key inflammatory markers.",
+                "indication": "Provides actionable insights into gut health for individuals experiencing digestive discomfort, immune challenges, or systemic inflammation."
+            }
+        ],
+        "medications": [],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Oil of Oregano",
+                "description": "Oil of oregano is a potent herbal extract derived from the oregano plant, rich in compounds like carvacrol and thymol, which have strong antibacterial, antifungal, and antioxidant properties. It is commonly used in integrative medicine to help combat microbial overgrowth and support immune function.",
+                "indication": "A natural antimicrobial, helping to reduce harmful bacteria, yeast, and parasites in the gut. It is often used in cases of bacterial overgrowth, fungal infections, or digestive imbalance, and can support overall immune and gut health when used short term as part of a targeted protocol."
+            }
+        ],
+        "timestamp": "2026-01-14T20:45:08.973700"
     }
 ]
