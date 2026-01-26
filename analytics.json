@@ -4354,5 +4354,63 @@
             }
         ],
         "timestamp": "2026-01-26T20:26:58.028992"
+    },
+    {
+        "member_name": "Annette Angeski",
+        "manager": "Jamie",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Compounded T3/T4 Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication containing a specific ratio of liothyronine (T3) and levothyroxine (T4), formulated by a compounding pharmacy to meet individual patient needs when commercially available options are not ideal.",
+                "indication": "Indicated for the treatment of hypothyroidism in patients requiring a personalized ratio of T3 and T4 to restore optimal thyroid function. It is beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens or specific excipients."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Low Dose Naltrexone (LDN)",
+                "description": "Low Dose Naltrexone (LDN) is a compounded formulation of naltrexone, an opioid receptor antagonist, typically dosed between 0.5 mg and 4.5 mg. Unlike standard naltrexone dosing used for addiction treatment, LDN works by transiently blocking opioid receptors, leading to a rebound increase in endogenous endorphin and enkephalin production. This modulation of the immune system and inflammation pathways has shown therapeutic benefits in a range of chronic conditions.",
+                "indication": "Indicated for the management of autoimmune disorders, chronic pain syndromes, and inflammatory conditions. It is particularly beneficial for conditions such as multiple sclerosis, rheumatoid arthritis, Hashimoto\u2019s thyroiditis, fibromyalgia, or irritable bowel syndrome. LDN helps reduce systemic inflammation, modulate immune responses, and improve symptom control, with potential neuroprotective and mood-enhancing effects."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "timestamp": "2026-01-26T23:11:08.769321"
     }
 ]
