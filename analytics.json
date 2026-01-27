@@ -4434,5 +4434,51 @@
         ],
         "supplements": [],
         "timestamp": "2026-01-27T00:00:58.012700"
+    },
+    {
+        "member_name": "Tammy Moffett",
+        "manager": "Casey",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "DIM  (Diindolylmethane)",
+                "description": "DIM (Diindolylmethane) is a natural compound derived from cruciferous vegetables such as broccoli, Brussels sprouts, cabbage, and kale. It supports healthy estrogen metabolism by helping the body break down and eliminate excess or unfavorable estrogen metabolites. DIM also promotes hormonal balance, supports liver detoxification pathways, and helps maintain a healthy ratio of estrogen metabolites in both men and women.",
+                "indication": "DIM is indicated to support healthy estrogen metabolism and hormonal balance in both men and women. It may be beneficial for individuals experiencing symptoms associated with estrogen dominance, including PMS, perimenopausal or menopausal symptoms, hormone-related acne, and breast tenderness. DIM also supports liver detoxification pathways involved in the breakdown and elimination of estrogen metabolites and may help promote prostate health and overall hormone balance."
+            },
+            {
+                "name": "Calcium D-Glucarate ",
+                "description": "Calcium D-Glucarate is a compound derived from D-glucaric acid, a substance naturally found in fruits and vegetables such as apples, oranges, broccoli, and grapefruit. It supports the body\u2019s natural detoxification processes by inhibiting beta-glucuronidase, an enzyme that can interfere with the elimination of hormones and toxins. By supporting proper phase II liver detoxification and healthy gut-liver communication, Calcium D-Glucarate helps promote efficient clearance of estrogen and other metabolized compounds from the body.",
+                "indication": "Calcium D-Glucarate is indicated to support healthy estrogen metabolism and detoxification pathways, particularly in individuals with signs of estrogen excess or impaired hormone clearance. It may be beneficial for supporting hormonal balance, liver detoxification, and gastrointestinal elimination of estrogen metabolites, as well as reducing the recirculation of hormones and environmental toxins. "
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-01-27T01:18:35.542591"
     }
 ]
