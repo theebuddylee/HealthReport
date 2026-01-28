@@ -4512,5 +4512,32 @@
         ],
         "supplements": [],
         "timestamp": "2026-01-27T20:26:37.272812"
+    },
+    {
+        "member_name": "Kathryn",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "BPC-157 Oral",
+                "description": "Oral BPC-157 is a powerful peptide that supports gut healing by repairing the intestinal lining, reducing inflammation, and enhancing blood flow.",
+                "indication": "Strengthens the gut barrier, helps heal ulcers and leaky gut, and supports a healthy microbiome. By stimulating growth factors and angiogenesis, BPC-157 accelerates tissue repair and improves digestive health."
+            },
+            {
+                "name": "TB-400 / TB-500",
+                "description": "TB-400/500 is a synthetic fragment of thymosin beta-4 (specifically the 17-23 segment), designed to replicate its active region. Both are involved in actin regulation and tissue repair. TB-500 Therapy provides advanced treatment designed to enhance recovery, promote healing, and support overall physical performance.",
+                "indication": "TB-400/500 therapy helps reduce inflammation, accelerate tissue repair, and improve endurance, making it an ideal choice for those seeking optimal recovery and resilience."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-01-28T18:18:49.662883"
     }
 ]
