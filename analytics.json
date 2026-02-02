@@ -4952,5 +4952,33 @@
             }
         ],
         "timestamp": "2026-02-02T16:46:40.000531"
+    },
+    {
+        "member_name": "Emily Merritt",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "DIM",
+                "description": "cc",
+                "indication": "vv"
+            },
+            {
+                "name": "Homocysteine Nutrients",
+                "description": "Homocysteine Nutrients is a dietary supplement designed to support healthy homocysteine metabolism and optimal methylation. It combines bioactive B vitamins, such as L-methylfolate and methylcobalamin, with trimethylglycine (TMG) to promote cardiovascular and neurological health. This formula helps convert homocysteine to methionine, maintaining normal levels for improved function.",
+                "indication": "High Homocysteine blood plasma levels, also supports cardiovascular and cognitive health by promoting the efficient metabolism of homocysteine, a key factor in reducing health risks."
+            }
+        ],
+        "timestamp": "2026-02-02T18:10:16.751394"
     }
 ]
