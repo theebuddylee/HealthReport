@@ -4980,5 +4980,22 @@
             }
         ],
         "timestamp": "2026-02-02T18:10:16.751394"
+    },
+    {
+        "member_name": "Brandon Ratliff",
+        "manager": "Dillon",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ketamine",
+                "description": "1st Optimal\u2019s Ketamine Therapy provides innovative treatment designed to support mental health and enhance overall well-being.",
+                "indication": "Ketamine therapy offers a safe and effective way to address mood disorders, reduce stress, and promote emotional resilience."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-02-02T19:23:03.458087"
     }
 ]
