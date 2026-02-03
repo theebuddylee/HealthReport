@@ -5160,5 +5160,46 @@
             }
         ],
         "timestamp": "2026-02-03T20:28:23.828886"
+    },
+    {
+        "member_name": "Richard Allred",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Rifaximin",
+                "description": "2 week protocol",
+                "indication": "Lower overgrown counts of bacterias prior to starting rebuild phase"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Oil of Oregano",
+                "description": "Oil of oregano is a potent herbal extract derived from the oregano plant, rich in compounds like carvacrol and thymol, which have strong antibacterial, antifungal, and antioxidant properties. It is commonly used in integrative medicine to help combat microbial overgrowth and support immune function.",
+                "indication": "A natural antimicrobial, helping to reduce harmful bacteria, yeast, and parasites in the gut. It is often used in cases of bacterial overgrowth, fungal infections, or digestive imbalance, and can support overall immune and gut health when used short term as part of a targeted protocol."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            }
+        ],
+        "timestamp": "2026-02-03T20:51:49.320325"
     }
 ]
