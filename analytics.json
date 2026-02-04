@@ -5271,5 +5271,22 @@
         ],
         "supplements": [],
         "timestamp": "2026-02-04T20:09:02.598956"
+    },
+    {
+        "member_name": "Stiles",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Enclomiphene",
+                "description": "A selective estrogen receptor modulator (SERM) used to increase testosterone production in men by stimulating the natural production of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).",
+                "indication": "A powerful testosterone booster that enhances natural production while supporting fertility. Unlike traditional options, Enclomiphene helps maintain testicular function and sperm count, ensuring optimized hormone levels without compromising reproductive health."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-02-04T20:09:24.970978"
     }
 ]
