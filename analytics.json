@@ -5373,5 +5373,90 @@
             }
         ],
         "timestamp": "2026-02-05T21:49:17.049988"
+    },
+    {
+        "member_name": "Bernadette Krivacs",
+        "manager": "Jamie",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Compounded T3/T4 Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication containing a specific ratio of liothyronine (T3) and levothyroxine (T4), formulated by a compounding pharmacy to meet individual patient needs when commercially available options are not ideal.",
+                "indication": "Indicated for the treatment of hypothyroidism in patients requiring a personalized ratio of T3 and T4 to restore optimal thyroid function. It is beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens or specific excipients."
+            },
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Retatrutide",
+                "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+                "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+            },
+            {
+                "name": "Semaglutide",
+                "description": "A GLP-1 receptor agonist used for weight loss and blood sugar management.",
+                "indication": "The proven GLP-1 receptor agonist. Backed by science, Semaglutide enhances appetite control, stabilizes blood sugar, and promotes sustainable fat loss."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Green Tea",
+                "description": "Green tea extract is a concentrated source of antioxidants, particularly catechins like EGCG, derived from the leaves of the Camellia sinensis plant. These compounds help reduce oxidative stress, support metabolic health, and promote overall cellular function. In addition to its antioxidant benefits, green tea extract contains a natural combination of caffeine and L-theanine, which work synergistically to improve alertness and mental clarity without the typical jitters or crashes associated with stimulants.",
+                "indication": "Recommended for individuals looking to support healthy weight management, improve focus and energy, and promote cardiovascular and metabolic health. Its anti-inflammatory and antioxidant properties also make it beneficial for those seeking additional protection against the effects of chronic stress and aging."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-02-05T21:51:56.995596"
     }
 ]
