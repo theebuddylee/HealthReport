@@ -5886,5 +5886,36 @@
             }
         ],
         "timestamp": "2026-02-09T22:35:50.415953"
+    },
+    {
+        "member_name": "Julie Steinbacher ",
+        "manager": "Casey",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Dim with CDG",
+                "description": "DIM (Diindolylmethane) and Calcium D-Glucarate (CDG) are natural compounds that help the body process and clear estrogen more efficiently. They do not add or remove hormones \u2014 instead, they support how your body handles estrogen.  Together, they help promote a more balanced estrogen environment.",
+                "indication": "DIM with Calcium D-Glucarate is indicated to support healthy estrogen metabolism and elimination. It may be used in patients with estrogen imbalance or estrogen-related symptoms, including those receiving hormone therapy, to promote balanced hormone processing and overall hormonal health."
+            }
+        ],
+        "timestamp": "2026-02-09T23:55:20.771355"
     }
 ]
