@@ -5828,5 +5828,63 @@
             }
         ],
         "timestamp": "2026-02-09T22:32:37.459493"
+    },
+    {
+        "member_name": "Alex Guzman",
+        "manager": "Jamie",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Progesterone",
+                "description": "Progesterone is often misunderstood as a \u201cfemale-only\u201d hormone, but in males it plays an important regulatory and balancing role within the steroid hormone cascade. In men, progesterone acts as a neurosteroid, anti-androgen modulator, and precursor hormone, helping buffer excessive androgen activity\u2014particularly DHT\u2014while supporting calm nervous system signaling and healthy skin physiology.",
+                "indication": "Used to modulate DHT activity, reduce androgen-driven acne and sebaceous gland overactivity, and support hormone balance in males with signs of androgen excess or acne worsened by testosterone therapy, anabolic use, or stress-related hormonal dysregulation."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Tadalafil",
+                "description": "A long-acting PDE5 inhibitor used to treat erectile dysfunction and improve urinary symptoms associated with benign prostatic hyperplasia (BPH).",
+                "indication": "Long-lasting support for improved performance and blood flow, helping you feel and perform at your best."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Saw Palmetto",
+                "description": "Saw palmetto is a botanical extract from the berries of the Serenoa repens plant. In functional medicine, it\u2019s valued for its ability to modulate androgen activity, particularly by inhibiting 5-alpha reductase, the enzyme that converts testosterone to dihydrotestosterone (DHT). It also has anti-inflammatory and mild anti-proliferative effects on hormone-sensitive tissues.",
+                "indication": "Often used when labs or symptoms suggest excess DHT activity despite normal total testosterone, and commonly paired with zinc, beta-sitosterol, or nettle root for synergistic androgen modulation."
+            },
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            },
+            {
+                "name": "Tudca",
+                "description": "A bile acid supplement that supports liver health and detoxification processes.",
+                "indication": "A breakthrough bile acid supplement. TUDCA supports optimal liver function by promoting bile flow, reducing liver inflammation, and protecting against oxidative stress."
+            }
+        ],
+        "timestamp": "2026-02-09T22:35:50.415953"
     }
 ]
