@@ -6270,5 +6270,66 @@
         ],
         "supplements": [],
         "timestamp": "2026-02-11T18:06:58.261620"
+    },
+    {
+        "member_name": "Donna Garland",
+        "manager": "Jamie",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Vitamin K2",
+                "description": "100\u2013200 mcg daily",
+                "indication": "Directs calcium into bone\n\nPrevents vascular calcification\n\nSynergistic with Vitamin D"
+            },
+            {
+                "name": "CoQ10",
+                "description": "100\u2013200 mg daily",
+                "indication": "Endothelial protection\n\nMitochondrial support\n\nPrevents oxidative LDL damage"
+            },
+            {
+                "name": "Citrus Bergamot Extract",
+                "description": "500 mg twice daily",
+                "indication": "Lowers LDL\n\nReduces ApoB\n\nMild triglyceride reduction\n\nImproves endothelial function"
+            },
+            {
+                "name": "High EPA Fish Oil",
+                "description": "2,000\u20133,000 mg EPA daily",
+                "indication": "Lowers ApoB modestly\n\nReduces inflammation\n\nImproves endothelial function\n\nMild triglyceride lowering"
+            },
+            {
+                "name": "Collagen Peptides",
+                "description": "10\u201320g daily",
+                "indication": "Skin integrity\n\nTendon & joint support\n\nSupports vascular collagen matrix"
+            },
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "timestamp": "2026-02-12T01:10:08.571299"
     }
 ]
