@@ -7013,5 +7013,38 @@
             }
         ],
         "timestamp": "2026-02-18T17:33:43.878747"
+    },
+    {
+        "member_name": "Jill Korc",
+        "manager": "Dillon",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            },
+            {
+                "name": "LR3 IGF-1",
+                "description": "LR3 IGF-1 (Long R3 Insulin-like Growth Factor 1) is a synthetic analog of IGF-1 with a modified amino acid sequence that significantly increases its stability and bioavailability. Unlike native IGF-1, LR3 IGF-1 resists binding to IGF-binding proteins, allowing for a prolonged half-life and more potent biological activity. It activates IGF-1 receptors to stimulate muscle growth, tissue repair, and cellular regeneration, while also enhancing nutrient uptake and improving insulin sensitivity. Due to its powerful anabolic properties, LR3 IGF-1 is commonly researched in the contexts of performance enhancement, anti-aging, and recovery optimization.",
+                "indication": "Promotes muscle hypertrophy, accelerates recovery, and supports tissue regeneration by activating IGF-1 receptors and increasing protein synthesis. Its resistance to IGF-binding proteins makes it ideal for protocols involving muscle growth, injury recovery, metabolic enhancement, and cellular repair."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Tudca",
+                "description": "A bile acid supplement that supports liver health and detoxification processes.",
+                "indication": "A breakthrough bile acid supplement. TUDCA supports optimal liver function by promoting bile flow, reducing liver inflammation, and protecting against oxidative stress."
+            }
+        ],
+        "timestamp": "2026-02-18T21:00:10.546776"
     }
 ]
