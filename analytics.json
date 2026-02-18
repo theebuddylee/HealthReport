@@ -6834,5 +6834,46 @@
             }
         ],
         "timestamp": "2026-02-17T21:46:13.644164"
+    },
+    {
+        "member_name": "Danielle Doyle",
+        "manager": "Casey",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Compounded T3/T4 Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication containing a specific ratio of liothyronine (T3) and levothyroxine (T4), formulated by a compounding pharmacy to meet individual patient needs when commercially available options are not ideal.",
+                "indication": "Indicated for the treatment of hypothyroidism in patients requiring a personalized ratio of T3 and T4 to restore optimal thyroid function. It is beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens or specific excipients."
+            },
+            {
+                "name": "Estrogen Replacement",
+                "description": "Estrogen Therapies offer a tailored approach to supporting hormonal balance, enhancing vitality, and improving overall well-being.",
+                "indication": "Estrogen therapy helps alleviate symptoms of hormonal imbalances and promotes optimal health for a better quality of life."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "DIM with CDG",
+                "description": "Diindolylmethane (DIM) with Calcium D-Glucarate (CDG) is a synergistic supplement designed to support healthy estrogen metabolism and detoxification. DIM promotes balanced conversion of estrogen into more favorable metabolites, while CDG supports the body\u2019s natural glucuronidation pathway to help eliminate excess hormones. Together, they help maintain hormonal equilibrium in both men and women. This combination is commonly used in functional and integrative hormone optimization protocols.",
+                "indication": "DIM with CDG is indicated for individuals with signs of estrogen dominance or impaired estrogen clearance, including PMS, breast tenderness, hormonal acne, mood fluctuations, or gynecomastia risk in men. It may also support patients on hormone replacement therapy who require assistance maintaining balanced estrogen metabolism. This formula can be beneficial in cases of elevated estradiol, unfavorable estrogen metabolite ratios, or sluggish detoxification pathways. Clinical use should be guided by symptoms and, when appropriate, laboratory assessment of hormone levels."
+            },
+            {
+                "name": "Selenium",
+                "description": "Selenium is essential for thyroid function as it helps convert inactive thyroid hormone (T4) into its active form (T3) and protects the thyroid gland from oxidative damage through its role in antioxidant enzymes like glutathione peroxidase. A deficiency in selenium can impair thyroid hormone metabolism and increase the risk of thyroid disorders, including hypothyroidism and Hashimoto\u2019s thyroiditis.",
+                "indication": "Selenium is indicated for individuals seeking to support healthy immune function, protect normal cell activity from oxidative stress, and promote overall cardiovascular and cellular health."
+            }
+        ],
+        "timestamp": "2026-02-18T00:10:19.781897"
     }
 ]
