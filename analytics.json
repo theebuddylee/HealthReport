@@ -7117,5 +7117,47 @@
             }
         ],
         "timestamp": "2026-02-19T21:31:13.417639"
+    },
+    {
+        "member_name": "Freeland ",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [],
+        "supplements": [
+            {
+                "name": "Methylcobalamin",
+                "description": "Injection",
+                "indication": "Daily"
+            },
+            {
+                "name": "Methylcobalamin, and Zinc (Oral)",
+                "description": "Injection",
+                "indication": "Daily"
+            },
+            {
+                "name": "Methylcobalamin, and Zinc (Oral), and White Light",
+                "description": "Injection",
+                "indication": "Daily"
+            },
+            {
+                "name": "Cortisol Calm",
+                "description": "A supplement designed to support adrenal health and stress management by balancing cortisol levels.",
+                "indication": "A premium adaptogen blend designed to regulate cortisol levels and support a balanced stress response."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "timestamp": "2026-02-19T21:32:00.359340"
     }
 ]
