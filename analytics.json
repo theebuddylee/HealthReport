@@ -7046,5 +7046,38 @@
             }
         ],
         "timestamp": "2026-02-18T21:00:10.546776"
+    },
+    {
+        "member_name": "Freeland",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "NAD+",
+                "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a vital coenzyme found in every cell of the body that plays a central role in energy production, cellular repair, and mitochondrial function. It is essential for converting nutrients into ATP (cellular energy) and supports critical processes like DNA repair, oxidative stress regulation, and aging-related resilience. NAD+ levels naturally decline with age, stress, illness, and environmental exposure, which may contribute to fatigue, cognitive decline, metabolic issues, and neurodegeneration.",
+                "indication": "Supports cellular energy production, mitochondrial function, and healthy aging. It may be used to assist in the management of fatigue, cognitive decline, neurodegenerative conditions, detoxification, and metabolic dysfunction, particularly in individuals experiencing stress-related depletion, chronic illness, or age-related decline in NAD+ levels."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Methylcobalamin",
+                "description": "Injection",
+                "indication": "Daily"
+            },
+            {
+                "name": "Cortisol Calm",
+                "description": "A supplement designed to support adrenal health and stress management by balancing cortisol levels.",
+                "indication": "A premium adaptogen blend designed to regulate cortisol levels and support a balanced stress response."
+            },
+            {
+                "name": "Douglas Labs D3 Liquid",
+                "description": "A high-potency liquid vitamin D3 supplement that supports bone health, immune function, and optimal calcium absorption.",
+                "indication": "Boost your immune system and improve overall health with this easily absorbed vitamin D3."
+            }
+        ],
+        "timestamp": "2026-02-19T21:30:54.279275"
     }
 ]
