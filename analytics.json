@@ -7364,5 +7364,53 @@
             }
         ],
         "timestamp": "2026-02-19T21:34:22.999466"
+    },
+    {
+        "member_name": "Deanna Ford",
+        "manager": "Dillon",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Ezetimibe",
+                "description": "Ezetimibe is a cholesterol-lowering medication that significantly reduces LDL-C while boosting HDL-C, offering additional protective benefits for heart health, non-alcoholic fatty liver disease, and stroke prevention. It also helps lower inflammation by reducing CRP levels, supporting overall cardiovascular wellness.",
+                "indication": "Lowers bad cholesterol (LDL-C), raises good cholesterol (HDL-C), and supports heart and liver health while reducing inflammation."
+            },
+            {
+                "name": "NAD+",
+                "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a vital coenzyme found in every cell of the body that plays a central role in energy production, cellular repair, and mitochondrial function. It is essential for converting nutrients into ATP (cellular energy) and supports critical processes like DNA repair, oxidative stress regulation, and aging-related resilience. NAD+ levels naturally decline with age, stress, illness, and environmental exposure, which may contribute to fatigue, cognitive decline, metabolic issues, and neurodegeneration.",
+                "indication": "Supports cellular energy production, mitochondrial function, and healthy aging. It may be used to assist in the management of fatigue, cognitive decline, neurodegenerative conditions, detoxification, and metabolic dysfunction, particularly in individuals experiencing stress-related depletion, chronic illness, or age-related decline in NAD+ levels."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-02-24T18:07:53.593328"
     }
 ]
