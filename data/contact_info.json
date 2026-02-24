@@ -34,6 +34,13 @@
         "email": "Casey@1stoptimal.com",
         "phone": "(816) 744-6814 x105"
     },
+     "Dawn": {
+        "first_name": "Dawn",
+        "last_name": "Bergeron",
+        "alias_title": "Membership Manager 7",
+        "email": "Dawn@1stoptimal.com",
+        "phone": "TBD"
+    },
     "Dillon": {
         "first_name": "Dillon",
         "last_name": "Hunter",
@@ -48,18 +55,18 @@
         "email": "Jamie@1stoptimal.com",
         "phone": "(816) 744-6814 x104"
     },
-    "Justin": {
-        "first_name": "Justin",
-        "last_name": "Hokams",
-        "alias_title": "Membership Manager 1",
-        "email": "mm1@1stoptimal.com",
-        "phone": "(816) 744-6814 x101"
-    },
     "Joe": {
         "first_name": "Joe",
         "last_name": "Miller",
         "alias_title": "Founder",
         "email": "joe.miller@1stoptimal.com",
         "phone": "(816) 744-6814 x300"
+    },
+     "Sean": {
+        "first_name": "Sean",
+        "last_name": "Fitzgerald",
+        "alias_title": "Membership Manager 6",
+        "email": "sean@1stoptimal.com",
+        "phone": "TBD"
     }
 }
