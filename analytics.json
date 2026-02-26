@@ -7605,5 +7605,70 @@
             }
         ],
         "timestamp": "2026-02-26T15:55:54.267847"
+    },
+    {
+        "member_name": "Greg White",
+        "manager": "Jamie",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's TRT Treatment Follow-Up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-follow-up-panel",
+                "description": "A targeted follow-up panel designed for men undergoing hormone therapy, tracking key changes in testosterone and overall health.",
+                "indication": "Measures Free & Total Testosterone, Estradiol, PSA, CBC, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Anastrozole",
+                "description": "A medication used to manage estrogen levels in men undergoing testosterone replacement therapy (TRT). It works as an aromatase inhibitor, blocking the conversion of testosterone to estrogen, thereby maintaining optimal hormonal balance.",
+                "indication": "Designed to maintain hormonal balance by managing estrogen levels. By reducing excess estrogen, Anastrozole helps improve energy, mood, and muscle definition while minimizing side effects like water retention or fatigue."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Human Chorionic Gonadotropin (HCG)",
+                "description": "Human chorionic gonadotropin (HCG) mimics luteinizing hormone to stimulate the testes to produce more testosterone, and by helping maintain natural testosterone production, sperm quality, and testicular size during TRT. It supports fertility, preserves downstream hormone pathways (like pregnenolone and DHEA), and reduces the side effects of gonadal suppression.",
+                "indication": "Used as a stand-alone therapy to boost testosterone production or alongside testosterone replacement therapy to preserve fertility, support gonadal function, and optimize overall hormone balance."
+            },
+            {
+                "name": "Nandrolone Decanoate",
+                "description": "Nandrolone Decanoate Therapy provides an advanced approach to joint recovery and enhanced well-being during your BHRT phase.",
+                "indication": "Nandrolone Decanoate therapy helps promote joint healing, alleviate discomfort from chronic inflammation, and enhance recovery from physical strain or injury. It works synergistically with testosterone replacement therapy to improve mobility, reduce pain, and support long-term joint health."
+            },
+            {
+                "name": "Oxandrolone",
+                "description": "Oxandrolone Therapy offers a powerful solution for enhancing recovery, strength, and lean muscle preservation during your TRT journey. Delivered with guided medical oversight, convenient telemedicine visits, and streamlined access through our patient portal app, this therapy is tailored for individuals seeking optimal performance and resilience.",
+                "indication": "Oxandrolone therapy is known for its ability to promote tissue repair, increase strength, and preserve lean muscle mass, even during caloric deficits or recovery phases. Its mild profile and targeted benefits make it an ideal addition to testosterone replacement therapy, helping you recover faster, maintain muscle integrity."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Tudca",
+                "description": "A bile acid supplement that supports liver health and detoxification processes.",
+                "indication": "A breakthrough bile acid supplement. TUDCA supports optimal liver function by promoting bile flow, reducing liver inflammation, and protecting against oxidative stress."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-02-26T20:39:16.940284"
     }
 ]
