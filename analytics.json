@@ -8645,5 +8645,27 @@
             }
         ],
         "timestamp": "2026-03-09T15:40:55.383283"
+    },
+    {
+        "member_name": "Rem Perez",
+        "manager": "Dillon",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "CJC/Ipamorelin",
+                "description": "Growth Hormone Secretagogue",
+                "indication": "Injection Daily"
+            },
+            {
+                "name": "Retatrutide",
+                "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+                "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-03-09T20:21:17.247589"
     }
 ]
