@@ -8712,5 +8712,93 @@
             }
         ],
         "timestamp": "2026-03-10T15:44:28.142266"
+    },
+    {
+        "member_name": "Mildred (Beth) Davis",
+        "manager": "Jamie",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Cabergoline",
+                "description": "Cabergoline is a dopamine receptor agonist that works by stimulating dopamine (D2) receptors in the brain, which suppresses prolactin release from the pituitary gland. From a functional medicine perspective, it is used to help restore hormonal balance when prolactin levels are elevated, supporting normal reproductive hormone signaling, libido, and overall endocrine function.",
+                "indication": "Cabergoline may be used in individuals with elevated prolactin (hyperprolactinemia) to help lower prolactin levels, which can improve symptoms such as low libido, erectile dysfunction, infertility, irregular menstrual cycles, or suppression of testosterone due to prolactin excess."
+            },
+            {
+                "name": "Compounded T3/T4 Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication containing a specific ratio of liothyronine (T3) and levothyroxine (T4), formulated by a compounding pharmacy to meet individual patient needs when commercially available options are not ideal.",
+                "indication": "Indicated for the treatment of hypothyroidism in patients requiring a personalized ratio of T3 and T4 to restore optimal thyroid function. It is beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens or specific excipients."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Ezetimibe",
+                "description": "Ezetimibe is a cholesterol-lowering medication that significantly reduces LDL-C while boosting HDL-C, offering additional protective benefits for heart health, non-alcoholic fatty liver disease, and stroke prevention. It also helps lower inflammation by reducing CRP levels, supporting overall cardiovascular wellness.",
+                "indication": "Lowers bad cholesterol (LDL-C), raises good cholesterol (HDL-C), and supports heart and liver health while reducing inflammation."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Iron Bisglycinate",
+                "description": "Iron bisglycinate is a chelated form of iron, bound to the amino acid glycine, which enhances absorption and reduces gastrointestinal side effects. It is considered a bioavailable and gentle iron supplement that supports red blood cell production, energy metabolism, and overall cellular function.",
+                "indication": "Used to restore iron stores in patients with low ferritin or iron deficiency, support energy and metabolism, improve hair, skin, and nail health, and correct functional fatigue related to insufficient iron levels."
+            },
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            },
+            {
+                "name": "Sunfiber",
+                "description": "Sunfiber is a soluble, partially hydrolyzed guar gum (PHGG) that functions as a gentle prebiotic fiber. It dissolves easily in liquids, is tasteless, and ferments slowly in the gut, minimizing gas and bloating.",
+                "indication": "Promotes healthy gut microbiota balance, improve stool regularity, and support digestive comfort. It is especially beneficial for individuals with dysbiosis, IBS, or sensitive digestion, as it gently feeds beneficial bacteria without causing excess gas or bloating."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-03-10T20:17:16.941611"
     }
 ]
