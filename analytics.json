@@ -8845,5 +8845,32 @@
             }
         ],
         "timestamp": "2026-03-10T22:52:23.400568"
+    },
+    {
+        "member_name": "Keyanna",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "NAD+",
+                "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a vital coenzyme found in every cell of the body that plays a central role in energy production, cellular repair, and mitochondrial function. It is essential for converting nutrients into ATP (cellular energy) and supports critical processes like DNA repair, oxidative stress regulation, and aging-related resilience. NAD+ levels naturally decline with age, stress, illness, and environmental exposure, which may contribute to fatigue, cognitive decline, metabolic issues, and neurodegeneration.",
+                "indication": "Supports cellular energy production, mitochondrial function, and healthy aging. It may be used to assist in the management of fatigue, cognitive decline, neurodegenerative conditions, detoxification, and metabolic dysfunction, particularly in individuals experiencing stress-related depletion, chronic illness, or age-related decline in NAD+ levels."
+            },
+            {
+                "name": "Retatrutide",
+                "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+                "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+            },
+            {
+                "name": "LR3 IGF-1",
+                "description": "LR3 IGF-1 (Long R3 Insulin-like Growth Factor 1) is a synthetic analog of IGF-1 with a modified amino acid sequence that significantly increases its stability and bioavailability. Unlike native IGF-1, LR3 IGF-1 resists binding to IGF-binding proteins, allowing for a prolonged half-life and more potent biological activity. It activates IGF-1 receptors to stimulate muscle growth, tissue repair, and cellular regeneration, while also enhancing nutrient uptake and improving insulin sensitivity. Due to its powerful anabolic properties, LR3 IGF-1 is commonly researched in the contexts of performance enhancement, anti-aging, and recovery optimization.",
+                "indication": "Promotes muscle hypertrophy, accelerates recovery, and supports tissue regeneration by activating IGF-1 receptors and increasing protein synthesis. Its resistance to IGF-binding proteins makes it ideal for protocols involving muscle growth, injury recovery, metabolic enhancement, and cellular repair."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-03-11T17:12:04.421202"
     }
 ]
