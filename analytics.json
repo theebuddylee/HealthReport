@@ -8917,5 +8917,37 @@
             }
         ],
         "timestamp": "2026-03-11T20:42:36.544819"
+    },
+    {
+        "member_name": "Brandon Mincy",
+        "manager": "Jamie",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "CJC-1295/Ipamorelin",
+                "description": "Description (Functional Medicine Perspective):\nCJC-1295 and Ipamorelin are growth hormone\u2013releasing peptides that work synergistically to stimulate the body\u2019s natural production of growth hormone (GH) and IGF-1 from the pituitary gland. CJC-1295 mimics growth hormone\u2013releasing hormone (GHRH), signaling the pituitary to release GH, while Ipamorelin mimics ghrelin and selectively triggers GH release without significantly increasing cortisol or prolactin. From a functional medicine perspective, this peptide combination is often used to support healthy aging, metabolic function, tissue repair, and overall physiologic resilience by restoring more youthful patterns of growth hormone secretion.",
+                "indication": "CJC-1295/Ipamorelin may be considered in patients with symptoms or lab findings suggestive of suboptimal growth hormone activity, including fatigue, poor recovery, reduced lean muscle mass, increased visceral fat, poor sleep quality, slowed injury recovery, or age-related decline in performance and vitality. It is commonly used as part of a broader optimization strategy for body composition, sleep quality, recovery, and healthy aging, while also supporting connective tissue repair and metabolic health."
+            },
+            {
+                "name": "CJC-1295/Ipamorelin",
+                "description": "CJC-1295 and Ipamorelin are growth hormone\u2013releasing peptides that work synergistically to stimulate the body\u2019s natural production of growth hormone (GH) and IGF-1 from the pituitary gland. CJC-1295 mimics growth hormone\u2013releasing hormone (GHRH), signaling the pituitary to release GH, while Ipamorelin mimics ghrelin and selectively triggers GH release without significantly increasing cortisol or prolactin. This peptide combination is often used to support healthy aging, metabolic function, tissue repair, and overall physiologic resilience by restoring more youthful patterns of growth hormone secretion.",
+                "indication": "CJC-1295/Ipamorelin is commonly used as part of an optimization strategy for body composition, sleep quality, recovery, and healthy aging, while also supporting connective tissue repair and metabolic health."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Retatrutide",
+                "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+                "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-03-12T18:50:45.088794"
     }
 ]
