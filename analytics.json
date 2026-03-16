@@ -9419,5 +9419,27 @@
         ],
         "supplements": [],
         "timestamp": "2026-03-16T23:18:54.703990"
+    },
+    {
+        "member_name": "Donald Carroll",
+        "manager": "Casey",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-03-16T23:23:05.481097"
     }
 ]
