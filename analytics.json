@@ -9334,5 +9334,58 @@
             }
         ],
         "timestamp": "2026-03-16T21:15:45.114016"
+    },
+    {
+        "member_name": "Lazaro Trenado",
+        "manager": "Jamie",
+        "membership": [
+            "Guided Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "CJC-1295/Ipamorelin",
+                "description": "CJC-1295 and Ipamorelin are growth hormone\u2013releasing peptides that work synergistically to stimulate the body\u2019s natural production of growth hormone (GH) and IGF-1 from the pituitary gland. CJC-1295 mimics growth hormone\u2013releasing hormone (GHRH), signaling the pituitary to release GH, while Ipamorelin mimics ghrelin and selectively triggers GH release without significantly increasing cortisol or prolactin. Often used to support healthy aging, metabolic function, tissue repair, and overall physiologic resilience by restoring more youthful patterns of growth hormone secretion.",
+                "indication": "CJC-1295/Ipamorelin may be considered in patients with symptoms or lab findings suggestive of suboptimal growth hormone activity, including fatigue, poor recovery, reduced lean muscle mass, increased visceral fat, poor sleep quality, slowed injury recovery, or age-related decline in performance and vitality. It is commonly used as part of a broader optimization strategy for body composition, sleep quality, recovery, and healthy aging, while also supporting connective tissue repair and metabolic health."
+            },
+            {
+                "name": "Metformin",
+                "description": "Metformin is a widely used oral medication primarily prescribed for managing type 2 diabetes. It works by improving insulin sensitivity, reducing glucose production in the liver, and enhancing glucose uptake by the body\u2019s cells, effectively lowering blood sugar levels.",
+                "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."
+            },
+            {
+                "name": "Selank",
+                "description": "A synthetic peptide developed as an analog of the naturally occurring immunomodulatory peptide tuftsin. Selank exhibits pronounced anxiolytic (anti-anxiety) effects without the sedative and dependency side effects commonly associated with traditional tranquilizers. Additionally, it has demonstrated nootropic properties, enhancing cognitive functions such as memory and learning.",
+                "indication": "Selank is used to support anxiety relief, cognitive enhancement, and stress management. This synthetic peptide promotes a calming effect without sedation, improves memory and focus, and helps regulate the body's stress response for overall mental well-being."
+            },
+            {
+                "name": "Semax",
+                "description": "Semax is a synthetic peptide administered primarily as a nasal spray for rapid absorption into the central nervous system. It is known for its nootropic and neuroprotective effects, helping to improve focus, memory, and mental clarity. Semax works by enhancing brain-derived neurotrophic factor (BDNF), supporting dopamine and serotonin balance, and reducing oxidative stress.",
+                "indication": "For cognitive enhancement, neuroprotection, and stress adaptation. It is used to support memory, focus, and mental performance, particularly in situations of chronic stress, fatigue, or cognitive decline. In functional and longevity medicine, it may also be used to modulate the stress response and support cortisol regulation by promoting optimal HPA axis function."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Melatonin",
+                "description": "Description: Melatonin is a hormone produced by the pineal gland that regulates the sleep-wake cycle and supports circadian rhythm balance. It also has antioxidant and immune-modulating properties.",
+                "indication": "Indication: Used to improve sleep quality, support healthy circadian rhythms, and reduce oxidative stress; often considered in cases of insomnia, shift work, jet lag, or disrupted sleep patterns."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-03-16T21:19:11.014580"
     }
 ]
