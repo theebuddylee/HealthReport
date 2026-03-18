@@ -9441,5 +9441,39 @@
         ],
         "supplements": [],
         "timestamp": "2026-03-16T23:23:05.481097"
+    },
+    {
+        "member_name": "Lorraine Perez",
+        "manager": "Dillon",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "Retatrutide",
+                "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+                "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-03-18T14:24:51.040296"
     }
 ]
