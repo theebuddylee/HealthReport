@@ -9475,5 +9475,22 @@
         ],
         "supplements": [],
         "timestamp": "2026-03-18T14:24:51.040296"
+    },
+    {
+        "member_name": "Remeny",
+        "manager": "Dillon",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Retatrutide",
+                "description": "A next-generation multi-receptor agonist used in clinical trials for weight management and metabolic improvements.",
+                "indication": "The next-generation triple-action peptide therapy. By targeting GLP-1, GIP, and glucagon receptors, Retatrutide supports enhanced appetite control, improved metabolic health, and sustainable fat loss."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-03-18T14:26:05.361229"
     }
 ]
