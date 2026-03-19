@@ -9879,5 +9879,58 @@
             }
         ],
         "timestamp": "2026-03-19T19:00:56.037765"
+    },
+    {
+        "member_name": "Vince Orsini ",
+        "manager": "Casey",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Anastrozole",
+                "description": "A medication used to manage estrogen levels in men undergoing testosterone replacement therapy (TRT). It works as an aromatase inhibitor, blocking the conversion of testosterone to estrogen, thereby maintaining optimal hormonal balance.",
+                "indication": "Designed to maintain hormonal balance by managing estrogen levels. By reducing excess estrogen, Anastrozole helps improve energy, mood, and muscle definition while minimizing side effects like water retention or fatigue."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Saw Palmetto",
+                "description": "Saw palmetto is a botanical extract derived from the berries of Serenoa repens that supports prostate health by helping modulate dihydrotestosterone (DHT) activity and reduce inflammation within prostate tissue. It is commonly used to promote healthy urinary flow and may help limit prostate enlargement associated with aging and androgen exposure.",
+                "indication": "Saw palmetto is indicated for men experiencing symptoms of benign prostatic hyperplasia (BPH), such as urinary frequency, hesitancy, or nocturia, and for those on hormone optimization therapy looking to support prostate health. It may also be beneficial in individuals with elevated PSA or increased prostate-related symptoms to help reduce irritation and support normal prostate function."
+            },
+            {
+                "name": "Zinc",
+                "description": "Zinc is an essential trace mineral that plays a critical role in immune function, hormone regulation, and cellular health, with high concentrations naturally found in prostate tissue. It supports prostate health by helping regulate androgen activity, including the conversion of testosterone to dihydrotestosterone (DHT), and by providing anti-inflammatory and antioxidant effects.",
+                "indication": "Zinc is indicated for men looking to support optimal prostate function, particularly those with symptoms of benign prostatic hyperplasia (BPH), elevated PSA, or increased androgen exposure such as during testosterone therapy. It may also be beneficial for individuals with low zinc status to support immune health, hormone balance, and reduce prostate-related inflammation."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            }
+        ],
+        "timestamp": "2026-03-19T19:01:54.822671"
     }
 ]
