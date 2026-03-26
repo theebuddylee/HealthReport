@@ -10516,5 +10516,48 @@
             }
         ],
         "timestamp": "2026-03-25T18:43:44.371034"
+    },
+    {
+        "member_name": "",
+        "manager": "Allison",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            },
+            {
+                "name": "Metformin",
+                "description": "Metformin is a widely used oral medication primarily prescribed for managing type 2 diabetes. It works by improving insulin sensitivity, reducing glucose production in the liver, and enhancing glucose uptake by the body\u2019s cells, effectively lowering blood sugar levels.",
+                "indication": "Metformin has been studied for its potential benefits in weight management, cardiovascular health, and even anti-aging applications. Its long-standing safety profile and effectiveness make it a cornerstone treatment for metabolic health under the guidance of a healthcare provider."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Thyroid Support",
+                "description": "Thyroid Support is a comprehensive, vegetarian dietary supplement designed to promote optimal thyroid function by providing key nutrients and botanical compounds that support hormone production, conversion, and cellular metabolism. It combines amino acids like tyrosine with essential minerals including selenium, iodine, zinc, and copper, along with adaptogenic and metabolic-support herbs such as ForsLean\u00ae (Coleus forskohlii), bacopa, and guggulsterones to help maintain healthy T4 to T3 conversion, energy levels, and metabolic balance.",
+                "indication": "Thyroid Support is indicated for individuals experiencing symptoms of suboptimal thyroid function, such as fatigue, weight gain, low mood, or sluggish metabolism, as well as those with elevated TSH or poor T4 to T3 conversion. It may also benefit individuals looking to support overall metabolic health, appetite regulation, and energy production, particularly in the setting of stress, nutrient deficiencies, or early thyroid dysfunction."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-03-26T15:33:06.725181"
     }
 ]
