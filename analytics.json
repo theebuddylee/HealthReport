@@ -10641,5 +10641,43 @@
         ],
         "supplements": [],
         "timestamp": "2026-03-26T23:03:15.774485"
+    },
+    {
+        "member_name": "Jessica Manriquez",
+        "manager": "Dawn",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "CJC-1295 + Ipamorelin",
+                "description": "CJC-1295 and Ipamorelin are peptides commonly used in functional and performance medicine to support the body\u2019s natural growth hormone signaling.\nRather than replacing hormones, these peptides stimulate the pituitary gland to release your body\u2019s own growth hormone, which plays a role in metabolism, tissue repair, sleep, and recovery.\nBecause they work through complementary pathways, these peptides are often paired together to create a more natural and effective growth hormone pulse.\n\nCJC-1295\n Stimulates the pituitary through growth hormone\u2013releasing hormone pathways.\nIpamorelin\n Activates ghrelin receptors that trigger growth hormone release.\nWhen combined, they help create a stronger and more natural growth hormone response, which is why they are commonly used as a stack.\n",
+                "indication": " \u2022 improved body composition\n \u2022 reduction in visceral fat\n \u2022 lean muscle maintenance\n \u2022 improved recovery from exercise\n \u2022 joint and connective tissue support\n \u2022 improved sleep quality\n \u2022 better metabolic health\n \u2022 improved energy and mental clarity"
+            },
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "GHK-Cu Peptide Treatment",
+                "description": "GHK-Cu Peptide is a powerful tripeptide bonded with copper ions, known for its ability to stimulate collagen production, support tissue repair, and combat signs of aging. Backed by decades of scientific research, GHK-Cu is safe for all skin types and a key component in anti-aging and regenerative treatments.",
+                "indication": "Clinically researched, it improves skin elasticity, reduces wrinkles, balances pigmentation, and promotes hair follicle repair for thicker, healthier hair. Additionally, it accelerates wound healing, reduces inflammation, and strengthens antioxidant defenses, making it ideal for post-procedure recovery and calming irritated skin."
+            },
+            {
+                "name": "MOTS-c",
+                "description": "MOTS-c is a mitochondrial-derived peptide composed of 16 amino acids, encoded within the mitochondrial genome. It regulates metabolic homeostasis, cellular energy production, and mitochondrial function by activating AMPK (AMP-activated protein kinase), a critical energy-sensing enzyme involved in cellular metabolism, insulin sensitivity, fat oxidation, and glucose uptake.",
+                "indication": "Supports metabolic health, enhances mitochondrial function, and improves energy production. Indicated for patients with metabolic dysfunction, insulin resistance, weight loss resistance, or chronic fatigue. MOTS-c improves glucose utilization, increases fat oxidation, reduces inflammation, and supports healthy aging and exercise recovery."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-03-27T15:47:34.234539"
     }
 ]
