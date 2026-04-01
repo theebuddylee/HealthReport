@@ -11003,5 +11003,41 @@
             }
         ],
         "timestamp": "2026-03-31T19:29:17.801310"
+    },
+    {
+        "member_name": "",
+        "manager": "Allison",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ezetimibe",
+                "description": "Ezetimibe is a cholesterol-lowering medication that significantly reduces LDL-C while boosting HDL-C, offering additional protective benefits for heart health, non-alcoholic fatty liver disease, and stroke prevention. It also helps lower inflammation by reducing CRP levels, supporting overall cardiovascular wellness.",
+                "indication": "Lowers bad cholesterol (LDL-C), raises good cholesterol (HDL-C), and supports heart and liver health while reducing inflammation."
+            },
+            {
+                "name": "Glutathione",
+                "description": "Glutathione is a powerful antioxidant naturally produced in the body that plays a crucial role in detoxification, immune function, and cellular repair. It neutralizes harmful free radicals, reduces oxidative stress, and supports liver health, making it essential for overall wellness and anti-aging.",
+                "indication": "Glutathione helps brighten skin tone, reduce inflammation, and enhance recovery from physical stress. Widely studied for its benefits, it is a cornerstone of cellular defense and optimal health."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            }
+        ],
+        "timestamp": "2026-04-01T21:10:35.207194"
     }
 ]
