@@ -11092,5 +11092,22 @@
         ],
         "supplements": [],
         "timestamp": "2026-04-02T20:55:26.151267"
+    },
+    {
+        "member_name": "Samantha Lucchesi",
+        "manager": "Casey",
+        "membership": [
+            "Women's Hormone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-04-02T22:05:22.658977"
     }
 ]
