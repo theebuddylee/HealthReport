@@ -62,11 +62,18 @@
         "email": "joe.miller@1stoptimal.com",
         "phone": "(816) 744-6814 x300"
     },
-     "Sean": {
+    "Sean": {
         "first_name": "Sean",
         "last_name": "Fitzgerald",
         "alias_title": "Membership Manager 6",
         "email": "sean@1stoptimal.com",
         "phone": "248-232-2598"
+    },
+    "Steven": {
+        "first_name": "Steven",
+        "last_name": "Demoff",
+        "alias_title": "Member Onboarding Support",
+        "email": "steven@1stoptimal.com",
+        "phone": "TBD"
     }
 }
