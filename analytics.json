@@ -11398,5 +11398,50 @@
             }
         ],
         "timestamp": "2026-04-08T20:33:02.547421"
+    },
+    {
+        "member_name": "Steven (Trial 1) ",
+        "manager": "Steven",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Testosterone Therapy Starter Kit",
+                "shopify_url": "https://www.1stoptimal.shop/products/mens-testosterone-therapy-kit",
+                "description": "A comprehensive at-home testosterone testing kit designed to assess key male hormone levels, enabling optimization of strength, energy, and performance.",
+                "indication": "Measures Total Testosterone, Free Testosterone, Bioavailable Testosterone (calculated), Free Androgen Index, PSA, SHBG, and Estradiol."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Creatine",
+                "description": "A naturally occurring compound stored in muscles and used to produce energy during high-intensity activities.",
+                "indication": "Fuel your body and mind with Creatine. By enhancing energy production, Creatine helps maintain muscle mass during aging or recovery while also improving memory, focus, and mental clarity."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            }
+        ],
+        "timestamp": "2026-04-08T20:33:38.788038"
     }
 ]
