@@ -12063,5 +12063,33 @@
             }
         ],
         "timestamp": "2026-04-15T18:48:47.149632"
+    },
+    {
+        "member_name": "Dawn Sills",
+        "manager": "Casey",
+        "membership": [
+            "Weight Loss Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Glow Peptide",
+                "description": "Glow Peptide is a specialized blend of regenerative peptides, often including GHK-Cu and BPC-157, designed to support skin health from within. It works by promoting collagen production, enhancing tissue repair, and reducing inflammation. This internal approach helps improve overall skin tone, texture, and radiance over time.",
+                "indication": "Glow Peptide may be used for individuals experiencing dull or aging skin, fine lines, or loss of elasticity. It can also support those with poor healing, inflammation-related skin concerns, or hair thinning. This therapy is ideal for patients looking to improve overall skin quality and achieve a healthier, more youthful appearance."
+            },
+            {
+                "name": "Tirzepatide",
+                "description": "A novel dual-receptor agonist for weight management.",
+                "indication": "The dual-action GLP-1 and GIP receptor agonist. Tirzepatide targets multiple pathways to enhance appetite control, improve insulin sensitivity, and promote effective fat loss."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-04-15T18:56:05.214679"
     }
 ]
