@@ -11992,5 +11992,43 @@
             }
         ],
         "timestamp": "2026-04-15T17:03:09.576484"
+    },
+    {
+        "member_name": "Marino",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Care Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "PT-141 (Bremelanotide)",
+                "description": "PT-141 (Bremelanotide) is a synthetic peptide used to enhance sexual arousal and libido in both men and women. Unlike other sexual function medications that target blood flow (like Viagra), PT-141 acts directly on the central nervous system, specifically the hypothalamus, to stimulate desire.",
+                "indication": "Treatment of hypoactive sexual desire disorder (HSDD) in premenopausal women and is used off-label in both men and women to enhance libido, arousal, and sexual satisfaction. In functional medicine, it is commonly prescribed for individuals experiencing low sexual desire, erectile dysfunction, or arousal difficulties, including those related to SSRI use or hormonal imbalance."
+            },
+            {
+                "name": "Tadalafil",
+                "description": "A long-acting PDE5 inhibitor used to treat erectile dysfunction and improve urinary symptoms associated with benign prostatic hyperplasia (BPH).",
+                "indication": "Long-lasting support for improved performance and blood flow, helping you feel and perform at your best."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "A peptide therapy that boosts natural growth hormone production.",
+                "indication": "Achieve targeted fat loss and enhanced metabolic health with Tesamorelin. Known for its ability to reduce stubborn visceral fat, it supports improved body composition, muscle definition, and energy."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-04-15T17:06:17.367211"
     }
 ]
