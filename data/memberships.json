@@ -1,22 +1,65 @@
 [
-    {"name": "Peptide Membership",
-     "description": "1st Optimal’s Peptide, Sex and Hair Care Membership, offers a personalized approach to enhancing vitality, longevity, and overall wellness. By integrating cutting-edge peptide treatments with expert asynchronous medical oversight and a user-friendly patient portal, we make optimizing your health simple and convenient. With tailored care plans for gut health, sexual wellness, hair care and much more. Shipping and supplies included.",
-     "indication": "Unlock your body's full potential with cutting-edge peptide, sex, and hair care therapies designed to enhance vitality and performance effortlessly.",
-     "price": "109.99/Three months"},
-    {"name": "Guided Hormone Care Membership",
-     "description": "1st Optimal’s Guided Hormone Care program provides personalized treatments for hormonal balance, seamlessly integrated into your lifestyle with guided medical oversight and convenient telemedicine visits through our intuitive patient portal app. With comprehensive lab testing, asynchronous care, and all shipping and supplies included, managing your health has never been easier.",
-     "indication": "Hormone care tailored to your lab results for hormonal balance.",
-     "price": "99/month"},
-    {"name": "Weight Loss Care Membership",
-     "description": "Achieve sustainable weight loss with access to effective GLP-1 agonist treatments, GLP-1 supporting supplements, and comprehensive care. This membership includes personalized hormone treatments, medical consultations, and all supplies, with shipping fees covered, offering a holistic approach to weight loss and wellness tailored to your needs.",
-     "indication": "Targeted for individuals aiming for sustainable weight loss.",
-     "price": "99/month"},
-    {"name": "Men's Testosterone Care Membership",
-     "description": "Choose 1: Testosterone Cypionate or Enclomiphine",
-     "indication": "Men's enhanced hormone care with choice of specific treatments for personalized hormone balance. This includes shipping, supplies, lab interpretations, medical visits, Testosterone Treatment, lab reviews, and your initial follow-up labs.",
-     "price": "159/month"},
-    {"name": "Women's Hormone Care Membership",
-     "description": "Take control of your wellness with personalized hormone care designed specifically for women. This program includes everything you need for balanced health: comprehensive lab testing, tailored treatments like testosterone replacement, shipping fees covered, and expert medical oversight through initial and follow-up visits. With shipping, supplies, and lab interpretations all included, achieving optimal hormone balance has never been easier or more convenient.",
-     "indication": "Women's enhanced hormone care with choice of specific treatments for personalized hormone balance. This includes shipping, supplies, lab interpretations, medical visits, lab reviews, Testosterone replacement, and your initial follow-up labs.",
-     "price": "119/month"}
+    {
+        "name": "Men's Testosterone Membership",
+        "sku": "MEMBERSHIP-4",
+        "description": "Men's enhanced hormone care with choice of Enclomiphene or Testosterone Cypionate in GSO (standard dosing or less — 0.5ml 2x weekly, 90-day supply while maintaining membership). Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Billed monthly on the 1st or 16th.",
+        "indication": "Men's enhanced hormone care with choice of specific treatments for personalized hormone balance. This includes shipping, supplies, lab interpretations, medical visits, Testosterone Treatment, lab reviews, and your initial follow-up labs.",
+        "price": "159/month"
+    },
+    {
+        "name": "Menopause Membership",
+        "sku": "MEMBERSHIP-13",
+        "description": "Specialized for post menopausal women. Includes provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Medications included: Testosterone Cypionate (injectable) standard dosing, Estradiol Valerate (injectable) standard dosing, Progesterone Capsule (90-day supply while maintaining membership). Billed monthly on the 1st or 16th.",
+        "indication": "Targeted hormone replacement for menopausal symptom relief and vitality restoration.",
+        "price": "189.99/month"
+    },
+    {
+        "name": "Peptide Membership",
+        "sku": "MEMBERSHIP-1",
+        "description": "1st Optimal’s Peptide Membership offers a personalized approach to enhancing vitality, longevity, and overall wellness. Includes supplies required for medication, shipping, and half-hour coaching session per month (no provider consult or labs included). Billed every three months on the 1st or 16th.",
+        "indication": "Unlock your body's full potential with cutting-edge peptide, sex, and hair care therapies designed to enhance vitality and performance effortlessly. No medication included.",
+        "price": "109.99/Three months"
+    },
+    {
+        "name": "Perimenopause Membership",
+        "sku": "MEMBERSHIP-5",
+        "description": "Tailored perimenopause support with provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Includes 1 treatment from: Testosterone Cypionate (injectable) standard dosing. Billed monthly on the 1st or 16th.",
+        "indication": "Supports hormone stability and symptom management during perimenopause.",
+        "price": "119/month"
+    },
+    {
+        "name": "Thyroid Membership",
+        "sku": "MEMBERSHIP-16",
+        "description": "Dedicated thyroid optimization membership with provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Billed monthly on the 1st or 16th.",
+        "indication": "Specialized care for optimal thyroid function and metabolic health.",
+        "price": "149.99/month"
+    },
+    {
+        "name": "Weight Loss Membership",
+        "sku": "MEMBERSHIP-3",
+        "description": "Achieve sustainable weight loss with access to effective GLP-1 agonist treatments and GLP-1 supporting supplements. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, and half-hour coaching session per month. Billed monthly on the 1st or 16th.",
+        "indication": "Targeted for individuals aiming for sustainable weight loss. No medication is included in this membership.",
+        "price": "99/month"
+    },
+    {
+        "name": "Women's Hormone Care Membership",
+        "sku": "MEMBERSHIP-12",
+        "description": "Personalized hormone care designed specifically for women. Includes comprehensive lab testing, tailored treatments (including testosterone replacement), shipping fees covered, expert medical oversight through initial and follow-up visits, supplies, and lab interpretations. Billed monthly on the 1st or 16th.",
+        "indication": "Women's enhanced hormone care with choice of specific treatments for personalized hormone balance. This includes shipping, supplies, medical visits and lab reviews.",
+        "price": "119/month"
+    },
+    {
+        "name": "Men's VIP Membership",
+        "sku": "MEMBERSHIP-15",
+        "description": "Premium VIP membership for men (sold only by Joe, Amber, or Buddy). Includes provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs with Enclomiphene or Testosterone Cypionate in GSO standard dosing. Billed monthly on the 1st or 16th.",
+        "indication": "Premium men's hormone optimization with priority access and comprehensive oversight.",
+        "price": "109/month"
+    },
+    {
+        "name": "Women's VIP Membership",
+        "sku": "MEMBERSHIP-12",
+        "description": "Premium VIP membership for women (sold only by Joe, Amber, or Buddy). Includes provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs with 1 treatment from: Testosterone Cypionate (injectable) standard dosing. Billed monthly on the 1st or 16th.",
+        "indication": "Premium women's hormone optimization with priority access and comprehensive oversight.",
+        "price": "99/month"
+    }
 ]
