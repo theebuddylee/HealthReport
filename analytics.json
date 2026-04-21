@@ -643,5 +643,48 @@
             }
         ],
         "timestamp": "2026-04-20T23:02:24.365118"
+    },
+    {
+        "member_name": "Test",
+        "manager": "Brian",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Anastrozole",
+                "description": "A medication used to manage estrogen levels in men undergoing testosterone replacement therapy (TRT). It works as an aromatase inhibitor, blocking the conversion of testosterone to estrogen, thereby maintaining optimal hormonal balance.",
+                "indication": "Designed to maintain hormonal balance by managing estrogen levels. By reducing excess estrogen, Anastrozole helps improve energy, mood, and muscle definition while minimizing side effects like water retention or fatigue."
+            },
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "Compounded T3/T4 Thyroid Medication",
+                "description": "Compounded T3/T4 is a customized thyroid hormone medication containing a specific ratio of liothyronine (T3) and levothyroxine (T4), formulated by a compounding pharmacy to meet individual patient needs when commercially available options are not ideal.",
+                "indication": "Indicated for the treatment of hypothyroidism in patients requiring a personalized ratio of T3 and T4 to restore optimal thyroid function. It is beneficial for individuals who do not respond adequately to T4-only therapy, experience persistent hypothyroid symptoms, or need a formulation free of allergens or specific excipients."
+            },
+            {
+                "name": "DHEA",
+                "description": "A hormone produced by the adrenal glands. It serves as a precursor to sex hormones like testosterone and estrogen and counterbalances cortisol, the stress hormone.",
+                "indication": "Restores hormonal balance, boosts energy, mood, and sexual health. Enhances stress resilience, immunity, and overall well-being, essential for longevity and performance optimization."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Cholesterol Complete",
+                "description": "Cholesterol Complete by Biospec Nutritionals features a blend of red yeast rice, guggulipid, hawthorn, and policosanol to support healthy cholesterol levels. This comprehensive formula leverages traditional heart-healthy ingredients to promote favorable blood lipid profiles.",
+                "indication": "Ideal for individuals looking to manage cholesterol levels and maintain cardiovascular health through a natural, evidence-based approach."
+            },
+            {
+                "name": "Cholesterol Support",
+                "description": "Cholesterol Support by AnazaoHealth combines a phytosterol complex with policosanol and artichoke leaf extract to help maintain healthy cholesterol levels. Phytosterols reduce cholesterol absorption in the intestines, while policosanol and artichoke extract support cholesterol metabolism and synthesis regulation.",
+                "indication": "Designed for individuals aiming to manage cholesterol levels and support cardiovascular health naturally. Recommended for those seeking to maintain healthy blood lipid profiles."
+            }
+        ],
+        "timestamp": "2026-04-21T14:13:53.909105"
     }
 ]
