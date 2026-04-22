@@ -1086,5 +1086,26 @@
             }
         ],
         "timestamp": "2026-04-22T21:13:17.084017"
+    },
+    {
+        "member_name": "Remeny Perez",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Selank",
+                "description": "A synthetic peptide developed as an analog of the naturally occurring immunomodulatory peptide tuftsin. Selank exhibits pronounced anxiolytic (anti-anxiety) effects without the sedative and dependency side effects commonly associated with traditional tranquilizers. Additionally, it has demonstrated nootropic properties, enhancing cognitive functions such as memory and learning.",
+                "indication": "Selank is used to support anxiety relief, cognitive enhancement, and stress management. This synthetic peptide promotes a calming effect without sedation, improves memory and focus, and helps regulate the body's stress response for overall mental well-being."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-04-22T21:51:55.468214"
     }
 ]
