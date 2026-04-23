@@ -42,13 +42,6 @@
         "price": "99/month"
     },
     {
-        "name": "Women's Hormone Care Membership",
-        "sku": "MEMBERSHIP-12",
-        "description": "Personalized hormone care designed specifically for women. Includes comprehensive lab testing, tailored treatments (including testosterone replacement), shipping fees covered, expert medical oversight through initial and follow-up visits, supplies, and lab interpretations. Billed monthly on the 1st or 16th.",
-        "indication": "Women's enhanced hormone care with choice of specific treatments for personalized hormone balance. This includes shipping, supplies, medical visits and lab reviews.",
-        "price": "119/month"
-    },
-    {
         "name": "Men's VIP Membership",
         "sku": "MEMBERSHIP-15",
         "description": "Premium VIP membership for men (sold only by Joe, Amber, or Buddy). Includes provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs with Enclomiphene or Testosterone Cypionate in GSO standard dosing. Billed monthly on the 1st or 16th.",
