@@ -1271,5 +1271,76 @@
             }
         ],
         "timestamp": "2026-04-23T15:43:16.772473"
+    },
+    {
+        "member_name": "Gloria Mourning",
+        "manager": "Dawn",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "BPC-157",
+                "description": "BPC-157 Therapy offers cutting-edge treatment designed to support healing, recovery, and overall wellness.",
+                "indication": "BPC-157 therapy promotes tissue repair, reduces inflammation, and enhances recovery from injuries or physical strain."
+            },
+            {
+                "name": "Low Dose Naltrexone (LDN)",
+                "description": "Low Dose Naltrexone (LDN) is a compounded formulation of naltrexone, an opioid receptor antagonist, typically dosed between 0.5 mg and 4.5 mg. Unlike standard naltrexone dosing used for addiction treatment, LDN works by transiently blocking opioid receptors, leading to a rebound increase in endogenous endorphin and enkephalin production. This modulation of the immune system and inflammation pathways has shown therapeutic benefits in a range of chronic conditions.",
+                "indication": "Indicated for the management of autoimmune disorders, chronic pain syndromes, and inflammatory conditions. It is particularly beneficial for conditions such as multiple sclerosis, rheumatoid arthritis, Hashimoto\u2019s thyroiditis, fibromyalgia, or irritable bowel syndrome. LDN helps reduce systemic inflammation, modulate immune responses, and improve symptom control, with potential neuroprotective and mood-enhancing effects."
+            },
+            {
+                "name": "Progesterone",
+                "description": "Progesterone Therapy provides a personalized solution to support hormonal balance, improve mood, and enhance overall well-being.",
+                "indication": "Progesterone therapy helps regulate cycles, reduce stress, and promote optimal hormonal health."
+            },
+            {
+                "name": "Testosterone Injectable",
+                "description": "An injectable form of testosterone replacement therapy that delivers consistent hormone levels.",
+                "indication": "A powerful, direct approach to optimizing testosterone for peak strength, vitality, and a leaner physique."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Quercetin",
+                "description": "A plant flavonoid found in foods like onions, apples, berries, and capers. Often used for its mast cell stabilizing and anti-inflammatory properties.\nQuercetin May Help By:\n1. Mast Cell Stabilization\n\nHelps reduce histamine release and inflammatory signaling.\n\n2. Lowering Inflammation\n\nUseful when CRP or inflammatory burden is elevated.\n\n3. Antioxidant Support\n\nCan help reduce stress-related oxidative load.\n\n4. Histamine-Related Sleep Disturbance",
+                "indication": "Typical Use\n500 mg once or twice daily with food\nOften paired with vitamin C"
+            },
+            {
+                "name": "Quercetin",
+                "description": "A plant flavonoid found in foods like onions, apples, berries, and capers. Often used for its mast cell stabilizing and anti-inflammatory properties.\nQuercetin May Help By:\n1. Mast Cell Stabilization\n\nHelps reduce histamine release and inflammatory signaling.\n\n2. Lowering Inflammation\n\nUseful when CRP or inflammatory burden is elevated.\n\n3. Antioxidant Support\n\nCan help reduce stress-related oxidative load.\n\n4. Histamine-Related Sleep Disturbance",
+                "indication": "Typical Use\n500 mg once or twice daily with food\nOften paired with vitamin C"
+            },
+            {
+                "name": "Quercetin",
+                "description": "A plant flavonoid found in foods like onions, apples, berries, and capers. Often used for its mast cell stabilizing and anti-inflammatory properties.\nQuercetin May Help By:\n1. Mast Cell Stabilization\n\nHelps reduce histamine release and inflammatory signaling.\n\n2. Lowering Inflammation\n\nUseful when CRP or inflammatory burden is elevated.\n\n3. Antioxidant Support\n\nCan help reduce stress-related oxidative load.\n\n4. Histamine-Related Sleep Disturbance",
+                "indication": "Typical Use\n500 mg once or twice daily with food\nOften paired with vitamin C"
+            },
+            {
+                "name": "Quercetin",
+                "description": "A plant flavonoid found in foods like onions, apples, berries, and capers. Often used for its mast cell stabilizing and anti-inflammatory properties.\nQuercetin May Help By:\n1. Mast Cell Stabilization\n\nHelps reduce histamine release and inflammatory signaling.\n\n2. Lowering Inflammation\n\nUseful when CRP or inflammatory burden is elevated.\n\n3. Antioxidant Support\n\nCan help reduce stress-related oxidative load.\n\n4. Histamine-Related Sleep Disturbance",
+                "indication": "Typical Use\n500 mg once or twice daily with food\nOften paired with vitamin C"
+            },
+            {
+                "name": "Quercetin",
+                "description": "A plant flavonoid found in foods like onions, apples, berries, and capers. Often used for its mast cell stabilizing and anti-inflammatory properties.\nQuercetin May Help By:\n1. Mast Cell Stabilization\n\nHelps reduce histamine release and inflammatory signaling.\n\n2. Lowering Inflammation\n\nUseful when CRP or inflammatory burden is elevated.\n\n3. Antioxidant Support\n\nCan help reduce stress-related oxidative load.\n\n4. Histamine-Related Sleep Disturbance",
+                "indication": "Typical Use\n500 mg once or twice daily with food\nOften paired with vitamin C"
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "timestamp": "2026-04-23T15:44:31.414832"
     }
 ]
