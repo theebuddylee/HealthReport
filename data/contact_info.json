@@ -1,17 +1,31 @@
 {
+    "AJ": {
+        "first_name": "AJ",
+        "last_name": " ",
+        "alias_title": "Sales Manager",
+        "email": "AJ@1stoptimal.com",
+        "phone": "TBD"
+    },
     "Allison": {
         "first_name": "Allison",
         "last_name": "Whiteley",
-        "alias_title": "Membership Manager 3",
-        "email": "mm3@1stoptimal.com",
+        "alias_title": "Certified Health Coach",
+        "email": "allison@1stoptimal.com",
         "phone": "(816) 744-6814 x103"
     },
     "Amber": {
         "first_name": "Amber",
         "last_name": "Miller",
-        "alias_title": "Support",
+        "alias_title": "Client Success",
         "email": "Amber@1stoptimal.com",
         "phone": "(816) 744-6814 x100"
+    },
+    "Barbara": {
+        "first_name": "Barbara",
+        "last_name": "Mikrut",
+        "alias_title": "Certified Health Coach",
+        "email": "barbara@1stoptimal.com",
+        "phone": "TBD"
     },
     "Brian": {
         "first_name": "Brian",
@@ -30,14 +44,14 @@
      "Casey": {
         "first_name": "Casey",
         "last_name": "Brown",
-        "alias_title": "Membership Manager 5",
+        "alias_title": "Certified Health Coach",
         "email": "Casey@1stoptimal.com",
         "phone": "(816) 744-6814 x105"
     },
      "Dawn": {
         "first_name": "Dawn",
         "last_name": "Bergeron",
-        "alias_title": "Membership Manager 7",
+        "alias_title": "Certified Health Coach",
         "email": "Dawn@1stoptimal.com",
         "phone": "248-212-0688"
     },
