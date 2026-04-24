@@ -11,7 +11,7 @@
         "Free Testosterone (Quest LC/MS-MS or Calculated)": {
             "description": "Quest's gold-standard method using equilibrium dialysis or LC/MS-MS calculation. MThe unbound T fueling muscle and energy. Optimal levels supercharge recovery and drive. Low leaves you dragging; high might spark aggression. Stay steady with compound lifts, zinc (oysters), and deep rest.",
             "clinical_range": "50 - 210",
-            "optimal_range": "100 - 200",
+            "optimal_range": "100 - 250",
             "units": "pg/mL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel",
             "lab_source": "Quest"
@@ -579,6 +579,14 @@
         
     },
     "Women": {
+         "Free Testosterone (Quest LC/MS-MS or Calculated)": {
+            "description": "Quest's gold-standard method using equilibrium dialysis or LC/MS-MS calculation. MThe unbound T fueling muscle and energy. Optimal levels supercharge recovery and drive. Low leaves you dragging; high might spark aggression or other unwanted androgen-excess risks (insulin resistance, abdominal fat, NAFLD progression, hirsutism) . Stay steady with compound lifts, zinc (oysters), and deep rest.",
+            "clinical_range": "3.2 - 8.4",
+            "optimal_range": "",
+            "units": "pg/mL",
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel",
+            "lab_source": "Quest"
+         },     
         "Total Testosterone": {
             "description": "This hormone fuels muscle tone and energy. Optimizing it boosts strength and mood stability across cycles. Too low, you’re tired; too high, irritability hits. Keep it steady with lifts, healthy fats (avocado), and 7-9 hours of sleep.",
             "clinical_range": "4.0 - 50.0",
@@ -586,7 +594,7 @@
             "units": "ng/dL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
-        "Free Testosterone": {
+        "Free Testosterone (Lab Corp)": {
             "description": "The active T powering your gains. Optimal levels lift endurance and confidence, varying slightly by cycle. Low drags you; high might spark breakouts. Maintain it with squats, zinc (oysters), and rest.",
             "clinical_range": "0.0 - 4.2",
             "optimal_range": "2.0 - 4.2",
