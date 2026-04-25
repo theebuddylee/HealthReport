@@ -2068,5 +2068,46 @@
             }
         ],
         "timestamp": "2026-04-24T21:27:02.777540"
+    },
+    {
+        "member_name": "Lisa Ganeko",
+        "manager": "Jamie",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Zinc Thymulin + GHK-Cu Topical Solution",
+                "description": "This compounded topical combines zinc thymulin, a bioactive peptide complex that supports immune signaling and tissue regulation, with GHK-Cu (copper peptide), a well-studied regenerative peptide known for its role in skin remodeling, wound healing, and hair follicle stimulation. Delivered in a topical dropper, this formulation targets the scalp or skin directly for localized effect.\n",
+                "indication": "This blend is used to support hair restoration and scalp health at the cellular level, particularly in individuals with inflammation-driven or androgen-sensitive hair loss.\n\nGHK-Cu promotes angiogenesis, collagen production, and follicular regeneration, helping extend the growth (anagen) phase of hair\nZinc thymulin supports immune modulation and may help reduce inflammatory signaling that contributes to follicle miniaturization\nZinc also plays a role in balancing 5-alpha-reductase activity, offering mild support in reducing DHT impact locally\n\nIndicated for:\n\nAndrogenic alopecia (male or female pattern hair loss)\nThinning hair associated with inflammation or poor scalp health\nSupporting recovery of hair follicles in combination with systemic or other topical therapies"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Saw Palmetto",
+                "description": "Saw Palmetto (Serenoa repens) is a botanical extract derived from the berries of a small palm tree traditionally used to support hormonal balance and prostate health.\n\n",
+                "indication": "Saw palmetto is commonly used as a natural 5-alpha-reductase inhibitor, meaning it helps reduce the conversion of testosterone into dihydrotestosterone (DHT)\u2014a more potent androgen associated with conditions like androgenic alopecia (hair loss), acne, and benign prostatic hyperplasia (BPH).\n"
+            },
+            {
+                "name": "L-Glutamine",
+                "description": "L-Glutamine is a conditionally essential amino acid that serves as a primary fuel source for enterocytes (intestinal lining cells) and plays a key role in maintaining gut integrity, immune function, and cellular repair. In functional medicine, it is commonly used to support the health of the gastrointestinal barrier and promote recovery from inflammation or stress-related depletion.\n\n",
+                "indication": "L-glutamine is indicated to help repair and strengthen the gut lining, reduce intestinal permeability (\u201cleaky gut\u201d), and support overall digestive and immune health. By improving nutrient absorption and lowering systemic inflammation, it can also indirectly support hormonal balance and optimize the body\u2019s response to therapies aimed at addressing androgen-related concerns."
+            },
+            {
+                "name": "Iron",
+                "description": "Iron is an essential trace mineral required for hemoglobin formation, oxygen transport, and cellular energy production. In functional medicine, iron status is evaluated not just by serum iron but in the context of ferritin, transferrin saturation, and overall inflammatory status, as iron plays a critical role in energy, cognitive function, and hair follicle cycling.",
+                "indication": "Iron is indicated for the support of optimal oxygen delivery, energy production, and healthy red blood cell formation, particularly when labs suggest low iron availability contributing to fatigue, hair shedding, or poor recovery. Restoring adequate iron stores can also support thyroid function and hair growth, both of which are commonly impacted when iron status is suboptimal."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-04-25T20:17:40.514829"
     }
 ]
