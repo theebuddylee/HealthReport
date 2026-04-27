@@ -2284,5 +2284,37 @@
             }
         ],
         "timestamp": "2026-04-27T20:38:32.530333"
+    },
+    {
+        "member_name": "Oshana Rogers",
+        "manager": "Jamie",
+        "membership": [],
+        "tests": [
+            {
+                "name": "Prolactin",
+                "description": "Prolactin is a hormone produced by the pituitary gland that primarily supports breast development and milk production, but from a functional medicine perspective, it also acts as a sensitive marker of the hypothalamic-pituitary axis and overall stress response. It is closely influenced by dopamine (which suppresses prolactin), meaning elevations can reflect reduced dopaminergic tone, chronic stress, poor sleep, or certain medications. Prolactin also interacts with sex hormones, and even mild elevations\u2014within \u201cnormal\u201d lab ranges\u2014can contribute to subtle hormonal imbalances, including suppression of ovulation, progesterone, and testosterone.",
+                "indication": "Prolactin is evaluated to assess underlying drivers of hormone imbalance, particularly when patients present with symptoms like irregular cycles, low libido, infertility, or signs of low testosterone or progesterone. Functionally, a level above optimal (often considered >10 ng/mL, even if still \u201cnormal\u201d) may prompt further investigation into stress physiology, dopamine balance, thyroid function, or potential pituitary involvement. Persistent elevations may warrant retesting."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Thymosin Alpha-1",
+                "description": "Thymosin Alpha-1 (TA-1) is an immune-modulating peptide derived from the thymus that helps regulate and rebalance immune function rather than simply stimulating it. It enhances T-cell activity, improves immune surveillance, and modulates inflammatory signaling, making it particularly useful in states of immune dysregulation. In the gut, it supports the gut-associated immune system (GALT), helping reduce inappropriate immune reactions to microbes and food antigens while creating a more favorable environment for mucosal healing and microbiome balance.",
+                "indication": "TA-1 is best indicated in patients with chronic, immune-driven gut dysfunction\u2014such as intestinal permeability (\u201cleaky gut\u201d), dysbiosis, SIBO recurrence, or inflammatory bowel conditions\u2014especially when there is a pattern of persistent inflammation alongside poor pathogen clearance. It is most useful when gut issues are not resolving with standard antimicrobial and repair protocols, suggesting underlying immune imbalance that requires modulation to restore resilience and prevent relapse."
+            },
+            {
+                "name": "Thymosin Alpha-1",
+                "description": "Thymosin Alpha-1 (TA-1) is an immune-modulating peptide derived from the thymus that helps regulate and rebalance immune function rather than simply stimulating it. It enhances T-cell activity, improves immune surveillance, and modulates inflammatory signaling, making it particularly useful in states of immune dysregulation. In the gut, it supports the gut-associated immune system (GALT), helping reduce inappropriate immune reactions to microbes and food antigens while creating a more favorable environment for mucosal healing and microbiome balance.",
+                "indication": "TA-1 is best indicated in patients with chronic, immune-driven gut dysfunction\u2014such as intestinal permeability (\u201cleaky gut\u201d), dysbiosis, SIBO recurrence, or inflammatory bowel conditions\u2014especially when there is a pattern of persistent inflammation alongside poor pathogen clearance. It is most useful when gut issues are not resolving with standard antimicrobial and repair protocols, suggesting underlying immune imbalance that requires modulation to restore resilience and prevent relapse."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-04-27T21:00:52.207147"
     }
 ]
