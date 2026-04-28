@@ -3050,5 +3050,66 @@
             }
         ],
         "timestamp": "2026-04-28T20:08:47.096907"
+    },
+    {
+        "member_name": "Chad Mitchel",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil) 200mg/ml 10ml vial",
+                "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
+                "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+                "sku": "EMP-2",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Retatrutide 12mg/0.5ml - 2ml vial (48mg) (titrate vial)",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Cholesterol Support",
+                "description": "Cholesterol Support by AnazaoHealth combines a phytosterol complex with policosanol and artichoke leaf extract to help maintain healthy cholesterol levels. Phytosterols reduce cholesterol absorption in the intestines, while policosanol and artichoke extract support cholesterol metabolism and synthesis regulation.",
+                "indication": "Designed for individuals aiming to manage cholesterol levels and support cardiovascular health naturally. Recommended for those seeking to maintain healthy blood lipid profiles."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            }
+        ],
+        "timestamp": "2026-04-28T20:16:33.390712"
     }
 ]
