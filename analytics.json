@@ -3239,5 +3239,73 @@
             }
         ],
         "timestamp": "2026-04-28T20:33:12.814801"
+    },
+    {
+        "member_name": "Aimee Harrison",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Glutathione Injection (Preserved) 30 mL 200 mg/mL",
+                "description": "A prescription or compounded nutrient-support therapy used to support energy metabolism, methylation, antioxidant capacity, detoxification pathways, or recovery.",
+                "indication": "May fit patients with fatigue, low nutrient status, high training load, metabolic goals, or recovery needs. Route, dose, and lab context should be reviewed by a clinician.",
+                "sku": "EMP-244",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "GHK-Cu 10mg/mL injectable (50mg) 5ml vial",
+                "description": "A copper-peptide therapy used in skin, hair, and regenerative wellness protocols. It is commonly used to support collagen, tissue quality, scalp health, and recovery pathways.",
+                "indication": "May fit patients noticing skin aging, thinning hair, poor tissue recovery, or interest in regenerative skin and hair support. Route and expectations should be reviewed with a provider.",
+                "sku": "Stk-3",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "NAD+ 100mg/mL (1000mg) 10ml vial",
+                "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
+                "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+                "sku": "Stk-5",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Retatrutide 4mg/0.5ml - 2ml vial (16mg) (starter vial)",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "STK-11",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            },
+            {
+                "name": "Tesamorelin 2500mcg/mL/ 5ml vial SQ Injectable- - (T1)",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Green Tea",
+                "description": "Green tea extract is a concentrated source of antioxidants, particularly catechins like EGCG, derived from the leaves of the Camellia sinensis plant. These compounds help reduce oxidative stress, support metabolic health, and promote overall cellular function. In addition to its antioxidant benefits, green tea extract contains a natural combination of caffeine and L-theanine, which work synergistically to improve alertness and mental clarity without the typical jitters or crashes associated with stimulants.",
+                "indication": "Recommended for individuals looking to support healthy weight management, improve focus and energy, and promote cardiovascular and metabolic health. Its anti-inflammatory and antioxidant properties also make it beneficial for those seeking additional protection against the effects of chronic stress and aging."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "timestamp": "2026-04-28T21:48:46.013441"
     }
 ]
