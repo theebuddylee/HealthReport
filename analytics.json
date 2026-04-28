@@ -3017,5 +3017,38 @@
             }
         ],
         "timestamp": "2026-04-28T20:03:52.054825"
+    },
+    {
+        "member_name": " Anthony Brooks",
+        "manager": "Sean",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "CJC/lpamorelin 1.5mg/2.5mg injectable (9mg/15mg) 6ml vial",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-04-28T20:08:47.096907"
     }
 ]
