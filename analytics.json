@@ -2526,5 +2526,47 @@
             }
         ],
         "timestamp": "2026-04-27T23:21:42.755034"
+    },
+    {
+        "member_name": "Robyn Ward",
+        "manager": "Casey",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "GLOW GHK-Cu/BPC-157/TB-500 Injectable (9mg/1.66mg/3.33mg /ML) 3ml vial",
+                "description": "A peptide therapy used in regenerative, gut-support, or tissue-repair protocols depending on the formula and route.",
+                "indication": "May fit patients focused on injury recovery, tendon/joint support, gut-barrier support, inflammation balance, or overall repair capacity. Requires provider guidance because evidence and use vary by peptide.",
+                "sku": "Stk-1",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Retatrutide 4mg/0.5ml - 2ml vial (16mg) (starter vial)",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "STK-11",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            },
+            {
+                "name": "Tesamorelin 2500mcg/mL/ 5ml vial SQ Injectable- - (T1)",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-04-28T01:28:29.344235"
     }
 ]
