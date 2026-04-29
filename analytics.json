@@ -3356,5 +3356,64 @@
             }
         ],
         "timestamp": "2026-04-28T23:15:05.164410"
+    },
+    {
+        "member_name": "Skyler Peterson",
+        "manager": "Jamie",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's TRT Treatment Follow-Up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-follow-up-panel",
+                "description": "A targeted follow-up panel designed for men undergoing hormone therapy, tracking key changes in testosterone and overall health.",
+                "indication": "Measures Free & Total Testosterone, Estradiol, PSA, CBC, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "CJC/lpamorelin 1.5mg/2.5mg injectable (9mg/15mg) 6ml vial",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Selank [N-Acetyl] 7500mcg/mL Nasal Spray 15ml- (T1)",
+                "description": "A cognitive-support or neuropeptide therapy used in select protocols focused on focus, stress adaptation, mental clarity, or neurorecovery.",
+                "indication": "May fit patients experiencing brain fog, poor focus, stress-related cognitive fatigue, or performance goals. Requires careful review because evidence, route, and regulatory status vary.",
+                "sku": "VPI-93",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl Epitalon 10mg/mL SQ Injectable 5ml (T2)",
+                "description": "A cognitive-support or neuropeptide therapy used in select protocols focused on focus, stress adaptation, mental clarity, or neurorecovery.",
+                "indication": "May fit patients experiencing brain fog, poor focus, stress-related cognitive fatigue, or performance goals. Requires careful review because evidence, route, and regulatory status vary.",
+                "sku": "VPI-206",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Cortisol Calm",
+                "description": "A supplement designed to support adrenal health and stress management by balancing cortisol levels.",
+                "indication": "A premium adaptogen blend designed to regulate cortisol levels and support a balanced stress response."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "timestamp": "2026-04-29T00:12:12.387246"
     }
 ]
