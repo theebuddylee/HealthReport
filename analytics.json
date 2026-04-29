@@ -3715,5 +3715,35 @@
             }
         ],
         "timestamp": "2026-04-29T20:49:37.705417"
+    },
+    {
+        "member_name": "Luke Harms",
+        "manager": "Jamie",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Retatrutide/",
+                "dosing": "(starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "STK-11",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            },
+            {
+                "name": "Retatrutide/",
+                "dosing": "(titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-04-29T22:51:32.542967"
     }
 ]
