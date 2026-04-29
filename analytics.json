@@ -3642,5 +3642,46 @@
             }
         ],
         "timestamp": "2026-04-29T18:59:26.385927"
+    },
+    {
+        "member_name": "John Comer",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Semaglutide 5mg/ml 2.5ml (T3)",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "ZAO-23",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Cortisol Calm",
+                "description": "A supplement designed to support adrenal health and stress management by balancing cortisol levels.",
+                "indication": "A premium adaptogen blend designed to regulate cortisol levels and support a balanced stress response."
+            },
+            {
+                "name": "GLP-1 Agonist Side Effect Support Bundle",
+                "description": "A combination of supplements designed to alleviate common side effects of GLP-1 receptor agonist therapies.",
+                "indication": "GLP-1 therapy side effects with our GLP-1 Agonist Side Effect Support Bundle."
+            },
+            {
+                "name": "GLP-1 Probiotic Pro",
+                "description": "A specialized probiotic blend formulated to enhance gut health and improve gastrointestinal tolerance in individuals using GLP-1 agonists.",
+                "indication": "Enhance your GLP-1 journey with our Probiotic Support."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-04-29T19:03:50.349144"
     }
 ]
