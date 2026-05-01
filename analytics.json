@@ -5877,5 +5877,55 @@
             }
         ],
         "timestamp": "2026-05-01T20:02:30.897348"
+    },
+    {
+        "member_name": "Thomas Mrva",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "VIP (Vasoactive Intestinal Peptide) Nasal Spray",
+                "dosing": "(T1); 500 mcg/mL; 15 ml",
+                "description": "A specialty peptide therapy used only in select clinician-guided protocols where the provider determines the risk-benefit profile is appropriate.",
+                "indication": "May fit patients with specific recovery, immune, metabolic, or performance goals after provider review. Evidence and regulatory status can vary, so expectations should be conservative.",
+                "sku": "VPI-99",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "VIP (Vasoactive Intestinal Peptide) Nasal Spray",
+                "dosing": "500 mcg/mL; 7.5 ml",
+                "description": "A specialty peptide therapy used only in select clinician-guided protocols where the provider determines the risk-benefit profile is appropriate.",
+                "indication": "May fit patients with specific recovery, immune, metabolic, or performance goals after provider review. Evidence and regulatory status can vary, so expectations should be conservative.",
+                "sku": "VPI-101",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Larazotide (AT 1001), N-Acetyl BPC-, N-Acetyl KPV Amidate Capsule",
+                "dosing": "(T1); 500 mcg; 157 mcg",
+                "description": "A peptide therapy used in regenerative, gut-support, or tissue-repair protocols depending on the formula and route.",
+                "indication": "May fit patients focused on injury recovery, tendon/joint support, gut-barrier support, inflammation balance, or overall repair capacity. Requires provider guidance because evidence and use vary by peptide.",
+                "sku": "VPI-272",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Green Tea",
+                "description": "Green tea extract is a concentrated source of antioxidants, particularly catechins like EGCG, derived from the leaves of the Camellia sinensis plant. These compounds help reduce oxidative stress, support metabolic health, and promote overall cellular function. In addition to its antioxidant benefits, green tea extract contains a natural combination of caffeine and L-theanine, which work synergistically to improve alertness and mental clarity without the typical jitters or crashes associated with stimulants.",
+                "indication": "Recommended for individuals looking to support healthy weight management, improve focus and energy, and promote cardiovascular and metabolic health. Its anti-inflammatory and antioxidant properties also make it beneficial for those seeking additional protection against the effects of chronic stress and aging."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-01T20:02:52.613618"
     }
 ]
