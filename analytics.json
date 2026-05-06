@@ -7765,5 +7765,57 @@
             }
         ],
         "timestamp": "2026-05-06T20:24:21.738988"
+    },
+    {
+        "member_name": "Cierra Olmsted ",
+        "manager": "Sean",
+        "membership": [
+            "Menopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
+                "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Estradiol cypionate Injection in GSO",
+                "dosing": "10 mg/ml; 5 ml",
+                "description": "An estrogen therapy option used in hormone-care protocols when symptoms and labs suggest estrogen levels need support.",
+                "indication": "May fit patients experiencing hot flashes, night sweats, vaginal dryness, sleep disruption, mood changes, or other symptoms consistent with low estrogen. Requires individualized risk review and monitoring.",
+                "sku": "EMP-120",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Progesterone SR Capsule",
+                "dosing": "VPI-191: (T2); 50 mg; VPI-192: (T2); 75 mg; VPI-193: (T2); 125 mg; VPI-194: (T2); 150 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep, cycle balance, mood stability, and overall hormone rhythm when clinically appropriate.",
+                "indication": "May fit patients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause symptoms, or low progesterone patterns. Requires provider review of history and goals.",
+                "sku": "VPI-191; VPI-192; VPI-193; VPI-194",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-06T21:01:46.894256"
     }
 ]
