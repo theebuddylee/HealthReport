@@ -7590,5 +7590,50 @@
             }
         ],
         "timestamp": "2026-05-06T17:30:09.199377"
+    },
+    {
+        "member_name": "Michael Adams",
+        "manager": "Dawn",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Tirzepatide/Niacinamide Injection",
+                "dosing": "EMP-116: (Starter VIal); 17/2 mg/ml; 2 ml; EMP-118: (Titrate VIal); 17/2 mg/ml; 4 ml",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "EMP-116; EMP-118",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "GLP-1"
+            },
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Ipamorelin + Tesamorelin per mL/- Injection",
+                "dosing": "VPI-35: (T1); 500 mcg; 1000 mcg; 5 ml; VPI-37: (T1); 500 mcg; 2500 mcg; 10 ml",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "VPI-35; VPI-37",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-06T17:37:44.877495"
     }
 ]
