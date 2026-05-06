@@ -7486,5 +7486,57 @@
             }
         ],
         "timestamp": "2026-05-06T15:58:45.457518"
+    },
+    {
+        "member_name": "Amanda Mortonson",
+        "manager": "Dawn",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Tirzepatide/Niacinamide Injection",
+                "dosing": "EMP-116: (Starter VIal); 17/2 mg/ml; 2 ml; EMP-118: (Titrate VIal); 17/2 mg/ml; 4 ml",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "EMP-116; EMP-118",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "GLP-1"
+            },
+            {
+                "name": "GLOW GHK-Cu/BPC-157/TB-500 Injection (//)",
+                "dosing": "3.33 mg/ML; 9 mg; 1.66 mg; 3 ml",
+                "description": "A peptide therapy used in regenerative, gut-support, or tissue-repair protocols depending on the formula and route.",
+                "indication": "May fit patients focused on injury recovery, tendon/joint support, gut-barrier support, inflammation balance, or overall repair capacity. Requires provider guidance because evidence and use vary by peptide.",
+                "sku": "Stk-1",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Testosterone Cypionate in MCT Oil Injection",
+                "dosing": "VPI-199: 200 mg/mL; 10 ml; VPI-253: 25 mg/mL; 2 ml; VPI-350: 25 mg/mL; 5 ml",
+                "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
+                "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+                "sku": "VPI-199; VPI-253; VPI-350",
+                "non_ship_states": "AL, AR, CA, FL",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-06T17:29:45.630903"
     }
 ]
