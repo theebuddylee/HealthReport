@@ -45,7 +45,7 @@ if "current_plan_supplements" not in st.session_state:
 
 # Membership Manager Dropdown and Member's Name input
 st.sidebar.title("Member Details")
-membership_managers = ["Allison", "Amber", "Buddy", "Brian", "Casey", "Dawn", "Dillon", "Jamie", "Joe", "Sean", "Steven"]
+membership_managers = ["AJ", "Allison", "Amber", "Buddy", "Brian", "Casey", "Crystal", "Dawn", "Dillon", "Jamie", "Joe", "Kathy", "Sean", "Steven"]
 selected_manager = st.sidebar.selectbox("Select Membership Manager", membership_managers)
 member_name = st.sidebar.text_input("Enter Member/Patient Name")
 
