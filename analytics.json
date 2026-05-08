@@ -8680,5 +8680,71 @@
             }
         ],
         "timestamp": "2026-05-08T14:58:16.132568"
+    },
+    {
+        "member_name": " Steven Davis",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-hormone-health-panel",
+                "description": "A mid-level hormone panel for men seeking deeper insights into testosterone function, recovery, weight management, and overall vitality.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, and Vitamin D."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
+                "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Nandrolone Decanoate Injection (Grapeseed Oil)",
+                "dosing": "200 mg/ml; 5 ml",
+                "description": "A high-review anabolic medication used only in carefully selected, medically supervised recovery or body-composition protocols.",
+                "indication": "May fit select patients with recovery, lean-mass preservation, or specific clinical needs after careful risk review. Requires conservative use, informed consent, and monitoring of blood counts, liver markers, lipids, blood pressure, and hormone markers.",
+                "sku": "EMP-170",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Methylene Blue Capsule",
+                "dosing": "5 mg",
+                "description": "A redox-active medication used in select protocols focused on mitochondrial function, cellular energy, and cognitive support.",
+                "indication": "May fit carefully selected patients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals. Requires screening for serotonergic medications, G6PD status, and contraindications.",
+                "sku": "EMP-173",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "DHEA/Pregnenolone Capsule SR",
+                "dosing": "25/25 mg",
+                "description": "A hormone-precursor therapy used to support downstream hormone production, stress resilience, energy, and neuroendocrine balance when levels are low or suboptimal.",
+                "indication": "May fit patients with fatigue, stress sensitivity, low resilience, mood changes, low libido, or hormone-marker patterns suggesting low DHEA or pregnenolone. Requires lab-guided use.",
+                "sku": "EMP-251",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Cholesterol Complete",
+                "description": "Cholesterol Complete by Biospec Nutritionals features a blend of red yeast rice, guggulipid, hawthorn, and policosanol to support healthy cholesterol levels. This comprehensive formula leverages traditional heart-healthy ingredients to promote favorable blood lipid profiles.",
+                "indication": "Ideal for individuals looking to manage cholesterol levels and maintain cardiovascular health through a natural, evidence-based approach."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-08T15:04:08.504816"
     }
 ]
