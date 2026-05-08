@@ -8388,5 +8388,78 @@
             }
         ],
         "timestamp": "2026-05-08T13:58:55.300962"
+    },
+    {
+        "member_name": "Paul Batta",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ezetimibe Tablet",
+                "dosing": "EMP-272: 10 mg; VPI-129: (T1); 10 mg",
+                "description": "A cholesterol medication that helps reduce cholesterol absorption in the gut and supports lower LDL cholesterol.",
+                "indication": "May fit patients with elevated LDL cholesterol or cardiovascular-risk markers who need additional lipid support. Requires lipid monitoring and clinician guidance.",
+                "sku": "EMP-272; VPI-129",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Glutathione [L] Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 30 ml",
+                "description": "A prescription or compounded nutrient-support therapy used to support energy metabolism, methylation, antioxidant capacity, detoxification pathways, or recovery.",
+                "indication": "May fit patients with fatigue, low nutrient status, high training load, metabolic goals, or recovery needs. Route, dose, and lab context should be reviewed by a clinician.",
+                "sku": "VPI-145",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Anastrozole Capsule",
+                "dosing": "VPI-170: (T2); 0.75 mg; VPI-300: (T2); 0.5 mg; VPI-301: (T2); 0.25 mg",
+                "description": "A hormone-modulating medication used to influence estrogen pathways. In men, some options are used to manage estrogen balance during testosterone-focused care.",
+                "indication": "May fit patients whose labs or symptoms suggest estrogen imbalance, such as water retention, breast tenderness, mood changes, libido changes, or hormone-protocol side effects. Requires precise dosing and monitoring.",
+                "sku": "VPI-170; VPI-300; VPI-301",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
+                "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Enclomiphene",
+                "dosing": "zao-194: (T2); 12.5 mg; zao-196: (T2); 50 mg; zao-1951: (T2); 25 mg",
+                "description": "A hormone-axis support medication used to stimulate or preserve the body\u2019s own hormone signaling, including testosterone and fertility-related pathways.",
+                "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+                "sku": "zao-194; zao-196; zao-1951",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Green Tea",
+                "description": "Green tea extract is a concentrated source of antioxidants, particularly catechins like EGCG, derived from the leaves of the Camellia sinensis plant. These compounds help reduce oxidative stress, support metabolic health, and promote overall cellular function. In addition to its antioxidant benefits, green tea extract contains a natural combination of caffeine and L-theanine, which work synergistically to improve alertness and mental clarity without the typical jitters or crashes associated with stimulants.",
+                "indication": "Recommended for individuals looking to support healthy weight management, improve focus and energy, and promote cardiovascular and metabolic health. Its anti-inflammatory and antioxidant properties also make it beneficial for those seeking additional protection against the effects of chronic stress and aging."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Selenium",
+                "description": "Selenium is essential for thyroid function as it helps convert inactive thyroid hormone (T4) into its active form (T3) and protects the thyroid gland from oxidative damage through its role in antioxidant enzymes like glutathione peroxidase. A deficiency in selenium can impair thyroid hormone metabolism and increase the risk of thyroid disorders, including hypothyroidism and Hashimoto\u2019s thyroiditis.",
+                "indication": "Selenium is indicated for individuals seeking to support healthy immune function, protect normal cell activity from oxidative stress, and promote overall cardiovascular and cellular health."
+            }
+        ],
+        "timestamp": "2026-05-08T13:58:57.827241"
     }
 ]
