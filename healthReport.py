@@ -18,6 +18,10 @@ SECONDARY_COLOR = "#737373"  # Subheading / body text color
 BACKGROUND_COLOR = "#EBEBEB"  # Light background
 st.set_page_config(page_title="1st Optimal Health Report Generator", page_icon="⚕️", initial_sidebar_state="expanded")
 
+# === Template paths for default + women's plan ===
+DEFAULT_TEMPLATE_PATH = "1st Optimal Treatment PlanV2.pdf"
+WOMENS_TEMPLATE_PATH = "Womens 1st Optimal Treatment Plan.pdf"
+
 # Function to load external CSS file
 def load_css_from_github(raw_css_url):
     try:
@@ -49,6 +53,16 @@ membership_managers = ["AJ", "Allison", "Amber", "Barbara", "Buddy", "Brian", "C
 selected_manager = st.sidebar.selectbox("Select Membership Manager", membership_managers)
 member_name = st.sidebar.text_input("Enter Member/Patient Name")
 
+# === Women's Treatment Plan Toggle ===
+st.sidebar.markdown("---")
+if "use_womens_plan" not in st.session_state:
+    st.session_state.use_womens_plan = False
+st.session_state.use_womens_plan = st.sidebar.toggle(
+    "Use Women's Treatment Plan",
+    value=st.session_state.use_womens_plan,
+    help="Toggle ON to use the women's-specific template"
+)
+
 # Base URL for GitHub raw content
 GITHUB_BASE_URL = "https://raw.githubusercontent.com/theebuddylee/HealthReport/main/data/"
 
@@ -68,9 +82,6 @@ memberships = load_json_from_github("memberships.json")
 diagnostic_tests = load_json_from_github("diagnostic_tests.json")
 medications = load_json_from_github("medications.json")
 supplements = load_json_from_github("supplements.json")
-
-# Path to the PDF template
-template_pdf_path = "1st Optimal Treatment PlanV2.pdf"
 
 # Function to merge PDFs
 def merge_pdfs(template_path, generated_path, output_path):
@@ -409,13 +420,11 @@ if final_tests:
 
 # PDF Generation
 if st.button("Generate PDF"):
-    # Debugging: Display the selections
-    #st.write("DEBUG: Selected Membership:", selected_membership)
-    #st.write("DEBUG: Final Tests:", final_tests)
-    #st.write("DEBUG: Final Medications:", final_medications)
-    #st.write("DEBUG: Final Supplements:", final_supplements)
+    # Determine which template to use
+    template_path = WOMENS_TEMPLATE_PATH if st.session_state.use_womens_plan else DEFAULT_TEMPLATE_PATH
+    
     # Attempt to generate the PDF
-    pdf_path = generate_pdf(selected_membership, final_tests, final_medications, final_supplements)
+    pdf_path = generate_pdf(selected_membership, final_tests, final_medications, final_supplements, template_path)
     # Log analytics data to GitHub
     analytics_data = {
         "member_name": member_name,
