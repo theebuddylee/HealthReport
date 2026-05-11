@@ -49,7 +49,7 @@ if "current_plan_supplements" not in st.session_state:
 
 # Membership Manager Dropdown and Member's Name input
 st.sidebar.title("Member Details")
-membership_managers = ["AJ", "Allison", "Amber", "Barbara", "Buddy", "Brian", "Casey", "Crystal", "Dawn", "Dillon", "Jamie", "Joe", "Kathy", "Sean", "Steven"]
+membership_managers = ["AJ", "Allison", "Amber", "Barbara", "Buddy", "Brian", "Casey", "Dawn", "Dillon", "Jamie", "Joe", "Kathy", "Sean", "Steven"]
 selected_manager = st.sidebar.selectbox("Select Membership Manager", membership_managers)
 member_name = st.sidebar.text_input("Enter Member/Patient Name")
 
@@ -221,8 +221,8 @@ def add_section(title, items, data_source, pdf, show_price=False):
             pdf.multi_cell(0, 6, f"{item_data.get('price', 'TBD')}")
         pdf.ln(5)
 
-# PDF generation function
-def generate_pdf(selected_membership, final_tests, final_medications, final_supplements):
+# PDF generation function (UPDATED - now accepts template_path)
+def generate_pdf(selected_membership, final_tests, final_medications, final_supplements, template_path):
     try:
         generated_pdf_path = "generated_content.pdf"
         merged_pdf_path = "final_treatment_plan.pdf"
@@ -253,7 +253,7 @@ def generate_pdf(selected_membership, final_tests, final_medications, final_supp
 
         # Save PDF and merge
         pdf.output(generated_pdf_path)
-        merge_pdfs(template_pdf_path, generated_pdf_path, merged_pdf_path)
+        merge_pdfs(template_path, generated_pdf_path, merged_pdf_path)
 
         # Add additional information to the final PDF
         return overwrite_more_information(merged_pdf_path, updated_pdf_path, member_name, selected_manager)
