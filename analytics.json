@@ -9050,5 +9050,73 @@
             }
         ],
         "timestamp": "2026-05-08T19:30:36.268504"
+    },
+    {
+        "member_name": "Thomas Cassou",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
+                "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "HCG Injection (Pregnyl\u00ae)",
+                "dosing": "EMP-50: (Lyo); 10,000 IU; ZAO-19: (Lyo); (T2); 10,000 IU",
+                "description": "A hormone-axis support medication used to stimulate or preserve the body\u2019s own hormone signaling, including testosterone and fertility-related pathways.",
+                "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+                "sku": "EMP-50; ZAO-19",
+                "non_ship_states": "CA, IA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "IGF-1 LR3 Lyophilized Powder in",
+                "dosing": "(T1); 600 mcg; 5 mL",
+                "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
+                "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+                "sku": "VPI-302",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "Enclomiphene",
+                "dosing": "zao-194: (T2); 12.5 mg; zao-196: (T2); 50 mg; zao-1951: (T2); 25 mg",
+                "description": "A hormone-axis support medication used to stimulate or preserve the body\u2019s own hormone signaling, including testosterone and fertility-related pathways.",
+                "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+                "sku": "zao-194; zao-196; zao-1951",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Joint Health Bundle",
+                "description": "A supplement pack that supports joint health and mobility, featuring ingredients like glucosamine, chondroitin, and MSM.",
+                "indication": "Relieve joint pain and support musculoskeletal health with our comprehensive Joint Support Bundle."
+            }
+        ],
+        "timestamp": "2026-05-11T15:14:57.245070"
     }
 ]
