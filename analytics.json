@@ -10916,5 +10916,39 @@
             }
         ],
         "timestamp": "2026-05-11T23:09:58.713496"
+    },
+    {
+        "member_name": "Test Turner",
+        "manager": "Buddy",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Estriol Vaginal Cream",
+                "dosing": "1.25 mg/ml; 30 ml",
+                "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
+                "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+                "sku": "EMP-332",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-11T23:20:22.347455"
     }
 ]
