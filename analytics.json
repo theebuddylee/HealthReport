@@ -9764,5 +9764,75 @@
             }
         ],
         "timestamp": "2026-05-11T18:35:30.395699"
+    },
+    {
+        "member_name": " Scott Zemens",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Enclomiphene Citrate Capsule",
+                "dosing": "EMP-52: 12.5 mg; EMP-54: 25 mg; EMP-306: 50 mg",
+                "description": "A hormone-axis support medication used to stimulate or preserve the body\u2019s own hormone signaling, including testosterone and fertility-related pathways.",
+                "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+                "sku": "EMP-52; EMP-54; EMP-306",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "DHEA Capsule",
+                "dosing": "EMP-397: (Slow Release); 25 mg; zao-197: (T2); 60 mg; zao-198: (T2); 25 mg; zao-199: (T2); 100 mg",
+                "description": "A hormone-precursor therapy used to support downstream hormone production, stress resilience, energy, and neuroendocrine balance when levels are low or suboptimal.",
+                "indication": "May fit patients with fatigue, stress sensitivity, low resilience, mood changes, low libido, or hormone-marker patterns suggesting low DHEA or pregnenolone. Requires lab-guided use.",
+                "sku": "EMP-397; zao-197; zao-198; zao-199",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "NAD+",
+                "dosing": "100 mg/mL; 1000 mg; 10 ml",
+                "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
+                "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+                "sku": "Stk-5",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesamorelin + Ipamorelin Lyophilized Powder in",
+                "dosing": "(T1); 6 mg; 3 mg; 5 mL",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "VPI-31",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "IGF-1 LR3 Lyophilized Powder in",
+                "dosing": "(T1); 600 mcg; 5 mL",
+                "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
+                "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+                "sku": "VPI-302",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-11T18:48:23.574360"
     }
 ]
