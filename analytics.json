@@ -9653,5 +9653,68 @@
         ],
         "supplements": [],
         "timestamp": "2026-05-11T18:32:09.527387"
+    },
+    {
+        "member_name": "Gabriella Brayboy",
+        "manager": "Casey",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Sermorelin Acetate Injection",
+                "dosing": "EMP-36: (Lyo); 9 mg; EMP-38: (Lyo); 15 mg",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "EMP-36; EMP-38",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "GLOW GHK-Cu/BPC-157/TB-500 Injection (//)",
+                "dosing": "3.33 mg/ML; 9 mg; 1.66 mg; 3 ml",
+                "description": "A peptide therapy used in regenerative, gut-support, or tissue-repair protocols depending on the formula and route.",
+                "indication": "May fit patients focused on injury recovery, tendon/joint support, gut-barrier support, inflammation balance, or overall repair capacity. Requires provider guidance because evidence and use vary by peptide.",
+                "sku": "Stk-1",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
+                "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-11T18:34:03.825226"
     }
 ]
