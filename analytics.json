@@ -9118,5 +9118,39 @@
             }
         ],
         "timestamp": "2026-05-11T15:14:57.245070"
+    },
+    {
+        "member_name": "Joseph Mitchell",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Bella -Bella 1 (Bupropion HCl/Phentermine HCl/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule",
+                "dosing": "(Slow Release); 65/20/15/8/1 mg",
+                "description": "A metabolic or weight-management medication used as part of a structured plan that may include nutrition, movement, behavior support, and lab monitoring.",
+                "indication": "May fit patients struggling with appetite, cravings, weight-loss resistance, insulin resistance, or metabolic markers that are not improving with lifestyle alone. Requires individualized risk review.",
+                "sku": "EMP-310",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Retatrutide/",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-11T15:42:47.914284"
     }
 ]
