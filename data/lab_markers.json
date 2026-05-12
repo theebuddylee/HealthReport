@@ -582,7 +582,7 @@
          "Free Testosterone (Quest LC/MS-MS or Calculated)": {
             "description": "Quest's gold-standard method using equilibrium dialysis or LC/MS-MS calculation. MThe unbound T fueling muscle and energy. Optimal levels supercharge recovery and drive. Low leaves you dragging; high might spark aggression or other unwanted androgen-excess risks (insulin resistance, abdominal fat, NAFLD progression, hirsutism) . Stay steady with compound lifts, zinc (oysters), and deep rest.",
             "clinical_range": "3.2 - 8.4",
-            "optimal_range": "",
+            "optimal_range": "5.0- 14.0",
             "units": "pg/mL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel",
             "lab_source": "Quest"
@@ -595,11 +595,12 @@
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
         "Free Testosterone (Lab Corp)": {
-            "description": "The active T powering your gains. Optimal levels lift endurance and confidence, varying slightly by cycle. Low drags you; high might spark breakouts. Maintain it with squats, zinc (oysters), and rest.",
+            "description": "The active Testosterone powering your gains. Optimal levels lift endurance and confidence, varying slightly by cycle. Low drags you; high might spark breakouts. Maintain it with squats, zinc, and rest.",
             "clinical_range": "0.0 - 4.2",
             "optimal_range": "2.0 - 4.2",
             "units": "ng/dL",
-            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel",
+             "lab_source": "LabCorp"
         },
         "Estradiol": {
             "description": "The key estrogen shifts across cycle phases (follicular [12.5 - 166.0], ovulatory [85.8-498.0], luteal [43.8-211]). Optimizing it,(follicular [50 - 100], ovulatory [200-400], luteal [100-200]) enhances energy, mood, and bone health. Too low, fatigue and brittleness hit; too high, bloat weighs you down. Support it with training, phytoestrogens (soy), and sleep.",
@@ -1149,19 +1150,28 @@
         }
     },
     "Post Menopausal Women": {
+        "Free Testosterone (Quest LC/MS-MS or Calculated)": {
+            "description": "Quest's gold-standard method using equilibrium dialysis or LC/MS-MS calculation. MThe unbound T fueling muscle and energy. Optimal levels supercharge recovery and drive. Low leaves you dragging; high might spark aggression or other unwanted androgen-excess risks (insulin resistance, abdominal fat, NAFLD progression, hirsutism) . Stay steady with compound lifts, zinc (oysters), and deep rest.",
+            "clinical_range": "3.2 - 8.4",
+            "optimal_range": "5.0- 14.0",
+            "units": "pg/mL",
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel",
+            "lab_source": "Quest"
+         },     
         "Total Testosterone": {
-            "description": "This hormone keeps muscles humming and energy up. Optimizing it boosts strength and fights fatigue. Too low, you’re dragging; too high, irritability hits. Stay optimal with lifts, healthy fats (avocado), and 7-9 hours of sleep.",
-            "clinical_range": "4.0 - 50",
-            "optimal_range": "15.0 - 40.0",
+            "description": "This hormone fuels muscle tone and energy. Optimizing it boosts strength and mood stability across cycles. Too low, you’re tired; too high, irritability hits. Keep it steady with lifts, healthy fats (avocado), and 7-9 hours of sleep.",
+            "clinical_range": "4.0 - 50.0",
+            "optimal_range": "25 - 75",
             "units": "ng/dL",
             "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
         },
-        "Free Testosterone": {
-            "description": "The unbound T fueling your grit. Optimal levels sharpen power and recovery. Low leaves you flat; high might spark skin woes. Keep it steady with squats, zinc (oysters), and rest.",
-            "clinical_range": "0.2 - 4.2",
-            "optimal_range": "1.0 - 3.0",
+        "Free Testosterone (Lab Corp)": {
+            "description": "The active Testosterone powering your gains. Optimal levels lift endurance and confidence, varying slightly by cycle. Low drags you; high might spark breakouts. Maintain it with squats, zinc, and rest.",
+            "clinical_range": "0.0 - 4.2",
+            "optimal_range": "2.0 - 4.2",
             "units": "ng/dL",
-            "panel": "Hormone, Gonadotropin & Neurosteroid Panel"
+            "panel": "Hormone, Gonadotropin & Neurosteroid Panel",
+             "lab_source": "LabCorp"
         },
         "Estradiol": {
             "description": "This estrogen supports brain and bone strength post-menopause. Optimizing it enhances memory and joints. Too low, fog and brittleness hit; too high, bloat creeps in. Maintain it with weights, phytoestrogens (soy), and sleep.",
