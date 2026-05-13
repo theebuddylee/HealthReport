@@ -11724,5 +11724,60 @@
             }
         ],
         "timestamp": "2026-05-13T19:46:46.380794"
+    },
+    {
+        "member_name": "Ivonne Ontiveros",
+        "manager": "Dawn",
+        "membership": [],
+        "tests": [
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "BPC-157",
+                "dosing": "3 mg/mL; 5 ml; 15 mg",
+                "description": "A peptide therapy used in regenerative, gut-support, or tissue-repair protocols depending on the formula and route.",
+                "indication": "May fit patients focused on injury recovery, tendon/joint support, gut-barrier support, inflammation balance, or overall repair capacity. Requires provider guidance because evidence and use vary by peptide.",
+                "sku": "STK-12",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Semax [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-95: (T1); 7500 mcg/mL; 7.5 ml; VPI-97: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A cognitive-support or neuropeptide therapy used in select protocols focused on focus, stress adaptation, mental clarity, or neurorecovery.",
+                "indication": "May fit patients experiencing brain fog, poor focus, stress-related cognitive fatigue, or performance goals. Requires careful review because evidence, route, and regulatory status vary.",
+                "sku": "VPI-95; VPI-97",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "timestamp": "2026-05-13T21:52:31.964805"
     }
 ]
