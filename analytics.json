@@ -11599,5 +11599,81 @@
             }
         ],
         "timestamp": "2026-05-13T15:18:44.937433"
+    },
+    {
+        "member_name": "LaFonda McCabe",
+        "manager": "Sean",
+        "membership": [
+            "Menopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Estradiol cypionate Injection in GSO",
+                "dosing": "10 mg/ml; 5 ml",
+                "description": "An estrogen therapy option used in hormone-care protocols when symptoms and labs suggest estrogen levels need support.",
+                "indication": "May fit patients experiencing hot flashes, night sweats, vaginal dryness, sleep disruption, mood changes, or other symptoms consistent with low estrogen. Requires individualized risk review and monitoring.",
+                "sku": "EMP-120",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Glutathione Injection (Preserved)",
+                "dosing": "EMP-244: 200 mg/mL; 30 mL; ZAO-400: (T2); 200 mg/mL; 30 mL",
+                "description": "A prescription or compounded nutrient-support therapy used to support energy metabolism, methylation, antioxidant capacity, detoxification pathways, or recovery.",
+                "indication": "May fit patients with fatigue, low nutrient status, high training load, metabolic goals, or recovery needs. Route, dose, and lab context should be reviewed by a clinician.",
+                "sku": "EMP-244; ZAO-400",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "Progesterone SR Capsule",
+                "dosing": "VPI-191: (T2); 50 mg; VPI-192: (T2); 75 mg; VPI-193: (T2); 125 mg; VPI-194: (T2); 150 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep, cycle balance, mood stability, and overall hormone rhythm when clinically appropriate.",
+                "indication": "May fit patients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause symptoms, or low progesterone patterns. Requires provider review of history and goals.",
+                "sku": "VPI-191; VPI-192; VPI-193; VPI-194",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "Tirzepatide +Cyanocobalamin (Vit B12) Lyophilized Powder in",
+                "dosing": "(starter Vial); (T2); 30 mg; 2.5 mg; 5 mL",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "VPI-375",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "GLP-1 Agonist Side Effect Support Bundle",
+                "description": "A combination of supplements designed to alleviate common side effects of GLP-1 receptor agonist therapies.",
+                "indication": "GLP-1 therapy side effects with our GLP-1 Agonist Side Effect Support Bundle."
+            },
+            {
+                "name": "GLP-1 Probiotic Pro",
+                "description": "A specialized probiotic blend formulated to enhance gut health and improve gastrointestinal tolerance in individuals using GLP-1 agonists.",
+                "indication": "Enhance your GLP-1 journey with our Probiotic Support."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-13T18:31:12.317090"
     }
 ]
