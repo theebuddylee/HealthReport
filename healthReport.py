@@ -88,17 +88,17 @@ def merge_pdfs(template_path, generated_path, output_path):
     with fitz.open(template_path) as template_pdf:
         output_pdf = fitz.open()
 
-        # Add first 2 pages from template
-        for page_num in range(2):
+        # Add first 3 pages from template
+        for page_num in range(3):
             output_pdf.insert_pdf(template_pdf, from_page=page_num, to_page=page_num)
 
         # Append the generated content PDF
         with fitz.open(generated_path) as generated_pdf:
             output_pdf.insert_pdf(generated_pdf)
 
-        # Append the last 7 pages from the template
+        # Append the last 8 pages from the template
         total_pages = len(template_pdf)
-        for page_num in range(total_pages - 7, total_pages):
+        for page_num in range(total_pages - 8, total_pages):
             output_pdf.insert_pdf(template_pdf, from_page=page_num, to_page=page_num)
 
         output_pdf.save(output_path)
