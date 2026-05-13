@@ -20,7 +20,7 @@ st.set_page_config(page_title="1st Optimal Health Report Generator", page_icon="
 
 # === Template paths for default + women's plan ===
 DEFAULT_TEMPLATE_PATH = "1st Optimal Treatment PlanV2.pdf"
-WOMENS_TEMPLATE_PATH = "Womens 1st Optimal Treatment Plan.pdf"
+WOMENS_TEMPLATE_PATH = "Womens 1st Optimal Treatment Plan Template.pdf"
 
 # Function to load external CSS file
 def load_css_from_github(raw_css_url):
