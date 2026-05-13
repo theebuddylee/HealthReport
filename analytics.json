@@ -11847,5 +11847,39 @@
             }
         ],
         "timestamp": "2026-05-13T23:05:14.887379"
+    },
+    {
+        "member_name": "Test Turner",
+        "manager": "Buddy",
+        "membership": [
+            "Menopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Estradiol Capsule",
+                "dosing": "EMP-142: 0.75 mg; EMP-144: 1.25 mg; EMP-146: 1.75 mg; VPI-263: 0.5 mg; T2",
+                "description": "An estrogen therapy option used in hormone-care protocols when symptoms and labs suggest estrogen levels need support.",
+                "indication": "May fit patients experiencing hot flashes, night sweats, vaginal dryness, sleep disruption, mood changes, or other symptoms consistent with low estrogen. Requires individualized risk review and monitoring.",
+                "sku": "EMP-142; EMP-144; EMP-146; VPI-263",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            }
+        ],
+        "timestamp": "2026-05-13T23:09:14.616004"
     }
 ]
