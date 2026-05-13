@@ -16,10 +16,10 @@ import base64
 PRIMARY_COLOR = "#06B6D4"  # Main accent color
 SECONDARY_COLOR = "#737373"  # Subheading / body text color
 BACKGROUND_COLOR = "#EBEBEB"  # Light background
-st.set_page_config(page_title="1st Optimal Health Report Generator", page_icon="⚕️", initial_sidebar_state="expanded")
+st.set_page_config(page_title="1st Optimal Treatment Plan Builder", page_icon="⚕️", initial_sidebar_state="expanded")
 
 # === Template paths for default + women's plan ===
-DEFAULT_TEMPLATE_PATH = "1st Optimal Treatment PlanV2.pdf"
+DEFAULT_TEMPLATE_PATH = "Mens 1st Optimal Treatment Plan Template.pdf"
 WOMENS_TEMPLATE_PATH = "Womens 1st Optimal Treatment Plan Template.pdf"
 
 # Function to load external CSS file
@@ -134,7 +134,7 @@ def overwrite_more_information(template_path, output_path, member_name, selected
                 (x, y),
                 content,
                 fontsize=19,
-                color=(0.451, 0.451, 0.451),  # Secondary Grey text color
+                color=(1, 1, 1),  # White Text
                 fontname="helv",
             )
 
@@ -148,7 +148,7 @@ def overwrite_more_information(template_path, output_path, member_name, selected
                 (x, y),
                 content,
                 fontsize=18,
-                color=(0.451, 0.451, 0.451),  # Secondary Grey text color
+                color=(1, 1, 1),  # White Text
                 fontname="helv",
             )
 
