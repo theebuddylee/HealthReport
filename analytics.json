@@ -12749,5 +12749,75 @@
             }
         ],
         "timestamp": "2026-05-14T20:09:44.521094"
+    },
+    {
+        "member_name": "Alex Kowalczyk",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Anastrozole-Capsule/Tablet",
+                "dosing": "1 mg",
+                "description": "A hormone-modulating medication used to influence estrogen pathways. In men, some options are used to manage estrogen balance during testosterone-focused care.",
+                "indication": "May fit patients whose labs or symptoms suggest estrogen imbalance, such as water retention, breast tenderness, mood changes, libido changes, or hormone-protocol side effects. Requires precise dosing and monitoring.",
+                "sku": "EMP-110",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Ezetimibe Tablet",
+                "dosing": "EMP-272: 10 mg; VPI-129: (T1); 10 mg",
+                "description": "A cholesterol medication that helps reduce cholesterol absorption in the gut and supports lower LDL cholesterol.",
+                "indication": "May fit patients with elevated LDL cholesterol or cardiovascular-risk markers who need additional lipid support. Requires lipid monitoring and clinician guidance.",
+                "sku": "EMP-272; VPI-129",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
+                "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "DHEA Capsule",
+                "dosing": "EMP-397: (Slow Release); 25 mg; zao-197: (T2); 60 mg; zao-198: (T2); 25 mg; zao-199: (T2); 100 mg",
+                "description": "A hormone-precursor therapy used to support downstream hormone production, stress resilience, energy, and neuroendocrine balance when levels are low or suboptimal.",
+                "indication": "May fit patients with fatigue, stress sensitivity, low resilience, mood changes, low libido, or hormone-marker patterns suggesting low DHEA or pregnenolone. Requires lab-guided use.",
+                "sku": "EMP-397; zao-197; zao-198; zao-199",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "IGF-1 LR3 Lyophilized Powder in",
+                "dosing": "(T1); 600 mcg; 5 mL",
+                "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
+                "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+                "sku": "VPI-302",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-14T20:10:34.957001"
     }
 ]
