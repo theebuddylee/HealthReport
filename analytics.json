@@ -11970,5 +11970,69 @@
             }
         ],
         "timestamp": "2026-05-14T14:42:35.668163"
+    },
+    {
+        "member_name": "Maureen Smith",
+        "manager": "Dawn",
+        "membership": [],
+        "tests": [
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Tirzepatide/Niacinamide Injection",
+                "dosing": "EMP-116: (Starter VIal); 17/2 mg/ml; 2 ml; EMP-118: (Titrate VIal); 17/2 mg/ml; 4 ml",
+                "description": "A GLP-1 or incretin-based therapy used in medically supervised weight-management and metabolic-health programs. These medications help regulate appetite, satiety, and glucose response.",
+                "indication": "May fit patients who feel stuck with weight loss, cravings, constant hunger, blood-sugar swings, or insulin-resistance patterns. Requires dose titration, side-effect monitoring, and contraindication screening.",
+                "sku": "EMP-116; EMP-118",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "GLP-1"
+            },
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A growth-hormone secretagogue or related therapy used to support the body\u2019s growth-hormone/IGF-1 pathway when clinically appropriate.",
+                "indication": "May fit patients focused on recovery, sleep quality, body composition, training adaptation, age-related decline, or low IGF-1 patterns. Requires clinical review and monitoring.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl MOTs-C Injection",
+                "dosing": "(T1); 10 mg/mL; 5 ml",
+                "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
+                "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+                "sku": "VPI-282",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Complete Commensal Probiotic - DFH",
+                "description": "Introducing Complete Commensal Probiotic\u2122, the future of probiotic care. Keystone commensals\nare pivotal, irreplaceable bacterial strains in your gut microbiome that support a wide range of\nfunctions for foundational health. However, modern life can strip away the keystone bacteria your\ngut was designed to have. Many probiotics pass through \u2013 but don\u2019t rebuild these lost bacteria",
+                "indication": "\u2022 A. muciniphila \u2013 Supports a strong gut lining by helping maintain the protective\nmucus layer and a balanced gut microbiome.* Also plays a unique role in\nhelping promote normal appetite and body composition.*\n\u2022 B. adolescentis \u2013 Helps the gut microbiome work well together while\nsupporting immune health, mood, and sleep.*\n\u2022 B. longum \u2013 Supports brain health and a positive mood, including memory and\nproblem-solving.*\n\u2022 F. prausnitzii \u2013 Helps keep the gut calm and balanced by supporting a healthy\ngut lining and balanced immune response.*\n\u2022 R. intestinalis \u2013 Supports gut repair and a healthy gut barrier while promoting\nbalanced immune and inflammatory responses.*"
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-14T14:42:50.887997"
     }
 ]
