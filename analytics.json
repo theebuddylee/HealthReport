@@ -12034,5 +12034,39 @@
             }
         ],
         "timestamp": "2026-05-14T14:42:50.887997"
+    },
+    {
+        "member_name": "Test Turner",
+        "manager": "Buddy",
+        "membership": [
+            "Women's VIP Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Estradiol Capsule",
+                "dosing": "EMP-142: 0.75 mg; EMP-144: 1.25 mg; EMP-146: 1.75 mg; VPI-263: 0.5 mg; T2",
+                "description": "An estrogen therapy option used in hormone-care protocols when symptoms and labs suggest estrogen levels need support.",
+                "indication": "May fit patients experiencing hot flashes, night sweats, vaginal dryness, sleep disruption, mood changes, or other symptoms consistent with low estrogen. Requires individualized risk review and monitoring.",
+                "sku": "EMP-142; EMP-144; EMP-146; VPI-263",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-14T16:08:01.833401"
     }
 ]
