@@ -12240,5 +12240,53 @@
             }
         ],
         "timestamp": "2026-05-14T18:32:30.852452"
+    },
+    {
+        "member_name": "",
+        "manager": "AJ",
+        "membership": [
+            "Weight Loss Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Bella 2- (Bupropion HCl/Phentermine HCl/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule",
+                "dosing": "(Slow Release); 65/37.5/15/8/1 mg",
+                "description": "A metabolic or weight-management medication used as part of a structured plan that may include nutrition, movement, behavior support, and lab monitoring.",
+                "indication": "May fit patients struggling with appetite, cravings, weight-loss resistance, insulin resistance, or metabolic markers that are not improving with lifestyle alone. Requires individualized risk review.",
+                "sku": "EMP-311",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Bella Decaf (Bupropion HCl/Oxytocin/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule////",
+                "dosing": "65 mg; 100 IU; 15 mg; 8 mg; 1 mg",
+                "description": "A metabolic or weight-management medication used as part of a structured plan that may include nutrition, movement, behavior support, and lab monitoring.",
+                "indication": "May fit patients struggling with appetite, cravings, weight-loss resistance, insulin resistance, or metabolic markers that are not improving with lifestyle alone. Requires individualized risk review.",
+                "sku": "EMP-315",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
+                "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesofensine Capsule",
+                "dosing": "(T1); 0.25 mg",
+                "description": "A metabolic or weight-management medication used as part of a structured plan that may include nutrition, movement, behavior support, and lab monitoring.",
+                "indication": "May fit patients struggling with appetite, cravings, weight-loss resistance, insulin resistance, or metabolic markers that are not improving with lifestyle alone. Requires individualized risk review.",
+                "sku": "VPI-291",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-05-14T18:35:25.108864"
     }
 ]
