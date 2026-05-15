@@ -12975,5 +12975,60 @@
             }
         ],
         "timestamp": "2026-05-15T16:08:40.298812"
+    },
+    {
+        "member_name": "Test Turner",
+        "manager": "Barbara",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            },
+            {
+                "name": "Men's Comprehensive Hormone Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-comprehensive-hormone-panel",
+                "description": "An advanced panel assessing a wide range of male hormones and biomarkers, ensuring peak performance, recovery, and metabolic balance.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol, SHBG, Prolactin, Cortisol, Progesterone, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cream",
+                "dosing": "200 mg/ml; 30 ml",
+                "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
+                "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+                "sku": "EMP-46",
+                "non_ship_states": "CA, IA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Buddyrine",
+                "description": "For buddy's ",
+                "indication": "Helps slow Buddys"
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Sunfiber",
+                "description": "Sunfiber is a soluble, partially hydrolyzed guar gum (PHGG) that functions as a gentle prebiotic fiber. It dissolves easily in liquids, is tasteless, and ferments slowly in the gut, minimizing gas and bloating.",
+                "indication": "Promotes healthy gut microbiota balance, improve stool regularity, and support digestive comfort. It is especially beneficial for individuals with dysbiosis, IBS, or sensitive digestion, as it gently feeds beneficial bacteria without causing excess gas or bloating."
+            }
+        ],
+        "timestamp": "2026-05-15T16:15:58.747503"
     }
 ]
