@@ -231,5 +231,39 @@
             }
         ],
         "timestamp": "2026-05-18T23:33:27.160839"
+    },
+    {
+        "member_name": "Bobi Bishop",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Selank [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-91: (T1); 7500 mcg/mL; 7.5 ml; VPI-93: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A neuropeptide nasal option used in research-informed protocols focused on stress resilience, calm focus, and nervous-system balance.",
+                "indication": "May fit carefully screened clients with stress reactivity, anxious tension, or focus concerns when medications, mood history, route tolerance, and expectations are reviewed.",
+                "sku": "VPI-91; VPI-93",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Larazotide (AT 1001) Capsule",
+                "dosing": "500 mcg",
+                "description": "A gut-barrier support peptide option used in research-informed protocols focused on tight-junction signaling and intestinal permeability pathways.",
+                "indication": "May fit carefully screened clients with gut-barrier, food-reactivity, or inflammatory gut-pattern goals when diagnosis, diet strategy, medications, and expectations are reviewed.",
+                "sku": "VPI-103",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-18T23:34:12.522286"
     }
 ]
