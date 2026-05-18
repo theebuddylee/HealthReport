@@ -206,5 +206,30 @@
             }
         ],
         "timestamp": "2026-05-18T23:33:08.321945"
+    },
+    {
+        "member_name": "Brandon Ratliff",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ketamine Nasal Spray",
+                "dosing": "EMP-274: 100 mg/mL; 5 ml; EMP-275: 100 mg/mL; 15 ml; VPI-121: 50 mg/mL; 5 %; 7.5 ml; VPI-122: 50 mg/mL; 5 %; 15 ml; VPI-123: 100 mg/mL; 10 %; 15 ml; VPI-124: 100 mg/mL; 10 %; 7.5 ml",
+                "description": "A controlled medication used only in structured, clinician-supervised mental-health protocols with clear safety screening, dosing controls, and follow-up.",
+                "indication": "May fit carefully selected clients with mood-related concerns after qualified evaluation, with review of blood pressure, psychiatric history, dissociation risk, medication interactions, and safe-use requirements.",
+                "sku": "EMP-274; EMP-275; VPI-121; VPI-122; VPI-123; VPI-124",
+                "non_ship_states": "CA, MN, WI; AL, AR, CA, FL",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-18T23:33:27.160839"
     }
 ]
