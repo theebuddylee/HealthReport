@@ -2,8 +2,8 @@
   {
     "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
     "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "EMP-2; EMP-4; EMP-171",
     "non_ship_states": "CA, IA, MA, WI",
     "type": "Medication"
@@ -11,8 +11,8 @@
   {
     "name": "Tadalafil (Generic Cialis) Tablet",
     "dosing": "EMP-6: 5 mg; EMP-8: 10 mg; EMP-10: 20 mg; VPI-144: (T1); 20 mg",
-    "description": "A sexual-health medication that improves blood-flow response involved in erections. It is used only after a clinician reviews cardiovascular history and medication safety.",
-    "indication": "May fit men who can get aroused but struggle with erection firmness, performance confidence, or maintaining an erection. Not appropriate with nitrates and requires provider screening.",
+    "description": "A blood-flow support medication used in sexual-health protocols. It improves nitric-oxide related vascular response and is used only after a clinician reviews heart history, blood pressure, and medication safety.",
+    "indication": "May fit patients with blood-flow related sexual-function concerns. It is most commonly used for erectile-function support, but any use should be matched to the patient’s anatomy, goals, cardiovascular history, and medication profile. Not appropriate with nitrates.",
     "sku": "EMP-6; EMP-8; EMP-10; VPI-144",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -20,8 +20,8 @@
   {
     "name": "Sildenafil (Generic Viagra) Tablet",
     "dosing": "EMP-12: 20 mg; EMP-14: 100 mg",
-    "description": "A sexual-health medication that improves blood-flow response involved in erections. It is used only after a clinician reviews cardiovascular history and medication safety.",
-    "indication": "May fit men who can get aroused but struggle with erection firmness, performance confidence, or maintaining an erection. Not appropriate with nitrates and requires provider screening.",
+    "description": "A blood-flow support medication used in sexual-health protocols. It improves nitric-oxide related vascular response and is used only after a clinician reviews heart history, blood pressure, and medication safety.",
+    "indication": "May fit patients with blood-flow related sexual-function concerns. It is most commonly used for erectile-function support, but any use should be matched to the patient’s anatomy, goals, cardiovascular history, and medication profile. Not appropriate with nitrates.",
     "sku": "EMP-12; EMP-14",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -92,8 +92,8 @@
   {
     "name": "Testosterone Troche",
     "dosing": "EMP-40: 2.5 mg; EMP-42: 5 mg; EMP-44: 10 mg; ZAO-35: (T2); 100 mg; ZAO-39: (T2); 200 mg; ZAO-364: (T2); 9 mg",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "EMP-40; EMP-42; EMP-44; ZAO-35; ZAO-39; ZAO-364",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -101,8 +101,8 @@
   {
     "name": "Testosterone Cream",
     "dosing": "200 mg/ml; 30 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "EMP-46",
     "non_ship_states": "CA, IA, MN, WI",
     "type": "Medication"
@@ -110,8 +110,8 @@
   {
     "name": "HCG Injection (Pregnyl®)",
     "dosing": "EMP-50: (Lyo); 10,000 IU; ZAO-19: (Lyo); (T2); 10,000 IU",
-    "description": "A hormone-axis support medication used to stimulate or preserve the body’s own hormone signaling, including testosterone and fertility-related pathways.",
-    "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+    "description": "A hormone-signaling medication that mimics luteinizing hormone activity and can support gonadal hormone production. It may be used in fertility-conscious hormone care or as part of a broader endocrine plan when appropriate.",
+    "indication": "May fit patients who need support for fertility-related hormone signaling, ovarian or testicular function, or preservation of natural hormone activity during a broader hormone plan. Requires individualized review of goals, sex-specific use, labs, and follow-up monitoring.",
     "sku": "EMP-50; ZAO-19",
     "non_ship_states": "CA, IA, WI",
     "type": "Peptide"
@@ -119,8 +119,8 @@
   {
     "name": "Enclomiphene Citrate Capsule",
     "dosing": "EMP-52: 12.5 mg; EMP-54: 25 mg; EMP-306: 50 mg",
-    "description": "A hormone-axis support medication used to stimulate or preserve the body’s own hormone signaling, including testosterone and fertility-related pathways.",
-    "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+    "description": "A selective estrogen receptor modulator used to encourage the body’s own upstream hormone signaling. It is most often used in men to support natural testosterone production while preserving fertility pathways.",
+    "indication": "May fit patients—most commonly men—who want testosterone support while maintaining testicular function, sperm production, or natural hormone signaling. Requires lab-guided monitoring and is not the same as direct testosterone replacement.",
     "sku": "EMP-52; EMP-54; EMP-306",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -207,10 +207,10 @@
     "type": "Medication"
   },
   {
-    "name": "Anastrozole-Capsule/Tablet.",
+    "name": "Anastrozole Capsule/Tablet",
     "dosing": "5 mg",
-    "description": "A hormone-modulating medication used to influence estrogen pathways. In men, some options are used to manage estrogen balance during testosterone-focused care.",
-    "indication": "May fit patients whose labs or symptoms suggest estrogen imbalance, such as water retention, breast tenderness, mood changes, libido changes, or hormone-protocol side effects. Requires precise dosing and monitoring.",
+    "description": "An aromatase-inhibitor medication used to reduce conversion of androgens into estradiol when estrogen levels are clinically too high or causing symptoms.",
+    "indication": "May fit patients with lab-confirmed or symptom-supported estrogen excess, such as breast tenderness, fluid retention, mood changes, libido changes, or hormone-protocol side effects. It requires precise dosing because too little estrogen can also cause symptoms.",
     "sku": "EMP-108",
     "non_ship_states": "CA, IA, MN, WI",
     "type": "Medication"
@@ -218,8 +218,8 @@
   {
     "name": "Anastrozole-Capsule/Tablet",
     "dosing": "1 mg",
-    "description": "A hormone-modulating medication used to influence estrogen pathways. In men, some options are used to manage estrogen balance during testosterone-focused care.",
-    "indication": "May fit patients whose labs or symptoms suggest estrogen imbalance, such as water retention, breast tenderness, mood changes, libido changes, or hormone-protocol side effects. Requires precise dosing and monitoring.",
+    "description": "An aromatase-inhibitor medication used to reduce conversion of androgens into estradiol when estrogen levels are clinically too high or causing symptoms.",
+    "indication": "May fit patients with lab-confirmed or symptom-supported estrogen excess, such as breast tenderness, fluid retention, mood changes, libido changes, or hormone-protocol side effects. It requires precise dosing because too little estrogen can also cause symptoms.",
     "sku": "EMP-110",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -281,8 +281,8 @@
   {
     "name": "Testosterone Cream topiclick",
     "dosing": "Strength 1-49 mg/mL; 30 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "EMP-140",
     "non_ship_states": "CA, IA, MN, WI",
     "type": "Medication"
@@ -326,8 +326,8 @@
   {
     "name": "Methylene Blue Capsule",
     "dosing": "5 mg",
-    "description": "A redox-active medication used in select protocols focused on mitochondrial function, cellular energy, and cognitive support.",
-    "indication": "May fit carefully selected patients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals. Requires screening for serotonergic medications, G6PD status, and contraindications.",
+    "description": "A redox-active medication that can act as an alternative electron carrier in mitochondria. In carefully selected protocols, it is used for cellular-energy and cognitive-support goals, but it has important medication-interaction and safety considerations.",
+    "indication": "May fit carefully screened patients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals. Requires review for serotonergic medications, psychiatric history, G6PD status, pregnancy/breastfeeding status, and dose sensitivity.",
     "sku": "EMP-173",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -335,8 +335,8 @@
   {
     "name": "Testosterone Cyp/Testosterone Propionate (GSO)",
     "dosing": "160/40 mg/mL; 5 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone blend used to support testosterone levels when symptoms and lab results show a need for replacement or optimization. The formulation and route should be matched to the patient’s sex, goals, hormone labs, tolerance, and provider judgment.",
+    "indication": "May fit patients with low-testosterone patterns such as low libido, low energy, mood changes, reduced muscle or strength, and poor recovery. Women’s protocols require lower-dose, carefully monitored use based on symptoms, goals, and lab findings.",
     "sku": "EMP-176",
     "non_ship_states": "CA, IA, MA, WI",
     "type": "Medication"
@@ -380,8 +380,8 @@
   {
     "name": "Gonadorelin Acetate Injection",
     "dosing": "EMP-246: 100 mcg/mL; 5 mL; Zao - 350: (T2); 0.2 mg/mL; 5 mL",
-    "description": "A hormone-axis support medication used to stimulate or preserve the body’s own hormone signaling, including testosterone and fertility-related pathways.",
-    "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+    "description": "A GnRH-pathway medication used to stimulate pituitary signaling involved in reproductive hormone production. It may be used in select hormone or fertility-conscious protocols.",
+    "indication": "May fit patients needing support for upstream hormone signaling, fertility-related goals, or preservation of natural hormone activity. Use should be individualized by sex, hormone labs, and expected response.",
     "sku": "EMP-246; Zao - 350",
     "non_ship_states": "CA, IA, MA, WI",
     "type": "Peptide"
@@ -414,7 +414,7 @@
     "type": "Peptide"
   },
   {
-    "name": "Oxymetholone Capsule s",
+    "name": "Oxymetholone Capsule",
     "dosing": "EMP-258: 25 mg; EMP-259: 50 mg",
     "description": "A high-review anabolic medication used only in carefully selected, medically supervised recovery or body-composition protocols.",
     "indication": "May fit select patients with recovery, lean-mass preservation, or specific clinical needs after careful risk review. Requires conservative use, informed consent, and monitoring of blood counts, liver markers, lipids, blood pressure, and hormone markers.",
@@ -423,7 +423,7 @@
     "type": "Medication"
   },
   {
-    "name": "Stanozolol Capsule s",
+    "name": "Stanozolol Capsule",
     "dosing": "EMP-260: 50 mg; EMP-261: 25 mg; EMP-262: 10 mg; EMP-263: 5 mg",
     "description": "A high-review anabolic medication used only in carefully selected, medically supervised recovery or body-composition protocols.",
     "indication": "May fit select patients with recovery, lean-mass preservation, or specific clinical needs after careful risk review. Requires conservative use, informed consent, and monitoring of blood counts, liver markers, lipids, blood pressure, and hormone markers.",
@@ -443,8 +443,8 @@
   {
     "name": "Testosterone Enanthate Injection (Grapeseed Oil)",
     "dosing": "200 mg/ml; 10 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "EMP-273",
     "non_ship_states": "CA, IA, MA, WI",
     "type": "Medication"
@@ -488,17 +488,17 @@
   {
     "name": "Bremelanotide Injection",
     "dosing": "10 mg/mL; 2 ml",
-    "description": "Bremelanotide, also known as PT-141, is a peptide used in sexual-health protocols. Unlike medications that work mainly through blood flow, it acts on brain pathways involved in desire and arousal.",
-    "indication": "May fit patients who feel their sexual desire, arousal, or responsiveness is lower than expected, especially when hormone balance, stress, or medication effects may be involved. Requires screening for blood pressure and nausea risk.",
+    "description": "A peptide used in sexual-health protocols that works through melanocortin pathways in the brain involved in desire and arousal, rather than working mainly through blood flow.",
+    "indication": "May fit patients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress, medication effects, and relationship context are reviewed. Requires screening for blood-pressure effects, nausea risk, and appropriateness by sex and clinical goal.",
     "sku": "EMP-289",
     "non_ship_states": "CA, IA, MA, WI",
     "type": "Peptide"
   },
   {
-    "name": "Bremelanotide/Oxytocin/Tadalafil Troche//",
+    "name": "Bremelanotide/Oxytocin/Tadalafil Troche",
     "dosing": "10 mg; 1 mg; 100 IU",
-    "description": "A sexual-wellness combination that may support both desire/arousal pathways and blood-flow response, depending on the ingredients in the formula.",
-    "indication": "May fit patients experiencing low libido, reduced arousal, performance anxiety around sexual function, or erectile-function concerns. Requires provider review of blood pressure, heart history, medications, and side-effect risk.",
+    "description": "A compounded sexual-health combination that may support desire/arousal pathways, oxytocin-related bonding pathways, and/or blood-flow response depending on the formula.",
+    "indication": "May fit patients with low libido, reduced arousal, sexual responsiveness concerns, or erectile-function concerns when the ingredients match the patient’s goals and safety profile. Requires review of blood pressure, heart history, medications, and side-effect risk.",
     "sku": "EMP-290",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -506,8 +506,8 @@
   {
     "name": "Tri-Mix Injection (Papaverine HCl/Phentolamine Mesylate/Prostaglandin E1)",
     "dosing": "(Lyo)",
-    "description": "A clinician-prescribed erectile-function medication or combination used when stronger vascular support is needed than standard oral options.",
-    "indication": "May fit men with more persistent erectile-function concerns who have not responded well enough to oral options. Requires careful dosing instruction and safety review.",
+    "description": "A clinician-prescribed erectile-function injection that directly supports penile blood flow when oral medications are not strong enough or not appropriate.",
+    "indication": "May fit men with more persistent erectile-function concerns who have not responded well enough to oral options. Requires hands-on dosing education, safety counseling, and review of priapism risk.",
     "sku": "EMP-291",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -515,8 +515,8 @@
   {
     "name": "Super Tri-Mix Injection (Papaverine HCl/Phentolamine Mesylate/Prostaglandin E1)",
     "dosing": "(Lyo)",
-    "description": "A clinician-prescribed erectile-function medication or combination used when stronger vascular support is needed than standard oral options.",
-    "indication": "May fit men with more persistent erectile-function concerns who have not responded well enough to oral options. Requires careful dosing instruction and safety review.",
+    "description": "A clinician-prescribed erectile-function injection that directly supports penile blood flow when oral medications are not strong enough or not appropriate.",
+    "indication": "May fit men with more persistent erectile-function concerns who have not responded well enough to oral options. Requires hands-on dosing education, safety counseling, and review of priapism risk.",
     "sku": "EMP-292",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -551,8 +551,8 @@
   {
     "name": "Oxytocin ODT",
     "dosing": "200 IU",
-    "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
-    "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+    "description": "A compounded oxytocin formulation used in select sexual-health, intimacy, and emotional-connection protocols when a provider determines it is appropriate.",
+    "indication": "May fit patients with concerns around sexual responsiveness, connection, arousal, or stress-related intimacy when hormone balance, relationship context, and medication safety have been reviewed.",
     "sku": "EMP-297",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -596,8 +596,8 @@
   {
     "name": "Naltrexone HCl Capsule",
     "dosing": "EMP-309: 1.5 mg; EMP-377: 3 mg; EMP-384: 4.5 mg",
-    "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
-    "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+    "description": "A low-dose naltrexone formulation used in clinician-guided protocols for immune modulation, inflammation balance, pain sensitivity, or gut-related symptom patterns.",
+    "indication": "May fit patients with autoimmune patterns, chronic pain sensitivity, inflammatory concerns, or gut-related immune activation when a provider determines LDN is appropriate. Not compatible with opioid use.",
     "sku": "EMP-309; EMP-377; EMP-384",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -621,7 +621,7 @@
     "type": "Medication"
   },
   {
-    "name": "Bella 3 (Bupropion HCl/Caffeine/Oxytocin/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule/////",
+    "name": "Bella 3 (Bupropion HCl/Caffeine/Oxytocin/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule",
     "dosing": "65 mg; 20 mg; 100 IU; 15 mg; 8 mg; 1 mg",
     "description": "A metabolic or weight-management medication used as part of a structured plan that may include nutrition, movement, behavior support, and lab monitoring.",
     "indication": "May fit patients struggling with appetite, cravings, weight-loss resistance, insulin resistance, or metabolic markers that are not improving with lifestyle alone. Requires individualized risk review.",
@@ -648,7 +648,7 @@
     "type": "Medication"
   },
   {
-    "name": "Bella Decaf (Bupropion HCl/Oxytocin/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule////",
+    "name": "Bella Decaf (Bupropion HCl/Oxytocin/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule",
     "dosing": "65 mg; 100 IU; 15 mg; 8 mg; 1 mg",
     "description": "A metabolic or weight-management medication used as part of a structured plan that may include nutrition, movement, behavior support, and lab monitoring.",
     "indication": "May fit patients struggling with appetite, cravings, weight-loss resistance, insulin resistance, or metabolic markers that are not improving with lifestyle alone. Requires individualized risk review.",
@@ -657,7 +657,7 @@
     "type": "Medication"
   },
   {
-    "name": "Bella Plus (Bupropion HCl/Caffeine/Metformin/Oxytocin/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule \"/////\"",
+    "name": "Bella Plus (Bupropion HCl/Caffeine/Metformin/Oxytocin/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule",
     "dosing": "65 mg; 20 mg; 250 mg; 100 IU; 15 mg; 8 mg; 1 mg",
     "description": "A metabolic or weight-management medication used as part of a structured plan that may include nutrition, movement, behavior support, and lab monitoring.",
     "indication": "May fit patients struggling with appetite, cravings, weight-loss resistance, insulin resistance, or metabolic markers that are not improving with lifestyle alone. Requires individualized risk review.",
@@ -686,8 +686,8 @@
   {
     "name": "Testosterone Cypionate in GSO",
     "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "EMP-321; EMP-375",
     "non_ship_states": "CA, IA, MA, WI",
     "type": "Medication"
@@ -704,8 +704,8 @@
   {
     "name": "Tamoxifen Citrate Tablet",
     "dosing": "EMP-325: 10 mg; EMP-326: 20 mg",
-    "description": "A hormone-modulating medication used to influence estrogen pathways. In men, some options are used to manage estrogen balance during testosterone-focused care.",
-    "indication": "May fit patients whose labs or symptoms suggest estrogen imbalance, such as water retention, breast tenderness, mood changes, libido changes, or hormone-protocol side effects. Requires precise dosing and monitoring.",
+    "description": "A selective estrogen receptor modulator that changes how estrogen signals in certain tissues. It may be used in specific clinician-directed hormone protocols rather than general hormone balancing.",
+    "indication": "May fit select patients when estrogen-receptor modulation is clinically appropriate, such as certain breast-tissue or hormone-response concerns. Requires provider review of risks, history, contraindications, and monitoring needs.",
     "sku": "EMP-325; EMP-326",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -749,8 +749,8 @@
   {
     "name": "Valacyclovir Tablet",
     "dosing": "500 mg",
-    "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
-    "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+    "description": "An antiviral medication used to help manage herpes-family viral outbreaks or suppress recurrence when clinically appropriate.",
+    "indication": "May fit patients with recurrent cold sores, genital herpes outbreaks, or other provider-confirmed antiviral needs. Requires review of kidney function, dosing plan, and outbreak/suppression goals.",
     "sku": "EMP-331",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -758,8 +758,8 @@
   {
     "name": "Estriol Vaginal Cream",
     "dosing": "1.25 mg/ml; 30 ml",
-    "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
-    "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+    "description": "A local estrogen therapy used to support vaginal and urinary tissue health when low-estrogen symptoms are present.",
+    "indication": "May fit patients with vaginal dryness, discomfort with intimacy, recurrent irritation, urinary urgency, or genitourinary symptoms associated with low estrogen. Requires individualized risk review.",
     "sku": "EMP-332",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -767,8 +767,8 @@
   {
     "name": "Exemestane Tablet",
     "dosing": "25 mg",
-    "description": "A hormone-modulating medication used to influence estrogen pathways. In men, some options are used to manage estrogen balance during testosterone-focused care.",
-    "indication": "May fit patients whose labs or symptoms suggest estrogen imbalance, such as water retention, breast tenderness, mood changes, libido changes, or hormone-protocol side effects. Requires precise dosing and monitoring.",
+    "description": "An aromatase-inhibitor medication used to lower estrogen production when a provider determines estrogen activity is too high for the treatment goal.",
+    "indication": "May fit select patients with estrogen-excess patterns or hormone-protocol side effects that match lab findings. Requires careful monitoring to avoid over-suppression of estrogen, which can affect mood, joints, libido, and bone health.",
     "sku": "EMP-333",
     "non_ship_states": "CA, MA, MN, WI",
     "type": "Medication"
@@ -785,8 +785,8 @@
   {
     "name": "Testosterone Cypionate Injection (Commercial)",
     "dosing": "EMP-351: 200 mg/ml; 10 ml; ZAO-302: (T2); 200 mg/ml; 10 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "EMP-351; ZAO-302",
     "non_ship_states": "IA, MA, WI",
     "type": "Medication"
@@ -821,8 +821,8 @@
   {
     "name": "Biotin Capsules",
     "dosing": "5 mg",
-    "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
-    "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+    "description": "A B-vitamin support option used when biotin status or hair/nail support is part of the care plan.",
+    "indication": "May fit patients with brittle nails, hair-quality concerns, or suspected low biotin intake, but it should not be treated as a standalone fix for hormone-related hair loss. Patients should tell the lab team because biotin can interfere with some lab tests.",
     "sku": "EMP-380",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -830,8 +830,8 @@
   {
     "name": "NAD+ Cream",
     "dosing": "10 %; 30 ml",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "A topical NAD+ support formula intended for skin-focused cellular-energy and healthy-aging protocols. NAD+ is a coenzyme involved in redox balance, cellular repair signaling, and energy metabolism.",
+    "indication": "May fit patients focused on skin quality, visible aging, or localized cellular-support goals. This should be positioned as supportive rather than a promise to reverse aging, and expectations should be reviewed with the provider.",
     "sku": "EMP-381",
     "non_ship_states": "CA, MN, WI",
     "type": "Peptide"
@@ -866,8 +866,8 @@
   {
     "name": "Cabergoline Tablet",
     "dosing": "0.5 mg",
-    "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
-    "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+    "description": "A dopamine-agonist medication used in select protocols to lower prolactin when levels are elevated and clinically relevant.",
+    "indication": "May fit patients with lab-confirmed high prolactin patterns that may affect libido, sexual function, fertility signaling, mood, or hormone balance. Requires careful dosing and monitoring.",
     "sku": "EMP-396",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -884,8 +884,8 @@
   {
     "name": "Raloxifene HCl Tablet",
     "dosing": "60 mg",
-    "description": "A hormone-modulating medication used to influence estrogen pathways. In men, some options are used to manage estrogen balance during testosterone-focused care.",
-    "indication": "May fit patients whose labs or symptoms suggest estrogen imbalance, such as water retention, breast tenderness, mood changes, libido changes, or hormone-protocol side effects. Requires precise dosing and monitoring.",
+    "description": "A selective estrogen receptor modulator that acts differently in different tissues, with estrogen-blocking effects in some areas and estrogen-like support in others.",
+    "indication": "May fit select patients when a provider wants targeted estrogen-receptor modulation, such as specific bone, breast-tissue, or hormone-response considerations. Requires individualized risk review and monitoring.",
     "sku": "EMP-398",
     "non_ship_states": "CA, MN, WI",
     "type": "Medication"
@@ -929,8 +929,8 @@
   {
     "name": "PT-141 Injection",
     "dosing": "10 mg/mL; 50 mg; 5 ml",
-    "description": "Bremelanotide, also known as PT-141, is a peptide used in sexual-health protocols. Unlike medications that work mainly through blood flow, it acts on brain pathways involved in desire and arousal.",
-    "indication": "May fit patients who feel their sexual desire, arousal, or responsiveness is lower than expected, especially when hormone balance, stress, or medication effects may be involved. Requires screening for blood pressure and nausea risk.",
+    "description": "A peptide used in sexual-health protocols that works through melanocortin pathways in the brain involved in desire and arousal, rather than working mainly through blood flow.",
+    "indication": "May fit patients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress, medication effects, and relationship context are reviewed. Requires screening for blood-pressure effects, nausea risk, and appropriateness by sex and clinical goal.",
     "sku": "Stk-4",
     "non_ship_states": "IN",
     "type": "Peptide"
@@ -938,8 +938,8 @@
   {
     "name": "NAD+",
     "dosing": "100 mg/mL; 1000 mg; 10 ml",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "NAD+ is a coenzyme involved in energy metabolism, redox balance, DNA-repair signaling, and cellular stress responses. In clinician-guided protocols, route and dose are selected based on energy, recovery, metabolic, or healthy-aging goals.",
+    "indication": "May fit patients with fatigue, poor recovery, brain fog, high stress load, or healthy-aging goals when clinically appropriate. Benefits vary by route and patient context, so it should be paired with lifestyle foundations and provider monitoring.",
     "sku": "Stk-5",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1001,8 +1001,8 @@
   {
     "name": "Testosterone Enanthate in MCT Oil Injection",
     "dosing": "VPI-6: (T2); 200 mg/mL; 5 ml; VPI-8: (T2); 200 mg/mL; 10 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "VPI-6; VPI-8",
     "non_ship_states": "AL, AR, CA, FL",
     "type": "Medication"
@@ -1145,8 +1145,8 @@
   {
     "name": "N-Acetyl BPC-157, NAD+, Thymosin Beta-4 per mL - Nasal Spray",
     "dosing": "(T1); 500 mcg; 200 mg; 250 mcg; 7.5 mL",
-    "description": "A peptide therapy used in regenerative, gut-support, or tissue-repair protocols depending on the formula and route.",
-    "indication": "May fit patients focused on injury recovery, tendon/joint support, gut-barrier support, inflammation balance, or overall repair capacity. Requires provider guidance because evidence and use vary by peptide.",
+    "description": "A nasal combination that pairs NAD+ cellular-energy support with BPC-157 and thymosin beta-4 tissue-repair peptide pathways. It is more recovery/regeneration focused than NAD+ alone.",
+    "indication": "May fit patients seeking combined support for recovery, tissue stress, inflammation balance, and cellular energy. Requires provider review because each ingredient has a different evidence base and safety profile.",
     "sku": "VPI-65",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1307,8 +1307,8 @@
   {
     "name": "Tri-Mix (Papaverine, Phentolamine, Alprostadil (PG-E1)) per mL- - Injection",
     "dosing": "30 mg; 1 mg; 10 mcg; 5 ml",
-    "description": "A clinician-prescribed erectile-function medication or combination used when stronger vascular support is needed than standard oral options.",
-    "indication": "May fit men with more persistent erectile-function concerns who have not responded well enough to oral options. Requires careful dosing instruction and safety review.",
+    "description": "A clinician-prescribed erectile-function injection that directly supports penile blood flow when oral medications are not strong enough or not appropriate.",
+    "indication": "May fit men with more persistent erectile-function concerns who have not responded well enough to oral options. Requires hands-on dosing education, safety counseling, and review of priapism risk.",
     "sku": "VPI-131",
     "non_ship_states": "",
     "type": "Medication"
@@ -1397,8 +1397,8 @@
   {
     "name": "Bremelanotide (PT-141) Injection",
     "dosing": "VPI-149: (T1); 5 mg/mL; 3 ml; VPI-150: (T1); 5 mg/mL; 5 ml; VPI-151: (T1); 10 mg/mL; 3 ml; VPI-152: (T1); 10 mg/mL; 5 ml; zao-193: (T1); 10 mg/mL; 2 ml",
-    "description": "Bremelanotide, also known as PT-141, is a peptide used in sexual-health protocols. Unlike medications that work mainly through blood flow, it acts on brain pathways involved in desire and arousal.",
-    "indication": "May fit patients who feel their sexual desire, arousal, or responsiveness is lower than expected, especially when hormone balance, stress, or medication effects may be involved. Requires screening for blood pressure and nausea risk.",
+    "description": "A peptide used in sexual-health protocols that works through melanocortin pathways in the brain involved in desire and arousal, rather than working mainly through blood flow.",
+    "indication": "May fit patients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress, medication effects, and relationship context are reviewed. Requires screening for blood-pressure effects, nausea risk, and appropriateness by sex and clinical goal.",
     "sku": "VPI-149; VPI-150; VPI-151; VPI-152; zao-193",
     "non_ship_states": "CA",
     "type": "Peptide"
@@ -1406,8 +1406,8 @@
   {
     "name": "Bremelanotide (PT-141) Lyophilized Powder in",
     "dosing": "(T1); 20 mg; 5 mL",
-    "description": "Bremelanotide, also known as PT-141, is a peptide used in sexual-health protocols. Unlike medications that work mainly through blood flow, it acts on brain pathways involved in desire and arousal.",
-    "indication": "May fit patients who feel their sexual desire, arousal, or responsiveness is lower than expected, especially when hormone balance, stress, or medication effects may be involved. Requires screening for blood pressure and nausea risk.",
+    "description": "A peptide used in sexual-health protocols that works through melanocortin pathways in the brain involved in desire and arousal, rather than working mainly through blood flow.",
+    "indication": "May fit patients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress, medication effects, and relationship context are reviewed. Requires screening for blood-pressure effects, nausea risk, and appropriateness by sex and clinical goal.",
     "sku": "VPI-153",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1415,8 +1415,8 @@
   {
     "name": "Bremelanotide (PT-141) Nasal Spray",
     "dosing": "VPI-154: (T1); 5 mg/mL; 7.5 ml; VPI-155: (T1); 5 mg/mL; 15 ml; VPI-156: (T1); 10 mg/mL; 3.75 ml; VPI-157: (T1); 10 mg/mL; 7.5 ml",
-    "description": "Bremelanotide, also known as PT-141, is a peptide used in sexual-health protocols. Unlike medications that work mainly through blood flow, it acts on brain pathways involved in desire and arousal.",
-    "indication": "May fit patients who feel their sexual desire, arousal, or responsiveness is lower than expected, especially when hormone balance, stress, or medication effects may be involved. Requires screening for blood pressure and nausea risk.",
+    "description": "A peptide used in sexual-health protocols that works through melanocortin pathways in the brain involved in desire and arousal, rather than working mainly through blood flow.",
+    "indication": "May fit patients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress, medication effects, and relationship context are reviewed. Requires screening for blood-pressure effects, nausea risk, and appropriateness by sex and clinical goal.",
     "sku": "VPI-154; VPI-155; VPI-156; VPI-157",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1424,8 +1424,8 @@
   {
     "name": "Bremelanotide (PT-141) + Gonadorelin per mL - Nasal Spray",
     "dosing": "VPI-158: (T1); 10 mg; 100 mcg; 7.5 ml; VPI-159: (T1); 10 mg; 100 mcg; 15 ml",
-    "description": "Bremelanotide, also known as PT-141, is a peptide used in sexual-health protocols. Unlike medications that work mainly through blood flow, it acts on brain pathways involved in desire and arousal.",
-    "indication": "May fit patients who feel their sexual desire, arousal, or responsiveness is lower than expected, especially when hormone balance, stress, or medication effects may be involved. Requires screening for blood pressure and nausea risk.",
+    "description": "A GnRH-pathway medication used to stimulate pituitary signaling involved in reproductive hormone production. It may be used in select hormone or fertility-conscious protocols.",
+    "indication": "May fit patients needing support for upstream hormone signaling, fertility-related goals, or preservation of natural hormone activity. Use should be individualized by sex, hormone labs, and expected response.",
     "sku": "VPI-158; VPI-159",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1433,8 +1433,8 @@
   {
     "name": "Bremelanotide (PT-141) + Tadalafil per mL - - Nasal Spray",
     "dosing": "VPI-160: (T1); 2.5 mg; 7.5 ml; VPI-161: (T1); 5 mg; 3.75 ml; VPI-162: (T1); 5 mg; 7.5 ml",
-    "description": "A sexual-wellness combination that may support both desire/arousal pathways and blood-flow response, depending on the ingredients in the formula.",
-    "indication": "May fit patients experiencing low libido, reduced arousal, performance anxiety around sexual function, or erectile-function concerns. Requires provider review of blood pressure, heart history, medications, and side-effect risk.",
+    "description": "A compounded sexual-health combination that may support desire/arousal pathways, oxytocin-related bonding pathways, and/or blood-flow response depending on the formula.",
+    "indication": "May fit patients with low libido, reduced arousal, sexual responsiveness concerns, or erectile-function concerns when the ingredients match the patient’s goals and safety profile. Requires review of blood pressure, heart history, medications, and side-effect risk.",
     "sku": "VPI-160; VPI-161; VPI-162",
     "non_ship_states": "",
     "type": "Medication"
@@ -1442,8 +1442,8 @@
   {
     "name": "Bremelanotide (PT-141) Troche",
     "dosing": "VPI-163: (T1); 1 mg; VPI-165: (T1); 2 mg; VPI-166: (T1); 4 mg",
-    "description": "Bremelanotide, also known as PT-141, is a peptide used in sexual-health protocols. Unlike medications that work mainly through blood flow, it acts on brain pathways involved in desire and arousal.",
-    "indication": "May fit patients who feel their sexual desire, arousal, or responsiveness is lower than expected, especially when hormone balance, stress, or medication effects may be involved. Requires screening for blood pressure and nausea risk.",
+    "description": "A peptide used in sexual-health protocols that works through melanocortin pathways in the brain involved in desire and arousal, rather than working mainly through blood flow.",
+    "indication": "May fit patients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress, medication effects, and relationship context are reviewed. Requires screening for blood-pressure effects, nausea risk, and appropriateness by sex and clinical goal.",
     "sku": "VPI-163; VPI-165; VPI-166",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1460,8 +1460,8 @@
   {
     "name": "Bremelanotide (PT-141) + Oxytocin Troche",
     "dosing": "(T1); 1 mg; 100 IU",
-    "description": "Bremelanotide, also known as PT-141, is a peptide used in sexual-health protocols. Unlike medications that work mainly through blood flow, it acts on brain pathways involved in desire and arousal.",
-    "indication": "May fit patients who feel their sexual desire, arousal, or responsiveness is lower than expected, especially when hormone balance, stress, or medication effects may be involved. Requires screening for blood pressure and nausea risk.",
+    "description": "A compounded sexual-health combination that may support desire/arousal pathways, oxytocin-related bonding pathways, and/or blood-flow response depending on the formula.",
+    "indication": "May fit patients with low libido, reduced arousal, sexual responsiveness concerns, or erectile-function concerns when the ingredients match the patient’s goals and safety profile. Requires review of blood pressure, heart history, medications, and side-effect risk.",
     "sku": "VPI-167",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1469,8 +1469,8 @@
   {
     "name": "Bremelanotide (PT-141) + Tadalafil Troche",
     "dosing": "(T1); 1 mg; 10 mg",
-    "description": "A sexual-wellness combination that may support both desire/arousal pathways and blood-flow response, depending on the ingredients in the formula.",
-    "indication": "May fit patients experiencing low libido, reduced arousal, performance anxiety around sexual function, or erectile-function concerns. Requires provider review of blood pressure, heart history, medications, and side-effect risk.",
+    "description": "A compounded sexual-health combination that may support desire/arousal pathways, oxytocin-related bonding pathways, and/or blood-flow response depending on the formula.",
+    "indication": "May fit patients with low libido, reduced arousal, sexual responsiveness concerns, or erectile-function concerns when the ingredients match the patient’s goals and safety profile. Requires review of blood pressure, heart history, medications, and side-effect risk.",
     "sku": "VPI-168",
     "non_ship_states": "",
     "type": "Medication"
@@ -1478,8 +1478,8 @@
   {
     "name": "Bremelanotide (PT-141), Tadalafil, Oxytocin Troche",
     "dosing": "(T1); 2 mg; 20 mg; 100 IU",
-    "description": "A sexual-wellness combination that may support both desire/arousal pathways and blood-flow response, depending on the ingredients in the formula.",
-    "indication": "May fit patients experiencing low libido, reduced arousal, performance anxiety around sexual function, or erectile-function concerns. Requires provider review of blood pressure, heart history, medications, and side-effect risk.",
+    "description": "A compounded sexual-health combination that may support desire/arousal pathways, oxytocin-related bonding pathways, and/or blood-flow response depending on the formula.",
+    "indication": "May fit patients with low libido, reduced arousal, sexual responsiveness concerns, or erectile-function concerns when the ingredients match the patient’s goals and safety profile. Requires review of blood pressure, heart history, medications, and side-effect risk.",
     "sku": "VPI-169",
     "non_ship_states": "",
     "type": "Medication"
@@ -1487,8 +1487,8 @@
   {
     "name": "Anastrozole Capsule",
     "dosing": "VPI-170: (T2); 0.75 mg; VPI-300: (T2); 0.5 mg; VPI-301: (T2); 0.25 mg",
-    "description": "A hormone-modulating medication used to influence estrogen pathways. In men, some options are used to manage estrogen balance during testosterone-focused care.",
-    "indication": "May fit patients whose labs or symptoms suggest estrogen imbalance, such as water retention, breast tenderness, mood changes, libido changes, or hormone-protocol side effects. Requires precise dosing and monitoring.",
+    "description": "An aromatase-inhibitor medication used to reduce conversion of androgens into estradiol when estrogen levels are clinically too high or causing symptoms.",
+    "indication": "May fit patients with lab-confirmed or symptom-supported estrogen excess, such as breast tenderness, fluid retention, mood changes, libido changes, or hormone-protocol side effects. It requires precise dosing because too little estrogen can also cause symptoms.",
     "sku": "VPI-170; VPI-300; VPI-301",
     "non_ship_states": "",
     "type": "Medication"
@@ -1496,8 +1496,8 @@
   {
     "name": "Tadalafil Troche",
     "dosing": "VPI-171: (T1); 2.5 mg; VPI-172: (T1); 5 mg; VPI-173: (T1); 7.5 mg; VPI-174: (T1); 10 mg; VPI-175: (T1); 20 mg; VPI-176: (T1); 25 mg",
-    "description": "A sexual-health medication that improves blood-flow response involved in erections. It is used only after a clinician reviews cardiovascular history and medication safety.",
-    "indication": "May fit men who can get aroused but struggle with erection firmness, performance confidence, or maintaining an erection. Not appropriate with nitrates and requires provider screening.",
+    "description": "A blood-flow support medication used in sexual-health protocols. It improves nitric-oxide related vascular response and is used only after a clinician reviews heart history, blood pressure, and medication safety.",
+    "indication": "May fit patients with blood-flow related sexual-function concerns. It is most commonly used for erectile-function support, but any use should be matched to the patient’s anatomy, goals, cardiovascular history, and medication profile. Not appropriate with nitrates.",
     "sku": "VPI-171; VPI-172; VPI-173; VPI-174; VPI-175; VPI-176",
     "non_ship_states": "",
     "type": "Medication"
@@ -1523,8 +1523,8 @@
   {
     "name": "Sildenafil Citrate Troche",
     "dosing": "(T1); 20 mg",
-    "description": "A sexual-health medication that improves blood-flow response involved in erections. It is used only after a clinician reviews cardiovascular history and medication safety.",
-    "indication": "May fit men who can get aroused but struggle with erection firmness, performance confidence, or maintaining an erection. Not appropriate with nitrates and requires provider screening.",
+    "description": "A blood-flow support medication used in sexual-health protocols. It improves nitric-oxide related vascular response and is used only after a clinician reviews heart history, blood pressure, and medication safety.",
+    "indication": "May fit patients with blood-flow related sexual-function concerns. It is most commonly used for erectile-function support, but any use should be matched to the patient’s anatomy, goals, cardiovascular history, and medication profile. Not appropriate with nitrates.",
     "sku": "VPI-197",
     "non_ship_states": "",
     "type": "Medication"
@@ -1532,8 +1532,8 @@
   {
     "name": "Testosterone Cypionate in MCT Oil Injection",
     "dosing": "VPI-199: 200 mg/mL; 10 ml; VPI-253: 25 mg/mL; 2 ml; VPI-350: 25 mg/mL; 5 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "VPI-199; VPI-253; VPI-350",
     "non_ship_states": "AL, AR, CA, FL",
     "type": "Medication"
@@ -1550,8 +1550,8 @@
   {
     "name": "1-MNA + Leucine Capsule",
     "dosing": "(T2); 15 mg; 250 mg",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "A metabolic-support combination pairing 1-MNA, a nicotinamide metabolite associated with vascular and inflammatory signaling, with leucine, an amino acid involved in muscle-protein signaling and recovery.",
+    "indication": "May fit patients focused on metabolic health, recovery, vascular wellness, or lean-mass support as part of a broader plan. It should not be positioned as a direct substitute for peptide or hormone therapy.",
     "sku": "VPI-202",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1559,8 +1559,8 @@
   {
     "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
     "dosing": "(T2); 50 mg",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "5-Amino-1MQ is an NNMT-inhibitor compound studied for effects on NAD+ availability, adipose-tissue metabolism, and energy expenditure pathways. It is more weight/metabolism focused than a replacement nutrient.",
+    "indication": "May fit patients with weight-loss resistance, metabolic slowdown, or body-composition goals when a provider wants to target cellular metabolism rather than appetite alone. Human evidence is limited, so expectations should be conservative.",
     "sku": "VPI-204",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1595,8 +1595,8 @@
   {
     "name": "Clomiphene Citrate Capsule",
     "dosing": "VPI-211: (T2); 12.5 mg; VPI-212: (T2); 25 mg",
-    "description": "A hormone-axis support medication used to stimulate or preserve the body’s own hormone signaling, including testosterone and fertility-related pathways.",
-    "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+    "description": "A selective estrogen receptor modulator used in clinician-guided reproductive or hormone-axis protocols to influence pituitary signaling and downstream sex-hormone production.",
+    "indication": "May fit patients with fertility or hormone-axis goals when a provider determines that stimulating natural hormone signaling is appropriate. Use differs by sex and clinical goal, so lab review and follow-up monitoring are required.",
     "sku": "VPI-211; VPI-212",
     "non_ship_states": "",
     "type": "Medication"
@@ -1640,8 +1640,8 @@
   {
     "name": "N-Acetyl MOTs-C Lyophilized Powder in",
     "dosing": "(T1); 20 mg; 5 mL",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "MOTS-C is a mitochondrial-derived peptide studied for metabolic signaling, AMPK activation, glucose handling, and exercise-like cellular stress responses. This makes it more metabolism-focused than general NAD+ support.",
+    "indication": "May fit patients with metabolic inflexibility, insulin-resistance patterns, weight-loss resistance, low exercise tolerance, or energy regulation concerns. Should be presented as an investigational metabolic-support peptide requiring provider review.",
     "sku": "VPI-255",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1667,8 +1667,8 @@
   {
     "name": "Rg3, mB12, NAD+ per mL - Nasal Spray",
     "dosing": "2 mg; 50 mg; 7.5 ml",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "A nasal combination designed to support cellular energy and recovery through NAD+, methylation support from methylcobalamin, and ginsenoside Rg3-related stress/adaptation pathways.",
+    "indication": "May fit patients with fatigue, brain fog, recovery demands, or cellular-energy goals when a provider wants a combined mitochondrial and methylation-support approach. Requires review of ingredients, tolerance, and goals.",
     "sku": "VPI-260",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1676,8 +1676,8 @@
   {
     "name": "Methylene Blue Liposomal Capsule",
     "dosing": "(T1); 10 mg",
-    "description": "A redox-active medication used in select protocols focused on mitochondrial function, cellular energy, and cognitive support.",
-    "indication": "May fit carefully selected patients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals. Requires screening for serotonergic medications, G6PD status, and contraindications.",
+    "description": "A liposomal form of methylene blue, a redox-active medication studied for mitochondrial electron transport and neuroprotective pathways. The liposomal route may change absorption and tolerance compared with standard capsules.",
+    "indication": "May fit carefully screened patients pursuing cognitive, brain-fog, or cellular-energy support when medication interactions and contraindications have been reviewed. Requires caution with antidepressants and other serotonergic agents.",
     "sku": "VPI-262",
     "non_ship_states": "",
     "type": "Medication"
@@ -1712,8 +1712,8 @@
   {
     "name": "SS-31 Lyophilized Powder in",
     "dosing": "80 mg; 5 mL; T1",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "SS-31, also known as elamipretide, is a mitochondria-targeted peptide studied for binding cardiolipin and supporting the inner mitochondrial membrane. It is more focused on mitochondrial membrane stability and oxidative-stress resilience than on appetite or hormone pathways.",
+    "indication": "May fit select patients with mitochondrial-support, fatigue, muscle-performance, recovery, or oxidative-stress concerns after provider review. It should be described as investigational/advanced support with careful monitoring and expectation-setting.",
     "sku": "VPI-271",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1748,8 +1748,8 @@
   {
     "name": "Testosterone Propionate in MCT Oil Injection",
     "dosing": "(T2); 100 mg/mL; 4 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone blend used to support testosterone levels when symptoms and lab results show a need for replacement or optimization. The formulation and route should be matched to the patient’s sex, goals, hormone labs, tolerance, and provider judgment.",
+    "indication": "May fit patients with low-testosterone patterns such as low libido, low energy, mood changes, reduced muscle or strength, and poor recovery. Women’s protocols require lower-dose, carefully monitored use based on symptoms, goals, and lab findings.",
     "sku": "VPI-276",
     "non_ship_states": "AL, AR, CA, FL",
     "type": "Medication"
@@ -1757,8 +1757,8 @@
   {
     "name": "NAD+ Injection",
     "dosing": "(T1); 200 mg/mL; 20 %; 10 ml",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "An injectable NAD+ formulation used in clinician-guided cellular-energy and recovery protocols. Injectable delivery is intended to support NAD+-dependent pathways involved in mitochondrial function, repair signaling, and redox balance.",
+    "indication": "May fit patients with significant fatigue, poor recovery, brain fog, or high metabolic stress who need a more intensive NAD+ support route. Requires provider review of tolerance, dosing strategy, and treatment expectations.",
     "sku": "VPI-277",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1766,8 +1766,8 @@
   {
     "name": "Apomorphine, Oxytocin, Bremelanotide (PT-141), Tadalafil Capsule",
     "dosing": "(T1); 2 mg; 25 IU; 1 mg; 30 mg",
-    "description": "A sexual-wellness combination that may support both desire/arousal pathways and blood-flow response, depending on the ingredients in the formula.",
-    "indication": "May fit patients experiencing low libido, reduced arousal, performance anxiety around sexual function, or erectile-function concerns. Requires provider review of blood pressure, heart history, medications, and side-effect risk.",
+    "description": "A compounded sexual-health combination that may support desire/arousal pathways, oxytocin-related bonding pathways, and/or blood-flow response depending on the formula.",
+    "indication": "May fit patients with low libido, reduced arousal, sexual responsiveness concerns, or erectile-function concerns when the ingredients match the patient’s goals and safety profile. Requires review of blood pressure, heart history, medications, and side-effect risk.",
     "sku": "VPI-278",
     "non_ship_states": "",
     "type": "Medication"
@@ -1793,8 +1793,8 @@
   {
     "name": "MOTs-C Analog Capsule",
     "dosing": "(T1); 5 mg",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "An oral MOTS-C analog intended to target the same mitochondrial-derived peptide signaling family associated with metabolic flexibility, AMPK activity, and energy regulation. The oral analog should be distinguished from injectable MOTS-C products.",
+    "indication": "May fit patients seeking metabolic or mitochondrial support in a non-injectable format, especially around weight-loss resistance, low energy, or insulin-resistance patterns. Requires review of evidence limitations and realistic expectations.",
     "sku": "VPI-281",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1802,8 +1802,8 @@
   {
     "name": "N-Acetyl MOTs-C Injection",
     "dosing": "(T1); 10 mg/mL; 5 ml",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "An injectable MOTS-C formulation focused on mitochondrial metabolic signaling, including AMPK-related pathways, glucose utilization, and energy regulation. It is best framed as a metabolic-flexibility peptide rather than a general anti-aging peptide.",
+    "indication": "May fit patients with insulin-resistance patterns, low metabolic flexibility, weight-loss resistance, or poor exercise tolerance when a provider determines peptide support is appropriate. Requires monitoring and careful expectation-setting.",
     "sku": "VPI-282",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1820,8 +1820,8 @@
   {
     "name": "NAD+ Nasal Spray",
     "dosing": "VPI-286: (T1); 200 mg/mL; 20 %; 15 ml; VPI-287: (T1); 300 mg/mL; 30 %; 15 ml",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "A nasal NAD+ formulation used for convenient cellular-energy and cognitive-support protocols. NAD+ supports redox balance and energy metabolism, while nasal delivery may be selected for ease of use or brain-fog focused goals.",
+    "indication": "May fit patients seeking support for brain fog, mental stamina, daily energy, or healthy-aging goals when a provider determines this route is appropriate. Response can vary and should be monitored.",
     "sku": "VPI-286; VPI-287",
     "non_ship_states": "",
     "type": "Peptide"
@@ -1874,8 +1874,8 @@
   {
     "name": "Enclomiphene Capsule",
     "dosing": "(T2); 25 mg",
-    "description": "A hormone-axis support medication used to stimulate or preserve the body’s own hormone signaling, including testosterone and fertility-related pathways.",
-    "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+    "description": "A selective estrogen receptor modulator used to encourage the body’s own upstream hormone signaling. It is most often used in men to support natural testosterone production while preserving fertility pathways.",
+    "indication": "May fit patients—most commonly men—who want testosterone support while maintaining testicular function, sperm production, or natural hormone signaling. Requires lab-guided monitoring and is not the same as direct testosterone replacement.",
     "sku": "VPI-304",
     "non_ship_states": "",
     "type": "Medication"
@@ -1964,8 +1964,8 @@
   {
     "name": "Kisspeptin-10 Injection",
     "dosing": "(T2); 200 mcg/mL; 5 ml",
-    "description": "A hormone-axis support medication used to stimulate or preserve the body’s own hormone signaling, including testosterone and fertility-related pathways.",
-    "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+    "description": "A hormone-axis support medication used to stimulate or preserve the body’s own reproductive hormone signaling, including ovarian or testicular hormone pathways depending on the patient and protocol.",
+    "indication": "May fit patients who need support for fertility-related hormone signaling, preservation of natural hormone activity, or clinician-guided endocrine optimization. Requires sex-specific dosing review, lab-guided monitoring, and follow-up.",
     "sku": "VPI-378",
     "non_ship_states": "",
     "type": "Peptide"
@@ -2018,8 +2018,8 @@
   {
     "name": "Humanin Lyophilized Powder in",
     "dosing": "15 mg; 10 mL",
-    "description": "A mitochondrial or longevity-focused therapy used in select clinician-guided protocols to support cellular energy, healthy aging, and metabolic resilience.",
-    "indication": "May fit patients dealing with low energy, poor recovery, brain fog, metabolic stress, or age-related performance decline. Many therapies in this category require careful review because evidence and regulatory status vary.",
+    "description": "Humanin is a mitochondrial-derived peptide studied for cellular stress resistance, neuroprotective signaling, metabolic resilience, and tissue-protection pathways. It is conceptually different from MOTS-C, which is more metabolism/AMPK focused.",
+    "indication": "May fit select patients with healthy-aging, cognitive resilience, metabolic-stress, or cellular-protection goals when a provider determines it is appropriate. Evidence is still emerging, so claims should remain conservative.",
     "sku": "VPI-401",
     "non_ship_states": "",
     "type": "Peptide"
@@ -2027,8 +2027,8 @@
   {
     "name": "Testosterone Cypionate/Anastrozole (Grape Seed Oil) Injection-/",
     "dosing": "(T2); 1 mg/mL; 200 mg; 5 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone blend used to support testosterone levels when symptoms and lab results show a need for replacement or optimization. The formulation and route should be matched to the patient’s sex, goals, hormone labs, tolerance, and provider judgment.",
+    "indication": "May fit patients with low-testosterone patterns such as low libido, low energy, mood changes, reduced muscle or strength, and poor recovery. Women’s protocols require lower-dose, carefully monitored use based on symptoms, goals, and lab findings.",
     "sku": "ZAO-2",
     "non_ship_states": "CA",
     "type": "Medication"
@@ -2036,8 +2036,8 @@
   {
     "name": "Testosterone Cypionate Injection (Grape Seed Oil)",
     "dosing": "ZAO-4: (T2); 200 mg/mL; 10 ml; ZAO-5: (T2); 200 mg/ml; 10 ml; ZAO-21: (T2); 50 mg/mL; 2 mL",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "ZAO-4; ZAO-5; ZAO-21",
     "non_ship_states": "CA, MI, OR",
     "type": "Medication"
@@ -2099,8 +2099,8 @@
   {
     "name": "gonadorelin Oral SLT",
     "dosing": "ZAO-29: (T1); 500 mcg; ZAO-31: (T1); 300 mcg",
-    "description": "A hormone-axis support medication used to stimulate or preserve the body’s own hormone signaling, including testosterone and fertility-related pathways.",
-    "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+    "description": "A GnRH-pathway medication used to stimulate pituitary signaling involved in reproductive hormone production. It may be used in select hormone or fertility-conscious protocols.",
+    "indication": "May fit patients needing support for upstream hormone signaling, fertility-related goals, or preservation of natural hormone activity. Use should be individualized by sex, hormone labs, and expected response.",
     "sku": "ZAO-29; ZAO-31",
     "non_ship_states": "",
     "type": "Peptide"
@@ -2108,8 +2108,8 @@
   {
     "name": "Testosterone slt",
     "dosing": "(T2); 100 mg",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "ZAO-36",
     "non_ship_states": "",
     "type": "Medication"
@@ -2117,8 +2117,8 @@
   {
     "name": "Testosterone Cypionate in cotton seed oil (commercial)",
     "dosing": "(T2); 100 mg/ml; 10 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "ZAO-60",
     "non_ship_states": "",
     "type": "Medication"
@@ -2126,8 +2126,8 @@
   {
     "name": "Bremelanotide (PT-141) Nasal Spray/",
     "dosing": "(T1); 3 ml; 2.5 mg; 0.1 mL",
-    "description": "Bremelanotide, also known as PT-141, is a peptide used in sexual-health protocols. Unlike medications that work mainly through blood flow, it acts on brain pathways involved in desire and arousal.",
-    "indication": "May fit patients who feel their sexual desire, arousal, or responsiveness is lower than expected, especially when hormone balance, stress, or medication effects may be involved. Requires screening for blood pressure and nausea risk.",
+    "description": "A peptide used in sexual-health protocols that works through melanocortin pathways in the brain involved in desire and arousal, rather than working mainly through blood flow.",
+    "indication": "May fit patients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress, medication effects, and relationship context are reviewed. Requires screening for blood-pressure effects, nausea risk, and appropriateness by sex and clinical goal.",
     "sku": "zao-191",
     "non_ship_states": "",
     "type": "Peptide"
@@ -2135,8 +2135,8 @@
   {
     "name": "Bremelanotide (PT-141)/Tadalafil Sublingual Tablet/",
     "dosing": "(T1); 1000 mcg; 10 mg",
-    "description": "A sexual-wellness combination that may support both desire/arousal pathways and blood-flow response, depending on the ingredients in the formula.",
-    "indication": "May fit patients experiencing low libido, reduced arousal, performance anxiety around sexual function, or erectile-function concerns. Requires provider review of blood pressure, heart history, medications, and side-effect risk.",
+    "description": "A compounded sexual-health combination that may support desire/arousal pathways, oxytocin-related bonding pathways, and/or blood-flow response depending on the formula.",
+    "indication": "May fit patients with low libido, reduced arousal, sexual responsiveness concerns, or erectile-function concerns when the ingredients match the patient’s goals and safety profile. Requires review of blood pressure, heart history, medications, and side-effect risk.",
     "sku": "zao-192",
     "non_ship_states": "",
     "type": "Medication"
@@ -2144,8 +2144,8 @@
   {
     "name": "Enclomiphene",
     "dosing": "zao-194: (T2); 12.5 mg; zao-196: (T2); 50 mg; zao-1951: (T2); 25 mg",
-    "description": "A hormone-axis support medication used to stimulate or preserve the body’s own hormone signaling, including testosterone and fertility-related pathways.",
-    "indication": "May fit men who want testosterone support while preserving fertility, testicular function, or natural hormone signaling. Requires lab-guided dosing and follow-up.",
+    "description": "A selective estrogen receptor modulator used to encourage the body’s own upstream hormone signaling. It is most often used in men to support natural testosterone production while preserving fertility pathways.",
+    "indication": "May fit patients—most commonly men—who want testosterone support while maintaining testicular function, sperm production, or natural hormone signaling. Requires lab-guided monitoring and is not the same as direct testosterone replacement.",
     "sku": "zao-194; zao-196; zao-1951",
     "non_ship_states": "",
     "type": "Medication"
@@ -2162,8 +2162,8 @@
   {
     "name": "Sildenafil Troche",
     "dosing": "(T1); 100 mg",
-    "description": "A sexual-health medication that improves blood-flow response involved in erections. It is used only after a clinician reviews cardiovascular history and medication safety.",
-    "indication": "May fit men who can get aroused but struggle with erection firmness, performance confidence, or maintaining an erection. Not appropriate with nitrates and requires provider screening.",
+    "description": "A blood-flow support medication used in sexual-health protocols. It improves nitric-oxide related vascular response and is used only after a clinician reviews heart history, blood pressure, and medication safety.",
+    "indication": "May fit patients with blood-flow related sexual-function concerns. It is most commonly used for erectile-function support, but any use should be matched to the patient’s anatomy, goals, cardiovascular history, and medication profile. Not appropriate with nitrates.",
     "sku": "ZAO-213",
     "non_ship_states": "",
     "type": "Medication"
@@ -2171,8 +2171,8 @@
   {
     "name": "Teststerone Cream (topiclick) m",
     "dosing": "(T2); 30g",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "ZAO-220",
     "non_ship_states": "",
     "type": "Medication"
@@ -2198,8 +2198,8 @@
   {
     "name": "TESTOSTERONE ENANTHATE (COMPOUNDED IN GRAPE SEED OIL)",
     "dosing": "(T2); 200 mg/ml; 10 ml",
-    "description": "A testosterone therapy option used in clinician-guided hormone care to restore testosterone to a healthier range when symptoms and lab results support treatment.",
-    "indication": "May fit men dealing with low energy, low libido, weaker workouts, loss of muscle, mood changes, poor recovery, or other symptoms that line up with low testosterone labs. Treatment requires ongoing monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "ZAO-263",
     "non_ship_states": "",
     "type": "Medication"
@@ -2216,8 +2216,8 @@
   {
     "name": "Anastrozole Capsule capsule",
     "dosing": "(T2); 0.5 mg",
-    "description": "A hormone-modulating medication used to influence estrogen pathways. In men, some options are used to manage estrogen balance during testosterone-focused care.",
-    "indication": "May fit patients whose labs or symptoms suggest estrogen imbalance, such as water retention, breast tenderness, mood changes, libido changes, or hormone-protocol side effects. Requires precise dosing and monitoring.",
+    "description": "An aromatase-inhibitor medication used to reduce conversion of androgens into estradiol when estrogen levels are clinically too high or causing symptoms.",
+    "indication": "May fit patients with lab-confirmed or symptom-supported estrogen excess, such as breast tenderness, fluid retention, mood changes, libido changes, or hormone-protocol side effects. It requires precise dosing because too little estrogen can also cause symptoms.",
     "sku": "zao-271",
     "non_ship_states": "",
     "type": "Medication"
@@ -2243,8 +2243,8 @@
   {
     "name": "Tadalafil Tablet",
     "dosing": "20 mg",
-    "description": "A sexual-health medication that improves blood-flow response involved in erections. It is used only after a clinician reviews cardiovascular history and medication safety.",
-    "indication": "May fit men who can get aroused but struggle with erection firmness, performance confidence, or maintaining an erection. Not appropriate with nitrates and requires provider screening.",
+    "description": "A blood-flow support medication used in sexual-health protocols. It improves nitric-oxide related vascular response and is used only after a clinician reviews heart history, blood pressure, and medication safety.",
+    "indication": "May fit patients with blood-flow related sexual-function concerns. It is most commonly used for erectile-function support, but any use should be matched to the patient’s anatomy, goals, cardiovascular history, and medication profile. Not appropriate with nitrates.",
     "sku": "ZAO-305",
     "non_ship_states": "",
     "type": "Medication"
@@ -2261,8 +2261,8 @@
   {
     "name": "Testosterone Lipoderm Cream topiclick",
     "dosing": "ZAO-310: (T2); 30 mg/g; 30g; ZAO-315: (T2); 60 mg/g; 30g",
-    "description": "A prescription or compounded medication used within a medically supervised care plan based on symptoms, lab findings, goals, and medical history.",
-    "indication": "May fit patients when a provider determines it is clinically appropriate. Requires individualized dosing, safety screening, and follow-up monitoring.",
+    "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+    "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate—most commonly for low sexual desire or androgen-deficiency patterns—and requires conservative dosing and ongoing lab monitoring.",
     "sku": "ZAO-310; ZAO-315",
     "non_ship_states": "CA, IA, MN, WI",
     "type": "Medication"
