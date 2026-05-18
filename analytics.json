@@ -13620,5 +13620,71 @@
             }
         ],
         "timestamp": "2026-05-18T19:12:02.541655"
+    },
+    {
+        "member_name": "test turner",
+        "manager": "Buddy",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "A clinician-guided testosterone therapy used to restore testosterone into an appropriate physiologic range when symptoms and lab results support treatment. Testosterone protocols should be individualized by sex, goals, route, dose, and lab response; women typically require much lower dosing than traditional male replacement protocols.",
+                "indication": "May fit patients with symptoms that align with low or suboptimal testosterone, such as low libido, low motivation, reduced training response, poor recovery, loss of strength, mood changes, or persistent fatigue. For women, it may be considered only when clinically appropriate\u2014most commonly for low sexual desire or androgen-deficiency patterns\u2014and requires conservative dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tadalafil (Generic Cialis) Tablet",
+                "dosing": "EMP-6: 5 mg; EMP-8: 10 mg; EMP-10: 20 mg; VPI-144: (T1); 20 mg",
+                "description": "A blood-flow support medication used in sexual-health protocols. It improves nitric-oxide related vascular response and is used only after a clinician reviews heart history, blood pressure, and medication safety.",
+                "indication": "May fit patients with blood-flow related sexual-function concerns. It is most commonly used for erectile-function support, but any use should be matched to the patient\u2019s anatomy, goals, cardiovascular history, and medication profile. Not appropriate with nitrates.",
+                "sku": "EMP-6; EMP-8; EMP-10; VPI-144",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Methylene Blue Capsule",
+                "dosing": "5 mg",
+                "description": "A redox-active medication that can act as an alternative electron carrier in mitochondria. In carefully selected protocols, it is used for cellular-energy and cognitive-support goals, but it has important medication-interaction and safety considerations.",
+                "indication": "May fit carefully screened patients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals. Requires review for serotonergic medications, psychiatric history, G6PD status, pregnancy/breastfeeding status, and dose sensitivity.",
+                "sku": "EMP-173",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "NAD+",
+                "dosing": "100 mg/mL; 1000 mg; 10 ml",
+                "description": "NAD+ is a coenzyme involved in energy metabolism, redox balance, DNA-repair signaling, and cellular stress responses. In clinician-guided protocols, route and dose are selected based on energy, recovery, metabolic, or healthy-aging goals.",
+                "indication": "May fit patients with fatigue, poor recovery, brain fog, high stress load, or healthy-aging goals when clinically appropriate. Benefits vary by route and patient context, so it should be paired with lifestyle foundations and provider monitoring.",
+                "sku": "Stk-5",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Methylene Blue Liposomal Capsule",
+                "dosing": "(T1); 10 mg",
+                "description": "A liposomal form of methylene blue, a redox-active medication studied for mitochondrial electron transport and neuroprotective pathways. The liposomal route may change absorption and tolerance compared with standard capsules.",
+                "indication": "May fit carefully screened patients pursuing cognitive, brain-fog, or cellular-energy support when medication interactions and contraindications have been reviewed. Requires caution with antidepressants and other serotonergic agents.",
+                "sku": "VPI-262",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "MOTs-C Analog Capsule",
+                "dosing": "(T1); 5 mg",
+                "description": "An oral MOTS-C analog intended to target the same mitochondrial-derived peptide signaling family associated with metabolic flexibility, AMPK activity, and energy regulation. The oral analog should be distinguished from injectable MOTS-C products.",
+                "indication": "May fit patients seeking metabolic or mitochondrial support in a non-injectable format, especially around weight-loss resistance, low energy, or insulin-resistance patterns. Requires review of evidence limitations and realistic expectations.",
+                "sku": "VPI-281",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-05-18T19:19:45.365749"
     }
 ]
