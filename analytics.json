@@ -88,5 +88,51 @@
             }
         ],
         "timestamp": "2026-05-18T20:24:36.764404"
+    },
+    {
+        "member_name": "Ed McCuiston",
+        "manager": "Jamie",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Anastrozole Capsule/Tablet",
+                "dosing": "5 mg",
+                "description": "An aromatase-inhibitor medication used to reduce conversion of androgens into estradiol when estrogen activity is above the intended clinical range.",
+                "indication": "May fit clients with lab-supported estrogen excess, breast-tissue tenderness, fluid retention, libido changes, or hormone-protocol side effects, with careful dosing to avoid over-suppression.",
+                "sku": "EMP-108",
+                "non_ship_states": "CA, IA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Oxandrolone Tablet",
+                "dosing": "EMP-158: 3.5 mg; EMP-160: 6 mg; EMP-162: 11.5 mg; EMP-166: 36.5 mg; EMP-168: 48.5 mg",
+                "description": "An oral anabolic medication used only in carefully selected, short-duration protocols where recovery or lean-mass support is clinically justified.",
+                "indication": "May fit carefully screened clients with specific strength, recovery, or lean-mass preservation goals when liver markers, lipids, blood pressure, hormone balance, and consent requirements are monitored.",
+                "sku": "EMP-158; EMP-160; EMP-162; EMP-166; EMP-168",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Retatrutide/",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "A multi-incretin metabolic therapy concept used only in highly supervised, research-aware protocols where legal availability and clinical appropriateness are confirmed.",
+                "indication": "May fit only carefully screened clients pursuing advanced metabolic support when a clinician verifies regulatory status, contraindications, dose strategy, and close monitoring requirements.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            },
+            {
+                "name": "IGF-1 LR3 Lyophilized Powder in",
+                "dosing": "(T1); 600 mcg; 5 mL",
+                "description": "An IGF-1 analog used only in advanced, tightly supervised protocols because of its growth-factor activity and safety considerations.",
+                "indication": "May fit only carefully screened clients with a specific clinician-defined rationale, with review of glucose control, cancer history, tissue-growth risk, and monitoring requirements.",
+                "sku": "VPI-302",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-05-18T21:16:13.558016"
     }
 ]
