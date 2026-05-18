@@ -13865,5 +13865,71 @@
             }
         ],
         "timestamp": "2026-05-18T19:36:08.372878"
+    },
+    {
+        "member_name": "test turner",
+        "manager": "Buddy",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tadalafil (Generic Cialis) Tablet",
+                "dosing": "EMP-6: 5 mg; EMP-8: 10 mg; EMP-10: 20 mg; VPI-144: (T1); 20 mg",
+                "description": "A PDE-5 medication used in sexual-health protocols to support nitric-oxide mediated blood-flow response and confidence in sexual performance.",
+                "indication": "May fit clients with erectile-function or blood-flow related sexual concerns after review of cardiovascular history, blood pressure, nitrate use, and medication interactions.",
+                "sku": "EMP-6; EMP-8; EMP-10; VPI-144",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Methylene Blue Capsule",
+                "dosing": "5 mg",
+                "description": "A redox-active medication that may support mitochondrial electron transport and cellular-energy signaling in carefully selected protocols.",
+                "indication": "May fit carefully screened clients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals after review of serotonergic medications, G6PD status, psychiatric history, and dose sensitivity.",
+                "sku": "EMP-173",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "NAD+",
+                "dosing": "100 mg/mL; 1000 mg; 10 ml",
+                "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+                "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+                "sku": "Stk-5",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Methylene Blue Liposomal Capsule",
+                "dosing": "(T1); 10 mg",
+                "description": "A redox-active medication that may support mitochondrial electron transport and cellular-energy signaling in carefully selected protocols.",
+                "indication": "May fit carefully screened clients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals after review of serotonergic medications, G6PD status, psychiatric history, and dose sensitivity.",
+                "sku": "VPI-262",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "MOTs-C Analog Capsule",
+                "dosing": "(T1); 5 mg",
+                "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+                "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-281",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-05-18T20:08:29.905830"
     }
 ]
