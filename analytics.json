@@ -606,5 +606,61 @@
             }
         ],
         "timestamp": "2026-05-20T22:10:50.819216"
+    },
+    {
+        "member_name": "Test Turner",
+        "manager": "Buddy",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Retatrutide/",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "A multi-incretin metabolic therapy concept used only in highly supervised, research-aware protocols where legal availability and clinical appropriateness are confirmed.",
+                "indication": "May fit only carefully screened clients pursuing advanced metabolic support when a clinician verifies regulatory status, contraindications, dose strategy, and close monitoring requirements.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "GHK-Cu Facial Serum",
+                "dosing": "0.5 %; 30g",
+                "description": "A copper-peptide skin therapy used to support collagen signaling, skin firmness, tissue quality, and healthy-looking texture.",
+                "indication": "May fit clients focused on skin aging, texture, recovery, or regenerative skin support when topical tolerance, consistency, and realistic timelines are reviewed.",
+                "sku": "EMP-307",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "BPC-157",
+                "dosing": "3 mg/mL; 5 ml; 15 mg",
+                "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "STK-12",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [
+            {
+                "name": "Test Promotion",
+                "sku": "PROMO-test",
+                "description": "This is the information about who this promo is for and potential benefits.",
+                "indication": "Name of Medications, Peptides and supplements in the promo and relavant usage or use information.",
+                "price": "159"
+            }
+        ],
+        "timestamp": "2026-05-20T23:17:56.704045"
     }
 ]
