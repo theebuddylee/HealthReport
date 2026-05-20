@@ -46,12 +46,16 @@ if "current_plan_medications" not in st.session_state:
     st.session_state.current_plan_medications = []
 if "current_plan_supplements" not in st.session_state:
     st.session_state.current_plan_supplements = []
+if "current_plan_peptides" not in st.session_state:
+    st.session_state.current_plan_peptides = []
+if "current_plan_promos" not in st.session_state:
+    st.session_state.current_plan_promos = []
 
 # Membership Manager Dropdown and Member's Name input
 st.sidebar.title("Member Details")
 membership_managers = ["AJ", "Allison", "Amber", "Barbara", "Buddy", "Brian", "Casey", "Dawn", "Dillon", "Jamie", "Joe", "Kathy", "Sean", "Steven"]
-selected_manager = st.sidebar.selectbox("Select Membership Manager", membership_managers)
-member_name = st.sidebar.text_input("Enter Member/Patient Name")
+selected_manager = st.sidebar.selectbox("Select Health Coach", membership_managers)
+member_name = st.sidebar.text_input("Enter Client Name")
 
 # === Women's Treatment Plan Toggle ===
 st.sidebar.markdown("---")
@@ -81,7 +85,14 @@ contact_info = load_json_from_github("contact_info.json")
 memberships = load_json_from_github("memberships.json")
 diagnostic_tests = load_json_from_github("diagnostic_tests.json")
 medications = load_json_from_github("medications.json")
+peptides = load_json_from_github("peptides.json")
 supplements = load_json_from_github("supplements.json")
+promos = load_json_from_github("promos.json")
+
+# Keep selection widgets stable even if a new JSON file is missing or temporarily malformed.
+for dataset_name in ["memberships", "diagnostic_tests", "medications", "peptides", "supplements", "promos"]:
+    if not isinstance(globals().get(dataset_name), list):
+        globals()[dataset_name] = []
 
 # Function to merge PDFs
 def merge_pdfs(template_path, generated_path, output_path):
@@ -222,7 +233,7 @@ def add_section(title, items, data_source, pdf, show_price=False):
         pdf.ln(5)
 
 # PDF generation function (UPDATED - now accepts template_path)
-def generate_pdf(selected_membership, final_tests, final_medications, final_supplements, template_path):
+def generate_pdf(selected_membership, final_tests, final_medications, final_peptides, final_supplements, final_promos, template_path):
     try:
         generated_pdf_path = "generated_content.pdf"
         merged_pdf_path = "final_treatment_plan.pdf"
@@ -249,7 +260,9 @@ def generate_pdf(selected_membership, final_tests, final_medications, final_supp
         add_section("Membership", selected_membership, memberships, pdf, show_price=True)
         add_section("Diagnostic Testing", final_tests, diagnostic_tests, pdf)
         add_section("Medications", final_medications, medications, pdf)
+        add_section("Peptides", final_peptides, peptides, pdf)
         add_section("Supplements", final_supplements, supplements, pdf)
+        add_section("Promos", final_promos, promos, pdf)
 
         # Save PDF and merge
         pdf.output(generated_pdf_path)
@@ -308,10 +321,17 @@ st.subheader("Select Products for Your Report")
 selected_membership = st.multiselect("Membership", [item['name'] for item in memberships], max_selections=1)
 
 # Dropdowns for Tests, Medications, and Supplements
-def add_custom_entry(category, base_items, session_state_key):
+def add_custom_entry(category, base_items, session_state_key, default_selected=None):
+    default_selected = default_selected or []
+    item_names = [item['name'] for item in base_items]
+    valid_defaults = [name for name in default_selected if name in item_names]
+
     # Display dropdown with all items (full dictionaries) plus "Other"
     selected_items = st.multiselect(
-        f"Select {category}", [item['name'] for item in base_items] + ["Other"], max_selections=10
+        f"Select {category}",
+        item_names + ["Other"],
+        default=valid_defaults,
+        max_selections=10
     )
 
     # Handle "Other" for adding custom entries
@@ -341,7 +361,14 @@ def add_custom_entry(category, base_items, session_state_key):
 # Process user selections
 final_tests = add_custom_entry("Tests", diagnostic_tests, "current_plan_tests")
 final_medications = add_custom_entry("Medications", medications, "current_plan_medications")
-final_supplements = add_custom_entry("Supplements", supplements, "current_plan_supplements")
+final_peptides = add_custom_entry("Peptides", peptides, "current_plan_peptides")
+final_supplements = add_custom_entry(
+    "Supplements",
+    supplements,
+    "current_plan_supplements",
+    default_selected=["Health Essential Bundle (Multi, Vitamin D, Omega)"]
+)
+final_promos = add_custom_entry("Promos", promos, "current_plan_promos")
 
 # Optimized Side-by-Side Cards Layout with Branding Styles
 optimized_card_layout = f"""
@@ -417,14 +444,16 @@ if final_tests:
 #st.write("DEBUG: Final Tests:", final_tests)
 #st.write("DEBUG: Final Medications:", final_medications)
 #st.write("DEBUG: Final Supplements:", final_supplements)
+#st.write("DEBUG: Final Peptides:", final_peptides)
+#st.write("DEBUG: Final Promos:", final_promos)
 
 # PDF Generation
 if st.button("Generate PDF"):
     # Determine which template to use
     template_path = WOMENS_TEMPLATE_PATH if st.session_state.use_womens_plan else DEFAULT_TEMPLATE_PATH
-    
+
     # Attempt to generate the PDF
-    pdf_path = generate_pdf(selected_membership, final_tests, final_medications, final_supplements, template_path)
+    pdf_path = generate_pdf(selected_membership, final_tests, final_medications, final_peptides, final_supplements, final_promos, template_path)
     # Log analytics data to GitHub
     analytics_data = {
         "member_name": member_name,
@@ -432,7 +461,9 @@ if st.button("Generate PDF"):
         "membership": selected_membership,
         "tests": final_tests,
         "medications": final_medications,
+        "peptides": final_peptides,
         "supplements": final_supplements,
+        "promos": final_promos,
     }
     try:
         log_to_github(analytics_data)
@@ -518,7 +549,7 @@ if show_editor:
             st.subheader("Edit JSON Files")
 
             # Select JSON file to edit
-            json_files = ["contact_info.json", "memberships.json", "diagnostic_tests.json", "medications.json", "supplements.json"]
+            json_files = ["contact_info.json", "memberships.json", "diagnostic_tests.json", "medications.json", "peptides.json", "supplements.json", "promos.json"]
             selected_file = st.selectbox("Select JSON File to Edit:", json_files)
 
             # Load the selected file
@@ -538,11 +569,3 @@ if show_editor:
                 st.error(f"Unable to load {selected_file}.")
     else:
         st.sidebar.error("Incorrect password. Access denied.")
-
-
-
-
-
-
-
-
