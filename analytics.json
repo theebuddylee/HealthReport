@@ -453,5 +453,44 @@
         ],
         "supplements": [],
         "timestamp": "2026-05-20T20:16:03.981370"
+    },
+    {
+        "member_name": "test turner",
+        "manager": "Buddy",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Retatrutide/",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "A multi-incretin metabolic therapy concept used only in highly supervised, research-aware protocols where legal availability and clinical appropriateness are confirmed.",
+                "indication": "May fit only carefully screened clients pursuing advanced metabolic support when a clinician verifies regulatory status, contraindications, dose strategy, and close monitoring requirements.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            },
+            {
+                "name": "GHK-Cu Capsule",
+                "dosing": "(T1); 5 mg",
+                "description": "A copper-peptide therapy used in regenerative wellness protocols to support tissue quality, collagen signaling, skin health, and recovery pathways.",
+                "indication": "May fit clients focused on skin quality, hair support, tissue recovery, or regenerative wellness goals after route, expectations, and monitoring are reviewed.",
+                "sku": "VPI-132",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "A nicotinamide-metabolism related compound used in research-informed cardiometabolic and mitochondrial-support protocols.",
+                "indication": "May fit carefully screened clients with metabolic-health, vascular-health, or cellular-energy goals when medication interactions, expectations, and monitoring are reviewed.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [],
+        "timestamp": "2026-05-20T20:16:17.229045"
     }
 ]
