@@ -492,5 +492,62 @@
         ],
         "supplements": [],
         "timestamp": "2026-05-20T20:16:17.229045"
+    },
+    {
+        "member_name": "Michael Little ",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "N-Acetyl MOTs-C Injection",
+                "dosing": "(T1); 10 mg/mL; 5 ml",
+                "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+                "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-282",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "NAD+ Nasal Spray",
+                "dosing": "VPI-286: (T1); 200 mg/mL; 20 %; 15 ml; VPI-287: (T1); 300 mg/mL; 30 %; 15 ml",
+                "description": "A nasal NAD+ option used in cellular-energy protocols for clients seeking a non-injectable route of mitochondrial and redox support.",
+                "indication": "May fit clients with energy, recovery, brain-fog, or cellular-support goals after route tolerance, sensitivity, and realistic expectations are reviewed.",
+                "sku": "VPI-286; VPI-287",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "S-Acetyl Glutathione Synergy",
+                "description": "Glutathione (GSH) is considered the body\u2019s \u201cmaster\u201d antioxidant, which is critical for the maintenance of antioxidant balance and helps to protect cells from the effects of oxidative stress.* GSH also helps promote normal detoxification.* Vitamin B6 supports emzymatic reactions in the body that support normal detoxification, and NAC is a critical precursor (or building block) to glutathione.*",
+                "indication": "Promotes optimal glutathione status, a potent antioxidant."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "timestamp": "2026-05-20T22:00:45.778655"
     }
 ]
