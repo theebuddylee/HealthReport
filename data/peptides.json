@@ -1,0 +1,758 @@
+[
+  {
+    "name": "Sermorelin Acetate Injection",
+    "dosing": "EMP-36: (Lyo); 9 mg; EMP-38: (Lyo); 15 mg",
+    "description": "A GHRH-pathway peptide used to support the body’s natural growth-hormone signaling when symptoms, goals, and labs make it clinically appropriate.",
+    "indication": "May fit clients focused on sleep quality, recovery, body composition, training adaptation, or low IGF-1 patterns after clinical review and monitoring.",
+    "sku": "EMP-36; EMP-38",
+    "non_ship_states": "CA, IA, MA, WI",
+    "type": "Peptide"
+  },
+  {
+    "name": "HCG Injection (Pregnyl®)",
+    "dosing": "EMP-50: (Lyo); 10,000 IU; ZAO-19: (Lyo); (T2); 10,000 IU",
+    "description": "A hormone-signaling medication that mimics luteinizing-hormone activity and may support ovarian or testicular hormone production in fertility-conscious or endocrine protocols.",
+    "indication": "May fit clients who need support for natural hormone signaling, fertility-related goals, or gonadal function while a clinician reviews anatomy-specific use, labs, dosing, and follow-up monitoring.",
+    "sku": "EMP-50; ZAO-19",
+    "non_ship_states": "CA, IA, WI",
+    "type": "Peptide"
+  },
+  {
+    "name": "Glutathione Injection (Preserved)",
+    "dosing": "EMP-244: 200 mg/mL; 30 mL; ZAO-400: (T2); 200 mg/mL; 30 mL",
+    "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+    "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+    "sku": "EMP-244; ZAO-400",
+    "non_ship_states": "CA, IA, MA, WI",
+    "type": "Peptide"
+  },
+  {
+    "name": "Gonadorelin Acetate Injection",
+    "dosing": "EMP-246: 100 mcg/mL; 5 mL; Zao - 350: (T2); 0.2 mg/mL; 5 mL",
+    "description": "A GnRH-pathway therapy used to stimulate upstream pituitary signaling involved in reproductive hormone production when that pathway is clinically relevant.",
+    "indication": "May fit clients needing support for natural hormone signaling or fertility-conscious hormone planning, with expectations guided by baseline labs, anatomy, pituitary response, and treatment goals.",
+    "sku": "EMP-246; Zao - 350",
+    "non_ship_states": "CA, IA, MA, WI",
+    "type": "Peptide"
+  },
+  {
+    "name": "Somatropin Injection (Omnitrope®) **",
+    "dosing": "5.8 mg",
+    "description": "A prescription human growth hormone medication used only for clearly defined, clinician-supervised indications with strict monitoring.",
+    "indication": "May fit carefully selected clients with documented growth-hormone related needs when IGF-1, glucose control, fluid retention risk, cancer history, and long-term monitoring are reviewed.",
+    "sku": "EMP-253",
+    "non_ship_states": "CA, IA, WI",
+    "type": "Peptide"
+  },
+  {
+    "name": "Bremelanotide Injection",
+    "dosing": "10 mg/mL; 2 ml",
+    "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+    "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+    "sku": "EMP-289",
+    "non_ship_states": "CA, IA, MA, WI",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Facial Serum",
+    "dosing": "0.5 %; 30g",
+    "description": "A copper-peptide skin therapy used to support collagen signaling, skin firmness, tissue quality, and healthy-looking texture.",
+    "indication": "May fit clients focused on skin aging, texture, recovery, or regenerative skin support when topical tolerance, consistency, and realistic timelines are reviewed.",
+    "sku": "EMP-307",
+    "non_ship_states": "CA, MN, WI",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Scalp Solution",
+    "dosing": "0.5 %; 62 ml",
+    "description": "A copper-peptide scalp therapy used to support scalp quality, follicle environment, and hair-density goals in regenerative hair protocols.",
+    "indication": "May fit clients noticing thinning, shedding, or reduced scalp coverage who want peptide-based topical support alongside evaluation of hormones, nutrients, and scalp health.",
+    "sku": "EMP-308",
+    "non_ship_states": "CA, MN, WI",
+    "type": "Peptide"
+  },
+  {
+    "name": "NAD+ Cream",
+    "dosing": "10 %; 30 ml",
+    "description": "A topical NAD+ support formula intended for skin-focused cellular-energy and healthy-aging protocols.",
+    "indication": "May fit clients focused on skin quality, visible aging, or localized cellular-support goals, with expectations framed as supportive rather than age-reversing.",
+    "sku": "EMP-381",
+    "non_ship_states": "CA, MN, WI",
+    "type": "Peptide"
+  },
+  {
+    "name": "GLOW GHK-Cu/BPC-157/TB-500 Injection (//)",
+    "dosing": "3.33 mg/ML; 9 mg; 1.66 mg; 3 ml",
+    "description": "A research-informed recovery peptide combination pairing BPC-157 with thymosin beta-4/TB-500 pathways to support tissue remodeling, mobility, and repair signaling.",
+    "indication": "May fit carefully screened clients with tendon, ligament, joint, training-recovery, or soft-tissue goals when expectations, regulatory status, and clinician monitoring are reviewed.",
+    "sku": "Stk-1",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "WOLVERINE BPC-157/TB-500 Injection (/)",
+    "dosing": "3.33 mg/ML; 1.66 mg; 3 ml",
+    "description": "A research-informed recovery peptide combination pairing BPC-157 with thymosin beta-4/TB-500 pathways to support tissue remodeling, mobility, and repair signaling.",
+    "indication": "May fit carefully screened clients with tendon, ligament, joint, training-recovery, or soft-tissue goals when expectations, regulatory status, and clinician monitoring are reviewed.",
+    "sku": "Stk-2",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Injection",
+    "dosing": "10 mg/mL; 50 mg; 5 ml",
+    "description": "A copper-peptide therapy used in regenerative wellness protocols to support tissue quality, collagen signaling, skin health, and recovery pathways.",
+    "indication": "May fit clients focused on skin quality, hair support, tissue recovery, or regenerative wellness goals after route, expectations, and monitoring are reviewed.",
+    "sku": "Stk-3",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "PT-141 Injection",
+    "dosing": "10 mg/mL; 50 mg; 5 ml",
+    "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+    "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+    "sku": "Stk-4",
+    "non_ship_states": "IN",
+    "type": "Peptide"
+  },
+  {
+    "name": "NAD+",
+    "dosing": "100 mg/mL; 1000 mg; 10 ml",
+    "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+    "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+    "sku": "Stk-5",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "CJC/lpamorelin/Injection (/)",
+    "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+    "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+    "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+    "sku": "Stk-6",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "BPC-157",
+    "dosing": "3 mg/mL; 5 ml; 15 mg",
+    "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+    "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "STK-12",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Tesamorelin + Ipamorelin Lyophilized Powder in",
+    "dosing": "(T1); 6 mg; 3 mg; 5 mL",
+    "description": "A growth-hormone secretagogue combination pairing GHRH analog support with ipamorelin’s GH-pulse signaling to target recovery and body-composition pathways.",
+    "indication": "May fit clients with recovery, visceral-fat or body-composition goals, sleep-quality concerns, or low IGF-1 patterns after clinician review of glucose control and contraindications.",
+    "sku": "VPI-31",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Ipamorelin + Tesamorelin per mL/-- Injection",
+    "dosing": "(T1); 500 mcg; 1000 mcg; 3 ml",
+    "description": "A growth-hormone secretagogue combination pairing GHRH analog support with ipamorelin’s GH-pulse signaling to target recovery and body-composition pathways.",
+    "indication": "May fit clients with recovery, visceral-fat or body-composition goals, sleep-quality concerns, or low IGF-1 patterns after clinician review of glucose control and contraindications.",
+    "sku": "VPI-33",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Ipamorelin + Tesamorelin per mL/- Injection",
+    "dosing": "VPI-35: (T1); 500 mcg; 1000 mcg; 5 ml; VPI-37: (T1); 500 mcg; 2500 mcg; 10 ml",
+    "description": "A growth-hormone secretagogue combination pairing GHRH analog support with ipamorelin’s GH-pulse signaling to target recovery and body-composition pathways.",
+    "indication": "May fit clients with recovery, visceral-fat or body-composition goals, sleep-quality concerns, or low IGF-1 patterns after clinician review of glucose control and contraindications.",
+    "sku": "VPI-35; VPI-37",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Tesamorelin/Injection",
+    "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+    "description": "A GHRH analog peptide used in select protocols to support growth-hormone/IGF-1 signaling and body-composition goals.",
+    "indication": "May fit carefully screened clients with body-composition or recovery goals when IGF-1, glucose markers, cancer history, and route-specific monitoring are reviewed.",
+    "sku": "VPI-39; VPI-41",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl BPC-157 + N-Acetyl KPV Amidate Capsule",
+    "dosing": "(T1); 500 mcg; 250 mcg",
+    "description": "A gut and recovery-focused peptide combination pairing BPC-157 with KPV-related immune and barrier-support pathways.",
+    "indication": "May fit carefully screened clients with gut-barrier, inflammatory, or tissue-recovery goals after clinician review of symptoms, medication context, regulatory status, and monitoring.",
+    "sku": "VPI-43",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl BPC-157 Capsule",
+    "dosing": "VPI-49: (T1); 1 mg; VPI-130: 500 mcg",
+    "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+    "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-49; VPI-130",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl BPC-157 Lyophilized Powder in",
+    "dosing": "(T1); 15 mg; 10 mL",
+    "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+    "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-53",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl BPC-157 + Thymosin Beta-4 Lyophilized Powder in",
+    "dosing": "(T1); 15 mg; 5 mL",
+    "description": "A research-informed recovery peptide combination pairing BPC-157 with thymosin beta-4/TB-500 pathways to support tissue remodeling, mobility, and repair signaling.",
+    "indication": "May fit carefully screened clients with tendon, ligament, joint, training-recovery, or soft-tissue goals when expectations, regulatory status, and clinician monitoring are reviewed.",
+    "sku": "VPI-55",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl BPC-157 Injection",
+    "dosing": "(T1); 3000 mcg/mL; 5 mL",
+    "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+    "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-57",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl BPC-157 + Thymosin Beta-4 per mL - Injection",
+    "dosing": "(T1); 3000 mcg; 5 mL",
+    "description": "A research-informed recovery peptide combination pairing BPC-157 with thymosin beta-4/TB-500 pathways to support tissue remodeling, mobility, and repair signaling.",
+    "indication": "May fit carefully screened clients with tendon, ligament, joint, training-recovery, or soft-tissue goals when expectations, regulatory status, and clinician monitoring are reviewed.",
+    "sku": "VPI-59",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl BPC-157, NAD+, Thymosin Beta-4 per mL - Nasal Spray",
+    "dosing": "(T1); 500 mcg; 200 mg; 250 mcg; 7.5 mL",
+    "description": "A nasal NAD+ option used in cellular-energy protocols for clients seeking a non-injectable route of mitochondrial and redox support.",
+    "indication": "May fit clients with energy, recovery, brain-fog, or cellular-support goals after route tolerance, sensitivity, and realistic expectations are reviewed.",
+    "sku": "VPI-65",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Dihexa Nasal Spray",
+    "dosing": "VPI-77: (T1); 5 mg/mL; 7.5 ml; VPI-79: (T1); 5 mg/mL; 15 ml",
+    "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+    "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+    "sku": "VPI-77; VPI-79",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Dihexa Capsule",
+    "dosing": "VPI-81: (T1); 5 mg; VPI-85: (T1); 20 mg",
+    "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+    "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+    "sku": "VPI-81; VPI-85",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Dihexa Capsule Price:",
+    "dosing": "(T1); 10 mg",
+    "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+    "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+    "sku": "VPI-83",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Thymosin Beta-4 Lyophilized Powder in",
+    "dosing": "(T1); 15 mg; 10 mL",
+    "description": "A thymosin beta-4/TB-500 peptide option used in research-informed recovery protocols focused on tissue remodeling, mobility, and repair signaling.",
+    "indication": "May fit carefully screened clients with soft-tissue recovery, joint comfort, mobility, or high training-load goals when regulatory status, route, and monitoring are reviewed.",
+    "sku": "VPI-87",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Thymulin Lyophilized Powder in",
+    "dosing": "(T1); 15 mg; 5 mL",
+    "description": "A thymic peptide option used in research-informed immune and neuroendocrine support protocols.",
+    "indication": "May fit carefully screened clients with immune-resilience or recovery goals when expectations, regulatory status, and immune history are reviewed.",
+    "sku": "VPI-89",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Selank [N-Acetyl] Nasal Spray",
+    "dosing": "VPI-91: (T1); 7500 mcg/mL; 7.5 ml; VPI-93: (T1); 7500 mcg/mL; 15 ml",
+    "description": "A neuropeptide nasal option used in research-informed protocols focused on stress resilience, calm focus, and nervous-system balance.",
+    "indication": "May fit carefully screened clients with stress reactivity, anxious tension, or focus concerns when medications, mood history, route tolerance, and expectations are reviewed.",
+    "sku": "VPI-91; VPI-93",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Semax [N-Acetyl] Nasal Spray",
+    "dosing": "VPI-95: (T1); 7500 mcg/mL; 7.5 ml; VPI-97: (T1); 7500 mcg/mL; 15 ml",
+    "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+    "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+    "sku": "VPI-95; VPI-97",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "VIP (Vasoactive Intestinal Peptide) Nasal Spray",
+    "dosing": "VPI-99: (T1); 500 mcg/mL; 15 ml; VPI-101: 500 mcg/mL; 7.5 ml",
+    "description": "A vasoactive intestinal peptide nasal option used in select research-informed protocols involving neuroimmune, inflammatory, and mucosal signaling pathways.",
+    "indication": "May fit carefully screened clients with clinician-defined neuroimmune or inflammatory-support goals when history, sensitivities, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-99; VPI-101",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Larazotide (AT 1001) Capsule",
+    "dosing": "500 mcg",
+    "description": "A gut-barrier support peptide option used in research-informed protocols focused on tight-junction signaling and intestinal permeability pathways.",
+    "indication": "May fit carefully screened clients with gut-barrier, food-reactivity, or inflammatory gut-pattern goals when diagnosis, diet strategy, medications, and expectations are reviewed.",
+    "sku": "VPI-103",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl Epitalon Lyophilized Powder in",
+    "dosing": "50 mg; 5 mL",
+    "description": "A longevity-oriented peptide option used in research-informed protocols focused on cellular aging, circadian biology, and resilience signaling.",
+    "indication": "May fit carefully screened clients pursuing healthy-aging or sleep-rhythm support when expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-108",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Topical Cream in Serum Pump",
+    "dosing": "VPI-116: 2 mg/mL; 0.2 %; 30 ml; VPI-142: [15 mL]; (T1); 5 mg/mL; 0.5 %; VPI-143: [30 mL]; (T1); 5 mg/mL; 0.5 %; VPI-329: (T1); 5 mg/mL; 0.5 %",
+    "description": "A copper-peptide skin therapy used to support collagen signaling, skin firmness, tissue quality, and healthy-looking texture.",
+    "indication": "May fit clients focused on skin aging, texture, recovery, or regenerative skin support when topical tolerance, consistency, and realistic timelines are reviewed.",
+    "sku": "VPI-116; VPI-142; VPI-143; VPI-329",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Capsule",
+    "dosing": "(T1); 5 mg",
+    "description": "A copper-peptide therapy used in regenerative wellness protocols to support tissue quality, collagen signaling, skin health, and recovery pathways.",
+    "indication": "May fit clients focused on skin quality, hair support, tissue recovery, or regenerative wellness goals after route, expectations, and monitoring are reviewed.",
+    "sku": "VPI-132",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Nasal Spray",
+    "dosing": "VPI-133: [15 mL]; (T1); 5 mg/mL; VPI-134: [3.75 mL]; (T1); 5 mg/mL; VPI-135: [7.5 mL]; (T1); 5 mg/mL",
+    "description": "A copper-peptide nasal option used in research-informed regenerative wellness protocols focused on tissue quality and repair signaling.",
+    "indication": "May fit carefully screened clients with recovery, skin, hair, or tissue-support goals when route expectations, safety profile, and monitoring are reviewed.",
+    "sku": "VPI-133; VPI-134; VPI-135",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Topical Cream GHK-Cu *Liposomal* Topical Cream in Serum Pump",
+    "dosing": "VPI-136: [15 mL]; (T1); 2 mg/mL; 0.2 %; VPI-137: [30 mL]; (T1); 2 mg/mL; 0.2 %",
+    "description": "A copper-peptide skin therapy used to support collagen signaling, skin firmness, tissue quality, and healthy-looking texture.",
+    "indication": "May fit clients focused on skin aging, texture, recovery, or regenerative skin support when topical tolerance, consistency, and realistic timelines are reviewed.",
+    "sku": "VPI-136; VPI-137",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Topical Cream GHK-Cu Topical Cream in Serum Pump",
+    "dosing": "VPI-138: [15 mL]; (T1); 2 mg/mL; 0.2 %; VPI-139: [30 mL]; (T1); 2 mg/mL; 0.2 %",
+    "description": "A copper-peptide skin therapy used to support collagen signaling, skin firmness, tissue quality, and healthy-looking texture.",
+    "indication": "May fit clients focused on skin aging, texture, recovery, or regenerative skin support when topical tolerance, consistency, and realistic timelines are reviewed.",
+    "sku": "VPI-138; VPI-139",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu *Liposomal* Topical Cream in Serum Pump",
+    "dosing": "[15 mL]; (T1); 5 mg/mL; 0.5 %",
+    "description": "A copper-peptide skin therapy used to support collagen signaling, skin firmness, tissue quality, and healthy-looking texture.",
+    "indication": "May fit clients focused on skin aging, texture, recovery, or regenerative skin support when topical tolerance, consistency, and realistic timelines are reviewed.",
+    "sku": "VPI-140",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Liposomal Topical Cream in Serum Pump",
+    "dosing": "[30 mL]; (T1); 5 mg/mL; 0.5 %",
+    "description": "A copper-peptide skin therapy used to support collagen signaling, skin firmness, tissue quality, and healthy-looking texture.",
+    "indication": "May fit clients focused on skin aging, texture, recovery, or regenerative skin support when topical tolerance, consistency, and realistic timelines are reviewed.",
+    "sku": "VPI-141",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Glutathione [L] Injection",
+    "dosing": "(T1); 200 mg/mL; 20 %; 30 ml",
+    "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+    "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+    "sku": "VPI-145",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Glutathione Nasal Spray",
+    "dosing": "VPI-146: (T1); 60 mg/mL; 6 %; 30 mL; VPI-148: (T1); 60 mg/mL; 6 %; 15 mL",
+    "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+    "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+    "sku": "VPI-146; VPI-148",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Hexarelin Capsule",
+    "dosing": "5 mg",
+    "description": "A growth-hormone secretagogue peptide used in select protocols to stimulate GH release through ghrelin-receptor signaling.",
+    "indication": "May fit carefully screened clients with recovery, body-composition, or training-adaptation goals when appetite, cortisol/prolactin response, glucose control, and monitoring are reviewed.",
+    "sku": "VPI-147",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Bremelanotide (PT-141) Injection",
+    "dosing": "VPI-149: (T1); 5 mg/mL; 3 ml; VPI-150: (T1); 5 mg/mL; 5 ml; VPI-151: (T1); 10 mg/mL; 3 ml; VPI-152: (T1); 10 mg/mL; 5 ml; zao-193: (T1); 10 mg/mL; 2 ml",
+    "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+    "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+    "sku": "VPI-149; VPI-150; VPI-151; VPI-152; zao-193",
+    "non_ship_states": "CA",
+    "type": "Peptide"
+  },
+  {
+    "name": "Bremelanotide (PT-141) Lyophilized Powder in",
+    "dosing": "(T1); 20 mg; 5 mL",
+    "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+    "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+    "sku": "VPI-153",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Bremelanotide (PT-141) Nasal Spray",
+    "dosing": "VPI-154: (T1); 5 mg/mL; 7.5 ml; VPI-155: (T1); 5 mg/mL; 15 ml; VPI-156: (T1); 10 mg/mL; 3.75 ml; VPI-157: (T1); 10 mg/mL; 7.5 ml",
+    "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+    "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+    "sku": "VPI-154; VPI-155; VPI-156; VPI-157",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Bremelanotide (PT-141) + Gonadorelin per mL - Nasal Spray",
+    "dosing": "VPI-158: (T1); 10 mg; 100 mcg; 7.5 ml; VPI-159: (T1); 10 mg; 100 mcg; 15 ml",
+    "description": "A GnRH-pathway therapy used to stimulate upstream pituitary signaling involved in reproductive hormone production when that pathway is clinically relevant.",
+    "indication": "May fit clients needing support for natural hormone signaling or fertility-conscious hormone planning, with expectations guided by baseline labs, anatomy, pituitary response, and treatment goals.",
+    "sku": "VPI-158; VPI-159",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Bremelanotide (PT-141) Troche",
+    "dosing": "VPI-163: (T1); 1 mg; VPI-165: (T1); 2 mg; VPI-166: (T1); 4 mg",
+    "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+    "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+    "sku": "VPI-163; VPI-165; VPI-166",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Bremelanotide (PT-141) + Oxytocin Troche",
+    "dosing": "(T1); 1 mg; 100 IU",
+    "description": "A sexual-wellness combination pairing melanocortin desire/arousal support with oxytocin-related connection pathways.",
+    "indication": "May fit clients with low desire, reduced arousal, or intimacy-related responsiveness concerns after review of stress, medications, hormone balance, blood pressure, and nausea risk.",
+    "sku": "VPI-167",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Thymosin Beta-4 Injection (1)",
+    "dosing": "3000 mcg/mL; 5 ml",
+    "description": "A thymosin beta-4/TB-500 peptide option used in research-informed recovery protocols focused on tissue remodeling, mobility, and repair signaling.",
+    "indication": "May fit carefully screened clients with soft-tissue recovery, joint comfort, mobility, or high training-load goals when regulatory status, route, and monitoring are reviewed.",
+    "sku": "VPI-200",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "1-MNA + Leucine Capsule",
+    "dosing": "(T2); 15 mg; 250 mg",
+    "description": "A nicotinamide-metabolism related compound used in research-informed cardiometabolic and mitochondrial-support protocols.",
+    "indication": "May fit carefully screened clients with metabolic-health, vascular-health, or cellular-energy goals when medication interactions, expectations, and monitoring are reviewed.",
+    "sku": "VPI-202",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+    "dosing": "(T2); 50 mg",
+    "description": "A nicotinamide-metabolism related compound used in research-informed cardiometabolic and mitochondrial-support protocols.",
+    "indication": "May fit carefully screened clients with metabolic-health, vascular-health, or cellular-energy goals when medication interactions, expectations, and monitoring are reviewed.",
+    "sku": "VPI-204",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Macimorelin Capsule",
+    "dosing": "(T2); 5 mg",
+    "description": "A ghrelin-receptor agonist most commonly associated with growth-hormone axis assessment and select endocrine use.",
+    "indication": "May fit clients only when a clinician has a defined GH-axis evaluation or endocrine rationale and reviews medication interactions, glucose status, and protocol expectations.",
+    "sku": "VPI-205",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl Epitalon Injection",
+    "dosing": "(T2); 10 mg/mL; 5 ml",
+    "description": "A longevity-oriented peptide option used in research-informed protocols focused on cellular aging, circadian biology, and resilience signaling.",
+    "indication": "May fit carefully screened clients pursuing healthy-aging or sleep-rhythm support when expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-206",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "PE 22-28 Nasal Spray",
+    "dosing": "(T1); 1.6 mg/mL; 7.5 ml",
+    "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+    "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+    "sku": "VPI-227",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl MOTs-C Lyophilized Powder in",
+    "dosing": "(T1); 20 mg; 5 mL",
+    "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+    "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-255",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Sermorelin Lyophilized Powder in",
+    "dosing": "(T1); 12.5 mg; 5 mL",
+    "description": "A GHRH-pathway peptide used to support the body’s natural growth-hormone signaling when symptoms, goals, and labs make it clinically appropriate.",
+    "indication": "May fit clients focused on sleep quality, recovery, body composition, training adaptation, or low IGF-1 patterns after clinical review and monitoring.",
+    "sku": "VPI-256",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Omberacetam Capsule",
+    "dosing": "25 mg",
+    "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+    "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+    "sku": "VPI-257",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Rg3, mB12, NAD+ per mL - Nasal Spray",
+    "dosing": "2 mg; 50 mg; 7.5 ml",
+    "description": "A nasal NAD+ option used in cellular-energy protocols for clients seeking a non-injectable route of mitochondrial and redox support.",
+    "indication": "May fit clients with energy, recovery, brain-fog, or cellular-support goals after route tolerance, sensitivity, and realistic expectations are reviewed.",
+    "sku": "VPI-260",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl Ipamorelin + Sermorelin Lyophilized Powder in",
+    "dosing": "(T1); 5 mg; 5 mL",
+    "description": "A growth-hormone secretagogue combination designed to support natural GH pulse signaling through complementary GHRH and ghrelin-receptor pathways.",
+    "indication": "May fit clients focused on recovery, sleep quality, body composition, training adaptation, or low IGF-1 patterns after review of glucose control, cancer history, and monitoring needs.",
+    "sku": "VPI-267",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "SS-31 Lyophilized Powder in",
+    "dosing": "80 mg; 5 mL; T1",
+    "description": "A mitochondria-targeted peptide option used in research-informed cellular-energy protocols focused on mitochondrial membrane function and oxidative-stress resilience.",
+    "indication": "May fit carefully screened clients with mitochondrial-support, fatigue, recovery, or healthy-aging goals when regulatory status, route, and monitoring are reviewed.",
+    "sku": "VPI-271",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Larazotide (AT 1001), N-Acetyl BPC-, N-Acetyl KPV Amidate Capsule",
+    "dosing": "(T1); 500 mcg; 157 mcg",
+    "description": "A gut-barrier support peptide option used in research-informed protocols focused on tight-junction signaling and intestinal permeability pathways.",
+    "indication": "May fit carefully screened clients with gut-barrier, food-reactivity, or inflammatory gut-pattern goals when diagnosis, diet strategy, medications, and expectations are reviewed.",
+    "sku": "VPI-272",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Zinc Thymulin + GHK-Cu per mL -- Topical Solution in Dropper Bottle",
+    "dosing": "(T2); 0.001 %; 10 mcg; 0.5 %; 5 mg; 30 ml",
+    "description": "A thymic peptide option used in research-informed immune and neuroendocrine support protocols.",
+    "indication": "May fit carefully screened clients with immune-resilience or recovery goals when expectations, regulatory status, and immune history are reviewed.",
+    "sku": "VPI-275",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "NAD+ Injection",
+    "dosing": "(T1); 200 mg/mL; 20 %; 10 ml",
+    "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+    "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+    "sku": "VPI-277",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "MOTs-C Analog Capsule",
+    "dosing": "(T1); 5 mg",
+    "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+    "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-281",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl MOTs-C Injection",
+    "dosing": "(T1); 10 mg/mL; 5 ml",
+    "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+    "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-282",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "NAD+ Nasal Spray",
+    "dosing": "VPI-286: (T1); 200 mg/mL; 20 %; 15 ml; VPI-287: (T1); 300 mg/mL; 30 %; 15 ml",
+    "description": "A nasal NAD+ option used in cellular-energy protocols for clients seeking a non-injectable route of mitochondrial and redox support.",
+    "indication": "May fit clients with energy, recovery, brain-fog, or cellular-support goals after route tolerance, sensitivity, and realistic expectations are reviewed.",
+    "sku": "VPI-286; VPI-287",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "ICJC-1295, N-Acetyl Ipamorelin, Sermorelin per mL -- Injection",
+    "dosing": "[5 mL]; 500 mcg; 2000 mcg",
+    "description": "A growth-hormone secretagogue combination designed to support natural GH pulse signaling through complementary GHRH and ghrelin-receptor pathways.",
+    "indication": "May fit clients focused on recovery, sleep quality, body composition, training adaptation, or low IGF-1 patterns after review of glucose control, cancer history, and monitoring needs.",
+    "sku": "VPI-303",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "ACE-031 Injection",
+    "dosing": "(T1); 10 mg/mL; 5 ml",
+    "description": "A myostatin-pathway investigational peptide concept used only in highly cautious, research-aware discussions around muscle signaling.",
+    "indication": "May fit only carefully screened clients with a defined clinician rationale and full review of regulatory status, unknowns, cardiovascular risk, and monitoring requirements.",
+    "sku": "VPI-327",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "N-Acetyl KPV Amidate Capsule",
+    "dosing": "VPI-330: (T1); 250 mcg; VPI-331: (T1); 500 mcg",
+    "description": "A KPV-related peptide option used in research-informed protocols focused on immune signaling, inflammation balance, and gut or skin barrier support.",
+    "indication": "May fit carefully screened clients with inflammatory, gut-barrier, or skin-barrier goals when medical history, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-330; VPI-331",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Prezatide Injection",
+    "dosing": "[5 mL]; (T1); 10 mg/mL",
+    "description": "A copper-peptide related therapy used in research-informed regenerative protocols focused on tissue quality, skin support, and recovery signaling.",
+    "indication": "May fit carefully screened clients with skin, tissue-recovery, or regenerative wellness goals when route, expectations, regulatory status, and monitoring are reviewed.",
+    "sku": "VPI-332",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Kisspeptin-10 Injection",
+    "dosing": "(T2); 200 mcg/mL; 5 ml",
+    "description": "A hypothalamic signaling peptide involved in the reproductive hormone axis, used in select protocols aimed at upstream LH/FSH signaling support.",
+    "indication": "May fit clients pursuing fertility-conscious hormone optimization or natural hormone signaling support when a clinician reviews endocrine labs, anatomy-specific goals, and expected response.",
+    "sku": "VPI-378",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Thymosin Alpha-1 Injection",
+    "dosing": "[5 mL]; (T1); 3000 mcg/mL",
+    "description": "An immune-signaling peptide used in clinician-guided protocols focused on immune resilience and balanced immune response.",
+    "indication": "May fit carefully screened clients with immune-support or recovery-resilience goals when medical history, medications, autoimmune context, and monitoring are reviewed.",
+    "sku": "VPI-379",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Pinealon Lyophilized Powder in",
+    "dosing": "(T1); 20 mg; 5 mL",
+    "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+    "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+    "sku": "VPI-380",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Pinealon Injection",
+    "dosing": "(T1); 4 mg/mL; 5 ml",
+    "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+    "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+    "sku": "VPI-381",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "GHK-Cu Topical Foam",
+    "dosing": "(T1); 5 mg/mL; 0.5 %; 60 ml",
+    "description": "A copper-peptide scalp therapy used to support scalp quality, follicle environment, and hair-density goals in regenerative hair protocols.",
+    "indication": "May fit clients noticing thinning, shedding, or reduced scalp coverage who want peptide-based topical support alongside evaluation of hormones, nutrients, and scalp health.",
+    "sku": "VPI-384",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Humanin Lyophilized Powder in",
+    "dosing": "15 mg; 10 mL",
+    "description": "A mitochondrial-derived peptide used in research-informed healthy-aging and cellular-resilience protocols focused on stress-response signaling.",
+    "indication": "May fit carefully screened clients pursuing cellular-resilience, recovery, or longevity-support goals when expectations, safety profile, and monitoring are reviewed.",
+    "sku": "VPI-401",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "gonadorelin Oral SLT",
+    "dosing": "ZAO-29: (T1); 500 mcg; ZAO-31: (T1); 300 mcg",
+    "description": "A GnRH-pathway therapy used to stimulate upstream pituitary signaling involved in reproductive hormone production when that pathway is clinically relevant.",
+    "indication": "May fit clients needing support for natural hormone signaling or fertility-conscious hormone planning, with expectations guided by baseline labs, anatomy, pituitary response, and treatment goals.",
+    "sku": "ZAO-29; ZAO-31",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "Bremelanotide (PT-141) Nasal Spray/",
+    "dosing": "(T1); 3 ml; 2.5 mg; 0.1 mL",
+    "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+    "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+    "sku": "zao-191",
+    "non_ship_states": "",
+    "type": "Peptide"
+  },
+  {
+    "name": "SERMORELIN (total)",
+    "dosing": "(T2); 2 mg/mL; 7.5 ml; 15 mg",
+    "description": "A GHRH-pathway peptide used to support the body’s natural growth-hormone signaling when symptoms, goals, and labs make it clinically appropriate.",
+    "indication": "May fit clients focused on sleep quality, recovery, body composition, training adaptation, or low IGF-1 patterns after clinical review and monitoring.",
+    "sku": "ZAO-352",
+    "non_ship_states": "CA",
+    "type": "Peptide"
+  }
+]

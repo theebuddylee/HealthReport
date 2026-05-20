@@ -1,0 +1,16 @@
+[
+  {
+       "name": "Test Promotion",
+       "sku": "PROMO-test",
+       "description": "This is the information about who this promo is for and potential benefits.",
+       "indication": "Name of Medications, Peptides and supplements in the promo and relavant usage or use information.",
+       "price": "159"
+   },
+   {
+       "name": "Tone Up (TEST)",
+       "sku": "PROMO-1",
+       "description": "ipsem lorem",
+       "indication": "Indication here",
+       "price": "189.99"
+   }
+]
