@@ -1,9 +1,9 @@
 [
   {
-       "name": "Test Promotion",
-       "sku": "PROMO-test",
-       "description": "This is the information about who this promo is for and potential benefits.",
-       "indication": "Name of Medications, Peptides and supplements in the promo and relavant usage or use information.",
+       "name": "Tight-Tone-Tan Promotion",
+       "sku": "PROMO-1",
+       "description": "Our Tight • Toned • Tan promotional package combines three advanced therapies designed to support body composition, skin quality, recovery, and overall appearance from the inside out."
+       "indication": "This protocol includes: Retatrutide, 5-Amina-1MQ,and GHK-CU.",
        "price": "159"
    },
    {
