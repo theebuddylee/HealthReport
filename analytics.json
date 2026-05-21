@@ -1565,5 +1565,59 @@
         ],
         "promos": [],
         "timestamp": "2026-05-21T16:34:30.460055"
+    },
+    {
+        "member_name": "Test Turner",
+        "manager": "Buddy",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Retatrutide",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "An investigational next-generation metabolic therapy designed to activate three key hormone pathways involved in appetite control, glucose regulation, energy balance, and fat metabolism: GLP-1, GIP, and glucagon. This triple-action mechanism is what makes retatrutide especially exciting compared with earlier incretin therapies. In clinical research, retatrutide has shown substantial weight-loss potential, with higher-dose groups in phase 2 obesity trials averaging up to 24.2% body-weight reduction over 48 weeks. Its broader metabolic signaling may also support meaningful fat-mass reduction while helping clients pursue a more complete body-composition strategy when paired with adequate protein intake, resistance training, and clinician-guided monitoring.",
+                "indication": "May fit clients seeking advanced metabolic and weight-management support when appetite, cravings, insulin resistance, or body-composition goals have not responded adequately to lifestyle changes or prior GLP-1/GIP therapies. Retatrutide may be especially relevant for clients focused not only on scale weight, but also on improving fat loss while protecting strength, lean tissue, and long-term metabolic health through a structured plan that includes nutrition, resistance training, and follow-up monitoring.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "GHK-Cu Capsule",
+                "dosing": "(T1); 5 mg",
+                "description": "A copper-peptide therapy used in regenerative wellness protocols to support tissue quality, collagen signaling, skin health, and recovery pathways.",
+                "indication": "May fit clients focused on skin quality, hair support, tissue recovery, or regenerative wellness goals after route, expectations, and monitoring are reviewed.",
+                "sku": "VPI-132",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "A nicotinamide-metabolism related compound used in research-informed cardiometabolic and mitochondrial-support protocols.",
+                "indication": "May fit carefully screened clients with metabolic-health, vascular-health, or cellular-energy goals when medication interactions, expectations, and monitoring are reviewed.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [
+            {
+                "name": "Tight-Tone-Tan Promotion",
+                "sku": "PROMO-1",
+                "description": "Our Tight \u2022 Toned \u2022 Tan promotional package combines three advanced therapies designed to support body composition, skin quality, recovery, and overall appearance from the inside out.",
+                "indication": "This protocol includes: Retatrutide, 5-Amina-1MQ,and GHK-CU.",
+                "price": "159"
+            }
+        ],
+        "timestamp": "2026-05-21T18:53:13.758662"
     }
 ]
