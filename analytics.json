@@ -880,5 +880,53 @@
         ],
         "promos": [],
         "timestamp": "2026-05-21T15:19:50.929335"
+    },
+    {
+        "member_name": "Laurie Hatch",
+        "manager": "Dawn",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Tirzepatide/Niacinamide Injection",
+                "dosing": "EMP-116: (Starter VIal); 17/2 mg/ml; 2 ml; EMP-118: (Titrate VIal); 17/2 mg/ml; 4 ml",
+                "description": "A dual incretin-based metabolic therapy with added nutrient support used in clinician-guided weight-management and metabolic-health programs to support satiety, appetite regulation, and glucose response.",
+                "indication": "May fit clients with weight-loss resistance, strong appetite signaling, cravings, blood-sugar swings, or insulin-resistance patterns after review of contraindications, dose titration, and GI tolerability.",
+                "sku": "EMP-116; EMP-118",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A GHRH analog peptide used in select protocols to support growth-hormone/IGF-1 signaling and body-composition goals.",
+                "indication": "May fit carefully screened clients with body-composition or recovery goals when IGF-1, glucose markers, cancer history, and route-specific monitoring are reviewed.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [],
+        "promos": [
+            {
+                "name": "Tone Up (TEST)",
+                "sku": "PROMO-1",
+                "description": "ipsem lorem",
+                "indication": "Indication here",
+                "price": "189.99"
+            }
+        ],
+        "timestamp": "2026-05-21T16:21:46.212105"
     }
 ]
