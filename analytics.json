@@ -1927,5 +1927,51 @@
         ],
         "promos": [],
         "timestamp": "2026-05-22T19:32:05.143388"
+    },
+    {
+        "member_name": "Rose Forrest",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Bella 2- (Bupropion HCl/Phentermine HCl/Topiramate/Naltrexone HCl/Methylcobalamin) Capsule",
+                "dosing": "(Slow Release); 65/37.5/15/8/1 mg",
+                "description": "A compounded weight-management formula that combines appetite, craving, satiety, and behavior-support ingredients to complement a structured nutrition and coaching plan.",
+                "indication": "May fit clients who need non-GLP-1 or adjunctive support for cravings, appetite control, emotional eating patterns, or weight-loss resistance after cardiovascular, mood, medication, and stimulant-risk review.",
+                "sku": "EMP-311",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Glutathione [L] Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 30 ml",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "VPI-145",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-05-22T19:32:33.388066"
     }
 ]
