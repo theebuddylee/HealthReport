@@ -1973,5 +1973,45 @@
         ],
         "promos": [],
         "timestamp": "2026-05-22T19:32:33.388066"
+    },
+    {
+        "member_name": "Alyssa Peters",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            },
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            }
+        ],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "Glutathione Injection (Preserved)",
+                "dosing": "EMP-244: 200 mg/mL; 30 mL; ZAO-400: (T2); 200 mg/mL; 30 mL",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "EMP-244; ZAO-400",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-05-22T19:33:07.175362"
     }
 ]
