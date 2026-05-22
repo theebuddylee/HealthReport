@@ -1804,5 +1804,56 @@
         ],
         "promos": [],
         "timestamp": "2026-05-22T18:30:33.571743"
+    },
+    {
+        "member_name": "Candis Holker",
+        "manager": "Dillon",
+        "membership": [
+            "Weight Loss Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            },
+            {
+                "name": "DUTCH Complete\u2122 Test",
+                "description": "The DUTCH Complete\u2122 Test (Dried Urine Test for Comprehensive Hormones) is an advanced hormone panel that provides a detailed analysis of sex hormones, adrenal function, and their metabolites. Using dried urine samples collected over a 24-hour period, this test offers a comprehensive assessment of hormonal balance, metabolism, and overall endocrine health. It measures cortisol patterns, sex hormones, melatonin, and organic acid markers to provide insights into stress response, hormone detoxification, and overall well-being.",
+                "indication": "The DUTCH Complete\u2122 Test is indicated for individuals experiencing symptoms related to hormone imbalance, adrenal dysfunction, and metabolic concerns, including fatigue, mood swings, weight fluctuations, irregular menstrual cycles, low libido, and sleep disturbances. It is particularly beneficial for assessing adrenal health, evaluating estrogen metabolism, and monitoring hormone therapy. This test provides actionable insights for optimizing hormonal balance, improving stress resilience, and enhancing overall wellness."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Retatrutide",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "An investigational next-generation metabolic therapy designed to activate three key hormone pathways involved in appetite control, glucose regulation, energy balance, and fat metabolism: GLP-1, GIP, and glucagon. This triple-action mechanism is what makes retatrutide especially exciting compared with earlier incretin therapies. In clinical research, retatrutide has shown substantial weight-loss potential, with higher-dose groups in phase 2 obesity trials averaging up to 24.2% body-weight reduction over 48 weeks. Its broader metabolic signaling may also support meaningful fat-mass reduction while helping clients pursue a more complete body-composition strategy when paired with adequate protein intake, resistance training, and clinician-guided monitoring.",
+                "indication": "May fit clients seeking advanced metabolic and weight-management support when appetite, cravings, insulin resistance, or body-composition goals have not responded adequately to lifestyle changes or prior GLP-1/GIP therapies. Retatrutide may be especially relevant for clients focused not only on scale weight, but also on improving fat loss while protecting strength, lean tissue, and long-term metabolic health through a structured plan that includes nutrition, resistance training, and follow-up monitoring.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-05-22T19:29:53.999339"
     }
 ]
