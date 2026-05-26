@@ -2572,5 +2572,68 @@
         ],
         "promos": [],
         "timestamp": "2026-05-26T14:28:22.677957"
+    },
+    {
+        "member_name": "David Bell",
+        "manager": "Casey",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [
+            {
+                "name": "The DUTCH CAR Testing",
+                "description": "The DUTCH CAR (Cortisol Awakening Response) Test is a saliva-based assessment designed to evaluate cortisol patterns and the body\u2019s stress response throughout the morning awakening period. This test provides insight into HPA-axis function, adrenal regulation, and how stress hormones may be affecting sleep, energy, mood, and recovery. Abnormal cortisol rhythms can contribute to nighttime waking, early morning awakenings, fatigue, and difficulty returning to sleep.",
+                "indication": "The DUTCH CAR Test is recommended for individuals experiencing disrupted sleep patterns, particularly early morning awakenings around 2\u20134 AM, difficulty falling back asleep, chronic stress, fatigue, anxiety, or burnout symptoms. It can help identify cortisol dysregulation and stress-related hormone imbalances that may be contributing to persistent insomnia, nighttime hyperarousal, and poor restorative sle"
+            }
+        ],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Selank [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-91: (T1); 7500 mcg/mL; 7.5 ml; VPI-93: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A neuropeptide nasal option used in research-informed protocols focused on stress resilience, calm focus, and nervous-system balance.",
+                "indication": "May fit carefully screened clients with stress reactivity, anxious tension, or focus concerns when medications, mood history, route tolerance, and expectations are reviewed.",
+                "sku": "VPI-91; VPI-93",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl Epitalon Injection",
+                "dosing": "(T2); 10 mg/mL; 5 ml",
+                "description": "A longevity-oriented peptide option used in research-informed protocols focused on cellular aging, circadian biology, and resilience signaling.",
+                "indication": "May fit carefully screened clients pursuing healthy-aging or sleep-rhythm support when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-206",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-05-26T15:54:23.804528"
     }
 ]
