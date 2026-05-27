@@ -3191,5 +3191,52 @@
         ],
         "promos": [],
         "timestamp": "2026-05-27T20:05:39.415791"
+    },
+    {
+        "member_name": "Kristy Bell",
+        "manager": "Casey",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [
+            {
+                "name": "Tight-Tone-Tan Promotion",
+                "sku": "PROMO-1",
+                "description": "Our Tight \u2022 Toned \u2022 Tan promotional package combines three advanced therapies designed to support body composition, skin quality, recovery, and overall appearance from the inside out.",
+                "indication": "This protocol includes: Retatrutide, 5-Amina-1MQ,and GHK-CU. Retatrutide is a peptide therapy designed to support weight management and metabolic health by regulating appetite, blood sugar, and energy expenditure. As a \u201ctriple agonist,\u201d it activates GLP-1, GIP, and glucagon receptors, offering a more comprehensive approach than traditional weight-loss therapies. It may also help preserve lean muscle mass when combined with adequate protein intake and resistance training. 5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols. GHK-Cu is a naturally occurring copper peptide studied for its regenerative, skin, and hair-supportive properties. It may support collagen production, tissue repair, skin firmness and texture, wound healing, antioxidant activity, and overall skin and scalp health.",
+                "price": "159"
+            }
+        ],
+        "timestamp": "2026-05-27T22:14:02.115710"
     }
 ]
