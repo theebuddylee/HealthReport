@@ -4602,5 +4602,90 @@
         ],
         "promos": [],
         "timestamp": "2026-06-01T20:08:47.275053"
+    },
+    {
+        "member_name": "Joe Wachs",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-hormone-health-panel",
+                "description": "A mid-level hormone panel for men seeking deeper insights into testosterone function, recovery, weight management, and overall vitality.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, and Vitamin D."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "WOLVERINE BPC-157/TB-500 Injection (/)",
+                "dosing": "3.33 mg/ML; 1.66 mg; 3 ml",
+                "description": "A research-informed recovery peptide combination pairing BPC-157 with thymosin beta-4/TB-500 pathways to support tissue remodeling, mobility, and repair signaling.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, training-recovery, or soft-tissue goals when expectations, regulatory status, and clinician monitoring are reviewed.",
+                "sku": "Stk-2",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl MOTs-C Injection",
+                "dosing": "(T1); 10 mg/mL; 5 ml",
+                "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+                "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-282",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "S-Acetyl Glutathione Synergy",
+                "description": "Promotes optimal glutathione status, a potent antioxidant.*",
+                "indication": "Glutathione (GSH) is considered the body\u2019s \u201cmaster\u201d antioxidant, which is critical for the maintenance of antioxidant balance and helps to protect cells from the effects of oxidative stress.* GSH also helps promote normal detoxification.* Vitamin B6 supports emzymatic reactions in the body that support normal detoxification, and NAC is a critical precursor (or building block) to glutathione.*"
+            },
+            {
+                "name": "S-Acetyl Glutathione Synergy",
+                "description": "Promotes optimal glutathione status, a potent antioxidant.*",
+                "indication": "Glutathione (GSH) is considered the body\u2019s \u201cmaster\u201d antioxidant, which is critical for the maintenance of antioxidant balance and helps to protect cells from the effects of oxidative stress.* GSH also helps promote normal detoxification.* Vitamin B6 supports emzymatic reactions in the body that support normal detoxification, and NAC is a critical precursor (or building block) to glutathione.*"
+            },
+            {
+                "name": "S-Acetyl Glutathione Synergy",
+                "description": "Promotes optimal glutathione status, a potent antioxidant.*",
+                "indication": "Glutathione (GSH) is considered the body\u2019s \u201cmaster\u201d antioxidant, which is critical for the maintenance of antioxidant balance and helps to protect cells from the effects of oxidative stress.* GSH also helps promote normal detoxification.* Vitamin B6 supports emzymatic reactions in the body that support normal detoxification, and NAC is a critical precursor (or building block) to glutathione.*"
+            },
+            {
+                "name": "S-Acetyl Glutathione Synergy",
+                "description": "Promotes optimal glutathione status, a potent antioxidant.*",
+                "indication": "Glutathione (GSH) is considered the body\u2019s \u201cmaster\u201d antioxidant, which is critical for the maintenance of antioxidant balance and helps to protect cells from the effects of oxidative stress.* GSH also helps promote normal detoxification.* Vitamin B6 supports emzymatic reactions in the body that support normal detoxification, and NAC is a critical precursor (or building block) to glutathione.*"
+            },
+            {
+                "name": "S-Acetyl Glutathione Synergy",
+                "description": "Promotes optimal glutathione status, a potent antioxidant.*",
+                "indication": "Glutathione (GSH) is considered the body\u2019s \u201cmaster\u201d antioxidant, which is critical for the maintenance of antioxidant balance and helps to protect cells from the effects of oxidative stress.* GSH also helps promote normal detoxification.* Vitamin B6 supports emzymatic reactions in the body that support normal detoxification, and NAC is a critical precursor (or building block) to glutathione.*"
+            },
+            {
+                "name": "S-Acetyl Glutathione Synergy",
+                "description": "Promotes optimal glutathione status, a potent antioxidant.*",
+                "indication": "Glutathione (GSH) is considered the body\u2019s \u201cmaster\u201d antioxidant, which is critical for the maintenance of antioxidant balance and helps to protect cells from the effects of oxidative stress.* GSH also helps promote normal detoxification.* Vitamin B6 supports emzymatic reactions in the body that support normal detoxification, and NAC is a critical precursor (or building block) to glutathione.*"
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-01T21:21:06.342056"
     }
 ]
