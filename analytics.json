@@ -4369,5 +4369,71 @@
         ],
         "promos": [],
         "timestamp": "2026-06-01T19:16:20.828506"
+    },
+    {
+        "member_name": "Elian Trujillo",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Retatrutide",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "An investigational next-generation metabolic therapy designed to activate three key hormone pathways involved in appetite control, glucose regulation, energy balance, and fat metabolism: GLP-1, GIP, and glucagon. This triple-action mechanism is what makes retatrutide especially exciting compared with earlier incretin therapies. In clinical research, retatrutide has shown substantial weight-loss potential, with higher-dose groups in phase 2 obesity trials averaging up to 24.2% body-weight reduction over 48 weeks. Its broader metabolic signaling may also support meaningful fat-mass reduction while helping clients pursue a more complete body-composition strategy when paired with adequate protein intake, resistance training, and clinician-guided monitoring.",
+                "indication": "May fit clients seeking advanced metabolic and weight-management support when appetite, cravings, insulin resistance, or body-composition goals have not responded adequately to lifestyle changes or prior GLP-1/GIP therapies. Retatrutide may be especially relevant for clients focused not only on scale weight, but also on improving fat loss while protecting strength, lean tissue, and long-term metabolic health through a structured plan that includes nutrition, resistance training, and follow-up monitoring.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            },
+            {
+                "name": "Rg3 + Methylcobalamin per mL -- Nasal Spray",
+                "dosing": "(T1); 2 mg; 15 ml",
+                "description": "A clinician-guided medication option used as part of an individualized wellness, hormone, metabolic, or performance-health plan when symptoms and clinical findings support treatment.",
+                "indication": "May fit clients with a specific treatment goal identified during evaluation, with use guided by medical history, labs when relevant, contraindication screening, and follow-up monitoring.",
+                "sku": "VPI-285",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "Enclomiphene",
+                "dosing": "zao-194: (T2); 12.5 mg; zao-196: (T2); 50 mg; zao-1951: (T2); 25 mg",
+                "description": "A selective estrogen receptor modulator used to encourage the body\u2019s own upstream testosterone signaling rather than replacing testosterone directly.",
+                "indication": "May fit clients seeking testosterone support while preserving natural gonadal signaling or fertility-related pathways, with monitoring of testosterone, estradiol, symptoms, and visual or mood side effects.",
+                "sku": "zao-194; zao-196; zao-1951",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Selank [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-91: (T1); 7500 mcg/mL; 7.5 ml; VPI-93: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A neuropeptide nasal option used in research-informed protocols focused on stress resilience, calm focus, and nervous-system balance.",
+                "indication": "May fit carefully screened clients with stress reactivity, anxious tension, or focus concerns when medications, mood history, route tolerance, and expectations are reviewed.",
+                "sku": "VPI-91; VPI-93",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-01T19:59:56.615378"
     }
 ]
