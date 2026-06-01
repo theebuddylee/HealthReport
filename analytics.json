@@ -3963,5 +3963,79 @@
             }
         ],
         "timestamp": "2026-05-29T21:57:11.772682"
+    },
+    {
+        "member_name": "Monique Gesund",
+        "manager": "Dillon",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Progesterone Capsule",
+                "dosing": "EMP-128: (Immediate Release); 150 mg; EMP-130: (Immediate Release); 225 mg; EMP-132: (Immediate Release); 250 mg; EMP-133: (Slow Release); 250 mg; EMP-135: (Slow Release); 225 mg; EMP-137: (Slow Release); 150 mg; EMP-400: (Slow Release); 200 mg; VPI-185: (T2); 25 mg; VPI-186: (T2); 50 mg; VPI-187: (T2); 75 mg; VPI-188: (T2); 125 mg; VPI-189: (T2); 150 mg; VPI-190: (T2); 250 mg; ZAO-195: 120 mg; ZAO-197: (T2); 10 mg; ZAO-198: (T2); 20 mg; ZAO-199: (T2); 25 mg; ZAO-200: (T2); 30 mg; ZAO-201: (T2); 50 mg; ZAO-202: (T2); 60 mg; ZAO-203: (T2); 80 mg; ZAO-204: (T2); 130 mg; ZAO-205: (T2); 140 mg; ZAO-206: (T2); 150 mg; ZAO-209: (T2); 250 mg; ZAO-210: (T2); 300 mg; ZAO-211: (T2); 350 mg; ZAO-212: (T2); 400 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "EMP-128; EMP-130; EMP-132; EMP-133; EMP-135; EMP-137; EMP-400; VPI-185; VPI-186; VPI-187; VPI-188; VPI-189; VPI-190; ZAO-195; ZAO-197; ZAO-198; ZAO-199; ZAO-200; ZAO-201; ZAO-202; ZAO-203; ZAO-204; ZAO-205; ZAO-206; ZAO-209; ZAO-210; ZAO-211; ZAO-212",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Retatrutide",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "An investigational next-generation metabolic therapy designed to activate three key hormone pathways involved in appetite control, glucose regulation, energy balance, and fat metabolism: GLP-1, GIP, and glucagon. This triple-action mechanism is what makes retatrutide especially exciting compared with earlier incretin therapies. In clinical research, retatrutide has shown substantial weight-loss potential, with higher-dose groups in phase 2 obesity trials averaging up to 24.2% body-weight reduction over 48 weeks. Its broader metabolic signaling may also support meaningful fat-mass reduction while helping clients pursue a more complete body-composition strategy when paired with adequate protein intake, resistance training, and clinician-guided monitoring.",
+                "indication": "May fit clients seeking advanced metabolic and weight-management support when appetite, cravings, insulin resistance, or body-composition goals have not responded adequately to lifestyle changes or prior GLP-1/GIP therapies. Retatrutide may be especially relevant for clients focused not only on scale weight, but also on improving fat loss while protecting strength, lean tissue, and long-term metabolic health through a structured plan that includes nutrition, resistance training, and follow-up monitoring.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            },
+            {
+                "name": "Metformin + Methylcobalamin (Vit B12) Capsule",
+                "dosing": "500 mg; 1 mg",
+                "description": "An insulin-sensitizing medication used in metabolic-health protocols to support glucose regulation, insulin response, and weight-management efforts alongside lifestyle strategy.",
+                "indication": "May fit clients with insulin resistance, cravings, elevated glucose or A1c trends, PCOS-pattern metabolic concerns, or weight-loss resistance after kidney function, GI tolerance, and B12 status are reviewed.",
+                "sku": "VPI-213",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Selank [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-91: (T1); 7500 mcg/mL; 7.5 ml; VPI-93: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A neuropeptide nasal option used in research-informed protocols focused on stress resilience, calm focus, and nervous-system balance.",
+                "indication": "May fit carefully screened clients with stress reactivity, anxious tension, or focus concerns when medications, mood history, route tolerance, and expectations are reviewed.",
+                "sku": "VPI-91; VPI-93",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [
+            {
+                "name": "Tight-Tone-Tan Promotion",
+                "sku": "PROMO-1",
+                "description": "Our Tight \u2022 Toned \u2022 Tan promotional package combines three advanced therapies designed to support body composition, skin quality, recovery, and overall appearance from the inside out.",
+                "indication": "This protocol includes: Retatrutide, 5-Amina-1MQ,and GHK-CU. Retatrutide is a peptide therapy designed to support weight management and metabolic health by regulating appetite, blood sugar, and energy expenditure. As a \u201ctriple agonist,\u201d it activates GLP-1, GIP, and glucagon receptors, offering a more comprehensive approach than traditional weight-loss therapies. It may also help preserve lean muscle mass when combined with adequate protein intake and resistance training. 5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols. GHK-Cu is a naturally occurring copper peptide studied for its regenerative, skin, and hair-supportive properties. It may support collagen production, tissue repair, skin firmness and texture, wound healing, antioxidant activity, and overall skin and scalp health.",
+                "price": "159"
+            }
+        ],
+        "timestamp": "2026-06-01T14:13:52.878488"
     }
 ]
