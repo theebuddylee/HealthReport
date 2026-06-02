@@ -4832,5 +4832,75 @@
         ],
         "promos": [],
         "timestamp": "2026-06-02T17:22:36.273072"
+    },
+    {
+        "member_name": "Jolynn Hirschi",
+        "manager": "Dawn",
+        "membership": [],
+        "tests": [
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Progesterone Capsule",
+                "dosing": "EMP-128: (Immediate Release); 150 mg; EMP-130: (Immediate Release); 225 mg; EMP-132: (Immediate Release); 250 mg; EMP-133: (Slow Release); 250 mg; EMP-135: (Slow Release); 225 mg; EMP-137: (Slow Release); 150 mg; EMP-400: (Slow Release); 200 mg; VPI-185: (T2); 25 mg; VPI-186: (T2); 50 mg; VPI-187: (T2); 75 mg; VPI-188: (T2); 125 mg; VPI-189: (T2); 150 mg; VPI-190: (T2); 250 mg; ZAO-195: 120 mg; ZAO-197: (T2); 10 mg; ZAO-198: (T2); 20 mg; ZAO-199: (T2); 25 mg; ZAO-200: (T2); 30 mg; ZAO-201: (T2); 50 mg; ZAO-202: (T2); 60 mg; ZAO-203: (T2); 80 mg; ZAO-204: (T2); 130 mg; ZAO-205: (T2); 140 mg; ZAO-206: (T2); 150 mg; ZAO-209: (T2); 250 mg; ZAO-210: (T2); 300 mg; ZAO-211: (T2); 350 mg; ZAO-212: (T2); 400 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "EMP-128; EMP-130; EMP-132; EMP-133; EMP-135; EMP-137; EMP-400; VPI-185; VPI-186; VPI-187; VPI-188; VPI-189; VPI-190; ZAO-195; ZAO-197; ZAO-198; ZAO-199; ZAO-200; ZAO-201; ZAO-202; ZAO-203; ZAO-204; ZAO-205; ZAO-206; ZAO-209; ZAO-210; ZAO-211; ZAO-212",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Testosterone Propionate in MCT Oil Injection",
+                "dosing": "(T2); 100 mg/mL; 4 ml",
+                "description": "A shorter-acting injectable testosterone ester used in clinician-guided hormone protocols when a more flexible testosterone rhythm is desired.",
+                "indication": "May fit clients with low-testosterone symptoms and supportive labs who need individualized dosing and close monitoring of blood count, estradiol, lipids, fertility goals, and symptom response.",
+                "sku": "VPI-276",
+                "non_ship_states": "AL, AR, CA, FL",
+                "type": "Medication"
+            },
+            {
+                "name": "Estradiol Valerate",
+                "dosing": "(T2); 20 mg/ml; 5 ml",
+                "description": "An injectable estrogen option used in individualized hormone protocols when estrogen support is clinically appropriate and a longer-acting injectable route is preferred.",
+                "indication": "May fit clients with low-estrogen symptoms or hormone-support goals when route, dose, clot risk, migraine history, labs, and follow-up monitoring are reviewed.",
+                "sku": "ZAO-250",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            }
+        ],
+        "promos": [
+            {
+                "name": "Tight-Tone-Tan Promotion",
+                "sku": "PROMO-1",
+                "description": "Our Tight \u2022 Toned \u2022 Tan promotional package combines three advanced therapies designed to support body composition, skin quality, recovery, and overall appearance from the inside out.",
+                "indication": "This protocol includes: Retatrutide, 5-Amina-1MQ,and GHK-CU. Retatrutide is a peptide therapy designed to support weight management and metabolic health by regulating appetite, blood sugar, and energy expenditure. As a \u201ctriple agonist,\u201d it activates GLP-1, GIP, and glucagon receptors, offering a more comprehensive approach than traditional weight-loss therapies. It may also help preserve lean muscle mass when combined with adequate protein intake and resistance training. 5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols. GHK-Cu is a naturally occurring copper peptide studied for its regenerative, skin, and hair-supportive properties. It may support collagen production, tissue repair, skin firmness and texture, wound healing, antioxidant activity, and overall skin and scalp health.",
+                "price": "159"
+            }
+        ],
+        "timestamp": "2026-06-02T21:21:19.657063"
     }
 ]
