@@ -5260,5 +5260,59 @@
         ],
         "promos": [],
         "timestamp": "2026-06-02T22:38:07.228763"
+    },
+    {
+        "member_name": "Tom Mrva",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "BPC-157",
+                "dosing": "3 mg/mL; 5 ml; 15 mg",
+                "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "STK-12",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "VIP (Vasoactive Intestinal Peptide) Nasal Spray",
+                "dosing": "VPI-99: (T1); 500 mcg/mL; 15 ml; VPI-101: 500 mcg/mL; 7.5 ml",
+                "description": "A vasoactive intestinal peptide nasal option used in select research-informed protocols involving neuroimmune, inflammatory, and mucosal signaling pathways.",
+                "indication": "May fit carefully screened clients with clinician-defined neuroimmune or inflammatory-support goals when history, sensitivities, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-99; VPI-101",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Larazotide (AT 1001) Capsule",
+                "dosing": "500 mcg",
+                "description": "A gut-barrier support peptide option used in research-informed protocols focused on tight-junction signaling and intestinal permeability pathways.",
+                "indication": "May fit carefully screened clients with gut-barrier, food-reactivity, or inflammatory gut-pattern goals when diagnosis, diet strategy, medications, and expectations are reviewed.",
+                "sku": "VPI-103",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl KPV Amidate Capsule",
+                "dosing": "VPI-330: (T1); 250 mcg; VPI-331: (T1); 500 mcg",
+                "description": "A KPV-related peptide option used in research-informed protocols focused on immune signaling, inflammation balance, and gut or skin barrier support.",
+                "indication": "May fit carefully screened clients with inflammatory, gut-barrier, or skin-barrier goals when medical history, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-330; VPI-331",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-03T16:14:28.373872"
     }
 ]
