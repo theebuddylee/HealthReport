@@ -6187,5 +6187,80 @@
         ],
         "promos": [],
         "timestamp": "2026-06-04T23:17:30.774051"
+    },
+    {
+        "member_name": "Olatunde Alade",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ezetimibe Tablet",
+                "dosing": "EMP-272: 10 mg; VPI-129: (T1); 10 mg",
+                "description": "A cholesterol medication that reduces intestinal cholesterol absorption to support lower LDL cholesterol as part of a broader cardiometabolic plan.",
+                "indication": "May fit clients with elevated LDL cholesterol or cardiovascular-risk markers who need additional lipid support alongside nutrition, lifestyle, and follow-up lab monitoring.",
+                "sku": "EMP-272; VPI-129",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "DHEA Capsule",
+                "dosing": "EMP-397: (Slow Release); 25 mg; zao-197: (T2); 60 mg; zao-198: (T2); 25 mg; zao-199: (T2); 100 mg",
+                "description": "A DHEA hormone-precursor option used to support adrenal-androgen pathways when lab findings and symptoms suggest low or suboptimal levels.",
+                "indication": "May fit clients with fatigue, low libido, reduced resilience, low mood, or adrenal-androgen patterns on labs, with monitoring for acne, hair changes, mood shifts, and hormone conversion.",
+                "sku": "EMP-397; zao-197; zao-198; zao-199",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Metformin + Methylcobalamin (Vit B12) Capsule",
+                "dosing": "500 mg; 1 mg",
+                "description": "An insulin-sensitizing medication used in metabolic-health protocols to support glucose regulation, insulin response, and weight-management efforts alongside lifestyle strategy.",
+                "indication": "May fit clients with insulin resistance, cravings, elevated glucose or A1c trends, PCOS-pattern metabolic concerns, or weight-loss resistance after kidney function, GI tolerance, and B12 status are reviewed.",
+                "sku": "VPI-213",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "Testosterone slt",
+                "dosing": "(T2); 100 mg",
+                "description": "An oral-mucosal testosterone option used in personalized hormone protocols when a clinician determines this route best fits the client\u2019s goals and lab pattern.",
+                "indication": "May fit clients with low-testosterone symptoms who prefer non-injectable care, with attention to dosing consistency, hormone response, fertility goals, and monitoring for estrogen or androgen-related effects.",
+                "sku": "ZAO-36",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "Tadalafil Tablet",
+                "dosing": "20 mg",
+                "description": "A PDE-5 medication used in sexual-health protocols to support nitric-oxide mediated blood-flow response and confidence in sexual performance.",
+                "indication": "May fit clients with erectile-function or blood-flow related sexual concerns after review of cardiovascular history, blood pressure, nitrate use, and medication interactions.",
+                "sku": "ZAO-305",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Green Tea",
+                "description": "Green tea extract is a concentrated source of antioxidants, particularly catechins like EGCG, derived from the leaves of the Camellia sinensis plant. These compounds help reduce oxidative stress, support metabolic health, and promote overall cellular function. In addition to its antioxidant benefits, green tea extract contains a natural combination of caffeine and L-theanine, which work synergistically to improve alertness and mental clarity without the typical jitters or crashes associated with stimulants.",
+                "indication": "Recommended for individuals looking to support healthy weight management, improve focus and energy, and promote cardiovascular and metabolic health. Its anti-inflammatory and antioxidant properties also make it beneficial for those seeking additional protection against the effects of chronic stress and aging."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-04T23:18:50.451534"
     }
 ]
