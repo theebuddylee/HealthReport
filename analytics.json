@@ -5776,5 +5776,71 @@
         ],
         "promos": [],
         "timestamp": "2026-06-04T14:35:01.985257"
+    },
+    {
+        "member_name": "Jake Juranek",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-hormone-health-panel",
+                "description": "A mid-level hormone panel for men seeking deeper insights into testosterone function, recovery, weight management, and overall vitality.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, and Vitamin D."
+            },
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "HCG Injection (Pregnyl\u00ae)",
+                "dosing": "EMP-50: (Lyo); 10,000 IU; ZAO-19: (Lyo); (T2); 10,000 IU",
+                "description": "A hormone-signaling medication that mimics luteinizing-hormone activity and may support ovarian or testicular hormone production in fertility-conscious or endocrine protocols.",
+                "indication": "May fit clients who need support for natural hormone signaling, fertility-related goals, or gonadal function while a clinician reviews anatomy-specific use, labs, dosing, and follow-up monitoring.",
+                "sku": "EMP-50; ZAO-19",
+                "non_ship_states": "CA, IA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "PT-141 Injection",
+                "dosing": "10 mg/mL; 50 mg; 5 ml",
+                "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+                "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+                "sku": "Stk-4",
+                "non_ship_states": "IN",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Sunfiber",
+                "description": "Sunfiber is a soluble, partially hydrolyzed guar gum (PHGG) that functions as a gentle prebiotic fiber. It dissolves easily in liquids, is tasteless, and ferments slowly in the gut, minimizing gas and bloating.",
+                "indication": "Promotes healthy gut microbiota balance, improve stool regularity, and support digestive comfort. It is especially beneficial for individuals with dysbiosis, IBS, or sensitive digestion, as it gently feeds beneficial bacteria without causing excess gas or bloating."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-04T14:38:23.439387"
     }
 ]
