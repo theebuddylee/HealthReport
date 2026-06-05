@@ -4,14 +4,14 @@
         "sku": "MEMBERSHIP-4",
         "description": "Men's enhanced hormone care with choice of Enclomiphene or Testosterone Cypionate in GSO (standard dosing or less — 0.5ml 2x weekly, 90-day supply while maintaining membership). Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Billed monthly on the 1st or 16th.",
         "indication": "Men's enhanced hormone care with choice of specific treatments for personalized hormone balance. This includes shipping, supplies, lab interpretations, medical visits, Testosterone Treatment, lab reviews, and your initial follow-up labs.",
-        "price": "159/month"
+        "price": "169/month"
     },
     {
         "name": "Menopause Membership",
         "sku": "MEMBERSHIP-13",
         "description": "Specialized for post menopausal women. Includes provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Medications included: Testosterone Cypionate (injectable) standard dosing, Estradiol Valerate (injectable) standard dosing, Progesterone Capsule (90-day supply while maintaining membership). Billed monthly on the 1st or 16th.",
         "indication": "Targeted hormone replacement for menopausal symptom relief and vitality restoration.",
-        "price": "189.99/month"
+        "price": "229/month"
     },
     {
         "name": "Peptide Membership",
@@ -25,7 +25,7 @@
         "sku": "MEMBERSHIP-5",
         "description": "Tailored perimenopause support with provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Includes 1 treatment from: Testosterone Cypionate (injectable) standard dosing. Billed monthly on the 1st or 16th.",
         "indication": "Supports hormone stability and symptom management during perimenopause.",
-        "price": "119/month"
+        "price": "129/month"
     },
     {
         "name": "Thyroid Membership",
