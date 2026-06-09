@@ -8559,5 +8559,74 @@
         ],
         "promos": [],
         "timestamp": "2026-06-09T22:28:28.598696"
+    },
+    {
+        "member_name": " Sandra Liholt",
+        "manager": "Sean",
+        "membership": [
+            "Menopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Estradiol cypionate Injection in GSO",
+                "dosing": "10 mg/ml; 5 ml",
+                "description": "An injectable estrogen option used in personalized hormone care when symptoms and labs suggest estrogen support may be appropriate.",
+                "indication": "May fit clients with low-estrogen patterns such as hot flashes, night sweats, sleep disruption, mood shifts, vaginal dryness, or tissue changes after individualized risk review.",
+                "sku": "EMP-120",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Progesterone SR Capsule",
+                "dosing": "VPI-191: (T2); 50 mg; VPI-192: (T2); 75 mg; VPI-193: (T2); 125 mg; VPI-194: (T2); 150 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "VPI-191; VPI-192; VPI-193; VPI-194",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "GLP-1 Probiotic Pro",
+                "description": "A specialized probiotic blend formulated to enhance gut health and improve gastrointestinal tolerance in individuals using GLP-1 agonists.",
+                "indication": "Enhance your GLP-1 journey with our Probiotic Support."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Sunfiber",
+                "description": "Sunfiber is a soluble, partially hydrolyzed guar gum (PHGG) that functions as a gentle prebiotic fiber. It dissolves easily in liquids, is tasteless, and ferments slowly in the gut, minimizing gas and bloating.",
+                "indication": "Promotes healthy gut microbiota balance, improve stool regularity, and support digestive comfort. It is especially beneficial for individuals with dysbiosis, IBS, or sensitive digestion, as it gently feeds beneficial bacteria without causing excess gas or bloating."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-09T22:34:37.320068"
     }
 ]
