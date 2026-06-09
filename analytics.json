@@ -8239,5 +8239,87 @@
         ],
         "promos": [],
         "timestamp": "2026-06-09T15:37:25.367406"
+    },
+    {
+        "member_name": "Ameerah Byrd",
+        "manager": "Casey",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Liothyronine Sodium/Levothyroxine Sodium Capsule",
+                "dosing": "EMP-94: (Immediate Release); 13.5/57 mcg; EMP-96: (Immediate Release); 15/50 mcg; EMP-98: (Immediate Release); 18/76 mcg; EMP-100: (Immediate Release); 22.5/95 mcg; EMP-102: (Immediate Release); 27/114 mcg; EMP-190: (IR); 4.5/19 mcg; EMP-192: (IR); 6.8/28.5 mcg; EMP-194: (IR); 9/38 mcg; EMP-196: (IR); 13.5/57 mcg; EMP-198: (IR); 15/50 mcg; EMP-200: (IR); 18/76 mcg; EMP-202: (IR); 22.5/95 mcg; EMP-204: (IR); 27/114 mcg; EMP-206: (IR); 36/152 mcg",
+                "description": "A compounded immediate-release T4/T3 thyroid medication designed to combine levothyroxine support with liothyronine activity in one protocol.",
+                "indication": "May fit clients with persistent thyroid-related symptoms or conversion-pattern concerns when labs and clinician judgment support a combined T4/T3 approach.",
+                "sku": "EMP-94; EMP-96; EMP-98; EMP-100; EMP-102; EMP-190; EMP-192; EMP-194; EMP-196; EMP-198; EMP-200; EMP-202; EMP-204; EMP-206",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Estradiol cypionate Injection in GSO",
+                "dosing": "10 mg/ml; 5 ml",
+                "description": "An injectable estrogen option used in personalized hormone care when symptoms and labs suggest estrogen support may be appropriate.",
+                "indication": "May fit clients with low-estrogen patterns such as hot flashes, night sweats, sleep disruption, mood shifts, vaginal dryness, or tissue changes after individualized risk review.",
+                "sku": "EMP-120",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Progesterone Capsule",
+                "dosing": "EMP-128: (Immediate Release); 150 mg; EMP-130: (Immediate Release); 225 mg; EMP-132: (Immediate Release); 250 mg; EMP-133: (Slow Release); 250 mg; EMP-135: (Slow Release); 225 mg; EMP-137: (Slow Release); 150 mg; EMP-400: (Slow Release); 200 mg; VPI-185: (T2); 25 mg; VPI-186: (T2); 50 mg; VPI-187: (T2); 75 mg; VPI-188: (T2); 125 mg; VPI-189: (T2); 150 mg; VPI-190: (T2); 250 mg; ZAO-195: 120 mg; ZAO-197: (T2); 10 mg; ZAO-198: (T2); 20 mg; ZAO-199: (T2); 25 mg; ZAO-200: (T2); 30 mg; ZAO-201: (T2); 50 mg; ZAO-202: (T2); 60 mg; ZAO-203: (T2); 80 mg; ZAO-204: (T2); 130 mg; ZAO-205: (T2); 140 mg; ZAO-206: (T2); 150 mg; ZAO-209: (T2); 250 mg; ZAO-210: (T2); 300 mg; ZAO-211: (T2); 350 mg; ZAO-212: (T2); 400 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "EMP-128; EMP-130; EMP-132; EMP-133; EMP-135; EMP-137; EMP-400; VPI-185; VPI-186; VPI-187; VPI-188; VPI-189; VPI-190; ZAO-195; ZAO-197; ZAO-198; ZAO-199; ZAO-200; ZAO-201; ZAO-202; ZAO-203; ZAO-204; ZAO-205; ZAO-206; ZAO-209; ZAO-210; ZAO-211; ZAO-212",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tirzepatide (B12 or B6)//",
+                "dosing": "STK-9: (Starter VIal); 7.5 mg; 1 mg; 0.5 mL; 2 ml; STK-10: (titrate vial); 15 mg; 1 mg; 0.5 mL; 2 ml",
+                "description": "A dual incretin-based metabolic therapy with added nutrient support used in clinician-guided weight-management and metabolic-health programs to support satiety, appetite regulation, and glucose response.",
+                "indication": "May fit clients with weight-loss resistance, strong appetite signaling, cravings, blood-sugar swings, or insulin-resistance patterns after review of contraindications, dose titration, and GI tolerability.",
+                "sku": "STK-9; STK-10",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-09T15:37:39.145002"
     }
 ]
