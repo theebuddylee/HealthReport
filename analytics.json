@@ -8628,5 +8628,74 @@
         ],
         "promos": [],
         "timestamp": "2026-06-09T22:34:37.320068"
+    },
+    {
+        "member_name": "Ameerah Byrd",
+        "manager": "Casey",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "GHK-Cu Injection",
+                "dosing": "10 mg/mL; 50 mg; 5 ml",
+                "description": "A copper-peptide therapy used in regenerative wellness protocols to support tissue quality, collagen signaling, skin health, and recovery pathways.",
+                "indication": "May fit clients focused on skin quality, hair support, tissue recovery, or regenerative wellness goals after route, expectations, and monitoring are reviewed.",
+                "sku": "Stk-3",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "NAD+ Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 10 ml",
+                "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+                "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+                "sku": "VPI-277",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Iron Bisglycinate",
+                "description": "Iron bisglycinate is a highly absorbable form of iron that is chelated to the amino acid glycine, making it gentler on the digestive system than many traditional iron supplements. It is commonly used to support healthy iron levels, red blood cell production, energy, and oxygen transport throughout the body.",
+                "indication": "Iron bisglycinate may be recommended for individuals with low iron stores, low ferritin levels, iron deficiency, or symptoms such as fatigue, weakness, hair shedding, or reduced exercise tolerance. It is often used to replenish iron levels while minimizing common gastrointestinal side effects such as constipation, nausea, and stomach upset."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Vitamin D",
+                "description": "A critical vitamin for bone health, immune function, and mood regulation.",
+                "indication": "Support your overall health with Vitamin D3, essential for strong bones, a robust immune system, and optimal mood."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-10T18:27:53.748239"
     }
 ]
