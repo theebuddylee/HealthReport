@@ -9069,5 +9069,104 @@
         ],
         "promos": [],
         "timestamp": "2026-06-11T17:41:35.438556"
+    },
+    {
+        "member_name": "Mary McGinley",
+        "manager": "Dawn",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "DUTCH Complete\u2122 Test",
+                "description": "The DUTCH Complete\u2122 Test (Dried Urine Test for Comprehensive Hormones) is an advanced hormone panel that provides a detailed analysis of sex hormones, adrenal function, and their metabolites. Using dried urine samples collected over a 24-hour period, this test offers a comprehensive assessment of hormonal balance, metabolism, and overall endocrine health. It measures cortisol patterns, sex hormones, melatonin, and organic acid markers to provide insights into stress response, hormone detoxification, and overall well-being.",
+                "indication": "The DUTCH Complete\u2122 Test is indicated for individuals experiencing symptoms related to hormone imbalance, adrenal dysfunction, and metabolic concerns, including fatigue, mood swings, weight fluctuations, irregular menstrual cycles, low libido, and sleep disturbances. It is particularly beneficial for assessing adrenal health, evaluating estrogen metabolism, and monitoring hormone therapy. This test provides actionable insights for optimizing hormonal balance, improving stress resilience, and enhancing overall wellness."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "DHEA Capsule SR",
+                "dosing": "EMP-62: 20 mg; EMP-64: 50 mg; EMP-66: 100 mg; EMP-270: 10 mg; EMP-271: 5 mg; zao-260: (T2); 10 mg; ZAO-317: (Compounded); (T2); 5 mg",
+                "description": "A DHEA hormone-precursor option used to support adrenal-androgen pathways when lab findings and symptoms suggest low or suboptimal levels.",
+                "indication": "May fit clients with fatigue, low libido, reduced resilience, low mood, or adrenal-androgen patterns on labs, with monitoring for acne, hair changes, mood shifts, and hormone conversion.",
+                "sku": "EMP-62; EMP-64; EMP-66; EMP-270; EMP-271; zao-260; ZAO-317",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Estradiol cypionate Injection in GSO",
+                "dosing": "10 mg/ml; 5 ml",
+                "description": "An injectable estrogen option used in personalized hormone care when symptoms and labs suggest estrogen support may be appropriate.",
+                "indication": "May fit clients with low-estrogen patterns such as hot flashes, night sweats, sleep disruption, mood shifts, vaginal dryness, or tissue changes after individualized risk review.",
+                "sku": "EMP-120",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Progesterone Capsule",
+                "dosing": "EMP-128: (Immediate Release); 150 mg; EMP-130: (Immediate Release); 225 mg; EMP-132: (Immediate Release); 250 mg; EMP-133: (Slow Release); 250 mg; EMP-135: (Slow Release); 225 mg; EMP-137: (Slow Release); 150 mg; EMP-400: (Slow Release); 200 mg; VPI-185: (T2); 25 mg; VPI-186: (T2); 50 mg; VPI-187: (T2); 75 mg; VPI-188: (T2); 125 mg; VPI-189: (T2); 150 mg; VPI-190: (T2); 250 mg; ZAO-195: 120 mg; ZAO-197: (T2); 10 mg; ZAO-198: (T2); 20 mg; ZAO-199: (T2); 25 mg; ZAO-200: (T2); 30 mg; ZAO-201: (T2); 50 mg; ZAO-202: (T2); 60 mg; ZAO-203: (T2); 80 mg; ZAO-204: (T2); 130 mg; ZAO-205: (T2); 140 mg; ZAO-206: (T2); 150 mg; ZAO-209: (T2); 250 mg; ZAO-210: (T2); 300 mg; ZAO-211: (T2); 350 mg; ZAO-212: (T2); 400 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "EMP-128; EMP-130; EMP-132; EMP-133; EMP-135; EMP-137; EMP-400; VPI-185; VPI-186; VPI-187; VPI-188; VPI-189; VPI-190; ZAO-195; ZAO-197; ZAO-198; ZAO-199; ZAO-200; ZAO-201; ZAO-202; ZAO-203; ZAO-204; ZAO-205; ZAO-206; ZAO-209; ZAO-210; ZAO-211; ZAO-212",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "WOLVERINE BPC-157/TB-500 Injection (/)",
+                "dosing": "3.33 mg/ML; 1.66 mg; 3 ml",
+                "description": "A research-informed recovery peptide combination pairing BPC-157 with thymosin beta-4/TB-500 pathways to support tissue remodeling, mobility, and repair signaling.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, training-recovery, or soft-tissue goals when expectations, regulatory status, and clinician monitoring are reviewed.",
+                "sku": "Stk-2",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "GHK-Cu Injection",
+                "dosing": "10 mg/mL; 50 mg; 5 ml",
+                "description": "A copper-peptide therapy used in regenerative wellness protocols to support tissue quality, collagen signaling, skin health, and recovery pathways.",
+                "indication": "May fit clients focused on skin quality, hair support, tissue recovery, or regenerative wellness goals after route, expectations, and monitoring are reviewed.",
+                "sku": "Stk-3",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A GHRH analog peptide used in select protocols to support growth-hormone/IGF-1 signaling and body-composition goals.",
+                "indication": "May fit carefully screened clients with body-composition or recovery goals when IGF-1, glucose markers, cancer history, and route-specific monitoring are reviewed.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols.",
+                "indication": "May may be used to support fat loss, metabolic function, energy production, body recomposition, and lean muscle definition, particularly in individuals seeking additional support with weight management or reduction of stubborn fat areas.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-14T19:52:29.646664"
     }
 ]
