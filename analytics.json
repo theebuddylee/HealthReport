@@ -9168,5 +9168,103 @@
         ],
         "promos": [],
         "timestamp": "2026-06-14T19:52:29.646664"
+    },
+    {
+        "member_name": "Mike Catherwood",
+        "manager": "Jamie",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's TRT Treatment Follow-Up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-follow-up-panel",
+                "description": "A targeted follow-up panel designed for men undergoing hormone therapy, tracking key changes in testosterone and overall health.",
+                "indication": "Measures Free & Total Testosterone, Estradiol, PSA, CBC, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tadalafil (Generic Cialis) Tablet",
+                "dosing": "EMP-6: 5 mg; EMP-8: 10 mg; EMP-10: 20 mg; VPI-144: (T1); 20 mg",
+                "description": "A PDE-5 medication used in sexual-health protocols to support nitric-oxide mediated blood-flow response and confidence in sexual performance.",
+                "indication": "May fit clients with erectile-function or blood-flow related sexual concerns after review of cardiovascular history, blood pressure, nitrate use, and medication interactions.",
+                "sku": "EMP-6; EMP-8; EMP-10; VPI-144",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "WOLVERINE BPC-157/TB-500 Injection (/)",
+                "dosing": "3.33 mg/ML; 1.66 mg; 3 ml",
+                "description": "A research-informed recovery peptide combination pairing BPC-157 with thymosin beta-4/TB-500 pathways to support tissue remodeling, mobility, and repair signaling.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, training-recovery, or soft-tissue goals when expectations, regulatory status, and clinician monitoring are reviewed.",
+                "sku": "Stk-2",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Selank [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-91: (T1); 7500 mcg/mL; 7.5 ml; VPI-93: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A neuropeptide nasal option used in research-informed protocols focused on stress resilience, calm focus, and nervous-system balance.",
+                "indication": "May fit carefully screened clients with stress reactivity, anxious tension, or focus concerns when medications, mood history, route tolerance, and expectations are reviewed.",
+                "sku": "VPI-91; VPI-93",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl MOTs-C Injection",
+                "dosing": "(T1); 10 mg/mL; 5 ml",
+                "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+                "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-282",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Myo-Inositol",
+                "description": "Myo-inositol is a naturally occurring carbohydrate-like compound that functions as an important cellular messenger involved in insulin signaling, glucose metabolism, neurotransmitter activity, and hormone regulation. It supports healthy communication between cells and plays a key role in metabolic and neurological function.",
+                "indication": "Myo-inositol may be beneficial for individuals with elevated fasting glucose, insulin resistance, higher hemoglobin A1C levels, metabolic syndrome, or a family history of diabetes. It is also frequently used to support mood, stress resilience, and nervous system balance, making it a valuable tool for improving both metabolic health and overall well-being."
+            },
+            {
+                "name": "Glycine",
+                "description": "Glycine is a naturally occurring amino acid that serves as a building block for collagen and connective tissue while also supporting neurotransmitter function within the nervous system. It plays an important role in sleep regulation, detoxification pathways, joint health, and the production of glutathione, one of the body's primary antioxidants.",
+                "indication": "Glycine is commonly recommended for individuals experiencing poor sleep quality, difficulty recovering from exercise, connective tissue concerns, joint discomfort, or increased oxidative stress. Taken before bedtime, it may help support deeper, more restorative sleep while also contributing to long-term recovery and tissue repair."
+            },
+            {
+                "name": "Boron",
+                "description": "Boron is a trace mineral involved in numerous physiological processes, including hormone metabolism, bone health, vitamin D utilization, cognitive function, and inflammatory regulation. It helps support the body's ability to maintain healthy levels of key hormones and may influence how hormones are transported and utilized throughout the body.",
+                "indication": "Boron may be beneficial for individuals with elevated Sex Hormone Binding Globulin (SHBG), low free testosterone, concerns regarding bone density, or those seeking improved hormone optimization and recovery. It is commonly used as part of a comprehensive hormone-support protocol to help improve the availability of biologically active testosterone and support overall wellness."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-15T17:42:38.967192"
     }
 ]
