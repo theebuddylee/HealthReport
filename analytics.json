@@ -9817,5 +9817,119 @@
         ],
         "promos": [],
         "timestamp": "2026-06-17T18:12:46.994984"
+    },
+    {
+        "member_name": "Jane Doe",
+        "manager": "Kathy",
+        "membership": [
+            "Weight Loss Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            },
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            },
+            {
+                "name": "Women's Hormone Treatment Follow-up Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-follow-up-panel",
+                "description": "A follow-up hormone panel for women monitoring treatment progress and adjusting therapy as needed.",
+                "indication": "Measures FSH, LH, CBC, Progesterone, Testosterone, Estradiol, TSH, Metabolic Panel, and Lipid Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Retatrutide",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "An investigational next-generation metabolic therapy designed to activate three key hormone pathways involved in appetite control, glucose regulation, energy balance, and fat metabolism: GLP-1, GIP, and glucagon. This triple-action mechanism is what makes retatrutide especially exciting compared with earlier incretin therapies. In clinical research, retatrutide has shown substantial weight-loss potential, with higher-dose groups in phase 2 obesity trials averaging up to 24.2% body-weight reduction over 48 weeks. Its broader metabolic signaling may also support meaningful fat-mass reduction while helping clients pursue a more complete body-composition strategy when paired with adequate protein intake, resistance training, and clinician-guided monitoring.",
+                "indication": "May fit clients seeking advanced metabolic and weight-management support when appetite, cravings, insulin resistance, or body-composition goals have not responded adequately to lifestyle changes or prior GLP-1/GIP therapies. Retatrutide may be especially relevant for clients focused not only on scale weight, but also on improving fat loss while protecting strength, lean tissue, and long-term metabolic health through a structured plan that includes nutrition, resistance training, and follow-up monitoring.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "GHK-Cu Injection",
+                "dosing": "10 mg/mL; 50 mg; 5 ml",
+                "description": "A copper-peptide therapy used in regenerative wellness protocols to support tissue quality, collagen signaling, skin health, and recovery pathways.",
+                "indication": "May fit clients focused on skin quality, hair support, tissue recovery, or regenerative wellness goals after route, expectations, and monitoring are reviewed.",
+                "sku": "Stk-3",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A GHRH analog peptide used in select protocols to support growth-hormone/IGF-1 signaling and body-composition goals.",
+                "indication": "May fit carefully screened clients with body-composition or recovery goals when IGF-1, glucose markers, cancer history, and route-specific monitoring are reviewed.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols.",
+                "indication": "May may be used to support fat loss, metabolic function, energy production, body recomposition, and lean muscle definition, particularly in individuals seeking additional support with weight management or reduction of stubborn fat areas.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-17T18:12:52.348635"
     }
 ]
