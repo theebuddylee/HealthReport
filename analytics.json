@@ -10208,5 +10208,52 @@
         ],
         "promos": [],
         "timestamp": "2026-06-17T18:39:27.224138"
+    },
+    {
+        "member_name": "Natalie Papalaskaris",
+        "manager": "Jamie",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "GLOW GHK-Cu/BPC-157/TB-500 Injection (//)",
+                "dosing": "3.33 mg/ML; 9 mg; 1.66 mg; 3 ml",
+                "description": "A research-informed recovery peptide combination pairing BPC-157 with thymosin beta-4/TB-500 pathways to support tissue remodeling, mobility, and repair signaling.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, training-recovery, or soft-tissue goals when expectations, regulatory status, and clinician monitoring are reviewed.",
+                "sku": "Stk-1",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A GHRH analog peptide used in select protocols to support growth-hormone/IGF-1 signaling and body-composition goals.",
+                "indication": "May fit carefully screened clients with body-composition or recovery goals when IGF-1, glucose markers, cancer history, and route-specific monitoring are reviewed.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl MOTs-C Injection",
+                "dosing": "(T1); 10 mg/mL; 5 ml",
+                "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+                "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-282",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-17T18:57:18.190467"
     }
 ]
