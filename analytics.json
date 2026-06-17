@@ -9477,5 +9477,55 @@
         ],
         "promos": [],
         "timestamp": "2026-06-16T14:14:47.003428"
+    },
+    {
+        "member_name": "Kelly Vernon",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Oxandrolone Tablet",
+                "dosing": "EMP-158: 3.5 mg; EMP-160: 6 mg; EMP-162: 11.5 mg; EMP-166: 36.5 mg; EMP-168: 48.5 mg",
+                "description": "An oral anabolic medication used only in carefully selected, short-duration protocols where recovery or lean-mass support is clinically justified.",
+                "indication": "May fit carefully screened clients with specific strength, recovery, or lean-mass preservation goals when liver markers, lipids, blood pressure, hormone balance, and consent requirements are monitored.",
+                "sku": "EMP-158; EMP-160; EMP-162; EMP-166; EMP-168",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Homocysteine Supreme",
+                "description": "Formulated to support the efficient metabolism of homocysteine, an amino acid linked to cardiovascular and neurological health. It combines bioactive forms of folate (5-methyltetrahydrofolate), vitamin B6 (pyridoxal-5\u2019-phosphate), vitamin B12 (methylcobalamin), and other synergistic nutrients to promote optimal homocysteine pathways.",
+                "indication": "By maintaining healthy homocysteine levels, this supplement aids in the production of essential compounds like taurine, cysteine, norepinephrine, and dopamine, which are vital for detoxification, immune function, joint and cartilage health, and overall brain and cardiovascular wellness."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-17T12:49:43.484602"
     }
 ]
