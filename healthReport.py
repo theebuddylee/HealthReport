@@ -109,7 +109,7 @@ def merge_pdfs(template_path, generated_path, output_path):
 
         # Append the last 8 pages from the template
         total_pages = len(template_pdf)
-        for page_num in range(total_pages - 8, total_pages):
+        for page_num in range(total_pages - 9, total_pages):
             output_pdf.insert_pdf(template_pdf, from_page=page_num, to_page=page_num)
 
         output_pdf.save(output_path)
