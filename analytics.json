@@ -10552,5 +10552,44 @@
         ],
         "promos": [],
         "timestamp": "2026-06-17T21:46:12.674263"
+    },
+    {
+        "member_name": "Holker",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Oxandrolone Tablet",
+                "dosing": "EMP-158: 3.5 mg; EMP-160: 6 mg; EMP-162: 11.5 mg; EMP-166: 36.5 mg; EMP-168: 48.5 mg",
+                "description": "An oral anabolic medication used only in carefully selected, short-duration protocols where recovery or lean-mass support is clinically justified.",
+                "indication": "May fit carefully screened clients with specific strength, recovery, or lean-mass preservation goals when liver markers, lipids, blood pressure, hormone balance, and consent requirements are monitored.",
+                "sku": "EMP-158; EMP-160; EMP-162; EMP-166; EMP-168",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "PT-141 Injection",
+                "dosing": "10 mg/mL; 50 mg; 5 ml",
+                "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+                "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+                "sku": "Stk-4",
+                "non_ship_states": "IN",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-19T00:49:58.429528"
     }
 ]
