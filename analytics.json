@@ -11637,5 +11637,51 @@
         ],
         "promos": [],
         "timestamp": "2026-06-23T21:38:33.812843"
+    },
+    {
+        "member_name": "Paul B",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "N-Acetyl BPC-157 Capsule",
+                "dosing": "VPI-49: (T1); 1 mg; VPI-130: 500 mcg",
+                "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-49; VPI-130",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Glutathione [L] Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 30 ml",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "VPI-145",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Oil of Oregano",
+                "description": "Oil of oregano is a potent herbal extract derived from the oregano plant, rich in compounds like carvacrol and thymol, which have strong antibacterial, antifungal, and antioxidant properties. It is commonly used in integrative medicine to help combat microbial overgrowth and support immune function.",
+                "indication": "A natural antimicrobial, helping to reduce harmful bacteria, yeast, and parasites in the gut. It is often used in cases of bacterial overgrowth, fungal infections, or digestive imbalance, and can support overall immune and gut health when used short term as part of a targeted protocol."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-24T13:14:05.341153"
     }
 ]
