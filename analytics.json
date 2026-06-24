@@ -11915,5 +11915,59 @@
         ],
         "promos": [],
         "timestamp": "2026-06-24T16:29:28.918036"
+    },
+    {
+        "member_name": "Melanie Nickel ",
+        "manager": "Barbara",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            }
+        ],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "NAD+",
+                "dosing": "100 mg/mL; 1000 mg; 10 ml",
+                "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+                "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+                "sku": "Stk-5",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl MOTs-C Injection",
+                "dosing": "(T1); 10 mg/mL; 5 ml",
+                "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+                "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-282",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-24T17:09:24.374620"
     }
 ]
