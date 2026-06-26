@@ -12376,5 +12376,58 @@
         ],
         "promos": [],
         "timestamp": "2026-06-26T01:37:26.598073"
+    },
+    {
+        "member_name": "Shawn Atkins",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Nandrolone Decanoate Injection",
+                "dosing": "ZAO-15: (T2); 200 mg/ml; 5 ml; ZAO-17: (T2); 200 mg/ml; 10 ml",
+                "description": "An injectable anabolic medication used only in select, medically supervised protocols where tissue recovery, lean-mass preservation, or joint-comfort goals justify higher monitoring.",
+                "indication": "May fit carefully screened clients with specific recovery or body-composition goals after review of cardiovascular risk, blood count, lipids, liver markers, hormone balance, and consent requirements.",
+                "sku": "ZAO-15; ZAO-17",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [
+            {
+                "name": "Stay on Track: Vacation Reset Bundle",
+                "sku": "PROMO-1A",
+                "description": "The Stay on Track: Vacation Reset Bundle is designed to support energy, recovery, stress resilience, and restorative sleep during periods of increased demands, disrupted routines, travel, and busy schedules. Includes NAD+, Wolverine (BPC-157 + TB-500), L-Theanine, Magnesium Glycinate and DSIP (Delta Sleep-Inducing Peptide).",
+                "indication": "Recommended for individuals experiencing fatigue, poor sleep, increased stress, mental fog, muscle or joint discomfort, reduced recovery, or difficulty maintaining healthy routines due to travel, summer activities, demanding work schedules, family obligations, or other lifestyle stressors. Ideal for those looking to maintain energy, resilience, recovery, and overall wellness during busy seasons of life. ",
+                "price": "1199"
+            }
+        ],
+        "timestamp": "2026-06-26T13:44:06.442641"
     }
 ]
