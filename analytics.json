@@ -12522,5 +12522,59 @@
         ],
         "promos": [],
         "timestamp": "2026-06-26T14:35:43.086282"
+    },
+    {
+        "member_name": "",
+        "manager": "AJ",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Cortisol Calm",
+                "description": "A supplement designed to support adrenal health and stress management by balancing cortisol levels.",
+                "indication": "A premium adaptogen blend designed to regulate cortisol levels and support a balanced stress response."
+            },
+            {
+                "name": "Multi-Vitamin Premier",
+                "description": "A high-quality multivitamin providing essential vitamins, minerals, and antioxidants.",
+                "indication": "A high-quality multivitamin to fill nutritional gaps and support overall health and vitality."
+            }
+        ],
+        "promos": [
+            {
+                "name": "Stay on Track: Vacation Reset Bundle",
+                "sku": "PROMO-1A",
+                "description": "The Stay on Track: Vacation Reset Bundle is designed to support energy, recovery, stress resilience, and restorative sleep during periods of increased demands, disrupted routines, travel, and busy schedules. Includes NAD+, Wolverine (BPC-157 + TB-500), L-Theanine, Magnesium Glycinate and DSIP (Delta Sleep-Inducing Peptide).",
+                "indication": "Recommended for individuals experiencing fatigue, poor sleep, increased stress, mental fog, muscle or joint discomfort, reduced recovery, or difficulty maintaining healthy routines due to travel, summer activities, demanding work schedules, family obligations, or other lifestyle stressors. Ideal for those looking to maintain energy, resilience, recovery, and overall wellness during busy seasons of life. ",
+                "price": "1199"
+            }
+        ],
+        "timestamp": "2026-06-26T18:15:29.223741"
     }
 ]
