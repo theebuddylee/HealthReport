@@ -12957,5 +12957,72 @@
         ],
         "promos": [],
         "timestamp": "2026-06-28T17:12:35.612611"
+    },
+    {
+        "member_name": "Ricardo Arredondo",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [
+            {
+                "name": "Men's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-hormone-health-panel",
+                "description": "A mid-level hormone panel for men seeking deeper insights into testosterone function, recovery, weight management, and overall vitality.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, and Vitamin D."
+            },
+            {
+                "name": "Men's Comprehensive Hormone Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-comprehensive-hormone-panel",
+                "description": "An advanced panel assessing a wide range of male hormones and biomarkers, ensuring peak performance, recovery, and metabolic balance.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol, SHBG, Prolactin, Cortisol, Progesterone, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "Sermorelin Acetate Injection",
+                "dosing": "EMP-36: (Lyo); 9 mg; EMP-38: (Lyo); 15 mg",
+                "description": "A GHRH-pathway peptide used to support the body\u2019s natural growth-hormone signaling when symptoms, goals, and labs make it clinically appropriate.",
+                "indication": "May fit clients focused on sleep quality, recovery, body composition, training adaptation, or low IGF-1 patterns after clinical review and monitoring.",
+                "sku": "EMP-36; EMP-38",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "Glutathione Injection (Preserved)",
+                "dosing": "EMP-244: 200 mg/mL; 30 mL; ZAO-400: (T2); 200 mg/mL; 30 mL",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "EMP-244; ZAO-400",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "Bremelanotide Injection",
+                "dosing": "10 mg/mL; 2 ml",
+                "description": "A melanocortin-pathway peptide used in sexual-wellness protocols to support desire and arousal signaling rather than acting primarily through blood flow.",
+                "indication": "May fit clients with low sexual desire, reduced arousal, or lower sexual responsiveness after hormone balance, stress load, medication effects, and blood-pressure risk are reviewed.",
+                "sku": "EMP-289",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-29T15:51:37.047884"
     }
 ]
