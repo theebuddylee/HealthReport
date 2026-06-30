@@ -13399,5 +13399,49 @@
         ],
         "promos": [],
         "timestamp": "2026-06-30T21:49:21.358921"
+    },
+    {
+        "member_name": "",
+        "manager": "Casey",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "CJC-1295/ Ipamorelin ",
+                "description": "CJC-1295/Ipamorelin is a peptide combination that works by stimulating the body's natural release of growth hormone and IGF-1, supporting recovery, muscle protein synthesis, and healthy body composition. By enhancing the body's own growth hormone production, it may help improve sleep quality, recovery, fat metabolism, and the maintenance of lean muscle mass.",
+                "indication": "CJC-1295/Ipamorelin may be recommended for individuals looking to reduce body fat while preserving or building lean muscle as part of a comprehensive wellness program that includes proper nutrition and regular resistance training. It may also benefit those seeking improved exercise recovery, increased strength and endurance, and enhanced overall body composition."
+            },
+            {
+                "name": "Tesamorelin",
+                "description": "Tesamorelin is a synthetic growth hormone\u2013releasing hormone (GHRH) analog that stimulates the pituitary gland to increase endogenous growth hormone production. It is primarily used to improve body composition by reducing visceral (abdominal) fat while supporting lean muscle preservation, metabolic health, and improved lipid profiles in appropriate patients.",
+                "indication": "Tesamorelin may be considered for individuals seeking targeted reduction of visceral adiposity while maintaining or improving lean muscle mass within a structured nutrition and resistance training program. It is often used in metabolic and HRT settings for patients with central fat accumulation, insulin resistance tendencies, or difficulty improving body composition despite lifestyle optimization."
+            },
+            {
+                "name": "Mots-C",
+                "description": "MOTS-c is a mitochondria-derived peptide involved in regulating cellular energy metabolism and improving metabolic flexibility. It is used in clinical wellness and research settings to support fat oxidation, insulin sensitivity, and exercise efficiency, with potential benefits for endurance, recovery, and preservation of lean muscle mass during calorie restriction.",
+                "indication": "MOTS-c injection may be considered for individuals seeking improved body composition through enhanced fat utilization and metabolic efficiency, particularly when paired with structured nutrition and resistance training. It is often utilized in patients with metabolic resistance, reduced exercise tolerance, or difficulty achieving fat loss despite appropriate lifestyle interventions."
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols.",
+                "indication": "May may be used to support fat loss, metabolic function, energy production, body recomposition, and lean muscle definition, particularly in individuals seeking additional support with weight management or reduction of stubborn fat areas.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-06-30T22:21:51.486099"
     }
 ]
