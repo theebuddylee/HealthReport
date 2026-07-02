@@ -37,5 +37,44 @@
         ],
         "promos": [],
         "timestamp": "2026-07-02T14:30:50.695752"
+    },
+    {
+        "member_name": "Tim Washburn",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Methylene Blue Capsule",
+                "dosing": "5 mg",
+                "description": "A redox-active medication that may support mitochondrial electron transport and cellular-energy signaling in carefully selected protocols.",
+                "indication": "May fit carefully screened clients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals after review of serotonergic medications, G6PD status, psychiatric history, and dose sensitivity.",
+                "sku": "EMP-173",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "BPC-157",
+                "dosing": "3 mg/mL; 5 ml; 15 mg",
+                "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "STK-12",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-02T14:30:58.113146"
     }
 ]
