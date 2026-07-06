@@ -34,5 +34,79 @@
         ],
         "promos": [],
         "timestamp": "2026-07-02T16:53:44.100774"
+    },
+    {
+        "member_name": "",
+        "manager": "AJ",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tirzepatide/Niacinamide Injection",
+                "dosing": "EMP-116: (Starter VIal); 17/2 mg/ml; 2 ml; EMP-118: (Titrate VIal); 17/2 mg/ml; 4 ml",
+                "description": "A dual incretin-based metabolic therapy with added nutrient support used in clinician-guided weight-management and metabolic-health programs to support satiety, appetite regulation, and glucose response.",
+                "indication": "May fit clients with weight-loss resistance, strong appetite signaling, cravings, blood-sugar swings, or insulin-resistance patterns after review of contraindications, dose titration, and GI tolerability.",
+                "sku": "EMP-116; EMP-118",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "GLP-1"
+            },
+            {
+                "name": "Estradiol cypionate Injection in GSO",
+                "dosing": "10 mg/ml; 5 ml",
+                "description": "An injectable estrogen option used in personalized hormone care when symptoms and labs suggest estrogen support may be appropriate.",
+                "indication": "May fit clients with low-estrogen patterns such as hot flashes, night sweats, sleep disruption, mood shifts, vaginal dryness, or tissue changes after individualized risk review.",
+                "sku": "EMP-120",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Progesterone Troche",
+                "dosing": "EMP-122: 100 mg; Pack of 10; EMP-124: 150 mg; Pack of 10; EMP-126: 200 mg; Pack of 10; VPI-290: (T2); 200 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "EMP-122; EMP-124; EMP-126; VPI-290",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Semax [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-95: (T1); 7500 mcg/mL; 7.5 ml; VPI-97: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+                "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+                "sku": "VPI-95; VPI-97",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [
+            {
+                "name": "Stay on Track: Vacation Reset Bundle",
+                "sku": "PROMO-1A",
+                "description": "The Stay on Track: Vacation Reset Bundle is designed to support energy, recovery, stress resilience, and restorative sleep during periods of increased demands, disrupted routines, travel, and busy schedules. Includes NAD+, Wolverine (BPC-157 + TB-500), L-Theanine, Magnesium Glycinate and DSIP (Delta Sleep-Inducing Peptide).",
+                "indication": "Recommended for individuals experiencing fatigue, poor sleep, increased stress, mental fog, muscle or joint discomfort, reduced recovery, or difficulty maintaining healthy routines due to travel, summer activities, demanding work schedules, family obligations, or other lifestyle stressors. Ideal for those looking to maintain energy, resilience, recovery, and overall wellness during busy seasons of life. ",
+                "price": "1199"
+            }
+        ],
+        "timestamp": "2026-07-06T16:21:20.557284"
     }
 ]
