@@ -718,5 +718,81 @@
         ],
         "promos": [],
         "timestamp": "2026-07-08T16:22:31.256960"
+    },
+    {
+        "member_name": "Erich Vedder",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Metformin HCL ER Tablet",
+                "dosing": "EMP-22: 500 mg; EMP-24: 750 mg; EMP-26: 1000 mg",
+                "description": "An insulin-sensitizing medication used in metabolic-health protocols to support glucose regulation, insulin response, and weight-management efforts alongside lifestyle strategy.",
+                "indication": "May fit clients with insulin resistance, cravings, elevated glucose or A1c trends, PCOS-pattern metabolic concerns, or weight-loss resistance after kidney function, GI tolerance, and B12 status are reviewed.",
+                "sku": "EMP-22; EMP-24; EMP-26",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Enclomiphene",
+                "dosing": "zao-194: (T2); 12.5 mg; zao-196: (T2); 50 mg; zao-1951: (T2); 25 mg",
+                "description": "A selective estrogen receptor modulator used to encourage the body\u2019s own upstream testosterone signaling rather than replacing testosterone directly.",
+                "indication": "May fit clients seeking testosterone support while preserving natural gonadal signaling or fertility-related pathways, with monitoring of testosterone, estradiol, symptoms, and visual or mood side effects.",
+                "sku": "zao-194; zao-196; zao-1951",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Hexarelin Capsule",
+                "dosing": "5 mg",
+                "description": "A growth-hormone secretagogue peptide used in select protocols to stimulate GH release through ghrelin-receptor signaling.",
+                "indication": "May fit carefully screened clients with recovery, body-composition, or training-adaptation goals when appetite, cortisol/prolactin response, glucose control, and monitoring are reviewed.",
+                "sku": "VPI-147",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols.",
+                "indication": "May may be used to support fat loss, metabolic function, energy production, body recomposition, and lean muscle definition, particularly in individuals seeking additional support with weight management or reduction of stubborn fat areas.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-09T22:25:49.724184"
     }
 ]
