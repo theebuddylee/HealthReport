@@ -975,5 +975,59 @@
         ],
         "promos": [],
         "timestamp": "2026-07-10T15:25:49.252367"
+    },
+    {
+        "member_name": "",
+        "manager": "AJ",
+        "membership": [
+            "Menopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cream",
+                "dosing": "200 mg/ml; 30 ml",
+                "description": "A topical testosterone option used in clinician-guided hormone care for clients who prefer or require a non-injectable route.",
+                "indication": "May fit clients with low-testosterone symptoms and supportive labs when route preference, skin transfer precautions, dose sensitivity, fertility goals, and follow-up labs are reviewed.",
+                "sku": "EMP-46",
+                "non_ship_states": "CA, IA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Estradiol Capsule",
+                "dosing": "EMP-142: 0.75 mg; EMP-144: 1.25 mg; EMP-146: 1.75 mg; VPI-263: 0.5 mg; T2",
+                "description": "An estrogen therapy option used in clinician-guided hormone care to support low-estrogen symptoms and individualized hormone goals.",
+                "indication": "May fit clients with hot flashes, night sweats, sleep disruption, mood changes, vaginal dryness, or other low-estrogen patterns when risks, route, dose, and monitoring are reviewed.",
+                "sku": "EMP-142; EMP-144; EMP-146; VPI-263",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Progesterone Topical",
+                "dosing": "200 mg/ml; 30 ml",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "EMP-320",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-13T18:04:36.585744"
     }
 ]
