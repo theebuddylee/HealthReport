@@ -1145,5 +1145,71 @@
         ],
         "promos": [],
         "timestamp": "2026-07-13T20:55:46.463515"
+    },
+    {
+        "member_name": "Lauren Pattison",
+        "manager": "Dillon",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "DHEA Capsule",
+                "dosing": "EMP-397: (Slow Release); 25 mg; zao-197: (T2); 60 mg; zao-198: (T2); 25 mg; zao-199: (T2); 100 mg",
+                "description": "A DHEA hormone-precursor option used to support adrenal-androgen pathways when lab findings and symptoms suggest low or suboptimal levels.",
+                "indication": "May fit clients with fatigue, low libido, reduced resilience, low mood, or adrenal-androgen patterns on labs, with monitoring for acne, hair changes, mood shifts, and hormone conversion.",
+                "sku": "EMP-397; zao-197; zao-198; zao-199",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tirzepatide (B12 or B6)//",
+                "dosing": "STK-9: (Starter VIal); 7.5 mg; 1 mg; 0.5 mL; 2 ml; STK-10: (titrate vial); 15 mg; 1 mg; 0.5 mL; 2 ml",
+                "description": "A dual incretin-based metabolic therapy with added nutrient support used in clinician-guided weight-management and metabolic-health programs to support satiety, appetite regulation, and glucose response.",
+                "indication": "May fit clients with weight-loss resistance, strong appetite signaling, cravings, blood-sugar swings, or insulin-resistance patterns after review of contraindications, dose titration, and GI tolerability.",
+                "sku": "STK-9; STK-10",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Sermorelin Acetate Injection",
+                "dosing": "EMP-36: (Lyo); 9 mg; EMP-38: (Lyo); 15 mg",
+                "description": "A GHRH-pathway peptide used to support the body\u2019s natural growth-hormone signaling when symptoms, goals, and labs make it clinically appropriate.",
+                "indication": "May fit clients focused on sleep quality, recovery, body composition, training adaptation, or low IGF-1 patterns after clinical review and monitoring.",
+                "sku": "EMP-36; EMP-38",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A GHRH analog peptide used in select protocols to support growth-hormone/IGF-1 signaling and body-composition goals.",
+                "indication": "May fit carefully screened clients with body-composition or recovery goals when IGF-1, glucose markers, cancer history, and route-specific monitoring are reviewed.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-14T13:29:28.253024"
     }
 ]
