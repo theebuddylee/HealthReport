@@ -53,7 +53,7 @@ if "current_plan_promos" not in st.session_state:
 
 # Membership Manager Dropdown and Member's Name input
 st.sidebar.title("Member Details")
-membership_managers = ["AJ", "Allison", "Amber", "Barbara", "Buddy", "Brian", "Casey", "Dawn", "Dillon", "Jamie", "Joe", "Kathy", "Sean", "Steven"]
+membership_managers = ["AJ", "Allison", "Amber", "Barbara", "Buddy", "Casey", "Dawn", "Dillon", "Joe", "Julia", "Kathy", "Sean", "Steven"]
 selected_manager = st.sidebar.selectbox("Select Health Coach", membership_managers)
 member_name = st.sidebar.text_input("Enter Client Name")
 
