@@ -2045,5 +2045,83 @@
         ],
         "promos": [],
         "timestamp": "2026-07-21T18:45:21.317468"
+    },
+    {
+        "member_name": "",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ezetimibe Tablet",
+                "dosing": "EMP-272: 10 mg; VPI-129: (T1); 10 mg",
+                "description": "A cholesterol medication that reduces intestinal cholesterol absorption to support lower LDL cholesterol as part of a broader cardiometabolic plan.",
+                "indication": "May fit clients with elevated LDL cholesterol or cardiovascular-risk markers who need additional lipid support alongside nutrition, lifestyle, and follow-up lab monitoring.",
+                "sku": "EMP-272; VPI-129",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Cabergoline Tablet",
+                "dosing": "0.5 mg",
+                "description": "A dopamine-agonist medication used in select endocrine protocols to reduce elevated prolactin activity when labs and symptoms support treatment.",
+                "indication": "May fit clients with prolactin-related hormone disruption, libido changes, cycle irregularity, or other endocrine findings after review of labs, medications, mood history, and cardiac risk.",
+                "sku": "EMP-396",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "DHEA Capsule",
+                "dosing": "EMP-397: (Slow Release); 25 mg; zao-197: (T2); 60 mg; zao-198: (T2); 25 mg; zao-199: (T2); 100 mg",
+                "description": "A DHEA hormone-precursor option used to support adrenal-androgen pathways when lab findings and symptoms suggest low or suboptimal levels.",
+                "indication": "May fit clients with fatigue, low libido, reduced resilience, low mood, or adrenal-androgen patterns on labs, with monitoring for acne, hair changes, mood shifts, and hormone conversion.",
+                "sku": "EMP-397; zao-197; zao-198; zao-199",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Anastrozole Capsule",
+                "dosing": "VPI-170: (T2); 0.75 mg; VPI-300: (T2); 0.5 mg; VPI-301: (T2); 0.25 mg",
+                "description": "An aromatase-inhibitor medication used to reduce conversion of androgens into estradiol when estrogen activity is above the intended clinical range.",
+                "indication": "May fit clients with lab-supported estrogen excess, breast-tissue tenderness, fluid retention, libido changes, or hormone-protocol side effects, with careful dosing to avoid over-suppression.",
+                "sku": "VPI-170; VPI-300; VPI-301",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "MethylB12",
+                "description": "aaa",
+                "indication": "bbb"
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Nattovena 4,000 FU/cap",
+                "description": "Nattovena is a potent dietary supplement containing 4,000 fibrinolytic units (FU) of nattokinase per capsule, designed to support cardiovascular health by promoting normal blood viscosity and aiding in the breakdown of excess fibrin. Derived from the traditional Japanese fermented soybean dish natto, nattokinase is a fibrin-dissolving enzyme that helps maintain healthy circulation.",
+                "indication": "Used as a natural aid for managing 'thick blood,' or conditions associated with increased blood viscosity."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-22T16:01:48.230000"
     }
 ]
