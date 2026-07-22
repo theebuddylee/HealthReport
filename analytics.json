@@ -2229,5 +2229,65 @@
         ],
         "promos": [],
         "timestamp": "2026-07-22T16:02:45.395234"
+    },
+    {
+        "member_name": "Testy Test Guy",
+        "manager": "Julia",
+        "membership": [
+            "Menopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Estradiol Topical 1",
+                "dosing": "10 mg/ml; 30 ml",
+                "description": "An estrogen therapy option used in clinician-guided hormone care to support low-estrogen symptoms and individualized hormone goals.",
+                "indication": "May fit clients with hot flashes, night sweats, sleep disruption, mood changes, vaginal dryness, or other low-estrogen patterns when risks, route, dose, and monitoring are reviewed.",
+                "sku": "EMP-322",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Biotin/Finasteride/Minoxidil Capsules",
+                "dosing": "5/2.5/0.25 mg",
+                "description": "An oral hair-restoration combination that supports follicle activity while addressing androgen-related miniaturization and nutritional hair-quality support.",
+                "indication": "May fit clients with pattern hair thinning or progressive density loss when finasteride appropriateness, blood-pressure history, pregnancy risk, and lab-test interference from biotin are reviewed.",
+                "sku": "EMP-383",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "GHK-Cu Topical Cream GHK-Cu Topical Cream in Serum Pump",
+                "dosing": "VPI-138: [15 mL]; (T1); 2 mg/mL; 0.2 %; VPI-139: [30 mL]; (T1); 2 mg/mL; 0.2 %",
+                "description": "A copper-peptide skin therapy used to support collagen signaling, skin firmness, tissue quality, and healthy-looking texture.",
+                "indication": "May fit clients focused on skin aging, texture, recovery, or regenerative skin support when topical tolerance, consistency, and realistic timelines are reviewed.",
+                "sku": "VPI-138; VPI-139",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-22T20:37:17.652424"
     }
 ]
