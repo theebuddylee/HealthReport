@@ -27,13 +27,6 @@
         "email": "barbara@1stoptimal.com",
         "phone": "(816) 744-6814 x108"
     },
-    "Brian": {
-        "first_name": "Brian",
-        "last_name": "Burfield",
-        "alias_title": "Marketing",
-        "email": "Marketing@1stoptimal.com",
-        "phone": "(816) 744-6814 x100"
-    },
     "Buddy": {
         "first_name": "Buddy",
         "last_name": "Turner",
@@ -62,19 +55,19 @@
         "email": "dillon.hunter@1stoptimal.com",
         "phone": "(816) 744-6814 x301"
     },
-    "Julia": {
-        "first_name": "Julia",
-        "last_name": "Grant",
-        "alias_title": "Certified Health Coach",
-        "email": "Julia@1stoptimal.com",
-        "phone": "(816) 744-6814 x104"
-    },
     "Joe": {
         "first_name": "Joe",
         "last_name": "Miller",
         "alias_title": "Founder",
         "email": "joe.miller@1stoptimal.com",
         "phone": "(816) 744-6814 x300"
+    },
+    "Julia": {
+        "first_name": "Julia",
+        "last_name": "Grant",
+        "alias_title": "Certified Health Coach",
+        "email": "Julia@1stoptimal.com",
+        "phone": "(816) 744-6814 x104"
     },
     "Kathy": {
         "first_name": "Kathy",
