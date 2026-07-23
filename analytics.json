@@ -2289,5 +2289,51 @@
         ],
         "promos": [],
         "timestamp": "2026-07-22T20:37:17.652424"
+    },
+    {
+        "member_name": "Claudia Mayes",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Estradiol cypionate Injection in GSO",
+                "dosing": "10 mg/ml; 5 ml",
+                "description": "An injectable estrogen option used in personalized hormone care when symptoms and labs suggest estrogen support may be appropriate.",
+                "indication": "May fit clients with low-estrogen patterns such as hot flashes, night sweats, sleep disruption, mood shifts, vaginal dryness, or tissue changes after individualized risk review.",
+                "sku": "EMP-120",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Progesterone Capsule",
+                "dosing": "EMP-128: (Immediate Release); 150 mg; EMP-130: (Immediate Release); 225 mg; EMP-132: (Immediate Release); 250 mg; EMP-133: (Slow Release); 250 mg; EMP-135: (Slow Release); 225 mg; EMP-137: (Slow Release); 150 mg; EMP-400: (Slow Release); 200 mg; VPI-185: (T2); 25 mg; VPI-186: (T2); 50 mg; VPI-187: (T2); 75 mg; VPI-188: (T2); 125 mg; VPI-189: (T2); 150 mg; VPI-190: (T2); 250 mg; ZAO-195: 120 mg; ZAO-197: (T2); 10 mg; ZAO-198: (T2); 20 mg; ZAO-199: (T2); 25 mg; ZAO-200: (T2); 30 mg; ZAO-201: (T2); 50 mg; ZAO-202: (T2); 60 mg; ZAO-203: (T2); 80 mg; ZAO-204: (T2); 130 mg; ZAO-205: (T2); 140 mg; ZAO-206: (T2); 150 mg; ZAO-209: (T2); 250 mg; ZAO-210: (T2); 300 mg; ZAO-211: (T2); 350 mg; ZAO-212: (T2); 400 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "EMP-128; EMP-130; EMP-132; EMP-133; EMP-135; EMP-137; EMP-400; VPI-185; VPI-186; VPI-187; VPI-188; VPI-189; VPI-190; ZAO-195; ZAO-197; ZAO-198; ZAO-199; ZAO-200; ZAO-201; ZAO-202; ZAO-203; ZAO-204; ZAO-205; ZAO-206; ZAO-209; ZAO-210; ZAO-211; ZAO-212",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "BPC-157",
+                "dosing": "3 mg/mL; 5 ml; 15 mg",
+                "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "STK-12",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-23T21:08:21.483050"
     }
 ]
