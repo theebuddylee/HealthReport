@@ -2757,5 +2757,80 @@
         ],
         "promos": [],
         "timestamp": "2026-07-24T22:05:04.842302"
+    },
+    {
+        "member_name": "Mandylee Reeves ",
+        "manager": "Barbara",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "NAD+",
+                "dosing": "100 mg/mL; 1000 mg; 10 ml",
+                "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+                "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+                "sku": "Stk-5",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Glutathione [L] Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 30 ml",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "VPI-145",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Thyroid Support",
+                "description": "Thyroid Support is a dietary supplement to support thyroid function and health.* It is a vegetarian blend of Tyrosine, selenium, iodine, copper, zinc, manganese, ForsLean\u00ae brand Coleus Forskohlii, Bacopa monnieri,\nguggulsterones, Chromium and B vitamins all of which work together to optimize thyroid function, relieve fatigue, manage weight, appetite and mood, support healthy T4 and T3 ratios and elevate cellular metabolism.",
+                "indication": "Support healthy thyroid function, thyroid hormone production and conversion, energy metabolism, and overall metabolic health."
+            },
+            {
+                "name": "Iron Bisglycinate ",
+                "description": "\u2028Thorne's Iron Bisglycinate provides 25 mg of elemental iron per capsule that has been reacted with glycine for optimal absorption in the gastrointestinal tract, thus helping to decrease the typical gastrointestinal side effects.",
+                "indication": "Support healthy iron levels, replenish iron stores, optimize oxygen transport, and promote energy production in individuals with iron deficiency or increased iron requirements."
+            },
+            {
+                "name": "Vitamin C",
+                "description": "Vitamin C is a powerful antioxidant that plays an important role in immune function, collagen production, adrenal health, and wound healing. One of its most important functions is enhancing the absorption of non-heme iron (the type of iron found in plant foods and many iron supplements).",
+                "indication": "Optimize iron absorption, replenish iron stores, and support energy production by enhancing the bioavailability of dietary and supplemental iron."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Cortisol Calm",
+                "description": "A supplement designed to support adrenal health and stress management by balancing cortisol levels.",
+                "indication": "A premium adaptogen blend designed to regulate cortisol levels and support a balanced stress response."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-24T22:07:20.070855"
     }
 ]
