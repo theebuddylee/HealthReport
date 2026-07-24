@@ -2611,5 +2611,76 @@
         ],
         "promos": [],
         "timestamp": "2026-07-24T21:15:21.334210"
+    },
+    {
+        "member_name": "Bqabrarb",
+        "manager": "Barbara",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "NAD+",
+                "dosing": "100 mg/mL; 1000 mg; 10 ml",
+                "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+                "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+                "sku": "Stk-5",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Vitamin C ",
+                "description": "Vitamin C is a powerful antioxidant that plays an important role in immune function, collagen production, adrenal health, and wound healing. One of its most important functions is enhancing the absorption of non-heme iron (the type of iron found in plant foods and many iron supplements).\n",
+                "indication": "Optimize iron absorption, replenish iron stores, and support energy production by enhancing the bioavailability of dietary and supplemental iron."
+            },
+            {
+                "name": "Vitamin C ",
+                "description": "Vitamin C is a powerful antioxidant that plays an important role in immune function, collagen production, adrenal health, and wound healing. One of its most important functions is enhancing the absorption of non-heme iron (the type of iron found in plant foods and many iron supplements).\n",
+                "indication": "Optimize iron absorption, replenish iron stores, and support energy production by enhancing the bioavailability of dietary and supplemental iron."
+            },
+            {
+                "name": "Vitamin kqw",
+                "description": "Vitamin C is a powerful antioxidant that plays an important role in immune function, collagen production, adrenal health, and wound healing. One of its most important functions is enhancing the absorption of non-heme iron (the type of iron found in plant foods and many iron supplements).\n",
+                "indication": "Optimize iron absorption, replenish iron stores, and support energy production by enhancing the bioavailability of dietary and supplemental iron."
+            },
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-24T21:16:01.907254"
     }
 ]
