@@ -3057,5 +3057,67 @@
         ],
         "promos": [],
         "timestamp": "2026-07-29T03:30:06.139177"
+    },
+    {
+        "member_name": "Barbara Marcum",
+        "manager": "Dawn",
+        "membership": [
+            "Menopause Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Tirzepatide/Niacinamide Injection - (small Starter)",
+                "dosing": "8/2 mg/mL; 2.5 ml",
+                "description": "A dual incretin-based metabolic therapy with added nutrient support used in clinician-guided weight-management and metabolic-health programs to support satiety, appetite regulation, and glucose response.",
+                "indication": "May fit clients with weight-loss resistance, strong appetite signaling, cravings, blood-sugar swings, or insulin-resistance patterns after review of contraindications, dose titration, and GI tolerability.",
+                "sku": "EMP-350",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "GLP-1"
+            },
+            {
+                "name": "Liothyronine Sodium [any strength] + Levothyroxine Sodium (T4) [any strength] IR Capsule",
+                "dosing": "(T3)",
+                "description": "A compounded immediate-release T4/T3 thyroid medication designed to combine levothyroxine support with liothyronine activity in one protocol.",
+                "indication": "May fit clients with persistent thyroid-related symptoms or conversion-pattern concerns when labs and clinician judgment support a combined T4/T3 approach.",
+                "sku": "VPI-251",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "Estradiol Valerate",
+                "dosing": "(T2); 20 mg/ml; 5 ml",
+                "description": "An injectable estrogen option used in individualized hormone protocols when estrogen support is clinically appropriate and a longer-acting injectable route is preferred.",
+                "indication": "May fit clients with low-estrogen symptoms or hormone-support goals when route, dose, clot risk, migraine history, labs, and follow-up monitoring are reviewed.",
+                "sku": "ZAO-250",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "NAD+",
+                "dosing": "100 mg/mL; 1000 mg; 10 ml",
+                "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+                "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+                "sku": "Stk-5",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Creatine",
+                "description": "A naturally occurring compound stored in muscles and used to produce energy during high-intensity activities.",
+                "indication": "Fuel your body and mind with Creatine. By enhancing energy production, Creatine helps maintain muscle mass during aging or recovery while also improving memory, focus, and mental clarity."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-07-29T17:57:32.147992"
     }
 ]
