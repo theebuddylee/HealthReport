@@ -4008,5 +4008,46 @@
         ],
         "promos": [],
         "timestamp": "2026-08-10T17:20:58.498335"
+    },
+    {
+        "member_name": "Peter Charshafian ",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-hormone-health-panel",
+                "description": "A mid-level hormone panel for men seeking deeper insights into testosterone function, recovery, weight management, and overall vitality.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, and Vitamin D."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Enclomiphene Capsule",
+                "dosing": "(T2); 25 mg",
+                "description": "A selective estrogen receptor modulator used to encourage the body\u2019s own upstream testosterone signaling rather than replacing testosterone directly.",
+                "indication": "May fit clients seeking testosterone support while preserving natural gonadal signaling or fertility-related pathways, with monitoring of testosterone, estradiol, symptoms, and visual or mood side effects.",
+                "sku": "VPI-304",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-08-10T21:04:57.663684"
     }
 ]
