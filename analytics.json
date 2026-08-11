@@ -4049,5 +4049,70 @@
         ],
         "promos": [],
         "timestamp": "2026-08-10T21:04:57.663684"
+    },
+    {
+        "member_name": "Nicole Pinkerton",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Methylene Blue Capsule",
+                "dosing": "5 mg",
+                "description": "A redox-active medication that may support mitochondrial electron transport and cellular-energy signaling in carefully selected protocols.",
+                "indication": "May fit carefully screened clients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals after review of serotonergic medications, G6PD status, psychiatric history, and dose sensitivity.",
+                "sku": "EMP-173",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "DHEA Capsule",
+                "dosing": "EMP-397: (Slow Release); 25 mg; zao-197: (T2); 60 mg; zao-198: (T2); 25 mg; zao-199: (T2); 100 mg",
+                "description": "A DHEA hormone-precursor option used to support adrenal-androgen pathways when lab findings and symptoms suggest low or suboptimal levels.",
+                "indication": "May fit clients with fatigue, low libido, reduced resilience, low mood, or adrenal-androgen patterns on labs, with monitoring for acne, hair changes, mood shifts, and hormone conversion.",
+                "sku": "EMP-397; zao-197; zao-198; zao-199",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "DIM",
+                "description": "...",
+                "indication": "..."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Thyroid Support Bundle",
+                "description": "A comprehensive supplement package designed to support thyroid function.",
+                "indication": "Optimize your thyroid function with our Thyroid Support Bundle, featuring Selenium, D3 Liquid, and more."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-08-11T14:34:05.120104"
     }
 ]
