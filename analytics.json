@@ -4421,5 +4421,51 @@
         ],
         "promos": [],
         "timestamp": "2026-08-12T21:37:46.493725"
+    },
+    {
+        "member_name": "Test",
+        "manager": "Joe",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "HCG Injection (Pregnyl\u00ae)",
+                "dosing": "EMP-50: (Lyo); 10,000 IU; ZAO-19: (Lyo); (T2); 10,000 IU",
+                "description": "A hormone-signaling medication that mimics luteinizing-hormone activity and may support ovarian or testicular hormone production in fertility-conscious or endocrine protocols.",
+                "indication": "May fit clients who need support for natural hormone signaling, fertility-related goals, or gonadal function while a clinician reviews anatomy-specific use, labs, dosing, and follow-up monitoring.",
+                "sku": "EMP-50; ZAO-19",
+                "non_ship_states": "CA, IA, WI",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-08-13T17:06:45.272510"
     }
 ]
