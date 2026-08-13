@@ -4467,5 +4467,113 @@
         ],
         "promos": [],
         "timestamp": "2026-08-13T17:06:45.272510"
+    },
+    {
+        "member_name": "Jason Decarlo",
+        "manager": "Dillon",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Oxandrolone Tablet",
+                "dosing": "EMP-158: 3.5 mg; EMP-160: 6 mg; EMP-162: 11.5 mg; EMP-166: 36.5 mg; EMP-168: 48.5 mg",
+                "description": "An oral anabolic medication used only in carefully selected, short-duration protocols where recovery or lean-mass support is clinically justified.",
+                "indication": "May fit carefully screened clients with specific strength, recovery, or lean-mass preservation goals when liver markers, lipids, blood pressure, hormone balance, and consent requirements are monitored.",
+                "sku": "EMP-158; EMP-160; EMP-162; EMP-166; EMP-168",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Retatrutide",
+                "dosing": "STK-11: (starter vial); 4 mg; 0.5 ml; 2 ml; 16 mg; STK-13: (titrate vial); 12 mg; 0.5 ml; 2 ml; 48 mg",
+                "description": "An investigational next-generation metabolic therapy designed to activate three key hormone pathways involved in appetite control, glucose regulation, energy balance, and fat metabolism: GLP-1, GIP, and glucagon. This triple-action mechanism is what makes retatrutide especially exciting compared with earlier incretin therapies. In clinical research, retatrutide has shown substantial weight-loss potential, with higher-dose groups in phase 2 obesity trials averaging up to 24.2% body-weight reduction over 48 weeks. Its broader metabolic signaling may also support meaningful fat-mass reduction while helping clients pursue a more complete body-composition strategy when paired with adequate protein intake, resistance training, and clinician-guided monitoring.",
+                "indication": "May fit clients seeking advanced metabolic and weight-management support when appetite, cravings, insulin resistance, or body-composition goals have not responded adequately to lifestyle changes or prior GLP-1/GIP therapies. Retatrutide may be especially relevant for clients focused not only on scale weight, but also on improving fat loss while protecting strength, lean tissue, and long-term metabolic health through a structured plan that includes nutrition, resistance training, and follow-up monitoring.",
+                "sku": "STK-11; STK-13",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            },
+            {
+                "name": "Anastrozole Capsule",
+                "dosing": "VPI-170: (T2); 0.75 mg; VPI-300: (T2); 0.5 mg; VPI-301: (T2); 0.25 mg",
+                "description": "An aromatase-inhibitor medication used to reduce conversion of androgens into estradiol when estrogen activity is above the intended clinical range.",
+                "indication": "May fit clients with lab-supported estrogen excess, breast-tissue tenderness, fluid retention, libido changes, or hormone-protocol side effects, with careful dosing to avoid over-suppression.",
+                "sku": "VPI-170; VPI-300; VPI-301",
+                "non_ship_states": "",
+                "type": "Medication"
+            },
+            {
+                "name": "Enclomiphene Capsule",
+                "dosing": "(T2); 25 mg",
+                "description": "A selective estrogen receptor modulator used to encourage the body\u2019s own upstream testosterone signaling rather than replacing testosterone directly.",
+                "indication": "May fit clients seeking testosterone support while preserving natural gonadal signaling or fertility-related pathways, with monitoring of testosterone, estradiol, symptoms, and visual or mood side effects.",
+                "sku": "VPI-304",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A GHRH analog peptide used in select protocols to support growth-hormone/IGF-1 signaling and body-composition goals.",
+                "indication": "May fit carefully screened clients with body-composition or recovery goals when IGF-1, glucose markers, cancer history, and route-specific monitoring are reviewed.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Selank [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-91: (T1); 7500 mcg/mL; 7.5 ml; VPI-93: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A neuropeptide nasal option used in research-informed protocols focused on stress resilience, calm focus, and nervous-system balance.",
+                "indication": "May fit carefully screened clients with stress reactivity, anxious tension, or focus concerns when medications, mood history, route tolerance, and expectations are reviewed.",
+                "sku": "VPI-91; VPI-93",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Glutathione [L] Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 30 ml",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "VPI-145",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols.",
+                "indication": "May may be used to support fat loss, metabolic function, energy production, body recomposition, and lean muscle definition, particularly in individuals seeking additional support with weight management or reduction of stubborn fat areas.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Green Tea",
+                "description": "Green tea extract is a concentrated source of antioxidants, particularly catechins like EGCG, derived from the leaves of the Camellia sinensis plant. These compounds help reduce oxidative stress, support metabolic health, and promote overall cellular function. In addition to its antioxidant benefits, green tea extract contains a natural combination of caffeine and L-theanine, which work synergistically to improve alertness and mental clarity without the typical jitters or crashes associated with stimulants.",
+                "indication": "Recommended for individuals looking to support healthy weight management, improve focus and energy, and promote cardiovascular and metabolic health. Its anti-inflammatory and antioxidant properties also make it beneficial for those seeking additional protection against the effects of chronic stress and aging."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-08-13T19:16:32.352613"
     }
 ]
