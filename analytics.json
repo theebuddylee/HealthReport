@@ -4708,5 +4708,93 @@
         ],
         "promos": [],
         "timestamp": "2026-08-13T21:10:12.079073"
+    },
+    {
+        "member_name": "Karolyn Hubbs",
+        "manager": "Barbara",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "DHEA Capsule",
+                "dosing": "EMP-397: (Slow Release); 25 mg; zao-197: (T2); 60 mg; zao-198: (T2); 25 mg; zao-199: (T2); 100 mg",
+                "description": "A DHEA hormone-precursor option used to support adrenal-androgen pathways when lab findings and symptoms suggest low or suboptimal levels.",
+                "indication": "May fit clients with fatigue, low libido, reduced resilience, low mood, or adrenal-androgen patterns on labs, with monitoring for acne, hair changes, mood shifts, and hormone conversion.",
+                "sku": "EMP-397; zao-197; zao-198; zao-199",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "GHK-Cu Topical Cream GHK-Cu *Liposomal* Topical Cream in Serum Pump",
+                "dosing": "VPI-136: [15 mL]; (T1); 2 mg/mL; 0.2 %; VPI-137: [30 mL]; (T1); 2 mg/mL; 0.2 %",
+                "description": "A copper-peptide skin therapy used to support collagen signaling, skin firmness, tissue quality, and healthy-looking texture.",
+                "indication": "May fit clients focused on skin aging, texture, recovery, or regenerative skin support when topical tolerance, consistency, and realistic timelines are reviewed.",
+                "sku": "VPI-136; VPI-137",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "NAD+ Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 10 ml",
+                "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+                "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+                "sku": "VPI-277",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl MOTs-C Injection",
+                "dosing": "(T1); 10 mg/mL; 5 ml",
+                "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+                "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-282",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Cortisol Calm",
+                "description": "A supplement designed to support adrenal health and stress management by balancing cortisol levels.",
+                "indication": "A premium adaptogen blend designed to regulate cortisol levels and support a balanced stress response."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Sunfiber",
+                "description": "Sunfiber is a soluble, partially hydrolyzed guar gum (PHGG) that functions as a gentle prebiotic fiber. It dissolves easily in liquids, is tasteless, and ferments slowly in the gut, minimizing gas and bloating.",
+                "indication": "Promotes healthy gut microbiota balance, improve stool regularity, and support digestive comfort. It is especially beneficial for individuals with dysbiosis, IBS, or sensitive digestion, as it gently feeds beneficial bacteria without causing excess gas or bloating."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-08-13T21:34:05.090425"
     }
 ]
