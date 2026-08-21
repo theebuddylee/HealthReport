@@ -5812,5 +5812,50 @@
         ],
         "promos": [],
         "timestamp": "2026-08-21T15:41:11.525008"
+    },
+    {
+        "member_name": "Sarah Bowles",
+        "manager": "Dawn",
+        "membership": [
+            "Women's VIP Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tirzepatide/Niacinamide Injection",
+                "dosing": "EMP-116: (Starter VIal); 17/2 mg/ml; 2 ml; EMP-118: (Titrate VIal); 17/2 mg/ml; 4 ml",
+                "description": "A dual incretin-based metabolic therapy with added nutrient support used in clinician-guided weight-management and metabolic-health programs to support satiety, appetite regulation, and glucose response.",
+                "indication": "May fit clients with weight-loss resistance, strong appetite signaling, cravings, blood-sugar swings, or insulin-resistance patterns after review of contraindications, dose titration, and GI tolerability.",
+                "sku": "EMP-116; EMP-118",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-08-21T16:08:18.642903"
     }
 ]
