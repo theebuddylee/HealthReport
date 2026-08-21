@@ -5717,5 +5717,50 @@
         ],
         "promos": [],
         "timestamp": "2026-08-21T14:23:43.347546"
+    },
+    {
+        "member_name": "Scott Olmsted",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Comprehensive Hormone Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-comprehensive-hormone-panel",
+                "description": "An advanced panel assessing a wide range of male hormones and biomarkers, ensuring peak performance, recovery, and metabolic balance.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol, SHBG, Prolactin, Cortisol, Progesterone, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tadalafil (Generic Cialis) Tablet",
+                "dosing": "EMP-6: 5 mg; EMP-8: 10 mg; EMP-10: 20 mg; VPI-144: (T1); 20 mg",
+                "description": "A PDE-5 medication used in sexual-health protocols to support nitric-oxide mediated blood-flow response and confidence in sexual performance.",
+                "indication": "May fit clients with erectile-function or blood-flow related sexual concerns after review of cardiovascular history, blood pressure, nitrate use, and medication interactions.",
+                "sku": "EMP-6; EMP-8; EMP-10; VPI-144",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-08-21T15:40:21.100069"
     }
 ]
