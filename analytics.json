@@ -6230,5 +6230,93 @@
         ],
         "promos": [],
         "timestamp": "2026-08-25T20:14:14.718110"
+    },
+    {
+        "member_name": "Kiser Bulk",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "PEG-MGF",
+                "description": "...",
+                "indication": "..."
+            },
+            {
+                "name": "Tadalafil (Generic Cialis) Tablet",
+                "dosing": "EMP-6: 5 mg; EMP-8: 10 mg; EMP-10: 20 mg; VPI-144: (T1); 20 mg",
+                "description": "A PDE-5 medication used in sexual-health protocols to support nitric-oxide mediated blood-flow response and confidence in sexual performance.",
+                "indication": "May fit clients with erectile-function or blood-flow related sexual concerns after review of cardiovascular history, blood pressure, nitrate use, and medication interactions.",
+                "sku": "EMP-6; EMP-8; EMP-10; VPI-144",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Oxandrolone Tablet",
+                "dosing": "EMP-158: 3.5 mg; EMP-160: 6 mg; EMP-162: 11.5 mg; EMP-166: 36.5 mg; EMP-168: 48.5 mg",
+                "description": "An oral anabolic medication used only in carefully selected, short-duration protocols where recovery or lean-mass support is clinically justified.",
+                "indication": "May fit carefully screened clients with specific strength, recovery, or lean-mass preservation goals when liver markers, lipids, blood pressure, hormone balance, and consent requirements are monitored.",
+                "sku": "EMP-158; EMP-160; EMP-162; EMP-166; EMP-168",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Oxymetholone Capsule",
+                "dosing": "EMP-258: 25 mg; EMP-259: 50 mg",
+                "description": "A potent oral anabolic medication reserved for highly selected, closely monitored protocols rather than general wellness use.",
+                "indication": "May fit rare, carefully reviewed client scenarios involving significant lean-mass or recovery needs, with strict monitoring of liver markers, blood pressure, lipids, blood count, and risk tolerance.",
+                "sku": "EMP-258; EMP-259",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "IGF-1 LR3 Lyophilized Powder in",
+                "dosing": "(T1); 600 mcg; 5 mL",
+                "description": "An IGF-1 analog used only in advanced, tightly supervised protocols because of its growth-factor activity and safety considerations.",
+                "indication": "May fit only carefully screened clients with a specific clinician-defined rationale, with review of glucose control, cancer history, tissue-growth risk, and monitoring requirements.",
+                "sku": "VPI-302",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols.",
+                "indication": "May may be used to support fat loss, metabolic function, energy production, body recomposition, and lean muscle definition, particularly in individuals seeking additional support with weight management or reduction of stubborn fat areas.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "NAC",
+                "description": "...",
+                "indication": "..."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Tudca",
+                "description": "A bile acid supplement that supports liver health and detoxification processes.",
+                "indication": "A breakthrough bile acid supplement. TUDCA supports optimal liver function by promoting bile flow, reducing liver inflammation, and protecting against oxidative stress."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-08-25T21:45:17.185933"
     }
 ]
