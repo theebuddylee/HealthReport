@@ -6880,5 +6880,30 @@
         ],
         "promos": [],
         "timestamp": "2026-08-28T21:45:31.118208"
+    },
+    {
+        "member_name": "Vernon Chisem Jr",
+        "manager": "Casey",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "Tesamorelin",
+                "description": "Tesamorelin is a growth hormone\u2013releasing hormone (GHRH) analog that stimulates the body\u2019s natural production of growth hormone and increases IGF-1. It is primarily studied for reducing visceral adipose tissue (VAT), the metabolically active fat stored around the abdominal organs. By improving body composition and metabolic parameters, tesamorelin may support a leaner abdominal profile and may have downstream benefits related to energy, recovery, and overall metabolic health. Some patients also report improvements in sleep quality, skin appearance, and exercise recovery.",
+                "indication": "Tesamorelin may be considered for patients seeking to reduce excess visceral abdominal fat and improve body composition, particularly when lifestyle interventions alone have not produced the desired results. It may be appropriate as part of a comprehensive program that includes nutrition, resistance training, cardiovascular activity, and metabolic optimization. Potential secondary benefits may include improved recovery, energy, sleep quality, and skin/connective-tissue appearance through effects on the GH/IGF-1 axis. FDA-approved tesamorelin (Egrifta WR) is specifically indicated to reduce excess abdominal fat."
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-08-28T21:49:30.099805"
     }
 ]
