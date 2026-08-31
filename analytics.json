@@ -6905,5 +6905,28 @@
         ],
         "promos": [],
         "timestamp": "2026-08-28T21:49:30.099805"
+    },
+    {
+        "member_name": "Bryce Berry",
+        "manager": "Barbara",
+        "membership": [
+            "Weight Loss Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Tirzepatide/Niacinamide Injection - (small Starter)",
+                "dosing": "8/2 mg/mL; 2.5 ml",
+                "description": "A dual incretin-based metabolic therapy with added nutrient support used in clinician-guided weight-management and metabolic-health programs to support satiety, appetite regulation, and glucose response.",
+                "indication": "May fit clients with weight-loss resistance, strong appetite signaling, cravings, blood-sugar swings, or insulin-resistance patterns after review of contraindications, dose titration, and GI tolerability.",
+                "sku": "EMP-350",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [],
+        "supplements": [],
+        "promos": [],
+        "timestamp": "2026-08-31T22:46:25.326111"
     }
 ]
