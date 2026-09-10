@@ -8083,5 +8083,73 @@
         ],
         "promos": [],
         "timestamp": "2026-09-10T21:11:12.513295"
+    },
+    {
+        "member_name": "Caleb Schinzing",
+        "manager": "Dillon",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Metformin HCL ER Tablet",
+                "dosing": "EMP-22: 500 mg; EMP-24: 750 mg; EMP-26: 1000 mg",
+                "description": "An insulin-sensitizing medication used in metabolic-health protocols to support glucose regulation, insulin response, and weight-management efforts alongside lifestyle strategy.",
+                "indication": "May fit clients with insulin resistance, cravings, elevated glucose or A1c trends, PCOS-pattern metabolic concerns, or weight-loss resistance after kidney function, GI tolerance, and B12 status are reviewed.",
+                "sku": "EMP-22; EMP-24; EMP-26",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Methylene Blue Capsule",
+                "dosing": "5 mg",
+                "description": "A redox-active medication that may support mitochondrial electron transport and cellular-energy signaling in carefully selected protocols.",
+                "indication": "May fit carefully screened clients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals after review of serotonergic medications, G6PD status, psychiatric history, and dose sensitivity.",
+                "sku": "EMP-173",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Glutathione Injection (Preserved)",
+                "dosing": "EMP-244: 200 mg/mL; 30 mL; ZAO-400: (T2); 200 mg/mL; 30 mL",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "EMP-244; ZAO-400",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Cortisol Calm",
+                "description": "A supplement designed to support adrenal health and stress management by balancing cortisol levels.",
+                "indication": "A premium adaptogen blend designed to regulate cortisol levels and support a balanced stress response."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Nattovena 4,000 FU/cap",
+                "description": "Nattovena is a potent dietary supplement containing 4,000 fibrinolytic units (FU) of nattokinase per capsule, designed to support cardiovascular health by promoting normal blood viscosity and aiding in the breakdown of excess fibrin. Derived from the traditional Japanese fermented soybean dish natto, nattokinase is a fibrin-dissolving enzyme that helps maintain healthy circulation.",
+                "indication": "Used as a natural aid for managing 'thick blood,' or conditions associated with increased blood viscosity."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-10T23:05:07.392030"
     }
 ]
