@@ -8217,5 +8217,26 @@
         ],
         "promos": [],
         "timestamp": "2026-09-11T17:47:05.299888"
+    },
+    {
+        "member_name": "Angelina Beas",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [],
+        "promos": [],
+        "timestamp": "2026-09-11T19:03:18.280251"
     }
 ]
