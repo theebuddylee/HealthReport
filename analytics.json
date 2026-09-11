@@ -8238,5 +8238,26 @@
         "supplements": [],
         "promos": [],
         "timestamp": "2026-09-11T19:03:18.280251"
+    },
+    {
+        "member_name": "Angelina Beas",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "IGF-1 LR3 Lyophilized Powder in",
+                "dosing": "(T1); 600 mcg; 5 mL",
+                "description": "An IGF-1 analog used only in advanced, tightly supervised protocols because of its growth-factor activity and safety considerations.",
+                "indication": "May fit only carefully screened clients with a specific clinician-defined rationale, with review of glucose control, cancer history, tissue-growth risk, and monitoring requirements.",
+                "sku": "VPI-302",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [],
+        "promos": [],
+        "timestamp": "2026-09-11T19:03:38.535038"
     }
 ]
