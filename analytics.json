@@ -8330,5 +8330,43 @@
         "supplements": [],
         "promos": [],
         "timestamp": "2026-09-11T19:04:21.248349"
+    },
+    {
+        "member_name": "Lance Watson",
+        "manager": "Steven",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "WOLVERINE BPC-157/TB-500 Injection (/)",
+                "dosing": "3.33 mg/ML; 1.66 mg; 3 ml",
+                "description": "A research-informed recovery peptide combination pairing BPC-157 with thymosin beta-4/TB-500 pathways to support tissue remodeling, mobility, and repair signaling.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, training-recovery, or soft-tissue goals when expectations, regulatory status, and clinician monitoring are reviewed.",
+                "sku": "Stk-2",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "BPC-157",
+                "dosing": "3 mg/mL; 5 ml; 15 mg",
+                "description": "A research-informed recovery peptide used in wellness protocols focused on tissue repair signaling, gut-barrier support, and soft-tissue resilience.",
+                "indication": "May fit carefully screened clients with tendon, ligament, joint, gut-barrier, or training-recovery goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "STK-12",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-11T23:10:21.971232"
     }
 ]
