@@ -8471,5 +8471,75 @@
         ],
         "promos": [],
         "timestamp": "2026-09-14T17:07:29.774337"
+    },
+    {
+        "member_name": "Umed I",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ezetimibe Tablet",
+                "dosing": "EMP-272: 10 mg; VPI-129: (T1); 10 mg",
+                "description": "A cholesterol medication that reduces intestinal cholesterol absorption to support lower LDL cholesterol as part of a broader cardiometabolic plan.",
+                "indication": "May fit clients with elevated LDL cholesterol or cardiovascular-risk markers who need additional lipid support alongside nutrition, lifestyle, and follow-up lab monitoring.",
+                "sku": "EMP-272; VPI-129",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "HCG Injection (Pregnyl\u00ae)",
+                "dosing": "EMP-50: (Lyo); 10,000 IU; ZAO-19: (Lyo); (T2); 10,000 IU",
+                "description": "A hormone-signaling medication that mimics luteinizing-hormone activity and may support ovarian or testicular hormone production in fertility-conscious or endocrine protocols.",
+                "indication": "May fit clients who need support for natural hormone signaling, fertility-related goals, or gonadal function while a clinician reviews anatomy-specific use, labs, dosing, and follow-up monitoring.",
+                "sku": "EMP-50; ZAO-19",
+                "non_ship_states": "CA, IA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Selank [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-91: (T1); 7500 mcg/mL; 7.5 ml; VPI-93: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A neuropeptide nasal option used in research-informed protocols focused on stress resilience, calm focus, and nervous-system balance.",
+                "indication": "May fit carefully screened clients with stress reactivity, anxious tension, or focus concerns when medications, mood history, route tolerance, and expectations are reviewed.",
+                "sku": "VPI-91; VPI-93",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "Nattovena 4,000 FU/cap",
+                "description": "Nattovena is a potent dietary supplement containing 4,000 fibrinolytic units (FU) of nattokinase per capsule, designed to support cardiovascular health by promoting normal blood viscosity and aiding in the breakdown of excess fibrin. Derived from the traditional Japanese fermented soybean dish natto, nattokinase is a fibrin-dissolving enzyme that helps maintain healthy circulation.",
+                "indication": "Used as a natural aid for managing 'thick blood,' or conditions associated with increased blood viscosity."
+            },
+            {
+                "name": "Omega-3",
+                "description": "A fatty acid supplement derived from fish oil, providing EPA and DHA for heart health, brain function, and anti-inflammatory support.",
+                "indication": "Omega-3s help reduce systemic inflammation, protect cardiovascular health, and improve joint mobility."
+            },
+            {
+                "name": "Psyllium Husk",
+                "description": "Psyllium Husk is a natural, soluble fiber supplement that promotes healthy digestion, regularity, and supports heart health by helping to maintain healthy cholesterol levels.",
+                "indication": "Promotes digestive health and regularity while supporting heart health with gentle, natural fiber."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-14T17:20:56.285005"
     }
 ]
