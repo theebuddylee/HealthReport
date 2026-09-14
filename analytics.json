@@ -8368,5 +8368,72 @@
         ],
         "promos": [],
         "timestamp": "2026-09-11T23:10:21.971232"
+    },
+    {
+        "member_name": "Jennifer Monastero",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Troche",
+                "dosing": "EMP-40: 2.5 mg; EMP-42: 5 mg; EMP-44: 10 mg; ZAO-35: (T2); 100 mg; ZAO-39: (T2); 200 mg; ZAO-364: (T2); 9 mg",
+                "description": "An oral-mucosal testosterone option used in personalized hormone protocols when a clinician determines this route best fits the client\u2019s goals and lab pattern.",
+                "indication": "May fit clients with low-testosterone symptoms who prefer non-injectable care, with attention to dosing consistency, hormone response, fertility goals, and monitoring for estrogen or androgen-related effects.",
+                "sku": "EMP-40; EMP-42; EMP-44; ZAO-35; ZAO-39; ZAO-364",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Progesterone Capsule",
+                "dosing": "EMP-128: (Immediate Release); 150 mg; EMP-130: (Immediate Release); 225 mg; EMP-132: (Immediate Release); 250 mg; EMP-133: (Slow Release); 250 mg; EMP-135: (Slow Release); 225 mg; EMP-137: (Slow Release); 150 mg; EMP-400: (Slow Release); 200 mg; VPI-185: (T2); 25 mg; VPI-186: (T2); 50 mg; VPI-187: (T2); 75 mg; VPI-188: (T2); 125 mg; VPI-189: (T2); 150 mg; VPI-190: (T2); 250 mg; ZAO-195: 120 mg; ZAO-197: (T2); 10 mg; ZAO-198: (T2); 20 mg; ZAO-199: (T2); 25 mg; ZAO-200: (T2); 30 mg; ZAO-201: (T2); 50 mg; ZAO-202: (T2); 60 mg; ZAO-203: (T2); 80 mg; ZAO-204: (T2); 130 mg; ZAO-205: (T2); 140 mg; ZAO-206: (T2); 150 mg; ZAO-209: (T2); 250 mg; ZAO-210: (T2); 300 mg; ZAO-211: (T2); 350 mg; ZAO-212: (T2); 400 mg",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "EMP-128; EMP-130; EMP-132; EMP-133; EMP-135; EMP-137; EMP-400; VPI-185; VPI-186; VPI-187; VPI-188; VPI-189; VPI-190; ZAO-195; ZAO-197; ZAO-198; ZAO-199; ZAO-200; ZAO-201; ZAO-202; ZAO-203; ZAO-204; ZAO-205; ZAO-206; ZAO-209; ZAO-210; ZAO-211; ZAO-212",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Metformin ER Tablet",
+                "dosing": "(T1); 500 mg",
+                "description": "An insulin-sensitizing medication used in metabolic-health protocols to support glucose regulation, insulin response, and weight-management efforts alongside lifestyle strategy.",
+                "indication": "May fit clients with insulin resistance, cravings, elevated glucose or A1c trends, PCOS-pattern metabolic concerns, or weight-loss resistance after kidney function, GI tolerance, and B12 status are reviewed.",
+                "sku": "ZAO-27",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A GHRH analog peptide used in select protocols to support growth-hormone/IGF-1 signaling and body-composition goals.",
+                "indication": "May fit carefully screened clients with body-composition or recovery goals when IGF-1, glucose markers, cancer history, and route-specific monitoring are reviewed.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl BPC-157 + N-Acetyl KPV Amidate Capsule",
+                "dosing": "(T1); 500 mcg; 250 mcg",
+                "description": "A gut and recovery-focused peptide combination pairing BPC-157 with KPV-related immune and barrier-support pathways.",
+                "indication": "May fit carefully screened clients with gut-barrier, inflammatory, or tissue-recovery goals after clinician review of symptoms, medication context, regulatory status, and monitoring.",
+                "sku": "VPI-43",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "N-Acetyl KPV Amidate Capsule",
+                "dosing": "VPI-330: (T1); 250 mcg; VPI-331: (T1); 500 mcg",
+                "description": "A KPV-related peptide option used in research-informed protocols focused on immune signaling, inflammation balance, and gut or skin barrier support.",
+                "indication": "May fit carefully screened clients with inflammatory, gut-barrier, or skin-barrier goals when medical history, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-330; VPI-331",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [],
+        "promos": [],
+        "timestamp": "2026-09-14T14:59:54.273396"
     }
 ]
