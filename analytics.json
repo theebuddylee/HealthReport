@@ -8600,5 +8600,51 @@
         ],
         "promos": [],
         "timestamp": "2026-09-14T18:07:03.062177"
+    },
+    {
+        "member_name": "Scott Olmsted",
+        "manager": "Sean",
+        "membership": [
+            "Men's Testosterone Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Comprehensive Hormone Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-comprehensive-hormone-panel",
+                "description": "An advanced panel assessing a wide range of male hormones and biomarkers, ensuring peak performance, recovery, and metabolic balance.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol, SHBG, Prolactin, Cortisol, Progesterone, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Enclomiphene Capsule",
+                "dosing": "(T2); 25 mg",
+                "description": "A selective estrogen receptor modulator used to encourage the body\u2019s own upstream testosterone signaling rather than replacing testosterone directly.",
+                "indication": "May fit clients seeking testosterone support while preserving natural gonadal signaling or fertility-related pathways, with monitoring of testosterone, estradiol, symptoms, and visual or mood side effects.",
+                "sku": "VPI-304",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "CellGaurd-NR",
+                "description": "Supports Natural Cell Repair and Regeneration*\nA beneficial formula that combines nicotinamide riboside (NR) chloride, resveratrol, and pterostilbene to help promote cellular health, antioxidant status, and healthy aging.*",
+                "indication": "Uniquely formulated to support the body\u2019s normal cellular repair and regeneration processes.*\n\n\u2022 Promotes healthy cellular repair and regeneration*\n\u2022 Helps support healthy aging*\n\u2022 Promotes healthy antioxidant status*\n\u2022 Supports healthy inflammatory responses*\n\u2022 Helps promote NAD+ status in the body*"
+            },
+            {
+                "name": "CellGaurd-NR",
+                "description": "Supports Natural Cell Repair and Regeneration*\nA beneficial formula that combines nicotinamide riboside (NR) chloride, resveratrol, and pterostilbene to help promote cellular health, antioxidant status, and healthy aging.*",
+                "indication": "Uniquely formulated to support the body\u2019s normal cellular repair and regeneration processes.*\n\n\u2022 Promotes healthy cellular repair and regeneration*\n\u2022 Helps support healthy aging*\n\u2022 Promotes healthy antioxidant status*\n\u2022 Supports healthy inflammatory responses*\n\u2022 Helps promote NAD+ status in the body*"
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-14T19:20:48.042046"
     }
 ]
