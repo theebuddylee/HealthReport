@@ -8924,5 +8924,41 @@
         ],
         "promos": [],
         "timestamp": "2026-09-18T13:29:31.735537"
+    },
+    {
+        "member_name": "Joseph Mitchell Option A",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Metformin HCL ER Tablet",
+                "dosing": "EMP-22: 500 mg; EMP-24: 750 mg; EMP-26: 1000 mg",
+                "description": "An insulin-sensitizing medication used in metabolic-health protocols to support glucose regulation, insulin response, and weight-management efforts alongside lifestyle strategy.",
+                "indication": "May fit clients with insulin resistance, cravings, elevated glucose or A1c trends, PCOS-pattern metabolic concerns, or weight-loss resistance after kidney function, GI tolerance, and B12 status are reviewed.",
+                "sku": "EMP-22; EMP-24; EMP-26",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Naltrexone Sublingual Tablet (LDN)",
+                "dosing": "ZAO-301: (T2); 1.5 mg; ZAO-353: (T2); 3 mg; ZAO-358: (T2); 4.5 mg",
+                "description": "A low-dose naltrexone option used in clinician-guided protocols for immune modulation, inflammation balance, pain sensitivity, or gut-related symptom patterns.",
+                "indication": "May fit clients with autoimmune patterns, chronic pain sensitivity, inflammatory concerns, or gut-immune activation when opioid use, sleep effects, and dose titration are reviewed.",
+                "sku": "ZAO-301; ZAO-353; ZAO-358",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-18T13:29:41.617314"
     }
 ]
