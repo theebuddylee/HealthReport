@@ -9097,5 +9097,34 @@
         ],
         "promos": [],
         "timestamp": "2026-09-18T13:32:07.548356"
+    },
+    {
+        "member_name": "Sarah Bowels",
+        "manager": "Dawn",
+        "membership": [
+            "Weight Loss Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Tirzepatide +Carnitine [L] per mL - Injection",
+                "dosing": "(starter Vial); (T2); 7000 mcg; 25 mg; 3 mL",
+                "description": "A dual incretin-based metabolic therapy with added nutrient support used in clinician-guided weight-management and metabolic-health programs to support satiety, appetite regulation, and glucose response.",
+                "indication": "May fit clients with weight-loss resistance, strong appetite signaling, cravings, blood-sugar swings, or insulin-resistance patterns after review of contraindications, dose titration, and GI tolerability.",
+                "sku": "VPI-376",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-18T15:11:08.776280"
     }
 ]
