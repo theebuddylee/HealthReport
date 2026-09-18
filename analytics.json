@@ -8996,5 +8996,51 @@
         ],
         "promos": [],
         "timestamp": "2026-09-18T13:29:54.506832"
+    },
+    {
+        "member_name": "Joseph Mitchell Option C",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Metformin HCL ER Tablet",
+                "dosing": "EMP-22: 500 mg; EMP-24: 750 mg; EMP-26: 1000 mg",
+                "description": "An insulin-sensitizing medication used in metabolic-health protocols to support glucose regulation, insulin response, and weight-management efforts alongside lifestyle strategy.",
+                "indication": "May fit clients with insulin resistance, cravings, elevated glucose or A1c trends, PCOS-pattern metabolic concerns, or weight-loss resistance after kidney function, GI tolerance, and B12 status are reviewed.",
+                "sku": "EMP-22; EMP-24; EMP-26",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "L-Carnitine Injection",
+                "dosing": "500 mg/ml; 30 ml",
+                "description": "A nutrient-based injection option used to support fatty-acid transport into mitochondria and overall energy-metabolism pathways.",
+                "indication": "May fit clients with fatigue, metabolic goals, high training load, or recovery needs when route, dose, medication interactions, and overall nutrition status are reviewed.",
+                "sku": "EMP-293",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "5-Amino-1-Methylquinolinium Chloride Capsule",
+                "dosing": "(T2); 50 mg",
+                "description": "5-Amino-1MQ is a peptide compound being studied for its ability to support fat metabolism, energy production, and body recomposition by inhibiting the NNMT enzyme, which is linked to fat storage and metabolic efficiency. It may help promote a leaner body composition, reduce stubborn fat, improve muscle definition, and support energy levels, making it a common addition to weight management and metabolic optimization protocols.",
+                "indication": "May may be used to support fat loss, metabolic function, energy production, body recomposition, and lean muscle definition, particularly in individuals seeking additional support with weight management or reduction of stubborn fat areas.",
+                "sku": "VPI-204",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-18T13:30:38.733476"
     }
 ]
