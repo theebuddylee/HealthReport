@@ -10345,5 +10345,41 @@
         ],
         "promos": [],
         "timestamp": "2026-09-25T17:36:53.246896"
+    },
+    {
+        "member_name": "Valerie Mendoza",
+        "manager": "Steven",
+        "membership": [
+            "Weight Loss Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-health-panel",
+                "description": "A deeper analysis of female hormone levels, crucial for monitoring fertility, PMS, irregular cycles, and metabolic function.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Free T3, Free T4, IGF-1, Lipid Panel, Ferritin, Iron, CBC, Metabolic Panel, HbA1c, Fasting Insulin, Vitamin D, and GGT."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Semaglutide (B12 or B6)/",
+                "dosing": "(titrate vial); 1 mg/mL; 5 mg; 5 ML; 25 mg",
+                "description": "A GLP-1-based metabolic therapy with nutrient support used in medically supervised weight-management programs to support appetite control, satiety, and glucose-response patterns.",
+                "indication": "May fit clients struggling with cravings, constant hunger, weight-loss resistance, insulin-resistance patterns, or metabolic-risk markers, with dose titration and side-effect monitoring.",
+                "sku": "Stk-8",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-25T18:07:40.953124"
     }
 ]
