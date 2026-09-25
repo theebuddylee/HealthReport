@@ -10218,5 +10218,44 @@
         ],
         "promos": [],
         "timestamp": "2026-09-25T14:40:11.125976"
+    },
+    {
+        "member_name": "Alejandro Martinez",
+        "manager": "Dawn",
+        "membership": [
+            "Weight Loss Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Enclomiphene Citrate Capsule",
+                "dosing": "EMP-52: 12.5 mg; EMP-54: 25 mg; EMP-306: 50 mg",
+                "description": "A selective estrogen receptor modulator used to encourage the body\u2019s own upstream testosterone signaling rather than replacing testosterone directly.",
+                "indication": "May fit clients seeking testosterone support while preserving natural gonadal signaling or fertility-related pathways, with monitoring of testosterone, estradiol, symptoms, and visual or mood side effects.",
+                "sku": "EMP-52; EMP-54; EMP-306",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Ipamorelin + Tesamorelin per mL/-- Injection",
+                "dosing": "(T1); 500 mcg; 1000 mcg; 3 ml",
+                "description": "A growth-hormone secretagogue combination pairing GHRH analog support with ipamorelin\u2019s GH-pulse signaling to target recovery and body-composition pathways.",
+                "indication": "May fit clients with recovery, visceral-fat or body-composition goals, sleep-quality concerns, or low IGF-1 patterns after clinician review of glucose control and contraindications.",
+                "sku": "VPI-33",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-25T15:54:27.871350"
     }
 ]
