@@ -10108,5 +10108,52 @@
         ],
         "promos": [],
         "timestamp": "2026-09-25T00:17:32.347395"
+    },
+    {
+        "member_name": "Kenyatta",
+        "manager": "AJ",
+        "membership": [
+            "Perimenopause Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            },
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "DSIP",
+                "description": "DSIP is a peptide that supports the body's natural sleep and recovery processes, helping you achieve more restorative rest during and after travel. Whether you're adjusting to a new time zone or getting back into your normal routine, DSIP can help support deeper recovery when you need it most.",
+                "indication": "Supports restful, restorative sleep, recovery, healthy stress response and nervous system balance, mental recovery and next-day refreshment, and overall recovery and resilience"
+            },
+            {
+                "name": "Tesamorelin/Injection",
+                "dosing": "VPI-39: (T1); 2500 mcg/mL; 10 ml; VPI-41: (T1); 2500 mcg/mL; 5 ml",
+                "description": "A GHRH analog peptide used in select protocols to support growth-hormone/IGF-1 signaling and body-composition goals.",
+                "indication": "May fit carefully screened clients with body-composition or recovery goals when IGF-1, glucose markers, cancer history, and route-specific monitoring are reviewed.",
+                "sku": "VPI-39; VPI-41",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-25T00:19:16.117160"
     }
 ]
