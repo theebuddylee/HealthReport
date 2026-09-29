@@ -10480,5 +10480,43 @@
         ],
         "promos": [],
         "timestamp": "2026-09-29T13:19:01.761009"
+    },
+    {
+        "member_name": "Jeremy Tyndall",
+        "manager": "Sean",
+        "membership": [
+            "Peptide Membership"
+        ],
+        "tests": [],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "N-Acetyl MOTs-C Injection",
+                "dosing": "(T1); 10 mg/mL; 5 ml",
+                "description": "A mitochondrial-derived peptide analog used in research-informed metabolic and cellular-energy protocols focused on energy utilization and exercise-response signaling.",
+                "indication": "May fit carefully screened clients with metabolic-health, body-composition, or mitochondrial-support goals when expectations, regulatory status, and monitoring are reviewed.",
+                "sku": "VPI-282",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Humanin Lyophilized Powder in",
+                "dosing": "15 mg; 10 mL",
+                "description": "A mitochondrial-derived peptide used in research-informed healthy-aging and cellular-resilience protocols focused on stress-response signaling.",
+                "indication": "May fit carefully screened clients pursuing cellular-resilience, recovery, or longevity-support goals when expectations, safety profile, and monitoring are reviewed.",
+                "sku": "VPI-401",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-09-29T13:22:47.957751"
     }
 ]
