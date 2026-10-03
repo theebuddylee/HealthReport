@@ -1,58 +1,107 @@
 [
     {
-        "name": "Men's Testosterone Membership",
-        "sku": "MEMBERSHIP-4",
-        "description": "Men's enhanced hormone care with choice of Enclomiphene or Testosterone Cypionate in GSO (standard dosing or less — 0.5ml 2x weekly, 90-day supply while maintaining membership). Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Billed monthly on the 1st or 16th.",
-        "indication": "Men's enhanced hormone care with choice of specific treatments for personalized hormone balance. This includes shipping, supplies, lab interpretations, medical visits, Testosterone Treatment, lab reviews, and your initial follow-up labs.",
+        "name": "Men’s Testosterone 1 Membership",
+        "sku": "MEMBERSHIP-20",
+        "description": "Men's enhanced hormone care with a choice of 1 treatment from: Enclomiphene (25 mg or below, every-other-day dosing, maximum 45 capsules per order); Testosterone Cypionate in GSO (standard dosing or less: 0.4 mL twice weekly / 160 mg, with MCT oil, cream, and capsules also included as options); or T3/T4 (90 capsules or tablets). Included medications are supplied for 90 days while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Annual follow-up labs (follow-up panel) are also included. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th. First and last month dues are collected up front.",
+        "indication": "For men experiencing low energy, reduced sex drive, brain fog, difficulty maintaining strength, or feeling less like themselves. Combines 1 treatment with provider oversight, follow-up labs, and monthly coaching to support personalized hormone balance, vitality, and confidence in your health.",
         "price": "169/month"
     },
     {
-        "name": "Menopause Membership",
-        "sku": "MEMBERSHIP-13",
-        "description": "Specialized for post menopausal women. Includes provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Medications included: Testosterone Cypionate (injectable) standard dosing, Estradiol Valerate (injectable) standard dosing, Progesterone Capsule (90-day supply while maintaining membership). Billed monthly on the 1st or 16th.",
-        "indication": "Targeted hormone replacement for menopausal symptom relief and vitality restoration.",
+        "name": "Men’s Testosterone 2 Membership",
+        "sku": "MEMBERSHIP-21",
+        "description": "Men's enhanced hormone care with a choice of 2 treatments from: Enclomiphene (25 mg or below, every-other-day dosing, maximum 45 capsules per order); Testosterone Cypionate in GSO (standard dosing or less: 0.4 mL twice weekly / 160 mg, with MCT oil, cream, and capsules also included as options); or T3/T4 (90 capsules or tablets). Included medications are supplied for 90 days while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Annual follow-up labs (follow-up panel) are also included. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th. First and last month dues are collected up front.",
+        "indication": "For men experiencing low energy, reduced sex drive, brain fog, difficulty maintaining strength, or feeling less like themselves. Combines 2 treatments with provider oversight, follow-up labs, and monthly coaching to support personalized hormone balance, vitality, and confidence in your health.",
+        "price": "209/month"
+    },
+    {
+        "name": "Men’s Testosterone 3 Membership",
+        "sku": "MEMBERSHIP-22",
+        "description": "Men's enhanced hormone care with a choice of 3 treatments from: Enclomiphene (25 mg or below, every-other-day dosing, maximum 45 capsules per order); Testosterone Cypionate in GSO (standard dosing or less: 0.4 mL twice weekly / 160 mg, with MCT oil, cream, and capsules also included as options); or T3/T4 (90 capsules or tablets). Included medications are supplied for 90 days while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Annual follow-up labs (follow-up panel) are also included. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th. First and last month dues are collected up front.",
+        "indication": "For men experiencing low energy, reduced sex drive, brain fog, difficulty maintaining strength, or feeling less like themselves. Combines 3 treatments with provider oversight, follow-up labs, and monthly coaching to support personalized hormone balance, vitality, and confidence in your health.",
+        "price": "249/month"
+    },
+    {
+        "name": "Peri / Menopause 1 Membership",
+        "sku": "MEMBERSHIP-23",
+        "description": "Tailored support for perimenopausal or menopausal women with a choice of 1 treatment from: Testosterone Cypionate in GSO (standard dosing or less: 5 mg twice weekly, 90-day supply, with MCT oil, cream, and capsules also included as options); Estradiol Valerate (standard injectable dosing: 0.5 mg twice weekly, with capsule or cream also included as options); Progesterone (capsule or troche, 90-day supply, with troche dosing allowing it to be quartered); or T3/T4 (capsule, 90-day supply of 90 capsules or tablets). Included medication coverage applies while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Annual follow-up labs (follow-up panel) are also included. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th. First and last month dues are collected up front.",
+        "indication": "Targeted support for perimenopausal or menopausal women experiencing hot flashes, night sweats, disrupted sleep, mood changes, reduced libido, or feeling unlike themselves. Combines 1 treatment with provider oversight, follow-up labs, and monthly coaching to support symptom management, hormone balance, and renewed vitality.",
+        "price": "159/month"
+    },
+    {
+        "name": "Peri / Menopause 2 Membership",
+        "sku": "MEMBERSHIP-24",
+        "description": "Tailored support for perimenopausal or menopausal women with a choice of 2 treatments from: Testosterone Cypionate in GSO (standard dosing or less: 5 mg twice weekly, 90-day supply, with MCT oil, cream, and capsules also included as options); Estradiol Valerate (standard injectable dosing: 0.5 mg twice weekly, with capsule or cream also included as options); Progesterone (capsule or troche, 90-day supply, with troche dosing allowing it to be quartered); or T3/T4 (capsule, 90-day supply of 90 capsules or tablets). Included medication coverage applies while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Annual follow-up labs (follow-up panel) are also included. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th. First and last month dues are collected up front.",
+        "indication": "Targeted support for perimenopausal or menopausal women experiencing hot flashes, night sweats, disrupted sleep, mood changes, reduced libido, or feeling unlike themselves. Combines 2 treatments with provider oversight, follow-up labs, and monthly coaching to support symptom management, hormone balance, and renewed vitality.",
+        "price": "199/month"
+    },
+    {
+        "name": "Peri / Menopause 3 Membership",
+        "sku": "MEMBERSHIP-25",
+        "description": "Tailored support for perimenopausal or menopausal women with a choice of 3 treatments from: Testosterone Cypionate in GSO (standard dosing or less: 5 mg twice weekly, 90-day supply, with MCT oil, cream, and capsules also included as options); Estradiol Valerate (standard injectable dosing: 0.5 mg twice weekly, with capsule or cream also included as options); Progesterone (capsule or troche, 90-day supply, with troche dosing allowing it to be quartered); or T3/T4 (capsule, 90-day supply of 90 capsules or tablets). Included medication coverage applies while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Annual follow-up labs (follow-up panel) are also included. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th. First and last month dues are collected up front.",
+        "indication": "Targeted support for perimenopausal or menopausal women experiencing hot flashes, night sweats, disrupted sleep, mood changes, reduced libido, or feeling unlike themselves. Combines 3 treatments with provider oversight, follow-up labs, and monthly coaching to support symptom management, hormone balance, and renewed vitality.",
         "price": "239/month"
     },
     {
-        "name": "Peptide Membership",
-        "sku": "MEMBERSHIP-1",
-        "description": "1st Optimal’s Peptide Membership offers a personalized approach to enhancing vitality, longevity, and overall wellness. Includes supplies required for medication, shipping, and half-hour coaching session per month (no provider consult or labs included). Billed every three months on the 1st or 16th.",
-        "indication": "Unlock your body's full potential with cutting-edge peptide, sex, and hair care therapies designed to enhance vitality and performance effortlessly. No medication included.",
-        "price": "109.99/Three months"
+        "name": "Peri / Menopause 4 Membership",
+        "sku": "MEMBERSHIP-26",
+        "description": "Tailored support for perimenopausal or menopausal women with a choice of 4 treatments from: Testosterone Cypionate in GSO (standard dosing or less: 5 mg twice weekly, 90-day supply, with MCT oil, cream, and capsules also included as options); Estradiol Valerate (standard injectable dosing: 0.5 mg twice weekly, with capsule or cream also included as options); Progesterone (capsule or troche, 90-day supply, with troche dosing allowing it to be quartered); or T3/T4 (capsule, 90-day supply of 90 capsules or tablets). Included medication coverage applies while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Annual follow-up labs (follow-up panel) are also included. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th. First and last month dues are collected up front.",
+        "indication": "Targeted support for perimenopausal or menopausal women experiencing hot flashes, night sweats, disrupted sleep, mood changes, reduced libido, or feeling unlike themselves. Combines 4 treatments with provider oversight, follow-up labs, and monthly coaching to support symptom management, hormone balance, and renewed vitality.",
+        "price": "279/month"
     },
     {
-        "name": "Perimenopause Membership",
-        "sku": "MEMBERSHIP-5",
-        "description": "Tailored perimenopause support with provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Includes 1 treatment from: Testosterone Cypionate (injectable) standard dosing. Billed monthly on the 1st or 16th.",
-        "indication": "Supports hormone stability and symptom management during perimenopause.",
-        "price": "129/month"
+        "name": "Optimal Health",
+        "sku": "MEMBERSHIP-27",
+        "description": "1st Optimal's Optimal Health membership offers a personalized approach to supporting vitality, longevity, and overall wellness, with access to member-priced medications for weight management, skin health, sexual performance, and more. Includes supplies required for medication, shipping, half-hour coaching sessions per month, provider consultation only for approved medication, and preferred pricing on follow-up labs. Medications are purchased separately; no medication is included. Billed monthly on the 1st or 16th. First and last month dues are collected up front.",
+        "indication": "Designed for individuals navigating weight concerns, changes in skin health or sexual performance, or wanting more support to feel and perform their best. Connects you with monthly coaching, provider consults for approved medication, preferred follow-up lab pricing, and access to member-priced medications for weight management, skin health, sexual performance, and overall wellness. Medications are purchased separately.",
+        "price": "39/month"
     },
     {
-        "name": "Thyroid Membership",
-        "sku": "MEMBERSHIP-16",
-        "description": "Dedicated thyroid optimization membership with provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Billed monthly on the 1st or 16th.",
-        "indication": "Specialized care for optimal thyroid function and metabolic health.",
-        "price": "149.99/3 months"
-    },
-    {
-        "name": "Weight Loss Membership",
-        "sku": "MEMBERSHIP-3",
-        "description": "Achieve sustainable weight loss with access to effective GLP-1 agonist treatments and GLP-1 supporting supplements. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, and half-hour coaching session per month. Billed monthly on the 1st or 16th.",
-        "indication": "Targeted for individuals aiming for sustainable weight loss. No medication is included in this membership.",
-        "price": "99/month"
-    },
-    {
-        "name": "Men's VIP Membership",
-        "sku": "MEMBERSHIP-15",
-        "description": "Premium VIP membership for men (sold only by Joe, Amber, or Buddy). Includes provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs with Enclomiphene or Testosterone Cypionate in GSO standard dosing. Billed monthly on the 1st or 16th.",
-        "indication": "Premium men's hormone optimization with priority access and comprehensive oversight.",
+        "name": "Men’s VIP 1 Membership",
+        "sku": "MEMBERSHIP-28",
+        "description": "Premium VIP membership for men with a choice of 1 treatment from: Enclomiphene (25 mg or below, every-other-day dosing, maximum 45 capsules per order); Testosterone Cypionate in GSO (standard dosing or less: 0.4 mL twice weekly / 160 mg, with MCT oil, cream, and capsules also included as options); or T3/T4 (90 capsules or tablets). Included medications are supplied for 90 days while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th.",
+        "indication": "Premium hormone support for men experiencing fatigue, reduced sex drive, brain fog, declining strength, or changes in metabolism. Includes 1 treatment, ongoing provider oversight, follow-up labs, and monthly coaching for a personalized approach to restoring vitality and helping you feel more like yourself.",
         "price": "109/month"
     },
     {
-        "name": "Women's VIP Membership",
-        "sku": "MEMBERSHIP-12",
-        "description": "Premium VIP membership for women (sold only by Joe, Amber, or Buddy). Includes provider consult (initial, annual, and 6-month as needed), supplies, shipping, half-hour coaching session per month, and 8-10 week follow-up labs with 1 treatment from: Testosterone Cypionate (injectable) standard dosing. Billed monthly on the 1st or 16th.",
-        "indication": "Premium women's hormone optimization with priority access and comprehensive oversight.",
+        "name": "Men’s VIP 2 Membership",
+        "sku": "MEMBERSHIP-29",
+        "description": "Premium VIP membership for men with a choice of 2 treatments from: Enclomiphene (25 mg or below, every-other-day dosing, maximum 45 capsules per order); Testosterone Cypionate in GSO (standard dosing or less: 0.4 mL twice weekly / 160 mg, with MCT oil, cream, and capsules also included as options); or T3/T4 (90 capsules or tablets). Included medications are supplied for 90 days while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th.",
+        "indication": "Premium hormone support for men experiencing fatigue, reduced sex drive, brain fog, declining strength, or changes in metabolism. Includes 2 treatments, ongoing provider oversight, follow-up labs, and monthly coaching for a personalized approach to restoring vitality and helping you feel more like yourself.",
+        "price": "149/month"
+    },
+    {
+        "name": "Men’s VIP 3 Membership",
+        "sku": "MEMBERSHIP-30",
+        "description": "Premium VIP membership for men with a choice of 3 treatments from: Enclomiphene (25 mg or below, every-other-day dosing, maximum 45 capsules per order); Testosterone Cypionate in GSO (standard dosing or less: 0.4 mL twice weekly / 160 mg, with MCT oil, cream, and capsules also included as options); or T3/T4 (90 capsules or tablets). Included medications are supplied for 90 days while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th.",
+        "indication": "Premium hormone support for men experiencing fatigue, reduced sex drive, brain fog, declining strength, or changes in metabolism. Includes 3 treatments, ongoing provider oversight, follow-up labs, and monthly coaching for a personalized approach to restoring vitality and helping you feel more like yourself.",
+        "price": "189/month"
+    },
+    {
+        "name": "Women’s VIP 1 Membership",
+        "sku": "MEMBERSHIP-31",
+        "description": "Premium VIP membership for perimenopausal or menopausal women with a choice of 1 treatment from: Testosterone Cypionate in GSO (standard dosing or less: 5 mg twice weekly, 90-day supply, with MCT oil, cream, and capsules also included as options); Estradiol Valerate (standard injectable dosing: 0.5 mg twice weekly, with capsule or cream also included as options); Progesterone (capsule or troche, 90-day supply, with troche dosing allowing it to be quartered); or T3/T4 (capsule, 90-day supply). Included medication coverage applies while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th.",
+        "indication": "Premium hormone support for perimenopausal or menopausal women experiencing hot flashes, night sweats, restless sleep, mood changes, reduced libido, or low energy. Includes 1 treatment, ongoing provider oversight, follow-up labs, and monthly coaching to support hormone balance, everyday comfort, and renewed vitality.",
         "price": "99/month"
+    },
+    {
+        "name": "Women’s VIP 2 Membership",
+        "sku": "MEMBERSHIP-32",
+        "description": "Premium VIP membership for perimenopausal or menopausal women with a choice of 2 treatments from: Testosterone Cypionate in GSO (standard dosing or less: 5 mg twice weekly, 90-day supply, with MCT oil, cream, and capsules also included as options); Estradiol Valerate (standard injectable dosing: 0.5 mg twice weekly, with capsule or cream also included as options); Progesterone (capsule or troche, 90-day supply, with troche dosing allowing it to be quartered); or T3/T4 (capsule, 90-day supply). Included medication coverage applies while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th.",
+        "indication": "Premium hormone support for perimenopausal or menopausal women experiencing hot flashes, night sweats, restless sleep, mood changes, reduced libido, or low energy. Includes 2 treatments, ongoing provider oversight, follow-up labs, and monthly coaching to support hormone balance, everyday comfort, and renewed vitality.",
+        "price": "139/month"
+    },
+    {
+        "name": "Women’s VIP 3 Membership",
+        "sku": "MEMBERSHIP-33",
+        "description": "Premium VIP membership for perimenopausal or menopausal women with a choice of 3 treatments from: Testosterone Cypionate in GSO (standard dosing or less: 5 mg twice weekly, 90-day supply, with MCT oil, cream, and capsules also included as options); Estradiol Valerate (standard injectable dosing: 0.5 mg twice weekly, with capsule or cream also included as options); Progesterone (capsule or troche, 90-day supply, with troche dosing allowing it to be quartered); or T3/T4 (capsule, 90-day supply). Included medication coverage applies while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th.",
+        "indication": "Premium hormone support for perimenopausal or menopausal women experiencing hot flashes, night sweats, restless sleep, mood changes, reduced libido, or low energy. Includes 3 treatments, ongoing provider oversight, follow-up labs, and monthly coaching to support hormone balance, everyday comfort, and renewed vitality.",
+        "price": "179/month"
+    },
+    {
+        "name": "Women’s VIP 4 Membership",
+        "sku": "MEMBERSHIP-34",
+        "description": "Premium VIP membership for perimenopausal or menopausal women with a choice of 4 treatments from: Testosterone Cypionate in GSO (standard dosing or less: 5 mg twice weekly, 90-day supply, with MCT oil, cream, and capsules also included as options); Estradiol Valerate (standard injectable dosing: 0.5 mg twice weekly, with capsule or cream also included as options); Progesterone (capsule or troche, 90-day supply, with troche dosing allowing it to be quartered); or T3/T4 (capsule, 90-day supply). Included medication coverage applies while maintaining an active membership. Includes provider consult (initial, annual, and 6-month as needed), supplies required for medication, shipping, half-hour coaching session per month, and 8-10 week follow-up labs. Follow-up panels include additional markers for T3/T4 treatment. Higher dosing requires a $30 monthly add-on. Billed monthly on the 1st or 16th.",
+        "indication": "Premium hormone support for perimenopausal or menopausal women experiencing hot flashes, night sweats, restless sleep, mood changes, reduced libido, or low energy. Includes 4 treatments, ongoing provider oversight, follow-up labs, and monthly coaching to support hormone balance, everyday comfort, and renewed vitality.",
+        "price": "219/month"
     }
 ]
