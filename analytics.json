@@ -10898,5 +10898,53 @@
         ],
         "promos": [],
         "timestamp": "2026-10-06T18:12:56.070480"
+    },
+    {
+        "member_name": "Daniel Mensh",
+        "manager": "Dillon",
+        "membership": [
+            "Optimal Health"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Tirzepatide/Niacinamide Injection",
+                "dosing": "EMP-116: (Starter VIal); 17/2 mg/ml; 2 ml; EMP-118: (Titrate VIal); 17/2 mg/ml; 4 ml",
+                "description": "A dual incretin-based metabolic therapy with added nutrient support used in clinician-guided weight-management and metabolic-health programs to support satiety, appetite regulation, and glucose response.",
+                "indication": "May fit clients with weight-loss resistance, strong appetite signaling, cravings, blood-sugar swings, or insulin-resistance patterns after review of contraindications, dose titration, and GI tolerability.",
+                "sku": "EMP-116; EMP-118",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "CJC/lpamorelin/Injection (/)",
+                "dosing": "1.5 mg; 2.5 mg; 9 mg; 15 mg; 6 ml",
+                "description": "A growth-hormone secretagogue blend used to support endogenous GH/IGF-1 signaling through complementary peptide pathways when clinically appropriate.",
+                "indication": "May fit clients with recovery, sleep, body-composition, or training-adaptation goals when IGF-1, glucose markers, contraindications, and follow-up monitoring are reviewed.",
+                "sku": "Stk-6",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Glutathione [L] Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 30 ml",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "VPI-145",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-10-08T14:50:34.869725"
     }
 ]
