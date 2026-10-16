@@ -11682,5 +11682,69 @@
         ],
         "promos": [],
         "timestamp": "2026-10-16T17:35:06.642453"
+    },
+    {
+        "member_name": "Tyler",
+        "manager": "AJ",
+        "membership": [
+            "Men\u2019s Testosterone 1 Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Baseline Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-basic-hormone-health-panel",
+                "description": "A baseline assessment of essential male hormones to detect imbalances affecting energy, performance, and health.",
+                "indication": "Includes Total Testosterone, Free Testosterone, Estradiol, SHBG, Prolactin, LH, FSH, PSA, Lipid Panel, HbA1c, CBC w/ Differential, and Metabolic Panel."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tadalafil (Generic Cialis) Tablet",
+                "dosing": "EMP-6: 5 mg; EMP-8: 10 mg; EMP-10: 20 mg; VPI-144: (T1); 20 mg",
+                "description": "A PDE-5 medication used in sexual-health protocols to support nitric-oxide mediated blood-flow response and confidence in sexual performance.",
+                "indication": "May fit clients with erectile-function or blood-flow related sexual concerns after review of cardiovascular history, blood pressure, nitrate use, and medication interactions.",
+                "sku": "EMP-6; EMP-8; EMP-10; VPI-144",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "L-Carnitine Injection",
+                "dosing": "500 mg/ml; 30 ml",
+                "description": "A nutrient-based injection option used to support fatty-acid transport into mitochondria and overall energy-metabolism pathways.",
+                "indication": "May fit clients with fatigue, metabolic goals, high training load, or recovery needs when route, dose, medication interactions, and overall nutrition status are reviewed.",
+                "sku": "EMP-293",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-10-16T22:29:44.573962"
     }
 ]
