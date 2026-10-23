@@ -12220,5 +12220,60 @@
         ],
         "promos": [],
         "timestamp": "2026-10-21T20:50:48.052948"
+    },
+    {
+        "member_name": "Whitney",
+        "manager": "AJ",
+        "membership": [
+            "Peri / Menopause 1 Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Basic Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-hormone-basic-health-panel",
+                "description": "A fundamental assessment of female hormones to identify imbalances impacting energy, performance, and reproductive health.",
+                "indication": "Includes Total Testosterone, Estradiol, SHBG, DHEA-S, Progesterone, LH, FSH, TSH, Lipid Panel, CBC, Metabolic Panel, and HbA1c."
+            }
+        ],
+        "medications": [
+            {
+                "name": "L-Carnitine Injection",
+                "dosing": "500 mg/ml; 30 ml",
+                "description": "A nutrient-based injection option used to support fatty-acid transport into mitochondria and overall energy-metabolism pathways.",
+                "indication": "May fit clients with fatigue, metabolic goals, high training load, or recovery needs when route, dose, medication interactions, and overall nutrition status are reviewed.",
+                "sku": "EMP-293",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Semaglutide",
+                "dosing": "(T3); 5 mg/ml; 2.5 ml",
+                "description": "A GLP-1-based metabolic therapy used in medically supervised weight-management programs to support appetite control, satiety, and glucose-response patterns.",
+                "indication": "May fit clients struggling with cravings, constant hunger, weight-loss resistance, insulin-resistance patterns, or metabolic-risk markers, with dose titration and side-effect monitoring.",
+                "sku": "ZAO-23",
+                "non_ship_states": "",
+                "type": "GLP-1"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            },
+            {
+                "name": "Magnesium",
+                "description": "An essential mineral that supports muscle function, energy production, nerve health, and sleep quality.",
+                "indication": "Stress depletes magnesium levels, impairing relaxation, sleep, and muscle function. Magnesium helps regulate the nervous system, reduce cortisol, and promote a calm, balanced mood."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-10-23T12:33:30.621240"
     }
 ]
