@@ -12456,5 +12456,46 @@
         ],
         "promos": [],
         "timestamp": "2026-10-27T14:22:50.800081"
+    },
+    {
+        "member_name": "Brankica Brodzinski",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [],
+        "peptides": [
+            {
+                "name": "Sermorelin Acetate Injection",
+                "dosing": "EMP-36: (Lyo); 9 mg; EMP-38: (Lyo); 15 mg",
+                "description": "A GHRH-pathway peptide used to support the body\u2019s natural growth-hormone signaling when symptoms, goals, and labs make it clinically appropriate.",
+                "indication": "May fit clients focused on sleep quality, recovery, body composition, training adaptation, or low IGF-1 patterns after clinical review and monitoring.",
+                "sku": "EMP-36; EMP-38",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            },
+            {
+                "name": "GHK-Cu Capsule",
+                "dosing": "(T1); 5 mg",
+                "description": "A copper-peptide therapy used in regenerative wellness protocols to support tissue quality, collagen signaling, skin health, and recovery pathways.",
+                "indication": "May fit clients focused on skin quality, hair support, tissue recovery, or regenerative wellness goals after route, expectations, and monitoring are reviewed.",
+                "sku": "VPI-132",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Aged Garlic Extract Formula",
+                "description": "Kyolic Aged Garlic Extract Formula 104 supports cardiovascular health by helping to maintain healthy cholesterol levels and overall heart function. This formula combines aged garlic extract with naturally sourced lecithin for a potent, odorless supplement designed for daily wellness.",
+                "indication": "Supports healthy cholesterol levels and promotes overall heart health with the power of aged garlic extract and lecithin."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-10-27T14:23:02.080628"
     }
 ]
