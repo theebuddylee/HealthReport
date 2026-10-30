@@ -12926,5 +12926,58 @@
         ],
         "promos": [],
         "timestamp": "2026-10-30T18:51:38.113198"
+    },
+    {
+        "member_name": "Tyler Schild",
+        "manager": "Dillon",
+        "membership": [
+            "Men\u2019s Testosterone 1 Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Ezetimibe Tablet",
+                "dosing": "EMP-272: 10 mg; VPI-129: (T1); 10 mg",
+                "description": "A cholesterol medication that reduces intestinal cholesterol absorption to support lower LDL cholesterol as part of a broader cardiometabolic plan.",
+                "indication": "May fit clients with elevated LDL cholesterol or cardiovascular-risk markers who need additional lipid support alongside nutrition, lifestyle, and follow-up lab monitoring.",
+                "sku": "EMP-272; VPI-129",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Glutathione [L] Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 30 ml",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "VPI-145",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-10-30T19:59:34.408138"
     }
 ]
