@@ -6,13 +6,6 @@
         "email": "AJ@1stoptimal.com",
         "phone": "TBD"
     },
-    "Allison": {
-        "first_name": "Allison",
-        "last_name": "Whiteley",
-        "alias_title": "Certified Health Coach",
-        "email": "allison@1stoptimal.com",
-        "phone": "(816) 744-6814 x103"
-    },
     "Amber": {
         "first_name": "Amber",
         "last_name": "Miller",
@@ -54,19 +47,5 @@
         "alias_title": "Founder",
         "email": "joe.miller@1stoptimal.com",
         "phone": "(816) 744-6814 x300"
-    },
-    "Sean": {
-        "first_name": "Sean",
-        "last_name": "Fitzgerald",
-        "alias_title": "Certified Health Coach",
-        "email": "sean@1stoptimal.com",
-        "phone": "248-232-2598"
-    },
-    "Steven": {
-        "first_name": "Steven",
-        "last_name": "Demoff",
-        "alias_title": "Member Onboarding Support",
-        "email": "steven@1stoptimal.com",
-        "phone": "816-744-6814"
     }
 }
