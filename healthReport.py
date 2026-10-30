@@ -107,10 +107,8 @@ def merge_pdfs(template_path, generated_path, output_path):
         with fitz.open(generated_path) as generated_pdf:
             output_pdf.insert_pdf(generated_pdf)
 
-        # Append the last 8 pages from the template
-        total_pages = len(template_pdf)
-        for page_num in range(total_pages - 9, total_pages):
-            output_pdf.insert_pdf(template_pdf, from_page=page_num, to_page=page_num)
+        # Keep every remaining template page, including newly added resources.
+        output_pdf.insert_pdf(template_pdf, from_page=3)
 
         output_pdf.save(output_path)
 
@@ -134,9 +132,9 @@ def overwrite_more_information(template_path, output_path, member_name, selected
 
         # Define the text to insert on the first page
         first_page_content = [
-            (f"{member_name or 'Not Provided'}", 70, 538),
-            (f"{current_date}", 70, 577),
-            (f" {selected_manager or 'Not Selected'}", 70, 615),
+            (f"{member_name or 'Not Provided'}", 84, 637),
+            (f"{current_date}", 84, 680),
+            (f"{selected_manager or 'Not Selected'}", 84, 722),
         ]
 
         # Write the text on the first page
@@ -144,21 +142,21 @@ def overwrite_more_information(template_path, output_path, member_name, selected
             first_page.insert_text(
                 (x, y),
                 content,
-                fontsize=19,
+                fontsize=min(19, 470 / max(fitz.get_text_length(content, fontname="helv", fontsize=1), 1)),
                 color=(1, 1, 1),  # White Text
                 fontname="helv",
             )
 
         # Define the text to insert on the last page
         last_page_content = [
-            (f"Health Coach: {manager_name}", 71, 599)]
+            (f"Health Coach: {manager_name}", 84, 595)]
 
         # Write the text on the last page
         for content, x, y in last_page_content:
             last_page.insert_text(
                 (x, y),
                 content,
-                fontsize=18,
+                fontsize=min(18, 470 / max(fitz.get_text_length(content, fontname="helv", fontsize=1), 1)),
                 color=(1, 1, 1),  # White Text
                 fontname="helv",
             )
@@ -175,6 +173,10 @@ def overwrite_more_information(template_path, output_path, member_name, selected
 def add_section(title, items, data_source, pdf, show_price=False):
     if not items:
         return
+
+    # Keep a section heading with the first item's title and opening text.
+    if pdf.will_page_break(65):
+        pdf.add_page()
 
     # Header for each section
     pdf.set_fill_color(6, 182, 212)
@@ -199,6 +201,9 @@ def add_section(title, items, data_source, pdf, show_price=False):
             #st.write(f"DEBUG: No match found for item '{item}' in section '{title}'.")
             continue
 
+        if pdf.will_page_break(40):
+            pdf.add_page()
+
         # Render item content
         pdf.set_font("Exo2", "B", 20)
 
@@ -219,6 +224,8 @@ def add_section(title, items, data_source, pdf, show_price=False):
         pdf.multi_cell(0, 6, f"{item_data.get('description', 'N/A')}")
 
         pdf.ln(3)
+        if pdf.will_page_break(18):
+            pdf.add_page()
         pdf.set_font("Exo2", "BI", 16)
         pdf.cell(0, 6, "Indication:", new_x="LMARGIN", new_y="NEXT")
         pdf.set_font("Exo2", "", 12)
@@ -226,6 +233,8 @@ def add_section(title, items, data_source, pdf, show_price=False):
 
         if show_price:
             pdf.ln(3)
+            if pdf.will_page_break(18):
+                pdf.add_page()
             pdf.set_font("Exo2", "BI", 16)
             pdf.cell(0, 6, "Price:", new_x="LMARGIN", new_y="NEXT")
             pdf.set_font("Exo2", "", 12)
