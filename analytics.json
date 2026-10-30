@@ -12864,5 +12864,67 @@
         ],
         "promos": [],
         "timestamp": "2026-10-30T18:20:50.128475"
+    },
+    {
+        "member_name": "Test McGee",
+        "manager": "Buddy",
+        "membership": [
+            "Peri / Menopause 3 Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Progesterone Topical",
+                "dosing": "200 mg/ml; 30 ml",
+                "description": "A progesterone therapy option used in hormone-care protocols to support sleep quality, cycle rhythm, mood stability, and estrogen-progesterone balance when clinically appropriate.",
+                "indication": "May fit clients with poor sleep, cycle-related symptoms, irritability, perimenopause/menopause patterns, or low-progesterone findings after history, goals, and monitoring needs are reviewed.",
+                "sku": "EMP-320",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Estradiol Valerate",
+                "dosing": "(T2); 20 mg/ml; 5 ml",
+                "description": "An injectable estrogen option used in individualized hormone protocols when estrogen support is clinically appropriate and a longer-acting injectable route is preferred.",
+                "indication": "May fit clients with low-estrogen symptoms or hormone-support goals when route, dose, clot risk, migraine history, labs, and follow-up monitoring are reviewed.",
+                "sku": "ZAO-250",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "HCG Injection (Pregnyl\u00ae)",
+                "dosing": "EMP-50: (Lyo); 10,000 IU; ZAO-19: (Lyo); (T2); 10,000 IU",
+                "description": "A hormone-signaling medication that mimics luteinizing-hormone activity and may support ovarian or testicular hormone production in fertility-conscious or endocrine protocols.",
+                "indication": "May fit clients who need support for natural hormone signaling, fertility-related goals, or gonadal function while a clinician reviews anatomy-specific use, labs, dosing, and follow-up monitoring.",
+                "sku": "EMP-50; ZAO-19",
+                "non_ship_states": "CA, IA, WI",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Berberine",
+                "description": "A natural compound derived from plants that supports blood sugar regulation and metabolic health.",
+                "indication": "Nature's powerful metabolic optimizer. Known for its ability to support healthy blood sugar levels, improve insulin sensitivity, and promote fat metabolism."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-10-30T18:51:38.113198"
     }
 ]
