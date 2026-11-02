@@ -13550,5 +13550,53 @@
         ],
         "promos": [],
         "timestamp": "2026-11-02T16:53:07.264439"
+    },
+    {
+        "member_name": "Curt Bauer",
+        "manager": "Dillon",
+        "membership": [
+            "Men\u2019s Testosterone 1 Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate in GSO",
+                "dosing": "EMP-321: 20 mg/ml; 5 ml; EMP-375: 50 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-321; EMP-375",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Anastrozole Capsule",
+                "dosing": "VPI-170: (T2); 0.75 mg; VPI-300: (T2); 0.5 mg; VPI-301: (T2); 0.25 mg",
+                "description": "An aromatase-inhibitor medication used to reduce conversion of androgens into estradiol when estrogen activity is above the intended clinical range.",
+                "indication": "May fit clients with lab-supported estrogen excess, breast-tissue tenderness, fluid retention, libido changes, or hormone-protocol side effects, with careful dosing to avoid over-suppression.",
+                "sku": "VPI-170; VPI-300; VPI-301",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Glutathione [L] Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 30 ml",
+                "description": "A glutathione support therapy used to reinforce antioxidant capacity, oxidative-stress resilience, and detoxification-related pathways.",
+                "indication": "May fit clients with recovery demands, oxidative-stress concerns, detoxification-support goals, or high training load when route, sensitivity, and overall care context are reviewed.",
+                "sku": "VPI-145",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-11-02T18:10:09.209534"
     }
 ]
