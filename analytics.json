@@ -13737,5 +13737,46 @@
         ],
         "promos": [],
         "timestamp": "2026-11-04T22:16:09.823412"
+    },
+    {
+        "member_name": "Cindy T",
+        "manager": "Dillon",
+        "membership": [],
+        "tests": [],
+        "medications": [
+            {
+                "name": "DHEA Capsule SR",
+                "dosing": "EMP-62: 20 mg; EMP-64: 50 mg; EMP-66: 100 mg; EMP-270: 10 mg; EMP-271: 5 mg; zao-260: (T2); 10 mg; ZAO-317: (Compounded); (T2); 5 mg",
+                "description": "A DHEA hormone-precursor option used to support adrenal-androgen pathways when lab findings and symptoms suggest low or suboptimal levels.",
+                "indication": "May fit clients with fatigue, low libido, reduced resilience, low mood, or adrenal-androgen patterns on labs, with monitoring for acne, hair changes, mood shifts, and hormone conversion.",
+                "sku": "EMP-62; EMP-64; EMP-66; EMP-270; EMP-271; zao-260; ZAO-317",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Methylene Blue Capsule",
+                "dosing": "5 mg",
+                "description": "A redox-active medication that may support mitochondrial electron transport and cellular-energy signaling in carefully selected protocols.",
+                "indication": "May fit carefully screened clients with brain fog, low cellular-energy symptoms, or mitochondrial-support goals after review of serotonergic medications, G6PD status, psychiatric history, and dose sensitivity.",
+                "sku": "EMP-173",
+                "non_ship_states": "CA, MN, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [],
+        "supplements": [
+            {
+                "name": "Methylcobalamin",
+                "description": "...",
+                "indication": "..."
+            },
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-11-05T23:28:45.157357"
     }
 ]
