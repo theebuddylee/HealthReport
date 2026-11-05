@@ -47,5 +47,12 @@
         "alias_title": "Founder",
         "email": "joe.miller@1stoptimal.com",
         "phone": "(816) 744-6814 x300"
+    },
+    "Lisa": {
+        "first_name": "Lisa",
+        "last_name": "DiLeonardo",
+        "alias_title": "Certified Health Coach",
+        "email": "Lisa@1stoptimal.com",
+        "phone": "(248) 564-1420 x103"
     }
 }
