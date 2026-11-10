@@ -14203,5 +14203,66 @@
         ],
         "promos": [],
         "timestamp": "2026-11-10T15:31:48.017545"
+    },
+    {
+        "member_name": "Rebecca Schmid",
+        "manager": "Dawn",
+        "membership": [
+            "Peri / Menopause 1 Membership"
+        ],
+        "tests": [
+            {
+                "name": "Women's Comprehensive Hormone Health Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/female-comprehensive-hormone-panel",
+                "description": "An extensive hormone panel covering key markers affecting female energy, mood, reproductive health, and metabolic function.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol (LC/MS), SHBG, Progesterone, Prolactin, Cortisol, LH, FSH, DHEA-S, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            },
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Semax [N-Acetyl] Nasal Spray",
+                "dosing": "VPI-95: (T1); 7500 mcg/mL; 7.5 ml; VPI-97: (T1); 7500 mcg/mL; 15 ml",
+                "description": "A nootropic-focused therapy used in research-informed cognitive-support protocols targeting focus, learning, memory, or neuro-resilience pathways.",
+                "indication": "May fit carefully screened clients with brain fog, cognitive-performance goals, or focus concerns after review of mood history, sleep, stimulants, medications, and regulatory status.",
+                "sku": "VPI-95; VPI-97",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "NAD+ Injection",
+                "dosing": "(T1); 200 mg/mL; 20 %; 10 ml",
+                "description": "A cellular-energy support therapy centered on NAD+, a coenzyme involved in redox balance, mitochondrial function, and repair-signaling pathways.",
+                "indication": "May fit clients with low energy, recovery demands, healthy-aging goals, or mitochondrial-support needs when route, dose, sensitivity, and overall care plan are reviewed.",
+                "sku": "VPI-277",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-11-10T19:01:42.838227"
     }
 ]
