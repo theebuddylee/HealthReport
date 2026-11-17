@@ -14681,5 +14681,71 @@
         ],
         "promos": [],
         "timestamp": "2026-11-16T23:19:10.270041"
+    },
+    {
+        "member_name": "",
+        "manager": "AJ",
+        "membership": [
+            "Peri / Menopause 2 Membership"
+        ],
+        "tests": [],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Estradiol cypionate Injection in GSO",
+                "dosing": "10 mg/ml; 5 ml",
+                "description": "An injectable estrogen option used in personalized hormone care when symptoms and labs suggest estrogen support may be appropriate.",
+                "indication": "May fit clients with low-estrogen patterns such as hot flashes, night sweats, sleep disruption, mood shifts, vaginal dryness, or tissue changes after individualized risk review.",
+                "sku": "EMP-120",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "GHK-Cu Injection",
+                "dosing": "10 mg/mL; 50 mg; 5 ml",
+                "description": "A copper-peptide therapy used in regenerative wellness protocols to support tissue quality, collagen signaling, skin health, and recovery pathways.",
+                "indication": "May fit clients focused on skin quality, hair support, tissue recovery, or regenerative wellness goals after route, expectations, and monitoring are reviewed.",
+                "sku": "Stk-3",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "Ipamorelin + Tesamorelin per mL/- Injection",
+                "dosing": "VPI-35: (T1); 500 mcg; 1000 mcg; 5 ml; VPI-37: (T1); 500 mcg; 2500 mcg; 10 ml",
+                "description": "A growth-hormone secretagogue combination pairing GHRH analog support with ipamorelin\u2019s GH-pulse signaling to target recovery and body-composition pathways.",
+                "indication": "May fit clients with recovery, visceral-fat or body-composition goals, sleep-quality concerns, or low IGF-1 patterns after clinician review of glucose control and contraindications.",
+                "sku": "VPI-35; VPI-37",
+                "non_ship_states": "",
+                "type": "Peptide"
+            },
+            {
+                "name": "SS-31 Lyophilized Powder in",
+                "dosing": "80 mg; 5 mL; T1",
+                "description": "A mitochondria-targeted peptide option used in research-informed cellular-energy protocols focused on mitochondrial membrane function and oxidative-stress resilience.",
+                "indication": "May fit carefully screened clients with mitochondrial-support, fatigue, recovery, or healthy-aging goals when regulatory status, route, and monitoring are reviewed.",
+                "sku": "VPI-271",
+                "non_ship_states": "",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-11-17T17:46:26.731585"
     }
 ]
