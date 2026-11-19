@@ -64,5 +64,80 @@
         ],
         "promos": [],
         "timestamp": "2026-11-17T17:46:49.394233"
+    },
+    {
+        "member_name": "AJ",
+        "manager": "AJ",
+        "membership": [
+            "Men\u2019s Testosterone 1 Membership"
+        ],
+        "tests": [
+            {
+                "name": "Men's Comprehensive Hormone Panel",
+                "shopify_url": "https://www.1stoptimal.shop/products/male-comprehensive-hormone-panel",
+                "description": "An advanced panel assessing a wide range of male hormones and biomarkers, ensuring peak performance, recovery, and metabolic balance.",
+                "indication": "Includes Total & Free Testosterone (LC/MS), Estradiol, SHBG, Prolactin, Cortisol, Progesterone, LH, FSH, DHEA-S, PSA, TSH, Free T3, Free T4, IGF-1, Lipid Panel, ApoB, Lipoprotein (a), Ferritin, HbA1c, CBC, Metabolic Panel, Fasting Insulin, GGT, Vitamin D, Iron Panel, and hsCRP."
+            },
+            {
+                "name": "GI-MAP + Zonulin",
+                "shopify_url": "https://www.1stoptimal.shop/collections/featured-test-kits",
+                "description": "An advanced stool test providing a comprehensive assessment of gut microbiome health, including pathogens, inflammation markers, and intestinal permeability (zonulin).",
+                "indication": "Ideal for those addressing gut issues, digestive health, or immune function concerns."
+            }
+        ],
+        "medications": [
+            {
+                "name": "Testosterone Cypionate Injection (Grapeseed Oil)",
+                "dosing": "EMP-2: 200 mg/ml; 10 ml; EMP-4: 150 mg/ml; 5 ml; EMP-171: 200 mg/ml; 5 ml",
+                "description": "An injectable testosterone option used in clinician-guided hormone care to support testosterone levels when symptoms and lab results indicate a need for treatment.",
+                "indication": "May fit clients with low-testosterone patterns such as low libido, low motivation, fatigue, mood changes, reduced training response, or poor recovery, with individualized dosing and ongoing lab monitoring.",
+                "sku": "EMP-2; EMP-4; EMP-171",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "L-Carnitine Injection",
+                "dosing": "500 mg/ml; 30 ml",
+                "description": "A nutrient-based injection option used to support fatty-acid transport into mitochondria and overall energy-metabolism pathways.",
+                "indication": "May fit clients with fatigue, metabolic goals, high training load, or recovery needs when route, dose, medication interactions, and overall nutrition status are reviewed.",
+                "sku": "EMP-293",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Medication"
+            },
+            {
+                "name": "Tadalafil Tablet",
+                "dosing": "20 mg",
+                "description": "A PDE-5 medication used in sexual-health protocols to support nitric-oxide mediated blood-flow response and confidence in sexual performance.",
+                "indication": "May fit clients with erectile-function or blood-flow related sexual concerns after review of cardiovascular history, blood pressure, nitrate use, and medication interactions.",
+                "sku": "ZAO-305",
+                "non_ship_states": "",
+                "type": "Medication"
+            }
+        ],
+        "peptides": [
+            {
+                "name": "Sermorelin Acetate Injection",
+                "dosing": "EMP-36: (Lyo); 9 mg; EMP-38: (Lyo); 15 mg",
+                "description": "A GHRH-pathway peptide used to support the body\u2019s natural growth-hormone signaling when symptoms, goals, and labs make it clinically appropriate.",
+                "indication": "May fit clients focused on sleep quality, recovery, body composition, training adaptation, or low IGF-1 patterns after clinical review and monitoring.",
+                "sku": "EMP-36; EMP-38",
+                "non_ship_states": "CA, IA, MA, WI",
+                "type": "Peptide"
+            }
+        ],
+        "supplements": [
+            {
+                "name": "Health Essential Bundle (Multi, Vitamin D, Omega)",
+                "description": "Support your health with this essential trio: Vitamin D3 + K2 for strong bones, immunity, and mood balance, a high-quality multivitamin to fill nutritional gaps, and Omega-3s for heart, brain, and anti-inflammatory support. Optimize your wellness with these foundational nutrients!",
+                "indication": "Designed to support bone strength, immune function, heart health, and overall vitality."
+            },
+            {
+                "name": "L-Theanine",
+                "description": "L-Theanine is a naturally occurring amino acid found in green and black tea leaves. It promotes relaxation without causing drowsiness, making it ideal for stress relief and mental focus. Known for its calming effects, it may also enhance cognitive performance, reduce anxiety, and improve sleep quality.",
+                "indication": "Recommended for individuals seeking to reduce stress, enhance focus, or improve sleep patterns. It is particularly useful for managing everyday anxiety and promoting a sense of calm while maintaining alertness."
+            }
+        ],
+        "promos": [],
+        "timestamp": "2026-11-19T17:27:40.721813"
     }
 ]
